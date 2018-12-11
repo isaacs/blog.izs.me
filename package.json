@@ -1,0 +1,20 @@
+{
+  "name": "@isaacs/blog.izs.me",
+  "version": "0.0.0",
+  "description": "Writing and Stuff from Isaac Z. Schlueter",
+  "dependencies": {},
+  "scripts": {
+    "import": "node import.js",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "deploy": "npm run build && scp -r public/* izs.me:/var/www/gatsby.izs.me"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isaacs/blog.izs.me.git"
+  },
+  "author": "Isaac Z. Schlueter (i@izs.me)",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "homepage": "https://blog.izs.me"
+}
