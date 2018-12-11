@@ -2,7 +2,10 @@
   "name": "@isaacs/blog.izs.me",
   "version": "0.0.0",
   "description": "Writing and Stuff from Isaac Z. Schlueter",
-  "dependencies": {},
+  "dependencies": {
+    "mkdirp": "^0.5.1",
+    "yaml-js": "^0.2.3"
+  },
   "scripts": {
     "import": "node import.js",
     "start": "gatsby develop",
