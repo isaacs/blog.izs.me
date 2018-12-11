@@ -1,0 +1,80 @@
+{
+    "blog": {
+        "description": "Writing and Stuff from Isaac Z. Schlueter",
+        "name": "izs",
+        "title": "blog.izs.me",
+        "updated": 1544051896,
+        "url": "http://blog.izs.me/",
+        "uuid": "t:qZa3tMNNGjX7PQ45aXJ-jw"
+    },
+    "blog_name": "izs",
+    "body": "<p>My last day at Yahoo will be 2010-01-22.</p>\n\n<p>I&rsquo;ve gotten an offer from <a href=\"http://proofpoint.com/\">Proofpoint</a> which is too good to ignore.  The opportunity to drive the direction of a product at an early stage, including having a lot of input about the choice of technology and team, is very exciting.  Also, though this was not the primary factor, the position is significantly more financially rewarding than I believe that the next few years would be if I stayed at Yahoo.</p>\n\n<p>Yahoo has been a mostly great company to work for, and <a href=\"http://yuilibrary.com/\">YUI</a> is by far the best team that I&rsquo;ve worked on here.  It&rsquo;s a shame that I didn&rsquo;t join YUI sooner; I still feel like I just got here.  The quality of this team made the decision very difficult, and that says a lot about the job that Eric Miraglia and Thomas Sha have done building it.</p>\n\n<p>If you ever get a chance to work at Yahoo, take it.</p>\n\n<p>I feel so very fortunate to have met so many of Silicon Valley&rsquo;s bright minds in the last 4 years, and to have learned so much about the web, about business, about people, and about the science and art of software development.  I&rsquo;ve been a student, a teacher, an expert, an amateur, a mentor, and a mentee.</p>\n\n<p>Thank you all so much for what you&rsquo;ve given me.</p>",
+    "can_like": false,
+    "can_reblog": false,
+    "can_reply": false,
+    "can_send_in_message": true,
+    "date": "2010-01-05 23:59:00 GMT",
+    "display_avatar": true,
+    "format": "markdown",
+    "id": 318794386,
+    "is_blocks_post_format": false,
+    "note_count": 5,
+    "post_url": "http://blog.izs.me/post/318794386/transition",
+    "reblog": {
+        "comment": "<p>My last day at Yahoo will be 2010-01-22.</p>\n\n<p>I\u2019ve gotten an offer from <a href=\"http://proofpoint.com/\">Proofpoint</a> which is too good to ignore.  The opportunity to drive the direction of a product at an early stage, including having a lot of input about the choice of technology and team, is very exciting.  Also, though this was not the primary factor, the position is significantly more financially rewarding than I believe that the next few years would be if I stayed at Yahoo.</p>\n\n<p>Yahoo has been a mostly great company to work for, and <a href=\"http://yuilibrary.com/\">YUI</a> is by far the best team that I\u2019ve worked on here.  It\u2019s a shame that I didn\u2019t join YUI sooner; I still feel like I just got here.  The quality of this team made the decision very difficult, and that says a lot about the job that Eric Miraglia and Thomas Sha have done building it.</p>\n\n<p>If you ever get a chance to work at Yahoo, take it.</p>\n\n<p>I feel so very fortunate to have met so many of Silicon Valley\u2019s bright minds in the last 4 years, and to have learned so much about the web, about business, about people, and about the science and art of software development.  I\u2019ve been a student, a teacher, an expert, an amateur, a mentor, and a mentee.</p>\n\n<p>Thank you all so much for what you\u2019ve given me.</p>",
+        "tree_html": ""
+    },
+    "reblog_key": "orHSGMx7",
+    "recommended_color": null,
+    "recommended_source": null,
+    "short_url": "https://tmblr.co/Z7nwWyJ06gI",
+    "slug": "transition",
+    "state": "published",
+    "summary": "Transition",
+    "tags": [
+        "the business"
+    ],
+    "timestamp": 1262735940,
+    "title": "Transition",
+    "trail": [
+        {
+            "blog": {
+                "active": true,
+                "can_be_followed": true,
+                "name": "izs",
+                "share_following": false,
+                "share_likes": false,
+                "theme": {
+                    "avatar_shape": "square",
+                    "background_color": "#444444",
+                    "body_font": "Helvetica Neue",
+                    "header_bounds": "978,2448,2355,0",
+                    "header_focus_height": 1152,
+                    "header_focus_width": 2048,
+                    "header_full_height": 3264,
+                    "header_full_width": 2448,
+                    "header_image": "https://static.tumblr.com/d248e27715343669f06a3852fd2cda53/utow0jf/nwUnbvgl6/tumblr_static_d2yiqqjdv1w8gsw0s0g4goc0o.jpg",
+                    "header_image_focused": "https://static.tumblr.com/d248e27715343669f06a3852fd2cda53/utow0jf/mA1nbvglg/tumblr_static_tumblr_static_d2yiqqjdv1w8gsw0s0g4goc0o_focused_v3.jpg",
+                    "header_image_scaled": "https://static.tumblr.com/d248e27715343669f06a3852fd2cda53/utow0jf/nwUnbvgl6/tumblr_static_d2yiqqjdv1w8gsw0s0g4goc0o_2048_v2.jpg",
+                    "header_stretch": true,
+                    "link_color": "#FB4C16",
+                    "show_avatar": true,
+                    "show_description": true,
+                    "show_header_image": true,
+                    "show_title": true,
+                    "title_color": "#fb4c16",
+                    "title_font": "Gibson",
+                    "title_font_weight": "regular"
+                }
+            },
+            "content": "<p>My last day at Yahoo will be 2010-01-22.</p>\n\n<p>I&rsquo;ve gotten an offer from <a href=\"http://proofpoint.com/\">Proofpoint</a> which is too good to ignore.  The opportunity to drive the direction of a product at an early stage, including having a lot of input about the choice of technology and team, is very exciting.  Also, though this was not the primary factor, the position is significantly more financially rewarding than I believe that the next few years would be if I stayed at Yahoo.</p>\n\n<p>Yahoo has been a mostly great company to work for, and <a href=\"http://yuilibrary.com/\">YUI</a> is by far the best team that I&rsquo;ve worked on here.  It&rsquo;s a shame that I didn&rsquo;t join YUI sooner; I still feel like I just got here.  The quality of this team made the decision very difficult, and that says a lot about the job that Eric Miraglia and Thomas Sha have done building it.</p>\n\n<p>If you ever get a chance to work at Yahoo, take it.</p>\n\n<p>I feel so very fortunate to have met so many of Silicon Valley&rsquo;s bright minds in the last 4 years, and to have learned so much about the web, about business, about people, and about the science and art of software development.  I&rsquo;ve been a student, a teacher, an expert, an amateur, a mentor, and a mentee.</p>\n\n<p>Thank you all so much for what you&rsquo;ve given me.</p>",
+            "content_raw": "<p>My last day at Yahoo will be 2010-01-22.</p>\n\n<p>I\u2019ve gotten an offer from <a href=\"http://proofpoint.com/\">Proofpoint</a> which is too good to ignore.  The opportunity to drive the direction of a product at an early stage, including having a lot of input about the choice of technology and team, is very exciting.  Also, though this was not the primary factor, the position is significantly more financially rewarding than I believe that the next few years would be if I stayed at Yahoo.</p>\n\n<p>Yahoo has been a mostly great company to work for, and <a href=\"http://yuilibrary.com/\">YUI</a> is by far the best team that I\u2019ve worked on here.  It\u2019s a shame that I didn\u2019t join YUI sooner; I still feel like I just got here.  The quality of this team made the decision very difficult, and that says a lot about the job that Eric Miraglia and Thomas Sha have done building it.</p>\n\n<p>If you ever get a chance to work at Yahoo, take it.</p>\n\n<p>I feel so very fortunate to have met so many of Silicon Valley\u2019s bright minds in the last 4 years, and to have learned so much about the web, about business, about people, and about the science and art of software development.  I\u2019ve been a student, a teacher, an expert, an amateur, a mentor, and a mentee.</p>\n\n<p>Thank you all so much for what you\u2019ve given me.</p>",
+            "is_current_item": true,
+            "is_root_item": true,
+            "post": {
+                "id": "318794386"
+            }
+        }
+    ],
+    "type": "text"
+}

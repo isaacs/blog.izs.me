@@ -1,0 +1,40 @@
+{
+    "blog": {
+        "description": "Writing and Stuff from Isaac Z. Schlueter",
+        "name": "izs",
+        "title": "blog.izs.me",
+        "updated": 1544051896,
+        "url": "http://blog.izs.me/",
+        "uuid": "t:qZa3tMNNGjX7PQ45aXJ-jw"
+    },
+    "blog_name": "izs",
+    "can_like": false,
+    "can_reblog": false,
+    "can_reply": false,
+    "can_send_in_message": true,
+    "date": "2009-08-20 19:45:14 GMT",
+    "display_avatar": true,
+    "format": "markdown",
+    "id": 167539936,
+    "is_blocks_post_format": false,
+    "note_count": 0,
+    "post_url": "http://blog.izs.me/post/167539936/origami",
+    "reblog": {
+        "comment": "<p><a href=\"http://rubyforge.org/pipermail/camping-list/2008-May/000719.html\">_why</a></p>",
+        "tree_html": ""
+    },
+    "reblog_key": "k14pNCoA",
+    "recommended_color": null,
+    "recommended_source": null,
+    "short_url": "https://tmblr.co/Z7nwWy9-7JW",
+    "slug": "origami",
+    "source": "<a href=\"http://rubyforge.org/pipermail/camping-list/2008-May/000719.html\">_why</a>",
+    "state": "published",
+    "summary": "Not all code needs to be a factory, some of it can just be origami.",
+    "tags": [
+        "_why"
+    ],
+    "text": "Not all code needs to be a factory, some of it can just be origami.",
+    "timestamp": 1250797514,
+    "type": "quote"
+}

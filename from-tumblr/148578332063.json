@@ -1,0 +1,78 @@
+{
+    "blog": {
+        "description": "Writing and Stuff from Isaac Z. Schlueter",
+        "name": "izs",
+        "title": "blog.izs.me",
+        "updated": 1544051896,
+        "url": "http://blog.izs.me/",
+        "uuid": "t:qZa3tMNNGjX7PQ45aXJ-jw"
+    },
+    "blog_name": "izs",
+    "body": "<p>Once upon a time, there was a frog, who had no name, but we&rsquo;ll call\nPlop.  Plop hopped along as best he could. However, Plop had a few\nextra legs, which didn&rsquo;t work so well. Environmental activists, tall\nbald chimps of the sort that builds factories and complains about\nfactories, thought it was because of pollution from the factories.\nBut actually, it was a parasite that entered Plop&rsquo;s egg and lived in\nPlop while he was a tadpole, eventually altering his development\nduring metamorphosis.</p>\n\n<p>Eventually, since Plop couldn&rsquo;t hop like his fellow frogs, he was\neaten by a snake, and Plop&rsquo;s parasite infected the snake&rsquo;s intestine,\nwhere it would reproduce, and create offspring to make other frogs hop\nlike Plop.  (A snail was also involved, but this story is already more\nthan complicated enough.)</p>\n\n<p>The moral of the story is that nature is fascinating in its utter and\ncomplete lack of empathy.  Evolution doesn&rsquo;t give any fucks about\nanyone.  Genes do whatever they have to do to get ahead, even if it\nmeans ruining the lives of frogs like Plop, and sending them through\nan agonizing existence into an early grave in the belly of a snake.</p>\n\n<p>Factories are bad for lots of reasons.  But the opposite of bad isn&rsquo;t\ngood, and &ldquo;natural&rdquo; is not a synonym for &ldquo;healthy&rdquo;.</p>",
+    "can_like": false,
+    "can_reblog": false,
+    "can_reply": false,
+    "can_send_in_message": true,
+    "date": "2016-08-07 06:24:47 GMT",
+    "display_avatar": true,
+    "format": "markdown",
+    "id": 148578332063,
+    "is_blocks_post_format": false,
+    "note_count": 2,
+    "post_url": "http://blog.izs.me/post/148578332063/plop-the-frog",
+    "reblog": {
+        "comment": "<p>Once upon a time, there was a frog, who had no name, but we\u2019ll call\nPlop.  Plop hopped along as best he could. However, Plop had a few\nextra legs, which didn\u2019t work so well. Environmental activists, tall\nbald chimps of the sort that builds factories and complains about\nfactories, thought it was because of pollution from the factories.\nBut actually, it was a parasite that entered Plop\u2019s egg and lived in\nPlop while he was a tadpole, eventually altering his development\nduring metamorphosis.</p>\n\n<p>Eventually, since Plop couldn\u2019t hop like his fellow frogs, he was\neaten by a snake, and Plop\u2019s parasite infected the snake\u2019s intestine,\nwhere it would reproduce, and create offspring to make other frogs hop\nlike Plop.  (A snail was also involved, but this story is already more\nthan complicated enough.)</p>\n\n<p>The moral of the story is that nature is fascinating in its utter and\ncomplete lack of empathy.  Evolution doesn\u2019t give any fucks about\nanyone.  Genes do whatever they have to do to get ahead, even if it\nmeans ruining the lives of frogs like Plop, and sending them through\nan agonizing existence into an early grave in the belly of a snake.</p>\n\n<p>Factories are bad for lots of reasons.  But the opposite of bad isn\u2019t\ngood, and \u201cnatural\u201d is not a synonym for \u201chealthy\u201d.</p>",
+        "tree_html": ""
+    },
+    "reblog_key": "LV8d7ljH",
+    "recommended_color": null,
+    "recommended_source": null,
+    "short_url": "https://tmblr.co/Z7nwWy2ANzMsV",
+    "slug": "plop-the-frog",
+    "state": "published",
+    "summary": "Plop the Frog",
+    "tags": [],
+    "timestamp": 1470551087,
+    "title": "Plop the Frog",
+    "trail": [
+        {
+            "blog": {
+                "active": true,
+                "can_be_followed": true,
+                "name": "izs",
+                "share_following": false,
+                "share_likes": false,
+                "theme": {
+                    "avatar_shape": "square",
+                    "background_color": "#444444",
+                    "body_font": "Helvetica Neue",
+                    "header_bounds": "978,2448,2355,0",
+                    "header_focus_height": 1152,
+                    "header_focus_width": 2048,
+                    "header_full_height": 3264,
+                    "header_full_width": 2448,
+                    "header_image": "https://static.tumblr.com/d248e27715343669f06a3852fd2cda53/utow0jf/nwUnbvgl6/tumblr_static_d2yiqqjdv1w8gsw0s0g4goc0o.jpg",
+                    "header_image_focused": "https://static.tumblr.com/d248e27715343669f06a3852fd2cda53/utow0jf/mA1nbvglg/tumblr_static_tumblr_static_d2yiqqjdv1w8gsw0s0g4goc0o_focused_v3.jpg",
+                    "header_image_scaled": "https://static.tumblr.com/d248e27715343669f06a3852fd2cda53/utow0jf/nwUnbvgl6/tumblr_static_d2yiqqjdv1w8gsw0s0g4goc0o_2048_v2.jpg",
+                    "header_stretch": true,
+                    "link_color": "#FB4C16",
+                    "show_avatar": true,
+                    "show_description": true,
+                    "show_header_image": true,
+                    "show_title": true,
+                    "title_color": "#fb4c16",
+                    "title_font": "Gibson",
+                    "title_font_weight": "regular"
+                }
+            },
+            "content": "<p>Once upon a time, there was a frog, who had no name, but we&rsquo;ll call\nPlop.  Plop hopped along as best he could. However, Plop had a few\nextra legs, which didn&rsquo;t work so well. Environmental activists, tall\nbald chimps of the sort that builds factories and complains about\nfactories, thought it was because of pollution from the factories.\nBut actually, it was a parasite that entered Plop&rsquo;s egg and lived in\nPlop while he was a tadpole, eventually altering his development\nduring metamorphosis.</p>\n\n<p>Eventually, since Plop couldn&rsquo;t hop like his fellow frogs, he was\neaten by a snake, and Plop&rsquo;s parasite infected the snake&rsquo;s intestine,\nwhere it would reproduce, and create offspring to make other frogs hop\nlike Plop.  (A snail was also involved, but this story is already more\nthan complicated enough.)</p>\n\n<p>The moral of the story is that nature is fascinating in its utter and\ncomplete lack of empathy.  Evolution doesn&rsquo;t give any fucks about\nanyone.  Genes do whatever they have to do to get ahead, even if it\nmeans ruining the lives of frogs like Plop, and sending them through\nan agonizing existence into an early grave in the belly of a snake.</p>\n\n<p>Factories are bad for lots of reasons.  But the opposite of bad isn&rsquo;t\ngood, and &ldquo;natural&rdquo; is not a synonym for &ldquo;healthy&rdquo;.</p>",
+            "content_raw": "<p>Once upon a time, there was a frog, who had no name, but we\u2019ll call\nPlop.  Plop hopped along as best he could. However, Plop had a few\nextra legs, which didn\u2019t work so well. Environmental activists, tall\nbald chimps of the sort that builds factories and complains about\nfactories, thought it was because of pollution from the factories.\nBut actually, it was a parasite that entered Plop\u2019s egg and lived in\nPlop while he was a tadpole, eventually altering his development\nduring metamorphosis.</p>\n\n<p>Eventually, since Plop couldn\u2019t hop like his fellow frogs, he was\neaten by a snake, and Plop\u2019s parasite infected the snake\u2019s intestine,\nwhere it would reproduce, and create offspring to make other frogs hop\nlike Plop.  (A snail was also involved, but this story is already more\nthan complicated enough.)</p>\n\n<p>The moral of the story is that nature is fascinating in its utter and\ncomplete lack of empathy.  Evolution doesn\u2019t give any fucks about\nanyone.  Genes do whatever they have to do to get ahead, even if it\nmeans ruining the lives of frogs like Plop, and sending them through\nan agonizing existence into an early grave in the belly of a snake.</p>\n\n<p>Factories are bad for lots of reasons.  But the opposite of bad isn\u2019t\ngood, and \u201cnatural\u201d is not a synonym for \u201chealthy\u201d.</p>",
+            "is_current_item": true,
+            "is_root_item": true,
+            "post": {
+                "id": "148578332063"
+            }
+        }
+    ],
+    "type": "text"
+}

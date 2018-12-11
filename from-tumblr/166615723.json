@@ -1,0 +1,78 @@
+{
+    "blog": {
+        "description": "Writing and Stuff from Isaac Z. Schlueter",
+        "name": "izs",
+        "title": "blog.izs.me",
+        "updated": 1544051896,
+        "url": "http://blog.izs.me/",
+        "uuid": "t:qZa3tMNNGjX7PQ45aXJ-jw"
+    },
+    "blog_name": "izs",
+    "body": "<p>Send up the red flags and alarms whenever you hear this word. 10&rsquo;ll get you 20, it&rsquo;s a scam of some sort.  Sniff around.</p>\n\n<p>There are only two things to be loyal to in this world: your self, and your integrity. And usually, if you lose one, the other goes along with it.</p>\n\n<p>If any other &ldquo;loyalty&rdquo; seems to collide with those two\u2014family, party, country, job, what-have-you\u2014you&rsquo;re in trouble. Drop it like a bad habit. Run fast. That ship is sinking.</p>\n\n<p>In other words, &ldquo;I got only two things in this world: my word, and my balls. And I don&rsquo;t break \u2019em for nobody.&rdquo;</p>",
+    "can_like": false,
+    "can_reblog": false,
+    "can_reply": false,
+    "can_send_in_message": true,
+    "date": "2009-08-19 17:02:44 GMT",
+    "display_avatar": true,
+    "format": "markdown",
+    "id": 166615723,
+    "is_blocks_post_format": false,
+    "note_count": 0,
+    "post_url": "http://blog.izs.me/post/166615723/loyalty",
+    "reblog": {
+        "comment": "<p>Send up the red flags and alarms whenever you hear this word. 10\u2019ll get you 20, it\u2019s a scam of some sort.  Sniff around.</p>\n\n<p>There are only two things to be loyal to in this world: your self, and your integrity. And usually, if you lose one, the other goes along with it.</p>\n\n<p>If any other \u201cloyalty\u201d seems to collide with those two\u2014family, party, country, job, what-have-you\u2014you\u2019re in trouble. Drop it like a bad habit. Run fast. That ship is sinking.</p>\n\n<p>In other words, \u201cI got only two things in this world: my word, and my balls. And I don\u2019t break \u2019em for nobody.\u201d</p>",
+        "tree_html": ""
+    },
+    "reblog_key": "bqAVFVo2",
+    "recommended_color": null,
+    "recommended_source": null,
+    "short_url": "https://tmblr.co/Z7nwWy9xbgh",
+    "slug": "loyalty",
+    "state": "published",
+    "summary": "Loyalty",
+    "tags": [],
+    "timestamp": 1250701364,
+    "title": "Loyalty",
+    "trail": [
+        {
+            "blog": {
+                "active": true,
+                "can_be_followed": true,
+                "name": "izs",
+                "share_following": false,
+                "share_likes": false,
+                "theme": {
+                    "avatar_shape": "square",
+                    "background_color": "#444444",
+                    "body_font": "Helvetica Neue",
+                    "header_bounds": "978,2448,2355,0",
+                    "header_focus_height": 1152,
+                    "header_focus_width": 2048,
+                    "header_full_height": 3264,
+                    "header_full_width": 2448,
+                    "header_image": "https://static.tumblr.com/d248e27715343669f06a3852fd2cda53/utow0jf/nwUnbvgl6/tumblr_static_d2yiqqjdv1w8gsw0s0g4goc0o.jpg",
+                    "header_image_focused": "https://static.tumblr.com/d248e27715343669f06a3852fd2cda53/utow0jf/mA1nbvglg/tumblr_static_tumblr_static_d2yiqqjdv1w8gsw0s0g4goc0o_focused_v3.jpg",
+                    "header_image_scaled": "https://static.tumblr.com/d248e27715343669f06a3852fd2cda53/utow0jf/nwUnbvgl6/tumblr_static_d2yiqqjdv1w8gsw0s0g4goc0o_2048_v2.jpg",
+                    "header_stretch": true,
+                    "link_color": "#FB4C16",
+                    "show_avatar": true,
+                    "show_description": true,
+                    "show_header_image": true,
+                    "show_title": true,
+                    "title_color": "#fb4c16",
+                    "title_font": "Gibson",
+                    "title_font_weight": "regular"
+                }
+            },
+            "content": "<p>Send up the red flags and alarms whenever you hear this word. 10&rsquo;ll get you 20, it&rsquo;s a scam of some sort.  Sniff around.</p>\n\n<p>There are only two things to be loyal to in this world: your self, and your integrity. And usually, if you lose one, the other goes along with it.</p>\n\n<p>If any other &ldquo;loyalty&rdquo; seems to collide with those two&mdash;family, party, country, job, what-have-you&mdash;you&rsquo;re in trouble. Drop it like a bad habit. Run fast. That ship is sinking.</p>\n\n<p>In other words, &ldquo;I got only two things in this world: my word, and my balls. And I don&rsquo;t break &rsquo;em for nobody.&rdquo;</p>",
+            "content_raw": "<p>Send up the red flags and alarms whenever you hear this word. 10\u2019ll get you 20, it\u2019s a scam of some sort.  Sniff around.</p>\n\n<p>There are only two things to be loyal to in this world: your self, and your integrity. And usually, if you lose one, the other goes along with it.</p>\n\n<p>If any other \u201cloyalty\u201d seems to collide with those two\u2014family, party, country, job, what-have-you\u2014you\u2019re in trouble. Drop it like a bad habit. Run fast. That ship is sinking.</p>\n\n<p>In other words, \u201cI got only two things in this world: my word, and my balls. And I don\u2019t break \u2019em for nobody.\u201d</p>",
+            "is_current_item": true,
+            "is_root_item": true,
+            "post": {
+                "id": "166615723"
+            }
+        }
+    ],
+    "type": "text"
+}

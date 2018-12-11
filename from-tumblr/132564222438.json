@@ -1,0 +1,80 @@
+{
+    "blog": {
+        "description": "Writing and Stuff from Isaac Z. Schlueter",
+        "name": "izs",
+        "title": "blog.izs.me",
+        "updated": 1544051896,
+        "url": "http://blog.izs.me/",
+        "uuid": "t:qZa3tMNNGjX7PQ45aXJ-jw"
+    },
+    "blog_name": "izs",
+    "body": "<p>I met you on Live Journal way back in &lsquo;02<br/>\nLyin&rsquo; awake intent on following you<br/>\nAnimated graphics didn&rsquo;t stop you coming through<br/>\nOh-a-oh</p>\n\n<p>They took the credit for all your bad poetry<br/>\nRewritten in 140 characters for free<br/>\nAnd now I understand the Web 2 point 0 scene</p>\n\n<p>Oh-a-oh<br/>\nI faved your selfies<br/>\nOh-a-oh<br/>\nWhat can you tell me?</p>\n\n<p>Twitter hearts killed the favoriting star<br/>\nTwitter hearts killed the favoriting star</p>\n\n<p>On my phone, held in my palm<br/>\nWe can&rsquo;t unplug, we&rsquo;ve grown too calm<br/>\nWhoa!<br/>\nOh-aoh-oh-oh-oh<br/>\nOh-aoh-oh-oh-oh</p>\n\n<p>And now we meet-up in an invite-only Slack<br/>\nPush-notified, but seems so long since you&rsquo;ve been back<br/>\nAnd when you&rsquo;re lonely you can blame it all on @jack</p>\n\n<p>Oh-a-oh<br/>\nYou were the first one<br/>\nOh-a-oh<br/>\nYou were the last one</p>\n\n<p>Twitter hearts killed the favoriting star<br/>\nTwitter hearts killed the favoriting star</p>\n\n<p>On my phone, held in my palm<br/>\nWe can&rsquo;t unplug, we&rsquo;ve grown too calm<br/>\nToo calm!</p>\n\n<p>Oh-aoh-oh-oh-oh<br/>\nOh-aoh-oh-oh-oh</p>\n\n<p>Alright</p>\n\n<p>Twitter hearts killed the favoriting star<br/>\nTwitter hearts killed the favoriting star<br/>\nOn my phone, held in my palm<br/>\nWe can&rsquo;t unplug, we&rsquo;ve grown too calm</p>\n\n<p>Semantics changed and broke your heart<br/>\nSo put all the blame on pixel art</p>\n\n<p>You are&hellip; the favoriting star<br/>\nTwitter hearts killed the favoriting star<br/>\nTwitter hearts killed that favoriting star, yes, it did</p>",
+    "can_like": false,
+    "can_reblog": false,
+    "can_reply": false,
+    "can_send_in_message": true,
+    "date": "2015-11-04 23:12:14 GMT",
+    "display_avatar": true,
+    "format": "markdown",
+    "id": 132564222438,
+    "is_blocks_post_format": false,
+    "note_count": 15,
+    "post_url": "http://blog.izs.me/post/132564222438/twitter-hearts-killed-the-favoriting-star",
+    "reblog": {
+        "comment": "<p>I met you on Live Journal way back in \u201802<br>\nLyin\u2019 awake intent on following you<br>\nAnimated graphics didn\u2019t stop you coming through<br>\nOh-a-oh</p>\n\n<p>They took the credit for all your bad poetry<br>\nRewritten in 140 characters for free<br>\nAnd now I understand the Web 2 point 0 scene</p>\n\n<p>Oh-a-oh<br>\nI faved your selfies<br>\nOh-a-oh<br>\nWhat can you tell me?</p>\n\n<p>Twitter hearts killed the favoriting star<br>\nTwitter hearts killed the favoriting star</p>\n\n<p>On my phone, held in my palm<br>\nWe can\u2019t unplug, we\u2019ve grown too calm<br>\nWhoa!<br>\nOh-aoh-oh-oh-oh<br>\nOh-aoh-oh-oh-oh</p>\n\n<p>And now we meet-up in an invite-only Slack<br>\nPush-notified, but seems so long since you\u2019ve been back<br>\nAnd when you\u2019re lonely you can blame it all on @jack</p>\n\n<p>Oh-a-oh<br>\nYou were the first one<br>\nOh-a-oh<br>\nYou were the last one</p>\n\n<p>Twitter hearts killed the favoriting star<br>\nTwitter hearts killed the favoriting star</p>\n\n<p>On my phone, held in my palm<br>\nWe can\u2019t unplug, we\u2019ve grown too calm<br>\nToo calm!</p>\n\n<p>Oh-aoh-oh-oh-oh<br>\nOh-aoh-oh-oh-oh</p>\n\n<p>Alright</p>\n\n<p>Twitter hearts killed the favoriting star<br>\nTwitter hearts killed the favoriting star<br>\nOn my phone, held in my palm<br>\nWe can\u2019t unplug, we\u2019ve grown too calm</p>\n\n<p>Semantics changed and broke your heart<br>\nSo put all the blame on pixel art</p>\n\n<p>You are\u2026 the favoriting star<br>\nTwitter hearts killed the favoriting star<br>\nTwitter hearts killed that favoriting star, yes, it did</p>",
+        "tree_html": ""
+    },
+    "reblog_key": "u9wuyLpH",
+    "recommended_color": null,
+    "recommended_source": null,
+    "short_url": "https://tmblr.co/Z7nwWy1xTSO7c",
+    "slug": "twitter-hearts-killed-the-favoriting-star",
+    "state": "published",
+    "summary": "Twitter Hearts Killed the Favoriting Star",
+    "tags": [
+        "poem"
+    ],
+    "timestamp": 1446678734,
+    "title": "Twitter Hearts Killed the Favoriting Star",
+    "trail": [
+        {
+            "blog": {
+                "active": true,
+                "can_be_followed": true,
+                "name": "izs",
+                "share_following": false,
+                "share_likes": false,
+                "theme": {
+                    "avatar_shape": "square",
+                    "background_color": "#444444",
+                    "body_font": "Helvetica Neue",
+                    "header_bounds": "978,2448,2355,0",
+                    "header_focus_height": 1152,
+                    "header_focus_width": 2048,
+                    "header_full_height": 3264,
+                    "header_full_width": 2448,
+                    "header_image": "https://static.tumblr.com/d248e27715343669f06a3852fd2cda53/utow0jf/nwUnbvgl6/tumblr_static_d2yiqqjdv1w8gsw0s0g4goc0o.jpg",
+                    "header_image_focused": "https://static.tumblr.com/d248e27715343669f06a3852fd2cda53/utow0jf/mA1nbvglg/tumblr_static_tumblr_static_d2yiqqjdv1w8gsw0s0g4goc0o_focused_v3.jpg",
+                    "header_image_scaled": "https://static.tumblr.com/d248e27715343669f06a3852fd2cda53/utow0jf/nwUnbvgl6/tumblr_static_d2yiqqjdv1w8gsw0s0g4goc0o_2048_v2.jpg",
+                    "header_stretch": true,
+                    "link_color": "#FB4C16",
+                    "show_avatar": true,
+                    "show_description": true,
+                    "show_header_image": true,
+                    "show_title": true,
+                    "title_color": "#fb4c16",
+                    "title_font": "Gibson",
+                    "title_font_weight": "regular"
+                }
+            },
+            "content": "<p>I met you on Live Journal way back in &lsquo;02<br />\nLyin&rsquo; awake intent on following you<br />\nAnimated graphics didn&rsquo;t stop you coming through<br />\nOh-a-oh</p>\n\n<p>They took the credit for all your bad poetry<br />\nRewritten in 140 characters for free<br />\nAnd now I understand the Web 2 point 0 scene</p>\n\n<p>Oh-a-oh<br />\nI faved your selfies<br />\nOh-a-oh<br />\nWhat can you tell me?</p>\n\n<p>Twitter hearts killed the favoriting star<br />\nTwitter hearts killed the favoriting star</p>\n\n<p>On my phone, held in my palm<br />\nWe can&rsquo;t unplug, we&rsquo;ve grown too calm<br />\nWhoa!<br />\nOh-aoh-oh-oh-oh<br />\nOh-aoh-oh-oh-oh</p>\n\n<p>And now we meet-up in an invite-only Slack<br />\nPush-notified, but seems so long since you&rsquo;ve been back<br />\nAnd when you&rsquo;re lonely you can blame it all on @jack</p>\n\n<p>Oh-a-oh<br />\nYou were the first one<br />\nOh-a-oh<br />\nYou were the last one</p>\n\n<p>Twitter hearts killed the favoriting star<br />\nTwitter hearts killed the favoriting star</p>\n\n<p>On my phone, held in my palm<br />\nWe can&rsquo;t unplug, we&rsquo;ve grown too calm<br />\nToo calm!</p>\n\n<p>Oh-aoh-oh-oh-oh<br />\nOh-aoh-oh-oh-oh</p>\n\n<p>Alright</p>\n\n<p>Twitter hearts killed the favoriting star<br />\nTwitter hearts killed the favoriting star<br />\nOn my phone, held in my palm<br />\nWe can&rsquo;t unplug, we&rsquo;ve grown too calm</p>\n\n<p>Semantics changed and broke your heart<br />\nSo put all the blame on pixel art</p>\n\n<p>You are&hellip; the favoriting star<br />\nTwitter hearts killed the favoriting star<br />\nTwitter hearts killed that favoriting star, yes, it did</p>",
+            "content_raw": "<p>I met you on Live Journal way back in \u201802<br>\nLyin\u2019 awake intent on following you<br>\nAnimated graphics didn\u2019t stop you coming through<br>\nOh-a-oh</p>\n\n<p>They took the credit for all your bad poetry<br>\nRewritten in 140 characters for free<br>\nAnd now I understand the Web 2 point 0 scene</p>\n\n<p>Oh-a-oh<br>\nI faved your selfies<br>\nOh-a-oh<br>\nWhat can you tell me?</p>\n\n<p>Twitter hearts killed the favoriting star<br>\nTwitter hearts killed the favoriting star</p>\n\n<p>On my phone, held in my palm<br>\nWe can\u2019t unplug, we\u2019ve grown too calm<br>\nWhoa!<br>\nOh-aoh-oh-oh-oh<br>\nOh-aoh-oh-oh-oh</p>\n\n<p>And now we meet-up in an invite-only Slack<br>\nPush-notified, but seems so long since you\u2019ve been back<br>\nAnd when you\u2019re lonely you can blame it all on @jack</p>\n\n<p>Oh-a-oh<br>\nYou were the first one<br>\nOh-a-oh<br>\nYou were the last one</p>\n\n<p>Twitter hearts killed the favoriting star<br>\nTwitter hearts killed the favoriting star</p>\n\n<p>On my phone, held in my palm<br>\nWe can\u2019t unplug, we\u2019ve grown too calm<br>\nToo calm!</p>\n\n<p>Oh-aoh-oh-oh-oh<br>\nOh-aoh-oh-oh-oh</p>\n\n<p>Alright</p>\n\n<p>Twitter hearts killed the favoriting star<br>\nTwitter hearts killed the favoriting star<br>\nOn my phone, held in my palm<br>\nWe can\u2019t unplug, we\u2019ve grown too calm</p>\n\n<p>Semantics changed and broke your heart<br>\nSo put all the blame on pixel art</p>\n\n<p>You are\u2026 the favoriting star<br>\nTwitter hearts killed the favoriting star<br>\nTwitter hearts killed that favoriting star, yes, it did</p>",
+            "is_current_item": true,
+            "is_root_item": true,
+            "post": {
+                "id": "132564222438"
+            }
+        }
+    ],
+    "type": "text"
+}

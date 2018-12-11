@@ -1,0 +1,93 @@
+{
+    "blog": {
+        "description": "Writing and Stuff from Isaac Z. Schlueter",
+        "name": "izs",
+        "title": "blog.izs.me",
+        "updated": 1544051896,
+        "url": "http://blog.izs.me/",
+        "uuid": "t:qZa3tMNNGjX7PQ45aXJ-jw"
+    },
+    "blog_name": "izs",
+    "can_like": false,
+    "can_reblog": false,
+    "can_reply": false,
+    "can_send_in_message": true,
+    "date": "2013-10-21 22:01:00 GMT",
+    "description": "<p><a href=\"http://nudityandnerdery.tumblr.com/post/63995327460/see-what-you-need-to-understand-is-that-not-all\" class=\"tumblr_blog\">nudityandnerdery</a>:</p>\n\n<blockquote>\n<p>See, what you need to understand is that \u201cNot all guys [are] like that\u201d is never going to work. Because you\u2019re answering an entirely different conversation than what women are actually saying.\n\n</p><p>You think women are saying \u201cEvery man is a predator and a danger to me.\u201d And you\u2019re replying, \u201cBut I\u2019m not like that.\u201d\n\n</p><p>But women aren\u2019t saying that. They\u2019re saying \u201cThere are too many situations where women have to worry about their safety,\u201d and you\u2019re saying \u201cThat\u2019s not important.\u201d They\u2019re saying \u201cWomen are constantly told it\u2019s their fault if something bad happens,\u201d and you\u2019re saying \u201cDon\u2019t worry about it.\u201d They\u2019re saying \u201cToo often, women find their trust violated by men,\u201d and you\u2019re saying \u201cBut you should trust <em>me</em>!\u201d\n\n</p><p>They\u2019re saying \u201cSo many men have decided that what they want is more important than anything about a woman.\u201d And you\u2019re replying \u201cI\u2019m <em>exactly</em> like that.\u201d</p></blockquote>",
+    "display_avatar": true,
+    "excerpt": null,
+    "format": "markdown",
+    "id": 64715005741,
+    "is_blocks_post_format": false,
+    "link_author": null,
+    "note_count": 112830,
+    "post_url": "http://blog.izs.me/post/64715005741/nudity-and-nerdery-on-not-all-guys-are-like",
+    "publisher": "nudityandnerdery.tumblr.com",
+    "reblog": {
+        "comment": "",
+        "tree_html": "<p><a href=\"http://nudityandnerdery.tumblr.com/post/63995327460/see-what-you-need-to-understand-is-that-not-all\" class=\"tumblr_blog\">nudityandnerdery</a>:</p><blockquote>\n<p>See, what you need to understand is that \u201cNot all guys [are] like that\u201d is never going to work. Because you\u2019re answering an entirely different conversation than what women are actually saying.\n\n</p>\n<p>You think women are saying \u201cEvery man is a predator and a danger to me.\u201d And you\u2019re replying, \u201cBut I\u2019m not like that.\u201d\n\n</p>\n<p>But women aren\u2019t saying that. They\u2019re saying \u201cThere are too many situations where women have to worry about their safety,\u201d and you\u2019re saying \u201cThat\u2019s not important.\u201d They\u2019re saying \u201cWomen are constantly told it\u2019s their fault if something bad happens,\u201d and you\u2019re saying \u201cDon\u2019t worry about it.\u201d They\u2019re saying \u201cToo often, women find their trust violated by men,\u201d and you\u2019re saying \u201cBut you should trust <em>me</em>!\u201d\n\n</p>\n<p>They\u2019re saying \u201cSo many men have decided that what they want is more important than anything about a woman.\u201d And you\u2019re replying \u201cI\u2019m <em>exactly</em> like that.\u201d</p>\n</blockquote>"
+    },
+    "reblog_key": "OpunKrKq",
+    "reblogged_from_can_message": true,
+    "reblogged_from_id": "63995327460",
+    "reblogged_from_name": "nudityandnerdery",
+    "reblogged_from_title": "Nudity and Nerdery",
+    "reblogged_from_url": "https://nudityandnerdery.tumblr.com/post/63995327460/see-what-you-need-to-understand-is-that-not-all",
+    "reblogged_from_uuid": "t:BK_aAc2O06p32F88lm1BAA",
+    "reblogged_root_can_message": true,
+    "reblogged_root_id": "63995327460",
+    "reblogged_root_name": "nudityandnerdery",
+    "reblogged_root_title": "Nudity and Nerdery",
+    "reblogged_root_url": "https://nudityandnerdery.tumblr.com/post/63995327460/see-what-you-need-to-understand-is-that-not-all",
+    "reblogged_root_uuid": "t:BK_aAc2O06p32F88lm1BAA",
+    "recommended_color": null,
+    "recommended_source": null,
+    "short_url": "https://tmblr.co/Z7nwWyyHK9yj",
+    "slug": "nudity-and-nerdery-on-not-all-guys-are-like",
+    "state": "published",
+    "summary": "Nudity and Nerdery, On \u201cNot all guys are like that\u201d",
+    "tags": [],
+    "timestamp": 1382392860,
+    "title": "Nudity and Nerdery, On \u201cNot all guys are like that\u201d",
+    "trail": [
+        {
+            "blog": {
+                "active": true,
+                "can_be_followed": true,
+                "name": "nudityandnerdery",
+                "share_following": false,
+                "share_likes": false,
+                "theme": {
+                    "avatar_shape": "square",
+                    "background_color": "#595151",
+                    "body_font": "Helvetica Neue",
+                    "header_bounds": "0,3913,1759,785",
+                    "header_focus_height": 1151,
+                    "header_focus_width": 2048,
+                    "header_full_height": 1759,
+                    "header_full_width": 4699,
+                    "header_image": "https://static.tumblr.com/baecc7c8174f89a9fbe7999ada80ecf2/fqrbcyk/Q4uncsg7v/tumblr_static_9oaj21borm0488g48gsgwokgs.jpg",
+                    "header_image_focused": "https://static.tumblr.com/baecc7c8174f89a9fbe7999ada80ecf2/fqrbcyk/mHop12udw/tumblr_static_tumblr_static_9oaj21borm0488g48gsgwokgs_focused_v3.jpg",
+                    "header_image_scaled": "https://static.tumblr.com/baecc7c8174f89a9fbe7999ada80ecf2/fqrbcyk/Q4uncsg7v/tumblr_static_9oaj21borm0488g48gsgwokgs_2048_v2.jpg",
+                    "header_stretch": true,
+                    "link_color": "#CCCCCC",
+                    "show_avatar": true,
+                    "show_description": true,
+                    "show_header_image": true,
+                    "show_title": true,
+                    "title_color": "#EEEEEE",
+                    "title_font": "Gibson",
+                    "title_font_weight": "bold"
+                }
+            },
+            "content": "<p>See, what you need to understand is that &ldquo;Not all guys [are] like that&rdquo; is never going to work. Because you&rsquo;re answering an entirely different conversation than what women are actually saying.\n\n</p>\n<p>You think women are saying &ldquo;Every man is a predator and a danger to me.&rdquo; And you&rsquo;re replying, &ldquo;But I&rsquo;m not like that.&rdquo;\n\n</p>\n<p>But women aren&rsquo;t saying that. They&rsquo;re saying &ldquo;There are too many situations where women have to worry about their safety,&rdquo; and you&rsquo;re saying &ldquo;That&rsquo;s not important.&rdquo; They&rsquo;re saying &ldquo;Women are constantly told it&rsquo;s their fault if something bad happens,&rdquo; and you&rsquo;re saying &ldquo;Don&rsquo;t worry about it.&rdquo; They&rsquo;re saying &ldquo;Too often, women find their trust violated by men,&rdquo; and you&rsquo;re saying &ldquo;But you should trust <em>me</em>!&rdquo;\n\n</p>\n<p>They&rsquo;re saying &ldquo;So many men have decided that what they want is more important than anything about a woman.&rdquo; And you&rsquo;re replying &ldquo;I&rsquo;m <em>exactly</em> like that.&rdquo;</p>",
+            "content_raw": "<p>See, what you need to understand is that \u201cNot all guys [are] like that\u201d is never going to work. Because you\u2019re answering an entirely different conversation than what women are actually saying.\n\n</p>\n<p>You think women are saying \u201cEvery man is a predator and a danger to me.\u201d And you\u2019re replying, \u201cBut I\u2019m not like that.\u201d\n\n</p>\n<p>But women aren\u2019t saying that. They\u2019re saying \u201cThere are too many situations where women have to worry about their safety,\u201d and you\u2019re saying \u201cThat\u2019s not important.\u201d They\u2019re saying \u201cWomen are constantly told it\u2019s their fault if something bad happens,\u201d and you\u2019re saying \u201cDon\u2019t worry about it.\u201d They\u2019re saying \u201cToo often, women find their trust violated by men,\u201d and you\u2019re saying \u201cBut you should trust <em>me</em>!\u201d\n\n</p>\n<p>They\u2019re saying \u201cSo many men have decided that what they want is more important than anything about a woman.\u201d And you\u2019re replying \u201cI\u2019m <em>exactly</em> like that.\u201d</p>",
+            "is_root_item": true,
+            "post": {
+                "id": "63995327460"
+            }
+        }
+    ],
+    "type": "link",
+    "url": "http://nudityandnerdery.tumblr.com/post/63995327460/see-what-you-need-to-understand-is-that-not-all"
+}

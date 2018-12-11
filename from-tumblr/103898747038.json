@@ -1,0 +1,89 @@
+{
+    "blog": {
+        "description": "Writing and Stuff from Isaac Z. Schlueter",
+        "name": "izs",
+        "title": "blog.izs.me",
+        "updated": 1544051896,
+        "url": "http://blog.izs.me/",
+        "uuid": "t:qZa3tMNNGjX7PQ45aXJ-jw"
+    },
+    "blog_name": "izs",
+    "can_like": false,
+    "can_reblog": false,
+    "can_reply": false,
+    "can_send_in_message": true,
+    "date": "2014-11-29 16:54:39 GMT",
+    "description": "<p><a href=\"http://days.maybemaimed.com/post/68488432751/complicity-with-abuse-101-level-information\" class=\"tumblr_blog\">maymay</a>:</p>\n\n<blockquote><p>Before you claim to be effective in any kind of systemic anti-abuse work, you need to understand the concept of <em>complicity.</em> Thankfully, it\u2019s not a very hard concept to understand. Even better, there\u2019s a very simple test for whether or not you actually understand it as deeply as I think you need&hellip;</p></blockquote>",
+    "display_avatar": true,
+    "excerpt": null,
+    "format": "html",
+    "id": 103898747038,
+    "is_blocks_post_format": false,
+    "link_author": null,
+    "note_count": 14,
+    "post_url": "http://blog.izs.me/post/103898747038/complicity-with-abuse-101-level-information",
+    "publisher": "days.maybemaimed.com",
+    "reblog": {
+        "comment": "",
+        "tree_html": "<p><a href=\"http://days.maybemaimed.com/post/68488432751/complicity-with-abuse-101-level-information\" class=\"tumblr_blog\">maymay</a>:</p><blockquote><p>Before you claim to be effective in any kind of systemic anti-abuse work, you need to understand the concept of <em>complicity.</em> Thankfully, it\u2019s not a very hard concept to understand. Even better, there\u2019s a very simple test for whether or not you actually understand it as deeply as I think you need\u2026</p></blockquote>"
+    },
+    "reblog_key": "MI6tQyRI",
+    "reblogged_from_can_message": true,
+    "reblogged_from_id": "68488432751",
+    "reblogged_from_name": "maymay",
+    "reblogged_from_title": "Maybe Days",
+    "reblogged_from_url": "http://days.maybemaimed.com/post/68488432751/complicity-with-abuse-101-level-information",
+    "reblogged_from_uuid": "t:YVGcJf022BaNm3c_F8mT5A",
+    "reblogged_root_can_message": true,
+    "reblogged_root_id": "68488432751",
+    "reblogged_root_name": "maymay",
+    "reblogged_root_title": "Maybe Days",
+    "reblogged_root_url": "http://days.maybemaimed.com/post/68488432751/complicity-with-abuse-101-level-information",
+    "reblogged_root_uuid": "t:YVGcJf022BaNm3c_F8mT5A",
+    "recommended_color": null,
+    "recommended_source": null,
+    "short_url": "https://tmblr.co/Z7nwWy1WmsH2U",
+    "slug": "complicity-with-abuse-101-level-information",
+    "state": "published",
+    "summary": "Complicity with Abuse: 101-level Information Social Justice Hobbyists are Dangerously Ignorant Of",
+    "tags": [],
+    "timestamp": 1417280079,
+    "title": "Complicity with Abuse: 101-level Information Social Justice Hobbyists are Dangerously Ignorant Of",
+    "trail": [
+        {
+            "blog": {
+                "active": true,
+                "can_be_followed": true,
+                "name": "maymay",
+                "share_following": false,
+                "share_likes": false,
+                "theme": {
+                    "avatar_shape": "circle",
+                    "background_color": "#F6F6F6",
+                    "body_font": "Helvetica Neue",
+                    "header_bounds": 0,
+                    "header_image": "https://assets.tumblr.com/images/default_header/optica_pattern_01.png?_v=f67ca5ac5d1c4a0526964674cb5a0605",
+                    "header_image_focused": "https://assets.tumblr.com/images/default_header/optica_pattern_01.png?_v=f67ca5ac5d1c4a0526964674cb5a0605",
+                    "header_image_scaled": "https://assets.tumblr.com/images/default_header/optica_pattern_01.png?_v=f67ca5ac5d1c4a0526964674cb5a0605",
+                    "header_stretch": true,
+                    "link_color": "#529ECC",
+                    "show_avatar": true,
+                    "show_description": true,
+                    "show_header_image": false,
+                    "show_title": true,
+                    "title_color": "#444444",
+                    "title_font": "Helvetica Neue",
+                    "title_font_weight": "bold"
+                }
+            },
+            "content": "<p>Before you claim to be effective in any kind of systemic anti-abuse work, you need to understand the concept of <em>complicity.</em> Thankfully, it&rsquo;s not a very hard concept to understand. Even better, there&rsquo;s a very simple test for whether or not you actually understand it as deeply as I think you need&hellip;</p>",
+            "content_raw": "<p>Before you claim to be effective in any kind of systemic anti-abuse work, you need to understand the concept of <em>complicity.</em> Thankfully, it\u2019s not a very hard concept to understand. Even better, there\u2019s a very simple test for whether or not you actually understand it as deeply as I think you need\u2026</p>",
+            "is_root_item": true,
+            "post": {
+                "id": "68488432751"
+            }
+        }
+    ],
+    "type": "link",
+    "url": "http://days.maybemaimed.com/post/68488432751/complicity-with-abuse-101-level-information"
+}

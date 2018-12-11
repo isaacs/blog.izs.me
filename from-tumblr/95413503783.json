@@ -1,0 +1,133 @@
+{
+    "blog": {
+        "description": "Writing and Stuff from Isaac Z. Schlueter",
+        "name": "izs",
+        "title": "blog.izs.me",
+        "updated": 1544051896,
+        "url": "http://blog.izs.me/",
+        "uuid": "t:qZa3tMNNGjX7PQ45aXJ-jw"
+    },
+    "blog_name": "izs",
+    "can_like": false,
+    "can_reblog": false,
+    "can_reply": false,
+    "can_send_in_message": true,
+    "caption": "<p><a href=\"http://kateceratops.tumblr.com/post/95390791380/people-are-giving-wilson-money-to-thank-him-for\" class=\"tumblr_blog\">kateceratops</a>:</p>\n\n<blockquote><p>People are giving Wilson money to thank him for killing an unarmed black teenager. Please report this to GoFundMe, as it violates their Terms of Service and they get 5% of the tens of thousands of dollars being donated. <a href=\"http://www.gofundme.com/mvc.php?route=contact/form&amp;pid=500_When_should_I_report_a_campaign\">Click to report.</a></p>\n<p>The \u201cSupport Officer Wilson\u201d page url: <a href=\"http://www.gofundme.com/supportofficerwilson\">http://www.gofundme.com/supportofficerwilson</a></p>\n<p>This is my message, in case you want to copy and paste:</p>\n<p><em>Your Terms of Service prohibit \u201citems that promote\u2026 hate, racial intolerance, or the financial exploitation of a crime.\u201d Take a look at the comments that come with the donations on this page and tell me that doesn\u2019t violate your terms. \u201cSupport Officer Wilson\u201d is a thin veil for people rewarding Wilson for killing a black kid.</em></p></blockquote>",
+    "date": "2014-08-22 00:11:17 GMT",
+    "display_avatar": true,
+    "format": "markdown",
+    "id": 95413503783,
+    "image_permalink": "http://blog.izs.me/image/95413503783",
+    "is_blocks_post_format": false,
+    "link_url": "http://www.gofundme.com/mvc.php?route=contact/form&pid=500_When_should_I_report_a_campaign",
+    "note_count": 51595,
+    "photos": [
+        {
+            "alt_sizes": [
+                {
+                    "height": 426,
+                    "url": "https://66.media.tumblr.com/f0c475e9d43c827ddc5d71ec58096aef/tumblr_nao80iqcuW1qzytyoo1_640.png",
+                    "width": 638
+                },
+                {
+                    "height": 361,
+                    "url": "https://66.media.tumblr.com/f0c475e9d43c827ddc5d71ec58096aef/tumblr_nao80iqcuW1qzytyoo1_540.png",
+                    "width": 540
+                },
+                {
+                    "height": 334,
+                    "url": "https://66.media.tumblr.com/f0c475e9d43c827ddc5d71ec58096aef/tumblr_nao80iqcuW1qzytyoo1_500.png",
+                    "width": 500
+                },
+                {
+                    "height": 267,
+                    "url": "https://66.media.tumblr.com/f0c475e9d43c827ddc5d71ec58096aef/tumblr_nao80iqcuW1qzytyoo1_400.png",
+                    "width": 400
+                },
+                {
+                    "height": 167,
+                    "url": "https://66.media.tumblr.com/f0c475e9d43c827ddc5d71ec58096aef/tumblr_nao80iqcuW1qzytyoo1_250.png",
+                    "width": 250
+                },
+                {
+                    "height": 67,
+                    "url": "https://66.media.tumblr.com/f0c475e9d43c827ddc5d71ec58096aef/tumblr_nao80iqcuW1qzytyoo1_100.png",
+                    "width": 100
+                },
+                {
+                    "height": 75,
+                    "url": "https://66.media.tumblr.com/f0c475e9d43c827ddc5d71ec58096aef/tumblr_nao80iqcuW1qzytyoo1_75sq.png",
+                    "width": 75
+                }
+            ],
+            "caption": "",
+            "original_size": {
+                "height": 426,
+                "url": "https://66.media.tumblr.com/f0c475e9d43c827ddc5d71ec58096aef/tumblr_nao80iqcuW1qzytyoo1_640.png",
+                "width": 638
+            }
+        }
+    ],
+    "post_url": "http://blog.izs.me/post/95413503783/kateceratops-people-are-giving-wilson-money-to",
+    "reblog": {
+        "comment": "",
+        "tree_html": "<p><a href=\"http://kateceratops.tumblr.com/post/95390791380/people-are-giving-wilson-money-to-thank-him-for\" class=\"tumblr_blog\">kateceratops</a>:</p><blockquote>\n<p>People are giving Wilson money to thank him for killing an unarmed black teenager. Please report this to GoFundMe, as it violates their Terms of Service and they get 5% of the tens of thousands of dollars being donated. <a href=\"http://www.gofundme.com/mvc.php?route=contact/form&amp;pid=500_When_should_I_report_a_campaign\">Click to report.</a></p>\n<p>The \u201cSupport Officer Wilson\u201d page url: <a href=\"http://www.gofundme.com/supportofficerwilson\">http://www.gofundme.com/supportofficerwilson</a></p>\n<p>This is my message, in case you want to copy and paste:</p>\n<p><em>Your Terms of Service prohibit \u201citems that promote\u2026 hate, racial intolerance, or the financial exploitation of a crime.\u201d Take a look at the comments that come with the donations on this page and tell me that doesn\u2019t violate your terms. \u201cSupport Officer Wilson\u201d is a thin veil for people rewarding Wilson for killing a black kid.</em></p>\n</blockquote>"
+    },
+    "reblog_key": "OxAVL9Fz",
+    "reblogged_from_can_message": true,
+    "reblogged_from_id": "95390791380",
+    "reblogged_from_name": "kateceratops",
+    "reblogged_from_title": "Let's pretend this never happened.",
+    "reblogged_from_url": "http://kateceratops.tumblr.com/post/95390791380/people-are-giving-wilson-money-to-thank-him-for",
+    "reblogged_from_uuid": "t:5TLDPauWH5-qGKr0cbS8NQ",
+    "reblogged_root_can_message": true,
+    "reblogged_root_id": "95390791380",
+    "reblogged_root_name": "kateceratops",
+    "reblogged_root_title": "Let's pretend this never happened.",
+    "reblogged_root_url": "http://kateceratops.tumblr.com/post/95390791380/people-are-giving-wilson-money-to-thank-him-for",
+    "reblogged_root_uuid": "t:5TLDPauWH5-qGKr0cbS8NQ",
+    "recommended_color": null,
+    "recommended_source": null,
+    "short_url": "https://tmblr.co/Z7nwWy1Ot5eSd",
+    "slug": "kateceratops-people-are-giving-wilson-money-to",
+    "state": "published",
+    "summary": "People are giving Wilson money to thank him for killing an unarmed black teenager. Please report this to GoFundMe, as it...",
+    "tags": [],
+    "timestamp": 1408666277,
+    "trail": [
+        {
+            "blog": {
+                "active": true,
+                "can_be_followed": true,
+                "name": "kateceratops",
+                "share_following": false,
+                "share_likes": true,
+                "theme": {
+                    "avatar_shape": "circle",
+                    "background_color": "#F6F6F6",
+                    "body_font": "Helvetica Neue",
+                    "header_bounds": "",
+                    "header_image": "https://assets.tumblr.com/images/default_header/optica_pattern_04.png?_v=7c4e5e82cf797042596e2e64af1c383f",
+                    "header_image_focused": "https://assets.tumblr.com/images/default_header/optica_pattern_04.png?_v=7c4e5e82cf797042596e2e64af1c383f",
+                    "header_image_scaled": "https://assets.tumblr.com/images/default_header/optica_pattern_04.png?_v=7c4e5e82cf797042596e2e64af1c383f",
+                    "header_stretch": true,
+                    "link_color": "#529ECC",
+                    "show_avatar": true,
+                    "show_description": true,
+                    "show_header_image": true,
+                    "show_title": true,
+                    "title_color": "#444444",
+                    "title_font": "Helvetica Neue",
+                    "title_font_weight": "bold"
+                }
+            },
+            "content": "<p>People are giving Wilson money to thank him for killing an unarmed black teenager. Please report this to GoFundMe, as it violates their Terms of Service and they get 5% of the tens of thousands of dollars being donated. <a href=\"http://www.gofundme.com/mvc.php?route=contact/form&amp;pid=500_When_should_I_report_a_campaign\">Click to report.</a></p>\n<p>The &ldquo;Support Officer Wilson&rdquo; page url: <a href=\"http://www.gofundme.com/supportofficerwilson\">http://www.gofundme.com/supportofficerwilson</a></p>\n<p>This is my message, in case you want to copy and paste:</p>\n<p><em>Your Terms of Service prohibit &ldquo;items that promote&hellip; hate, racial intolerance, or the financial exploitation of a crime.&rdquo; Take a look at the comments that come with the donations on this page and tell me that doesn&rsquo;t violate your terms. &ldquo;Support Officer Wilson&rdquo; is a thin veil for people rewarding Wilson for killing a black kid.</em></p>",
+            "content_raw": "<p>People are giving Wilson money to thank him for killing an unarmed black teenager. Please report this to GoFundMe, as it violates their Terms of Service and they get 5% of the tens of thousands of dollars being donated. <a href=\"http://www.gofundme.com/mvc.php?route=contact/form&amp;pid=500_When_should_I_report_a_campaign\">Click to report.</a></p>\n<p>The \u201cSupport Officer Wilson\u201d page url: <a href=\"http://www.gofundme.com/supportofficerwilson\">http://www.gofundme.com/supportofficerwilson</a></p>\n<p>This is my message, in case you want to copy and paste:</p>\n<p><em>Your Terms of Service prohibit \u201citems that promote\u2026 hate, racial intolerance, or the financial exploitation of a crime.\u201d Take a look at the comments that come with the donations on this page and tell me that doesn\u2019t violate your terms. \u201cSupport Officer Wilson\u201d is a thin veil for people rewarding Wilson for killing a black kid.</em></p>",
+            "is_root_item": true,
+            "post": {
+                "id": "95390791380"
+            }
+        }
+    ],
+    "type": "photo"
+}

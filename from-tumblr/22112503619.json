@@ -1,0 +1,78 @@
+{
+    "blog": {
+        "description": "Writing and Stuff from Isaac Z. Schlueter",
+        "name": "izs",
+        "title": "blog.izs.me",
+        "updated": 1544051896,
+        "url": "http://blog.izs.me/",
+        "uuid": "t:qZa3tMNNGjX7PQ45aXJ-jw"
+    },
+    "blog_name": "izs",
+    "body": "<p>Pretty much on a daily basis, in some conversation either in real life, or over the internet, someone justifies a software design decision based on something being easier or more difficult to explain to beginners.  Most often, this is regarding programming language design, or language patterns.</p>\n\n<p>I think the &ldquo;easier to explain to beginners&rdquo; argument is a fine one if you&rsquo;re tasked with making a bunch of beginners productive as fast as possible.</p>\n\n<p>As it happens, with respect to the JavaScript language at least, I am not a beginner, nor do I share in code creation/maintenance with very many beginners, so that argument is not so compelling to me.</p>\n\n<p>In my experience, most people spend a short time being a beginner, and then a long time being experts. By the nature of the time spent in each state, there will tend to be more experts than beginners, just as there are typically more adults than children. You certainly wouldn&rsquo;t suggest that cars should be illegal simply because it takes so many years for a child to learn to drive responsibly!</p>\n\n<p>Therefor, for me at least, it seems better to optimize to minimize the mistakes that experts continue to make, and use patterns that will be the most convenient for experts to maintain.</p>\n\n<p>And becoming an expert is not so hard, really. It just takes a thousand hours or so of JavaScript use (assuming that the person already is a decent programmer in some other language). It&rsquo;s a lot easier than becoming a competent dentist or hairdresser or lawyer, and there are plenty of dentists and hairdressers and lawyers.</p>\n\n<p>As experts, we should not push for less powerful abstractions on the basis that newcomers have a hard time with them.  Instead, we should push newcomers to <em>become</em> experts by supplying them with mentorship, support, and the truth.</p>\n\n<p>That&rsquo;s not to say that the language should be so difficult or abstract as to be completely impenetrable.  We <em>do</em> need a nice smooth incline to the learning curve, so that newcomers will not be turned away abruptly.  But in general, if you expect people to be somewhat smart and capable, they will be.</p>",
+    "can_like": false,
+    "can_reblog": false,
+    "can_reply": false,
+    "can_send_in_message": true,
+    "date": "2012-04-30 07:27:27 GMT",
+    "display_avatar": true,
+    "format": "markdown",
+    "id": 22112503619,
+    "is_blocks_post_format": false,
+    "note_count": 1,
+    "post_url": "http://blog.izs.me/post/22112503619/beginner-ease",
+    "reblog": {
+        "comment": "<p>Pretty much on a daily basis, in some conversation either in real life, or over the internet, someone justifies a software design decision based on something being easier or more difficult to explain to beginners.  Most often, this is regarding programming language design, or language patterns.</p>\n\n<p>I think the \u201ceasier to explain to beginners\u201d argument is a fine one if you\u2019re tasked with making a bunch of beginners productive as fast as possible.</p>\n\n<p>As it happens, with respect to the JavaScript language at least, I am not a beginner, nor do I share in code creation/maintenance with very many beginners, so that argument is not so compelling to me.</p>\n\n<p>In my experience, most people spend a short time being a beginner, and then a long time being experts. By the nature of the time spent in each state, there will tend to be more experts than beginners, just as there are typically more adults than children. You certainly wouldn\u2019t suggest that cars should be illegal simply because it takes so many years for a child to learn to drive responsibly!</p>\n\n<p>Therefor, for me at least, it seems better to optimize to minimize the mistakes that experts continue to make, and use patterns that will be the most convenient for experts to maintain.</p>\n\n<p>And becoming an expert is not so hard, really. It just takes a thousand hours or so of JavaScript use (assuming that the person already is a decent programmer in some other language). It\u2019s a lot easier than becoming a competent dentist or hairdresser or lawyer, and there are plenty of dentists and hairdressers and lawyers.</p>\n\n<p>As experts, we should not push for less powerful abstractions on the basis that newcomers have a hard time with them.  Instead, we should push newcomers to <em>become</em> experts by supplying them with mentorship, support, and the truth.</p>\n\n<p>That\u2019s not to say that the language should be so difficult or abstract as to be completely impenetrable.  We <em>do</em> need a nice smooth incline to the learning curve, so that newcomers will not be turned away abruptly.  But in general, if you expect people to be somewhat smart and capable, they will be.</p>",
+        "tree_html": ""
+    },
+    "reblog_key": "kpZDYg2y",
+    "recommended_color": null,
+    "recommended_source": null,
+    "short_url": "https://tmblr.co/Z7nwWyKc0WT3",
+    "slug": "beginner-ease",
+    "state": "published",
+    "summary": "Beginner Ease",
+    "tags": [],
+    "timestamp": 1335770847,
+    "title": "Beginner Ease",
+    "trail": [
+        {
+            "blog": {
+                "active": true,
+                "can_be_followed": true,
+                "name": "izs",
+                "share_following": false,
+                "share_likes": false,
+                "theme": {
+                    "avatar_shape": "square",
+                    "background_color": "#444444",
+                    "body_font": "Helvetica Neue",
+                    "header_bounds": "978,2448,2355,0",
+                    "header_focus_height": 1152,
+                    "header_focus_width": 2048,
+                    "header_full_height": 3264,
+                    "header_full_width": 2448,
+                    "header_image": "https://static.tumblr.com/d248e27715343669f06a3852fd2cda53/utow0jf/nwUnbvgl6/tumblr_static_d2yiqqjdv1w8gsw0s0g4goc0o.jpg",
+                    "header_image_focused": "https://static.tumblr.com/d248e27715343669f06a3852fd2cda53/utow0jf/mA1nbvglg/tumblr_static_tumblr_static_d2yiqqjdv1w8gsw0s0g4goc0o_focused_v3.jpg",
+                    "header_image_scaled": "https://static.tumblr.com/d248e27715343669f06a3852fd2cda53/utow0jf/nwUnbvgl6/tumblr_static_d2yiqqjdv1w8gsw0s0g4goc0o_2048_v2.jpg",
+                    "header_stretch": true,
+                    "link_color": "#FB4C16",
+                    "show_avatar": true,
+                    "show_description": true,
+                    "show_header_image": true,
+                    "show_title": true,
+                    "title_color": "#fb4c16",
+                    "title_font": "Gibson",
+                    "title_font_weight": "regular"
+                }
+            },
+            "content": "<p>Pretty much on a daily basis, in some conversation either in real life, or over the internet, someone justifies a software design decision based on something being easier or more difficult to explain to beginners.  Most often, this is regarding programming language design, or language patterns.</p>\n\n<p>I think the &ldquo;easier to explain to beginners&rdquo; argument is a fine one if you&rsquo;re tasked with making a bunch of beginners productive as fast as possible.</p>\n\n<p>As it happens, with respect to the JavaScript language at least, I am not a beginner, nor do I share in code creation/maintenance with very many beginners, so that argument is not so compelling to me.</p>\n\n<p>In my experience, most people spend a short time being a beginner, and then a long time being experts. By the nature of the time spent in each state, there will tend to be more experts than beginners, just as there are typically more adults than children. You certainly wouldn&rsquo;t suggest that cars should be illegal simply because it takes so many years for a child to learn to drive responsibly!</p>\n\n<p>Therefor, for me at least, it seems better to optimize to minimize the mistakes that experts continue to make, and use patterns that will be the most convenient for experts to maintain.</p>\n\n<p>And becoming an expert is not so hard, really. It just takes a thousand hours or so of JavaScript use (assuming that the person already is a decent programmer in some other language). It&rsquo;s a lot easier than becoming a competent dentist or hairdresser or lawyer, and there are plenty of dentists and hairdressers and lawyers.</p>\n\n<p>As experts, we should not push for less powerful abstractions on the basis that newcomers have a hard time with them.  Instead, we should push newcomers to <em>become</em> experts by supplying them with mentorship, support, and the truth.</p>\n\n<p>That&rsquo;s not to say that the language should be so difficult or abstract as to be completely impenetrable.  We <em>do</em> need a nice smooth incline to the learning curve, so that newcomers will not be turned away abruptly.  But in general, if you expect people to be somewhat smart and capable, they will be.</p>",
+            "content_raw": "<p>Pretty much on a daily basis, in some conversation either in real life, or over the internet, someone justifies a software design decision based on something being easier or more difficult to explain to beginners.  Most often, this is regarding programming language design, or language patterns.</p>\n\n<p>I think the \u201ceasier to explain to beginners\u201d argument is a fine one if you\u2019re tasked with making a bunch of beginners productive as fast as possible.</p>\n\n<p>As it happens, with respect to the JavaScript language at least, I am not a beginner, nor do I share in code creation/maintenance with very many beginners, so that argument is not so compelling to me.</p>\n\n<p>In my experience, most people spend a short time being a beginner, and then a long time being experts. By the nature of the time spent in each state, there will tend to be more experts than beginners, just as there are typically more adults than children. You certainly wouldn\u2019t suggest that cars should be illegal simply because it takes so many years for a child to learn to drive responsibly!</p>\n\n<p>Therefor, for me at least, it seems better to optimize to minimize the mistakes that experts continue to make, and use patterns that will be the most convenient for experts to maintain.</p>\n\n<p>And becoming an expert is not so hard, really. It just takes a thousand hours or so of JavaScript use (assuming that the person already is a decent programmer in some other language). It\u2019s a lot easier than becoming a competent dentist or hairdresser or lawyer, and there are plenty of dentists and hairdressers and lawyers.</p>\n\n<p>As experts, we should not push for less powerful abstractions on the basis that newcomers have a hard time with them.  Instead, we should push newcomers to <em>become</em> experts by supplying them with mentorship, support, and the truth.</p>\n\n<p>That\u2019s not to say that the language should be so difficult or abstract as to be completely impenetrable.  We <em>do</em> need a nice smooth incline to the learning curve, so that newcomers will not be turned away abruptly.  But in general, if you expect people to be somewhat smart and capable, they will be.</p>",
+            "is_current_item": true,
+            "is_root_item": true,
+            "post": {
+                "id": "22112503619"
+            }
+        }
+    ],
+    "type": "text"
+}

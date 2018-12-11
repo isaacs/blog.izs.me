@@ -1,0 +1,84 @@
+{
+    "blog": {
+        "description": "Writing and Stuff from Isaac Z. Schlueter",
+        "name": "izs",
+        "title": "blog.izs.me",
+        "updated": 1544051896,
+        "url": "http://blog.izs.me/",
+        "uuid": "t:qZa3tMNNGjX7PQ45aXJ-jw"
+    },
+    "blog_name": "izs",
+    "can_like": false,
+    "can_reblog": false,
+    "can_reply": false,
+    "can_send_in_message": true,
+    "date": "2009-11-18 07:51:28 GMT",
+    "description": "<p>Seems like Microsoft is doing something not completely retarded. I will be watching closely.</p>",
+    "display_avatar": true,
+    "excerpt": null,
+    "feed_item": "http://jungleg.com/2009/11/17/microsoft-azure-is-the-new-outlook/",
+    "format": "html",
+    "from_feed_id": "606330",
+    "id": 248236951,
+    "is_blocks_post_format": false,
+    "link_author": null,
+    "note_count": 0,
+    "post_url": "http://blog.izs.me/post/248236951/microsoft-azure-is-the-new-outlook-jungleg",
+    "publisher": "jungleg.com",
+    "reblog": {
+        "comment": "<p>Seems like Microsoft is doing something not completely retarded. I will be watching closely.</p>",
+        "tree_html": ""
+    },
+    "reblog_key": "tOsgtSL2",
+    "recommended_color": null,
+    "recommended_source": null,
+    "short_url": "https://tmblr.co/Z7nwWyEoykN",
+    "slug": "microsoft-azure-is-the-new-outlook-jungleg",
+    "state": "published",
+    "summary": "Microsoft Azure is The New Outlook \u2014 jungleG",
+    "tags": [],
+    "timestamp": 1258530688,
+    "title": "Microsoft Azure is The New Outlook \u2014 jungleG",
+    "trail": [
+        {
+            "blog": {
+                "active": true,
+                "can_be_followed": true,
+                "name": "izs",
+                "share_following": false,
+                "share_likes": false,
+                "theme": {
+                    "avatar_shape": "square",
+                    "background_color": "#444444",
+                    "body_font": "Helvetica Neue",
+                    "header_bounds": "978,2448,2355,0",
+                    "header_focus_height": 1152,
+                    "header_focus_width": 2048,
+                    "header_full_height": 3264,
+                    "header_full_width": 2448,
+                    "header_image": "https://static.tumblr.com/d248e27715343669f06a3852fd2cda53/utow0jf/nwUnbvgl6/tumblr_static_d2yiqqjdv1w8gsw0s0g4goc0o.jpg",
+                    "header_image_focused": "https://static.tumblr.com/d248e27715343669f06a3852fd2cda53/utow0jf/mA1nbvglg/tumblr_static_tumblr_static_d2yiqqjdv1w8gsw0s0g4goc0o_focused_v3.jpg",
+                    "header_image_scaled": "https://static.tumblr.com/d248e27715343669f06a3852fd2cda53/utow0jf/nwUnbvgl6/tumblr_static_d2yiqqjdv1w8gsw0s0g4goc0o_2048_v2.jpg",
+                    "header_stretch": true,
+                    "link_color": "#FB4C16",
+                    "show_avatar": true,
+                    "show_description": true,
+                    "show_header_image": true,
+                    "show_title": true,
+                    "title_color": "#fb4c16",
+                    "title_font": "Gibson",
+                    "title_font_weight": "regular"
+                }
+            },
+            "content": "<p>Seems like Microsoft is doing something not completely retarded. I will be watching closely.</p>",
+            "content_raw": "<p>Seems like Microsoft is doing something not completely retarded. I will be watching closely.</p>",
+            "is_current_item": true,
+            "is_root_item": true,
+            "post": {
+                "id": "248236951"
+            }
+        }
+    ],
+    "type": "link",
+    "url": "http://jungleg.com/2009/11/17/microsoft-azure-is-the-new-outlook/"
+}

@@ -1,0 +1,98 @@
+{
+    "blog": {
+        "description": "Writing and Stuff from Isaac Z. Schlueter",
+        "name": "izs",
+        "title": "blog.izs.me",
+        "updated": 1544051896,
+        "url": "http://blog.izs.me/",
+        "uuid": "t:qZa3tMNNGjX7PQ45aXJ-jw"
+    },
+    "blog_name": "izs",
+    "can_like": false,
+    "can_reblog": false,
+    "can_reply": false,
+    "can_send_in_message": true,
+    "caption": "<p>Netflix is Doing It Right.</p>\n\n<p>This is how employees should be treated, and how creative knowledge-based companies should be run.</p>\n\n<p>Given that <a href=\"http://www.ted.com/talks/dan_pink_on_motivation.html\">short-term incentives motivate far less effectively than a sense of control and ownership</a>, isn&rsquo;t it time that businesses start using what science knows to make their employees more productive?</p>\n\n<p>If I ever go to another BDC after I&rsquo;m done at Yahoo, I&rsquo;ll take a good long look at Netflix.  Now I understand why engineers who go there and seem so happy.</p>",
+    "date": "2009-08-28 17:02:53 GMT",
+    "display_avatar": true,
+    "format": "markdown",
+    "html5_capable": false,
+    "id": 173999202,
+    "is_blocks_post_format": false,
+    "note_count": 1,
+    "player": [
+        {
+            "embed_code": "<div style=\"width:425px;text-align:left\" id=\"__ss_1798664\"><a style=\"font:14px Helvetica,Arial,Sans-serif;display:block;margin:12px 0 3px 0;text-decoration:underline;\" href=\"http://www.slideshare.net/reed2001/culture-1798664\" title=\"Culture\">Culture</a><object style=\"margin:0px\" width=\"250\" height=\"209\"><param name=\"movie\" value=\"http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=culture9-090801103430-phpapp02&stripped_title=culture-1798664\" /><param name=\"allowFullScreen\" value=\"true\"/><param name=\"allowScriptAccess\" value=\"always\"/><embed src=\"http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=culture9-090801103430-phpapp02&stripped_title=culture-1798664\" type=\"application/x-shockwave-flash\" allowscriptaccess=\"always\" allowfullscreen=\"true\" width=\"250\" height=\"209\"></embed></object><div style=\"font-size:11px;font-family:tahoma,arial;height:26px;padding-top:2px;\">View more <a style=\"text-decoration:underline;\" href=\"http://www.slideshare.net/\">presentations</a> from <a style=\"text-decoration:underline;\" href=\"http://www.slideshare.net/reed2001\">Reed Hastings</a>.</div></div>",
+            "width": 250
+        },
+        {
+            "embed_code": "<div style=\"width:425px;text-align:left\" id=\"__ss_1798664\"><a style=\"font:14px Helvetica,Arial,Sans-serif;display:block;margin:12px 0 3px 0;text-decoration:underline;\" href=\"http://www.slideshare.net/reed2001/culture-1798664\" title=\"Culture\">Culture</a><object style=\"margin:0px\" width=\"400\" height=\"334\"><param name=\"movie\" value=\"http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=culture9-090801103430-phpapp02&stripped_title=culture-1798664\" /><param name=\"allowFullScreen\" value=\"true\"/><param name=\"allowScriptAccess\" value=\"always\"/><embed src=\"http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=culture9-090801103430-phpapp02&stripped_title=culture-1798664\" type=\"application/x-shockwave-flash\" allowscriptaccess=\"always\" allowfullscreen=\"true\" width=\"400\" height=\"334\"></embed></object><div style=\"font-size:11px;font-family:tahoma,arial;height:26px;padding-top:2px;\">View more <a style=\"text-decoration:underline;\" href=\"http://www.slideshare.net/\">presentations</a> from <a style=\"text-decoration:underline;\" href=\"http://www.slideshare.net/reed2001\">Reed Hastings</a>.</div></div>",
+            "width": 400
+        },
+        {
+            "embed_code": "<div style=\"width:425px;text-align:left\" id=\"__ss_1798664\"><a style=\"font:14px Helvetica,Arial,Sans-serif;display:block;margin:12px 0 3px 0;text-decoration:underline;\" href=\"http://www.slideshare.net/reed2001/culture-1798664\" title=\"Culture\">Culture</a><object style=\"margin:0px\" width=\"500\" height=\"418\"><param name=\"movie\" value=\"http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=culture9-090801103430-phpapp02&stripped_title=culture-1798664\" /><param name=\"allowFullScreen\" value=\"true\"/><param name=\"allowScriptAccess\" value=\"always\"/><embed src=\"http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=culture9-090801103430-phpapp02&stripped_title=culture-1798664\" type=\"application/x-shockwave-flash\" allowscriptaccess=\"always\" allowfullscreen=\"true\" width=\"500\" height=\"418\"></embed></object><div style=\"font-size:11px;font-family:tahoma,arial;height:26px;padding-top:2px;\">View more <a style=\"text-decoration:underline;\" href=\"http://www.slideshare.net/\">presentations</a> from <a style=\"text-decoration:underline;\" href=\"http://www.slideshare.net/reed2001\">Reed Hastings</a>.</div></div>",
+            "width": 500
+        }
+    ],
+    "post_url": "http://blog.izs.me/post/173999202/netflix-culture",
+    "reblog": {
+        "comment": "<p>Netflix is Doing It Right.</p>\n\n<p>This is how employees should be treated, and how creative knowledge-based companies should be run.</p>\n\n<p>Given that <a href=\"http://www.ted.com/talks/dan_pink_on_motivation.html\">short-term incentives motivate far less effectively than a sense of control and ownership</a>, isn\u2019t it time that businesses start using what science knows to make their employees more productive?</p>\n\n<p>If I ever go to another BDC after I\u2019m done at Yahoo, I\u2019ll take a good long look at Netflix.  Now I understand why engineers who go there and seem so happy.</p>",
+        "tree_html": ""
+    },
+    "reblog_key": "IGRdfdxb",
+    "recommended_color": null,
+    "recommended_source": null,
+    "short_url": "https://tmblr.co/Z7nwWyANmHY",
+    "slug": "netflix-culture",
+    "state": "published",
+    "summary": "Netflix is Doing It Right.\r\n\r\nThis is how employees should be treated, and how creative knowledge-based companies should be...",
+    "tags": [
+        "business"
+    ],
+    "thumbnail_height": 0,
+    "thumbnail_url": "",
+    "thumbnail_width": 0,
+    "timestamp": 1251478973,
+    "trail": [
+        {
+            "blog": {
+                "active": true,
+                "can_be_followed": true,
+                "name": "izs",
+                "share_following": false,
+                "share_likes": false,
+                "theme": {
+                    "avatar_shape": "square",
+                    "background_color": "#444444",
+                    "body_font": "Helvetica Neue",
+                    "header_bounds": "978,2448,2355,0",
+                    "header_focus_height": 1152,
+                    "header_focus_width": 2048,
+                    "header_full_height": 3264,
+                    "header_full_width": 2448,
+                    "header_image": "https://static.tumblr.com/d248e27715343669f06a3852fd2cda53/utow0jf/nwUnbvgl6/tumblr_static_d2yiqqjdv1w8gsw0s0g4goc0o.jpg",
+                    "header_image_focused": "https://static.tumblr.com/d248e27715343669f06a3852fd2cda53/utow0jf/mA1nbvglg/tumblr_static_tumblr_static_d2yiqqjdv1w8gsw0s0g4goc0o_focused_v3.jpg",
+                    "header_image_scaled": "https://static.tumblr.com/d248e27715343669f06a3852fd2cda53/utow0jf/nwUnbvgl6/tumblr_static_d2yiqqjdv1w8gsw0s0g4goc0o_2048_v2.jpg",
+                    "header_stretch": true,
+                    "link_color": "#FB4C16",
+                    "show_avatar": true,
+                    "show_description": true,
+                    "show_header_image": true,
+                    "show_title": true,
+                    "title_color": "#fb4c16",
+                    "title_font": "Gibson",
+                    "title_font_weight": "regular"
+                }
+            },
+            "content": "<p>Netflix is Doing It Right.</p>\n\n<p>This is how employees should be treated, and how creative knowledge-based companies should be run.</p>\n\n<p>Given that <a href=\"http://www.ted.com/talks/dan_pink_on_motivation.html\">short-term incentives motivate far less effectively than a sense of control and ownership</a>, isn&rsquo;t it time that businesses start using what science knows to make their employees more productive?</p>\n\n<p>If I ever go to another BDC after I&rsquo;m done at Yahoo, I&rsquo;ll take a good long look at Netflix.  Now I understand why engineers who go there and seem so happy.</p>",
+            "content_raw": "<p>Netflix is Doing It Right.</p>\n\n<p>This is how employees should be treated, and how creative knowledge-based companies should be run.</p>\n\n<p>Given that <a href=\"http://www.ted.com/talks/dan_pink_on_motivation.html\">short-term incentives motivate far less effectively than a sense of control and ownership</a>, isn\u2019t it time that businesses start using what science knows to make their employees more productive?</p>\n\n<p>If I ever go to another BDC after I\u2019m done at Yahoo, I\u2019ll take a good long look at Netflix.  Now I understand why engineers who go there and seem so happy.</p>",
+            "is_current_item": true,
+            "is_root_item": true,
+            "post": {
+                "id": "173999202"
+            }
+        }
+    ],
+    "type": "video",
+    "video_type": "unknown"
+}

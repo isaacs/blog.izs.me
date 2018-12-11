@@ -1,0 +1,61 @@
+{
+    "blog": {
+        "description": "Writing and Stuff from Isaac Z. Schlueter",
+        "name": "izs",
+        "title": "blog.izs.me",
+        "updated": 1544051896,
+        "url": "http://blog.izs.me/",
+        "uuid": "t:qZa3tMNNGjX7PQ45aXJ-jw"
+    },
+    "blog_name": "izs",
+    "body": "10:52:59 AM isaac_schlueter: http://github.com/isaacs/narwhal/blob/master/lib/http-client.js\r\n10:53:13 AM isaac_schlueter: usage: http://github.com/isaacs/narwhal-playground/blob/master/http-client.js\r\n10:53:53 AM richtaur: omg your code looks so much like mine <3\r\n10:54:25 AM isaac_schlueter: omg that's the most nerdy bromantic thing you've ever said to me.\r\n",
+    "can_like": false,
+    "can_reblog": false,
+    "can_reply": false,
+    "can_send_in_message": true,
+    "date": "2009-09-02 21:00:19 GMT",
+    "dialogue": [
+        {
+            "label": "isaac_schlueter:",
+            "name": "isaac_schlueter",
+            "phrase": "http://github.com/isaacs/narwhal/blob/master/lib/http-client.js"
+        },
+        {
+            "label": "isaac_schlueter:",
+            "name": "isaac_schlueter",
+            "phrase": "usage: http://github.com/isaacs/narwhal-playground/blob/master/http-client.js"
+        },
+        {
+            "label": "richtaur:",
+            "name": "richtaur",
+            "phrase": "omg your code looks so much like mine <3"
+        },
+        {
+            "label": "isaac_schlueter:",
+            "name": "isaac_schlueter",
+            "phrase": "omg that's the most nerdy bromantic thing you've ever said to me."
+        }
+    ],
+    "display_avatar": true,
+    "format": "markdown",
+    "id": 178213849,
+    "is_blocks_post_format": false,
+    "note_count": 2,
+    "post_url": "http://blog.izs.me/post/178213849/coding-style",
+    "reblog_key": "gWpB8Uk2",
+    "recommended_color": null,
+    "recommended_source": null,
+    "short_url": "https://tmblr.co/Z7nwWyAdrFP",
+    "slug": "coding-style",
+    "state": "published",
+    "summary": "Coding Style",
+    "tags": [
+        "richtaur",
+        "bromance",
+        "Code Beauty",
+        "sistertrain"
+    ],
+    "timestamp": 1251925219,
+    "title": "Coding Style",
+    "type": "chat"
+}

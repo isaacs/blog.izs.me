@@ -1,0 +1,131 @@
+{
+    "blog": {
+        "description": "Writing and Stuff from Isaac Z. Schlueter",
+        "name": "izs",
+        "title": "blog.izs.me",
+        "updated": 1544051896,
+        "url": "http://blog.izs.me/",
+        "uuid": "t:qZa3tMNNGjX7PQ45aXJ-jw"
+    },
+    "blog_name": "izs",
+    "can_like": false,
+    "can_reblog": false,
+    "can_reply": false,
+    "can_send_in_message": true,
+    "caption": "<p>They Might Be Giants played a hell of a show at the Berkeley UC Theater. They did two sets (opening for themselves). On the way out I heard some guy say he got the set list and I felt sharp pangs of envy, but I got a picture of it. Which, really, is for the best because all I&rsquo;d do if I&rsquo;d been the one to grab the list is take a picture and then guiltily keep the faded paper for too long and then guiltily throw it away eventually. </p>\n\n<p>A tmbg show is a thing of beauty. Their catalog is so huge, and they&rsquo;re still so prolific, it&rsquo;s a good bet that they&rsquo;ll play a few songs you&rsquo;d forgotten, a few you don&rsquo;t know, a few you just started listening to, and your favorite from a long time ago. And a surprising cover or two. (In this case, it was &ldquo;pay my bills&rdquo; by Destiny&rsquo;s Child.) Plus they&rsquo;re hilarious, and rock stars.  (at The UC Theatre)</p>",
+    "date": "2016-07-23 07:31:12 GMT",
+    "display_avatar": true,
+    "format": "html",
+    "id": 147836326983,
+    "image_permalink": "http://blog.izs.me/image/147836326983",
+    "is_blocks_post_format": false,
+    "link_url": "https://www.instagram.com/p/BIMhhOjA4Eg/",
+    "note_count": 0,
+    "photos": [
+        {
+            "alt_sizes": [
+                {
+                    "height": 1080,
+                    "url": "https://66.media.tumblr.com/4f87dd83f2851c971fb970b2ff7fe29b/tumblr_oarbk0DSY91qzjzo9o1_1280.jpg",
+                    "width": 1080
+                },
+                {
+                    "height": 640,
+                    "url": "https://66.media.tumblr.com/4f87dd83f2851c971fb970b2ff7fe29b/tumblr_oarbk0DSY91qzjzo9o1_640.jpg",
+                    "width": 640
+                },
+                {
+                    "height": 540,
+                    "url": "https://66.media.tumblr.com/4f87dd83f2851c971fb970b2ff7fe29b/tumblr_oarbk0DSY91qzjzo9o1_540.jpg",
+                    "width": 540
+                },
+                {
+                    "height": 500,
+                    "url": "https://66.media.tumblr.com/4f87dd83f2851c971fb970b2ff7fe29b/tumblr_oarbk0DSY91qzjzo9o1_500.jpg",
+                    "width": 500
+                },
+                {
+                    "height": 400,
+                    "url": "https://66.media.tumblr.com/4f87dd83f2851c971fb970b2ff7fe29b/tumblr_oarbk0DSY91qzjzo9o1_400.jpg",
+                    "width": 400
+                },
+                {
+                    "height": 250,
+                    "url": "https://66.media.tumblr.com/4f87dd83f2851c971fb970b2ff7fe29b/tumblr_oarbk0DSY91qzjzo9o1_250.jpg",
+                    "width": 250
+                },
+                {
+                    "height": 100,
+                    "url": "https://66.media.tumblr.com/4f87dd83f2851c971fb970b2ff7fe29b/tumblr_oarbk0DSY91qzjzo9o1_100.jpg",
+                    "width": 100
+                },
+                {
+                    "height": 75,
+                    "url": "https://66.media.tumblr.com/4f87dd83f2851c971fb970b2ff7fe29b/tumblr_oarbk0DSY91qzjzo9o1_75sq.jpg",
+                    "width": 75
+                }
+            ],
+            "caption": "",
+            "original_size": {
+                "height": 1080,
+                "url": "https://66.media.tumblr.com/4f87dd83f2851c971fb970b2ff7fe29b/tumblr_oarbk0DSY91qzjzo9o1_1280.jpg",
+                "width": 1080
+            }
+        }
+    ],
+    "post_url": "http://blog.izs.me/post/147836326983/they-might-be-giants-played-a-hell-of-a-show-at",
+    "reblog": {
+        "comment": "<p>They Might Be Giants played a hell of a show at the Berkeley UC Theater. They did two sets (opening for themselves). On the way out I heard some guy say he got the set list and I felt sharp pangs of envy, but I got a picture of it. Which, really, is for the best because all I\u2019d do if I\u2019d been the one to grab the list is take a picture and then guiltily keep the faded paper for too long and then guiltily throw it away eventually. </p>\n\n<p>A tmbg show is a thing of beauty. Their catalog is so huge, and they\u2019re still so prolific, it\u2019s a good bet that they\u2019ll play a few songs you\u2019d forgotten, a few you don\u2019t know, a few you just started listening to, and your favorite from a long time ago. And a surprising cover or two. (In this case, it was \u201cpay my bills\u201d by Destiny\u2019s Child.) Plus they\u2019re hilarious, and rock stars.  (at The UC Theatre)</p>",
+        "tree_html": ""
+    },
+    "reblog_key": "rkmCXpIf",
+    "recommended_color": null,
+    "recommended_source": null,
+    "short_url": "https://tmblr.co/Z7nwWy29hkrH7",
+    "slug": "they-might-be-giants-played-a-hell-of-a-show-at",
+    "state": "published",
+    "summary": "They Might Be Giants played a hell of a show at the Berkeley UC Theater. They did two sets (opening for themselves). On the way...",
+    "tags": [],
+    "timestamp": 1469259072,
+    "trail": [
+        {
+            "blog": {
+                "active": true,
+                "can_be_followed": true,
+                "name": "izs",
+                "share_following": false,
+                "share_likes": false,
+                "theme": {
+                    "avatar_shape": "square",
+                    "background_color": "#444444",
+                    "body_font": "Helvetica Neue",
+                    "header_bounds": "978,2448,2355,0",
+                    "header_focus_height": 1152,
+                    "header_focus_width": 2048,
+                    "header_full_height": 3264,
+                    "header_full_width": 2448,
+                    "header_image": "https://static.tumblr.com/d248e27715343669f06a3852fd2cda53/utow0jf/nwUnbvgl6/tumblr_static_d2yiqqjdv1w8gsw0s0g4goc0o.jpg",
+                    "header_image_focused": "https://static.tumblr.com/d248e27715343669f06a3852fd2cda53/utow0jf/mA1nbvglg/tumblr_static_tumblr_static_d2yiqqjdv1w8gsw0s0g4goc0o_focused_v3.jpg",
+                    "header_image_scaled": "https://static.tumblr.com/d248e27715343669f06a3852fd2cda53/utow0jf/nwUnbvgl6/tumblr_static_d2yiqqjdv1w8gsw0s0g4goc0o_2048_v2.jpg",
+                    "header_stretch": true,
+                    "link_color": "#FB4C16",
+                    "show_avatar": true,
+                    "show_description": true,
+                    "show_header_image": true,
+                    "show_title": true,
+                    "title_color": "#fb4c16",
+                    "title_font": "Gibson",
+                    "title_font_weight": "regular"
+                }
+            },
+            "content": "<p>They Might Be Giants played a hell of a show at the Berkeley UC Theater. They did two sets (opening for themselves). On the way out I heard some guy say he got the set list and I felt sharp pangs of envy, but I got a picture of it. Which, really, is for the best because all I&rsquo;d do if I&rsquo;d been the one to grab the list is take a picture and then guiltily keep the faded paper for too long and then guiltily throw it away eventually. </p>\n\n<p>A tmbg show is a thing of beauty. Their catalog is so huge, and they&rsquo;re still so prolific, it&rsquo;s a good bet that they&rsquo;ll play a few songs you&rsquo;d forgotten, a few you don&rsquo;t know, a few you just started listening to, and your favorite from a long time ago. And a surprising cover or two. (In this case, it was &ldquo;pay my bills&rdquo; by Destiny&rsquo;s Child.) Plus they&rsquo;re hilarious, and rock stars.  (at The UC Theatre)</p>",
+            "content_raw": "<p>They Might Be Giants played a hell of a show at the Berkeley UC Theater. They did two sets (opening for themselves). On the way out I heard some guy say he got the set list and I felt sharp pangs of envy, but I got a picture of it. Which, really, is for the best because all I\u2019d do if I\u2019d been the one to grab the list is take a picture and then guiltily keep the faded paper for too long and then guiltily throw it away eventually. </p>\n\n<p>A tmbg show is a thing of beauty. Their catalog is so huge, and they\u2019re still so prolific, it\u2019s a good bet that they\u2019ll play a few songs you\u2019d forgotten, a few you don\u2019t know, a few you just started listening to, and your favorite from a long time ago. And a surprising cover or two. (In this case, it was \u201cpay my bills\u201d by Destiny\u2019s Child.) Plus they\u2019re hilarious, and rock stars.  (at The UC Theatre)</p>",
+            "is_current_item": true,
+            "is_root_item": true,
+            "post": {
+                "id": "147836326983"
+            }
+        }
+    ],
+    "type": "photo"
+}

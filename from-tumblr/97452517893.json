@@ -1,0 +1,85 @@
+{
+    "blog": {
+        "description": "Writing and Stuff from Isaac Z. Schlueter",
+        "name": "izs",
+        "title": "blog.izs.me",
+        "updated": 1544051896,
+        "url": "http://blog.izs.me/",
+        "uuid": "t:qZa3tMNNGjX7PQ45aXJ-jw"
+    },
+    "blog_name": "izs",
+    "can_like": false,
+    "can_reblog": false,
+    "can_reply": false,
+    "can_send_in_message": true,
+    "date": "2014-09-14 06:30:00 GMT",
+    "description": "<p>Wow.  Fascinating breakdown of the origin, development, and nature of the \u201cgeek\u201d in popular culture, from R. Crumb to Frank Miller to The Dude.  <a href=\"http://www.ejumpcut.org/archive/jc54.2012/SolesKunyoGeedom/index.html\">Go read it.</a></p>\n\n<p><img src=\"http://cl.ly/image/2h031d472e1E/geek-venn.jpg\" alt=\"venn diagram\" width=\"100%\"/></p>\n\n<p>The tl;dr is that the \u201cgeek\u201d is a \u201csimulated ethnicity\u201d, assumed to tell a melodramatic story of triumph over adversity that lends credibility and moral authority to an otherwise unremarkable and unsympathetic member of the privileged class, who still vies for success within a traditional misogynistic, patriarchal, homophobic paradigm.</p>\n\n<p>Absolutely love this bit at the end:</p>\n\n<blockquote><p>What of the female geek? For the geek conceit to play out in its most misogynistic form, she must be missing. \u2026 [The female non-geek character] is elevated for her lack of geekiness because she is required to act as the reward the geek or \u201cnice guy\u201d feels entitled to in traditional patriarchal narratives. There is a missing character: the true geek female counterpart \u2026 who is loved for her brains and not for looks \u2026 This missing character lays bare the misogyny of geek melodrama.</p></blockquote>\n\n<p>Yep.  \u201cLaid bare\u201d is right.</p>\n\n<p><a href=\"http://www.ejumpcut.org/archive/jc54.2012/SolesKunyoGeedom/index.html\">Go read it.</a></p>",
+    "display_avatar": true,
+    "excerpt": null,
+    "format": "markdown",
+    "id": 97452517893,
+    "is_blocks_post_format": false,
+    "link_author": null,
+    "note_count": 2,
+    "post_url": "http://blog.izs.me/post/97452517893/postmodern-geekdom-as-simulated-ethnicity",
+    "publisher": "ejumpcut.org",
+    "reblog": {
+        "comment": "<p>Wow.  Fascinating breakdown of the origin, development, and nature of the \u201cgeek\u201d in popular culture, from R. Crumb to Frank Miller to The Dude.  <a href=\"http://www.ejumpcut.org/archive/jc54.2012/SolesKunyoGeedom/index.html\">Go read it.</a></p>\n\n<p><img src=\"http://cl.ly/image/2h031d472e1E/geek-venn.jpg\" alt=\"venn diagram\" width=\"100%\"></p>\n\n<p>The tl;dr is that the \u201cgeek\u201d is a \u201csimulated ethnicity\u201d, assumed to tell a melodramatic story of triumph over adversity that lends credibility and moral authority to an otherwise unremarkable and unsympathetic member of the privileged class, who still vies for success within a traditional misogynistic, patriarchal, homophobic paradigm.</p>\n\n<p>Absolutely love this bit at the end:</p>\n\n<blockquote><p>What of the female geek? For the geek conceit to play out in its most misogynistic form, she must be missing. \u2026 [The female non-geek character] is elevated for her lack of geekiness because she is required to act as the reward the geek or \u201cnice guy\u201d feels entitled to in traditional patriarchal narratives. There is a missing character: the true geek female counterpart \u2026 who is loved for her brains and not for looks \u2026 This missing character lays bare the misogyny of geek melodrama.</p></blockquote>\n\n<p>Yep.  \u201cLaid bare\u201d is right.</p>\n\n<p><a href=\"http://www.ejumpcut.org/archive/jc54.2012/SolesKunyoGeedom/index.html\">Go read it.</a></p>",
+        "tree_html": ""
+    },
+    "reblog_key": "5Ml69Jx1",
+    "recommended_color": null,
+    "recommended_source": null,
+    "short_url": "https://tmblr.co/Z7nwWy1Qmdse5",
+    "slug": "postmodern-geekdom-as-simulated-ethnicity",
+    "state": "published",
+    "summary": "Postmodern geekdom as simulated ethnicity",
+    "tags": [
+        "patriarchy",
+        "geekdom"
+    ],
+    "timestamp": 1410676200,
+    "title": "Postmodern geekdom as simulated ethnicity",
+    "trail": [
+        {
+            "blog": {
+                "active": true,
+                "can_be_followed": true,
+                "name": "izs",
+                "share_following": false,
+                "share_likes": false,
+                "theme": {
+                    "avatar_shape": "square",
+                    "background_color": "#444444",
+                    "body_font": "Helvetica Neue",
+                    "header_bounds": "978,2448,2355,0",
+                    "header_focus_height": 1152,
+                    "header_focus_width": 2048,
+                    "header_full_height": 3264,
+                    "header_full_width": 2448,
+                    "header_image": "https://static.tumblr.com/d248e27715343669f06a3852fd2cda53/utow0jf/nwUnbvgl6/tumblr_static_d2yiqqjdv1w8gsw0s0g4goc0o.jpg",
+                    "header_image_focused": "https://static.tumblr.com/d248e27715343669f06a3852fd2cda53/utow0jf/mA1nbvglg/tumblr_static_tumblr_static_d2yiqqjdv1w8gsw0s0g4goc0o_focused_v3.jpg",
+                    "header_image_scaled": "https://static.tumblr.com/d248e27715343669f06a3852fd2cda53/utow0jf/nwUnbvgl6/tumblr_static_d2yiqqjdv1w8gsw0s0g4goc0o_2048_v2.jpg",
+                    "header_stretch": true,
+                    "link_color": "#FB4C16",
+                    "show_avatar": true,
+                    "show_description": true,
+                    "show_header_image": true,
+                    "show_title": true,
+                    "title_color": "#fb4c16",
+                    "title_font": "Gibson",
+                    "title_font_weight": "regular"
+                }
+            },
+            "content": "<p>Wow.  Fascinating breakdown of the origin, development, and nature of the &ldquo;geek&rdquo; in popular culture, from R. Crumb to Frank Miller to The Dude.  <a href=\"http://www.ejumpcut.org/archive/jc54.2012/SolesKunyoGeedom/index.html\">Go read it.</a></p>\n\n<p><div class=\"external-image-wrapper\" data-loading-text=\"Loading...\" data-src=\"http://cl.ly/image/2h031d472e1E/geek-venn.jpg\">External image</div></p>\n\n<p>The tl;dr is that the &ldquo;geek&rdquo; is a &ldquo;simulated ethnicity&rdquo;, assumed to tell a melodramatic story of triumph over adversity that lends credibility and moral authority to an otherwise unremarkable and unsympathetic member of the privileged class, who still vies for success within a traditional misogynistic, patriarchal, homophobic paradigm.</p>\n\n<p>Absolutely love this bit at the end:</p>\n\n<blockquote><p>What of the female geek? For the geek conceit to play out in its most misogynistic form, she must be missing. &hellip; [The female non-geek character] is elevated for her lack of geekiness because she is required to act as the reward the geek or &ldquo;nice guy&rdquo; feels entitled to in traditional patriarchal narratives. There is a missing character: the true geek female counterpart &hellip; who is loved for her brains and not for looks &hellip; This missing character lays bare the misogyny of geek melodrama.</p></blockquote>\n\n<p>Yep.  &ldquo;Laid bare&rdquo; is right.</p>\n\n<p><a href=\"http://www.ejumpcut.org/archive/jc54.2012/SolesKunyoGeedom/index.html\">Go read it.</a></p>",
+            "content_raw": "<p>Wow.  Fascinating breakdown of the origin, development, and nature of the \u201cgeek\u201d in popular culture, from R. Crumb to Frank Miller to The Dude.  <a href=\"http://www.ejumpcut.org/archive/jc54.2012/SolesKunyoGeedom/index.html\">Go read it.</a></p>\n\n<p><img src=\"http://cl.ly/image/2h031d472e1E/geek-venn.jpg\" alt=\"venn diagram\" width=\"100%\"></p>\n\n<p>The tl;dr is that the \u201cgeek\u201d is a \u201csimulated ethnicity\u201d, assumed to tell a melodramatic story of triumph over adversity that lends credibility and moral authority to an otherwise unremarkable and unsympathetic member of the privileged class, who still vies for success within a traditional misogynistic, patriarchal, homophobic paradigm.</p>\n\n<p>Absolutely love this bit at the end:</p>\n\n<blockquote><p>What of the female geek? For the geek conceit to play out in its most misogynistic form, she must be missing. \u2026 [The female non-geek character] is elevated for her lack of geekiness because she is required to act as the reward the geek or \u201cnice guy\u201d feels entitled to in traditional patriarchal narratives. There is a missing character: the true geek female counterpart \u2026 who is loved for her brains and not for looks \u2026 This missing character lays bare the misogyny of geek melodrama.</p></blockquote>\n\n<p>Yep.  \u201cLaid bare\u201d is right.</p>\n\n<p><a href=\"http://www.ejumpcut.org/archive/jc54.2012/SolesKunyoGeedom/index.html\">Go read it.</a></p>",
+            "is_current_item": true,
+            "is_root_item": true,
+            "post": {
+                "id": "97452517893"
+            }
+        }
+    ],
+    "type": "link",
+    "url": "http://www.ejumpcut.org/archive/jc54.2012/SolesKunyoGeedom/index.html"
+}

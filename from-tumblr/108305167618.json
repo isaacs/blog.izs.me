@@ -1,0 +1,93 @@
+{
+    "blog": {
+        "description": "Writing and Stuff from Isaac Z. Schlueter",
+        "name": "izs",
+        "title": "blog.izs.me",
+        "updated": 1544051896,
+        "url": "http://blog.izs.me/",
+        "uuid": "t:qZa3tMNNGjX7PQ45aXJ-jw"
+    },
+    "blog_name": "izs",
+    "can_like": false,
+    "can_reblog": false,
+    "can_reply": false,
+    "can_send_in_message": true,
+    "date": "2015-01-17 01:39:36 GMT",
+    "description": "<p><a href=\"http://negativitysandwiches.com/post/108299473795/a-quick-and-dirty-annotation-of-why-women\" class=\"tumblr_blog\">jennschiffer</a>:</p>\n\n<blockquote>\n<div><i>The following are my quick and rough responses <a href=\"https://t.co/BrbavMn5jd\" target=\"_blank\">to this post</a> as I shoveled wonton soup into my mouth and talked to other women developers about how we are tired of people writing about whether we are doing the right thing or not as women in tech.</i> <blockquote><div><b>Why Women Shouldn\u2019t Code</b></div></blockquote>\nThis title should&hellip;</div></blockquote>",
+    "display_avatar": true,
+    "excerpt": null,
+    "format": "markdown",
+    "id": 108305167618,
+    "is_blocks_post_format": false,
+    "link_author": null,
+    "note_count": 98,
+    "post_url": "http://blog.izs.me/post/108305167618/a-quick-and-dirty-annotation-of-why-women",
+    "publisher": "negativitysandwiches.com",
+    "reblog": {
+        "comment": "",
+        "tree_html": "<p><a href=\"http://negativitysandwiches.com/post/108299473795/a-quick-and-dirty-annotation-of-why-women\" class=\"tumblr_blog\">jennschiffer</a>:</p><blockquote>\n<div>\n<i>The following are my quick and rough responses <a href=\"https://t.co/BrbavMn5jd\" target=\"_blank\">to this post</a> as I shoveled wonton soup into my mouth and talked to other women developers about how we are tired of people writing about whether we are doing the right thing or not as women in tech.</i> <blockquote><div><b>Why Women Shouldn\u2019t Code</b></div></blockquote>\nThis title should\u2026</div>\n</blockquote>"
+    },
+    "reblog_key": "X2SewvoO",
+    "reblogged_from_can_message": true,
+    "reblogged_from_id": "108299473795",
+    "reblogged_from_name": "jennschiffer",
+    "reblogged_from_title": "negativity sandwiches",
+    "reblogged_from_url": "http://negativitysandwiches.com/post/108299473795/a-quick-and-dirty-annotation-of-why-women",
+    "reblogged_from_uuid": "t:_DLlmlU4bFoTm5FgBlrHLQ",
+    "reblogged_root_can_message": true,
+    "reblogged_root_id": "108299473795",
+    "reblogged_root_name": "jennschiffer",
+    "reblogged_root_title": "negativity sandwiches",
+    "reblogged_root_url": "http://negativitysandwiches.com/post/108299473795/a-quick-and-dirty-annotation-of-why-women",
+    "reblogged_root_uuid": "t:_DLlmlU4bFoTm5FgBlrHLQ",
+    "recommended_color": null,
+    "recommended_source": null,
+    "short_url": "https://tmblr.co/Z7nwWy1atVRK2",
+    "slug": "a-quick-and-dirty-annotation-of-why-women",
+    "state": "published",
+    "summary": "A quick and dirty annotation of \"Why Women Shouldn't Code\"",
+    "tags": [],
+    "timestamp": 1421458776,
+    "title": "A quick and dirty annotation of \"Why Women Shouldn't Code\"",
+    "trail": [
+        {
+            "blog": {
+                "active": true,
+                "can_be_followed": true,
+                "name": "jennschiffer",
+                "share_following": false,
+                "share_likes": false,
+                "theme": {
+                    "avatar_shape": "circle",
+                    "background_color": "#0dadb8",
+                    "body_font": "Helvetica Neue",
+                    "header_bounds": "139,640,500,0",
+                    "header_focus_height": 361,
+                    "header_focus_width": 640,
+                    "header_full_height": 640,
+                    "header_full_width": 640,
+                    "header_image": "https://static.tumblr.com/41c1e730042d66b89368dd272e0b119e/neq6kdr/EzLnhrug2/tumblr_static_b3f1xkn1ecggoog88kw4w4o0s.jpg",
+                    "header_image_focused": "https://static.tumblr.com/41c1e730042d66b89368dd272e0b119e/neq6kdr/PF6nhrug3/tumblr_static_tumblr_static_b3f1xkn1ecggoog88kw4w4o0s_focused_v3.jpg",
+                    "header_image_scaled": "https://static.tumblr.com/41c1e730042d66b89368dd272e0b119e/neq6kdr/EzLnhrug2/tumblr_static_b3f1xkn1ecggoog88kw4w4o0s_2048_v2.jpg",
+                    "header_stretch": true,
+                    "link_color": "#ff00ff",
+                    "show_avatar": true,
+                    "show_description": true,
+                    "show_header_image": true,
+                    "show_title": true,
+                    "title_color": "#0e0101",
+                    "title_font": "Helvetica Neue",
+                    "title_font_weight": "regular"
+                }
+            },
+            "content": "<p>\n<i>The following are my quick and rough responses <a href=\"https://t.co/BrbavMn5jd\" target=\"_blank\">to this post</a> as I shoveled wonton soup into my mouth and talked to other women developers about how we are tired of people writing about whether we are doing the right thing or not as women in tech.</i> <blockquote><p><b>Why Women Shouldn&rsquo;t Code</b></p></blockquote>\nThis title should&hellip;</p>",
+            "content_raw": "<p><div>\n<i>The following are my quick and rough responses <a href=\"https://t.co/BrbavMn5jd\" target=\"_blank\">to this post</a> as I shoveled wonton soup into my mouth and talked to other women developers about how we are tired of people writing about whether we are doing the right thing or not as women in tech.</i> <blockquote><div><b>Why Women Shouldn\u2019t Code</b></div></blockquote>\nThis title should\u2026</div></p>",
+            "is_root_item": true,
+            "post": {
+                "id": "108299473795"
+            }
+        }
+    ],
+    "type": "link",
+    "url": "http://negativitysandwiches.com/post/108299473795/a-quick-and-dirty-annotation-of-why-women"
+}

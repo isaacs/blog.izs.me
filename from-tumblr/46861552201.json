@@ -1,0 +1,46 @@
+{
+    "blog": {
+        "description": "Writing and Stuff from Isaac Z. Schlueter",
+        "name": "izs",
+        "title": "blog.izs.me",
+        "updated": 1544051896,
+        "url": "http://blog.izs.me/",
+        "uuid": "t:qZa3tMNNGjX7PQ45aXJ-jw"
+    },
+    "blog_name": "izs",
+    "body": "isaacs: if we had first-class promises in the language, and they had deterministic flow-control properties, and were optimized by the VM, I'd be all about them.\r\nmikeal: what if your mother and father had never met?",
+    "can_like": false,
+    "can_reblog": false,
+    "can_reply": false,
+    "can_send_in_message": true,
+    "date": "2013-04-01 17:47:17 GMT",
+    "dialogue": [
+        {
+            "label": "isaacs:",
+            "name": "isaacs",
+            "phrase": "if we had first-class promises in the language, and they had deterministic flow-control properties, and were optimized by the VM, I'd be all about them."
+        },
+        {
+            "label": "mikeal:",
+            "name": "mikeal",
+            "phrase": "what if your mother and father had never met?"
+        }
+    ],
+    "display_avatar": true,
+    "format": "markdown",
+    "id": 46861552201,
+    "is_blocks_post_format": false,
+    "note_count": 7,
+    "post_url": "http://blog.izs.me/post/46861552201/promises",
+    "reblog_key": "JlDU1zDl",
+    "recommended_color": null,
+    "recommended_source": null,
+    "short_url": "https://tmblr.co/Z7nwWyhfAef9",
+    "slug": "promises",
+    "state": "published",
+    "summary": "Promises",
+    "tags": [],
+    "timestamp": 1364838437,
+    "title": "Promises",
+    "type": "chat"
+}

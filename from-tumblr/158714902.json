@@ -1,0 +1,129 @@
+{
+    "blog": {
+        "description": "Writing and Stuff from Isaac Z. Schlueter",
+        "name": "izs",
+        "title": "blog.izs.me",
+        "updated": 1544051896,
+        "url": "http://blog.izs.me/",
+        "uuid": "t:qZa3tMNNGjX7PQ45aXJ-jw"
+    },
+    "blog_name": "izs",
+    "can_like": false,
+    "can_reblog": false,
+    "can_reply": false,
+    "can_send_in_message": true,
+    "caption": "<p><a href=\"http://www.kungfugrippe.com/post/158649660/fuck-f-k-vulgar-slang-i-cant-believe-the\">merlin</a>:</p>\n\n<blockquote><p><a href=\"http://www.flickr.com/photos/merlin/3801577000/\"><strong>\u201cfuck |f\u0259k| vulgar slang\u201d</strong></a></p>\n\n  <p>I can\u2019t believe the vulgarity in <a href=\"http://www.apple.com/macosx/what-is-macosx/apps-and-utilities.html#dictionary\" rel=\"nofollow\">Apple\u2019s OS X Dictionary</a>.</p>\n  \n  <p>As we speak, millions of OS X users have no idea there\u2019s an \u201c<b>eff word</b>\u201d right on their Mac. Right there. <i>In their home</i>. Where their spouse sleeps. Where their children play with their toys.</p>\n  \n  <p>When will Apple finally clean up its act? When will they learn?</p>\n  \n  <p>People don\u2019t buy computers to explore the world or learn what things mean; they buy computers to rent PIXAR movies and order iPhones. They certainly don\u2019t buy them to see trash like this. No, sir.</p>\n  \n  <p>Shame, Apple. <i>Shame</i>.</p>\n  \n  <p>Please take all the words off my computer.</p>\n</blockquote>",
+    "date": "2009-08-08 20:12:33 GMT",
+    "display_avatar": true,
+    "format": "markdown",
+    "id": 158714902,
+    "image_permalink": "http://blog.izs.me/image/158714902",
+    "is_blocks_post_format": false,
+    "link_url": "http://www.flickr.com/photos/merlin/3801577000/",
+    "note_count": 85,
+    "photos": [
+        {
+            "alt_sizes": [
+                {
+                    "height": 350,
+                    "url": "https://66.media.tumblr.com/34GrgyzUsqw6dag6otYIhUaqo1_500.jpg",
+                    "width": 500
+                },
+                {
+                    "height": 280,
+                    "url": "https://66.media.tumblr.com/34GrgyzUsqw6dag6otYIhUaqo1_400.jpg",
+                    "width": 400
+                },
+                {
+                    "height": 175,
+                    "url": "https://66.media.tumblr.com/34GrgyzUsqw6dag6otYIhUaqo1_250.jpg",
+                    "width": 250
+                },
+                {
+                    "height": 70,
+                    "url": "https://66.media.tumblr.com/34GrgyzUsqw6dag6otYIhUaqo1_100.jpg",
+                    "width": 100
+                },
+                {
+                    "height": 75,
+                    "url": "https://66.media.tumblr.com/34GrgyzUsqw6dag6otYIhUaqo1_75sq.jpg",
+                    "width": 75
+                }
+            ],
+            "caption": "",
+            "original_size": {
+                "height": 350,
+                "url": "https://66.media.tumblr.com/34GrgyzUsqw6dag6otYIhUaqo1_500.jpg",
+                "width": 500
+            }
+        }
+    ],
+    "post_url": "http://blog.izs.me/post/158714902/merlin-fuck-f\u0259k-vulgar-slang-i-cant",
+    "reblog": {
+        "comment": "<p><p><a href=\"http://www.kungfugrippe.com/post/158649660/fuck-f-k-vulgar-slang-i-cant-believe-the\">merlin</a>:</p>\n\n<blockquote><p><a href=\"http://www.flickr.com/photos/merlin/3801577000/\"><strong>\u201cfuck |f\u0259k| vulgar slang\u201d</strong></a></p>\n\n  <p>I can\u2019t believe the vulgarity in <a href=\"http://www.apple.com/macosx/what-is-macosx/apps-and-utilities.html#dictionary\" rel=\"nofollow\">Apple\u2019s OS X Dictionary</a>.</p>\n  \n  <p>As we speak, millions of OS X users have no idea there\u2019s an \u201c<b>eff word</b>\u201d right on their Mac. Right there. <i>In their home</i>. Where their spouse sleeps. Where their children play with their toys.</p>\n  \n  <p>When will Apple finally clean up its act? When will they learn?</p>\n  \n  <p>People don\u2019t buy computers to explore the world or learn what things mean; they buy computers to rent PIXAR movies and order iPhones. They certainly don\u2019t buy them to see trash like this. No, sir.</p>\n  \n  <p>Shame, Apple. <i>Shame</i>.</p>\n  \n  <p>Please take all the words off my computer.</p>\n</blockquote></p>",
+        "tree_html": ""
+    },
+    "reblog_key": "JmeDV299",
+    "reblogged_from_can_message": true,
+    "reblogged_from_id": "158649660",
+    "reblogged_from_name": "merlin",
+    "reblogged_from_title": "kung fu grippe",
+    "reblogged_from_url": "http://www.kungfugrippe.com/post/158649660/fuck-f\u0259k-vulgar-slang-i-cant-believe-the",
+    "reblogged_from_uuid": "t:TqC84tFwr4VEL3LEQOJxOQ",
+    "reblogged_root_can_message": true,
+    "reblogged_root_id": "158649660",
+    "reblogged_root_name": "merlin",
+    "reblogged_root_title": "kung fu grippe",
+    "reblogged_root_url": "http://www.kungfugrippe.com/post/158649660/fuck-f\u0259k-vulgar-slang-i-cant-believe-the",
+    "reblogged_root_uuid": "t:TqC84tFwr4VEL3LEQOJxOQ",
+    "recommended_color": null,
+    "recommended_source": null,
+    "short_url": "https://tmblr.co/Z7nwWy9TSmM",
+    "slug": "merlin-fuck-f\u0259k-vulgar-slang-i-cant",
+    "source_title": "Flickr / merlin",
+    "source_url": "https://t.umblr.com/redirect?z=http%3A%2F%2Fwww.flickr.com%2Fphotos%2Fmerlin%2F3801577000%2F&t=OWFjNGNlYWNlNmMzNDQxNDIyNjM1NTY5MWIwYjYyNjk0NWUxMTNmYywxNTg3MTQ5MDI%3D&b=t%3AqZa3tMNNGjX7PQ45aXJ-jw&p=http%3A%2F%2Fblog.izs.me%2Fpost%2F158714902%2Fmerlin-fuck-f%C9%99k-vulgar-slang-i-cant&m=1",
+    "state": "published",
+    "summary": "merlin:\r\n\r\n \u201cfuck |f\u0259k| vulgar slang\u201d\r\n\r\n  I can\u2019t believe the vulgarity in Apple\u2019s OS X Dictionary.\r\n  \r\n  As we speak,...",
+    "tags": [],
+    "timestamp": 1249762353,
+    "trail": [
+        {
+            "blog": {
+                "active": true,
+                "can_be_followed": true,
+                "name": "izs",
+                "share_following": false,
+                "share_likes": false,
+                "theme": {
+                    "avatar_shape": "square",
+                    "background_color": "#444444",
+                    "body_font": "Helvetica Neue",
+                    "header_bounds": "978,2448,2355,0",
+                    "header_focus_height": 1152,
+                    "header_focus_width": 2048,
+                    "header_full_height": 3264,
+                    "header_full_width": 2448,
+                    "header_image": "https://static.tumblr.com/d248e27715343669f06a3852fd2cda53/utow0jf/nwUnbvgl6/tumblr_static_d2yiqqjdv1w8gsw0s0g4goc0o.jpg",
+                    "header_image_focused": "https://static.tumblr.com/d248e27715343669f06a3852fd2cda53/utow0jf/mA1nbvglg/tumblr_static_tumblr_static_d2yiqqjdv1w8gsw0s0g4goc0o_focused_v3.jpg",
+                    "header_image_scaled": "https://static.tumblr.com/d248e27715343669f06a3852fd2cda53/utow0jf/nwUnbvgl6/tumblr_static_d2yiqqjdv1w8gsw0s0g4goc0o_2048_v2.jpg",
+                    "header_stretch": true,
+                    "link_color": "#FB4C16",
+                    "show_avatar": true,
+                    "show_description": true,
+                    "show_header_image": true,
+                    "show_title": true,
+                    "title_color": "#fb4c16",
+                    "title_font": "Gibson",
+                    "title_font_weight": "regular"
+                }
+            },
+            "content": "<p><p><a href=\"http://www.kungfugrippe.com/post/158649660/fuck-f-k-vulgar-slang-i-cant-believe-the\">merlin</a>:</p>\n\n<blockquote><p><a href=\"http://www.flickr.com/photos/merlin/3801577000/\"><strong>&ldquo;fuck |f&#601;k| vulgar slang&rdquo;</strong></a></p>\n\n  <p>I can&rsquo;t believe the vulgarity in <a href=\"http://www.apple.com/macosx/what-is-macosx/apps-and-utilities.html#dictionary\">Apple&rsquo;s OS X Dictionary</a>.</p>\n  \n  <p>As we speak, millions of OS X users have no idea there&rsquo;s an &ldquo;<b>eff word</b>&rdquo; right on their Mac. Right there. <i>In their home</i>. Where their spouse sleeps. Where their children play with their toys.</p>\n  \n  <p>When will Apple finally clean up its act? When will they learn?</p>\n  \n  <p>People don&rsquo;t buy computers to explore the world or learn what things mean; they buy computers to rent PIXAR movies and order iPhones. They certainly don&rsquo;t buy them to see trash like this. No, sir.</p>\n  \n  <p>Shame, Apple. <i>Shame</i>.</p>\n  \n  <p>Please take all the words off my computer.</p>\n</blockquote></p>",
+            "content_raw": "<p><p><a href=\"http://www.kungfugrippe.com/post/158649660/fuck-f-k-vulgar-slang-i-cant-believe-the\">merlin</a>:</p>\n\n<blockquote><p><a href=\"http://www.flickr.com/photos/merlin/3801577000/\"><strong>\u201cfuck |f\u0259k| vulgar slang\u201d</strong></a></p>\n\n  <p>I can\u2019t believe the vulgarity in <a href=\"http://www.apple.com/macosx/what-is-macosx/apps-and-utilities.html#dictionary\" rel=\"nofollow\">Apple\u2019s OS X Dictionary</a>.</p>\n  \n  <p>As we speak, millions of OS X users have no idea there\u2019s an \u201c<b>eff word</b>\u201d right on their Mac. Right there. <i>In their home</i>. Where their spouse sleeps. Where their children play with their toys.</p>\n  \n  <p>When will Apple finally clean up its act? When will they learn?</p>\n  \n  <p>People don\u2019t buy computers to explore the world or learn what things mean; they buy computers to rent PIXAR movies and order iPhones. They certainly don\u2019t buy them to see trash like this. No, sir.</p>\n  \n  <p>Shame, Apple. <i>Shame</i>.</p>\n  \n  <p>Please take all the words off my computer.</p>\n</blockquote></p>",
+            "is_current_item": true,
+            "post": {
+                "id": "158714902"
+            }
+        }
+    ],
+    "type": "photo"
+}

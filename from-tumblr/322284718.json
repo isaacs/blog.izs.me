@@ -1,0 +1,85 @@
+{
+    "blog": {
+        "description": "Writing and Stuff from Isaac Z. Schlueter",
+        "name": "izs",
+        "title": "blog.izs.me",
+        "updated": 1544051896,
+        "url": "http://blog.izs.me/",
+        "uuid": "t:qZa3tMNNGjX7PQ45aXJ-jw"
+    },
+    "blog_name": "izs",
+    "body": "Recruiter: I've got two positions for a Java contractor, a PHP developer position, and a Flash developer position, and I think they really speak to your skills as a developer.\r\nTranslation: I HAVE NO RESPECT FOR YOU.\r\nTranslation: I HAVENT READ YUR REZUME, BIUT CUD YOU JUS SAY YES I NEED A BONUSES TO PAY FOR MY EXPENSVIE CAR, OK!?????!!!\r\nTranslation: BE A PAL AND TAKE THE JOB YUR A PRUGRMAMER, RITE? ITS ALL JUST CODEZ AND DRAWING WEB PAGES RITE SO WHATS THE DIFFRENCE!?\r\nRecruiter: I realize that you're happy at your current position, but I just wanted to reach out to you directly to tell you about these exciting opportunities.\r\nTranslation: I ARE A DUMB\r\nTranslation: I THINK IF YOU HERE MY VOISE YULL TOTALY CHANGE UR MIND OMGLOLZ0RZ!!\r\nTranslation: THAY SED IN THE SEMINAR THAT THIS SCRIPT TOTLALY WORKS LIKE ALL THE TIEMS SO YOU HAFTA CALL ME BACK NOW\r\nTranslation: I SAID \"REACH OUT\" SO YOU KNOW THAT IM YUR FRIEND AND I TOTLALY CARE ABUOT YOUUUUUUUUUUUUUUUUUUU!!!!!!",
+    "can_like": false,
+    "can_reblog": false,
+    "can_reply": false,
+    "can_send_in_message": true,
+    "date": "2010-01-07 23:52:16 GMT",
+    "dialogue": [
+        {
+            "label": "Recruiter:",
+            "name": "Recruiter",
+            "phrase": "I've got two positions for a Java contractor, a PHP developer position, and a Flash developer position, and I think they really speak to your skills as a developer."
+        },
+        {
+            "label": "Translation:",
+            "name": "Translation",
+            "phrase": "I HAVE NO RESPECT FOR YOU."
+        },
+        {
+            "label": "Translation:",
+            "name": "Translation",
+            "phrase": "I HAVENT READ YUR REZUME, BIUT CUD YOU JUS SAY YES I NEED A BONUSES TO PAY FOR MY EXPENSVIE CAR, OK!?????!!!"
+        },
+        {
+            "label": "Translation:",
+            "name": "Translation",
+            "phrase": "BE A PAL AND TAKE THE JOB YUR A PRUGRMAMER, RITE? ITS ALL JUST CODEZ AND DRAWING WEB PAGES RITE SO WHATS THE DIFFRENCE!?"
+        },
+        {
+            "label": "Recruiter:",
+            "name": "Recruiter",
+            "phrase": "I realize that you're happy at your current position, but I just wanted to reach out to you directly to tell you about these exciting opportunities."
+        },
+        {
+            "label": "Translation:",
+            "name": "Translation",
+            "phrase": "I ARE A DUMB"
+        },
+        {
+            "label": "Translation:",
+            "name": "Translation",
+            "phrase": "I THINK IF YOU HERE MY VOISE YULL TOTALY CHANGE UR MIND OMGLOLZ0RZ!!"
+        },
+        {
+            "label": "Translation:",
+            "name": "Translation",
+            "phrase": "THAY SED IN THE SEMINAR THAT THIS SCRIPT TOTLALY WORKS LIKE ALL THE TIEMS SO YOU HAFTA CALL ME BACK NOW"
+        },
+        {
+            "label": "Translation:",
+            "name": "Translation",
+            "phrase": "I SAID \"REACH OUT\" SO YOU KNOW THAT IM YUR FRIEND AND I TOTLALY CARE ABUOT YOUUUUUUUUUUUUUUUUUUU!!!!!!"
+        }
+    ],
+    "display_avatar": true,
+    "format": "markdown",
+    "id": 322284718,
+    "is_blocks_post_format": false,
+    "note_count": 5,
+    "post_url": "http://blog.izs.me/post/322284718/reach-out",
+    "reblog_key": "BiB8II06",
+    "recommended_color": null,
+    "recommended_source": null,
+    "short_url": "https://tmblr.co/Z7nwWyJDQok",
+    "slug": "reach-out",
+    "state": "published",
+    "summary": "What I hear when you \"just want to reach out directly\"",
+    "tags": [
+        "recruiter",
+        "the business",
+        "good problems to have"
+    ],
+    "timestamp": 1262908336,
+    "title": "What I hear when you \"just want to reach out directly\"",
+    "type": "chat"
+}

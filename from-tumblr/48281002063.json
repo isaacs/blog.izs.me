@@ -1,0 +1,78 @@
+{
+    "blog": {
+        "description": "Writing and Stuff from Isaac Z. Schlueter",
+        "name": "izs",
+        "title": "blog.izs.me",
+        "updated": 1544051896,
+        "url": "http://blog.izs.me/",
+        "uuid": "t:qZa3tMNNGjX7PQ45aXJ-jw"
+    },
+    "blog_name": "izs",
+    "body": "<p>Copyright &copy; <code>__AUTHOR_NAME__</code> (&ldquo;Author&rdquo;) and Contributors</p>\n\n<p>All rights reserved.</p>\n\n<p>The &ldquo;Free as in Hugs&rdquo; License</p>\n\n<p>Redistribution and use in source and binary forms, with or without\nmodification, are permitted provided that the following conditions\nare met:</p>\n\n<ol><li><p>Redistributions of source code must retain the above copyright\nnotice, this list of conditions and the following disclaimer.</p></li>\n<li><p>Redistributions in binary form must reproduce the above copyright\nnotice, this list of conditions and the following disclaimer in the\ndocumentation and/or other materials provided with the distribution.</p></li>\n<li><p>Users of this software are permitted to offer to hug the Author\nor Contributors, free of charge or obligation.</p></li>\n</ol><p>THIS SOFTWARE AND ANY HUGS ARE PROVIDED BY THE AUTHOR AND CONTRIBUTORS\n&ldquo;AS IS&rdquo; AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT\nLIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR\nA PARTICULAR PURPOSE ARE DISCLAIMED.  IN NO EVENT SHALL ANYONE BE HELD\nLIABLE FOR ACTUAL HUGS.  IN NO EVENT SHALL THE AUTHOR OR CONTRIBUTORS\nBE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR\nCONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF\nSUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS;\nLONELINESS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY\nOF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT\n(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE\nOF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.\nDON&rsquo;T BE CREEPY.</p>",
+    "can_like": false,
+    "can_reblog": false,
+    "can_reply": false,
+    "can_send_in_message": true,
+    "date": "2013-04-18 15:25:40 GMT",
+    "display_avatar": true,
+    "format": "markdown",
+    "id": 48281002063,
+    "is_blocks_post_format": false,
+    "note_count": 17,
+    "post_url": "http://blog.izs.me/post/48281002063/free-as-in-hugs-licence",
+    "reblog": {
+        "comment": "<p>Copyright \u00a9 <code>__AUTHOR_NAME__</code> (\u201cAuthor\u201d) and Contributors</p>\n\n<p>All rights reserved.</p>\n\n<p>The \u201cFree as in Hugs\u201d License</p>\n\n<p>Redistribution and use in source and binary forms, with or without\nmodification, are permitted provided that the following conditions\nare met:</p>\n\n<ol><li><p>Redistributions of source code must retain the above copyright\nnotice, this list of conditions and the following disclaimer.</p></li>\n<li><p>Redistributions in binary form must reproduce the above copyright\nnotice, this list of conditions and the following disclaimer in the\ndocumentation and/or other materials provided with the distribution.</p></li>\n<li><p>Users of this software are permitted to offer to hug the Author\nor Contributors, free of charge or obligation.</p></li>\n</ol><p>THIS SOFTWARE AND ANY HUGS ARE PROVIDED BY THE AUTHOR AND CONTRIBUTORS\n\u201cAS IS\u201d AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT\nLIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR\nA PARTICULAR PURPOSE ARE DISCLAIMED.  IN NO EVENT SHALL ANYONE BE HELD\nLIABLE FOR ACTUAL HUGS.  IN NO EVENT SHALL THE AUTHOR OR CONTRIBUTORS\nBE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR\nCONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF\nSUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS;\nLONELINESS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY\nOF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT\n(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE\nOF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.\nDON\u2019T BE CREEPY.</p>",
+        "tree_html": ""
+    },
+    "reblog_key": "NyhNyuP5",
+    "recommended_color": null,
+    "recommended_source": null,
+    "short_url": "https://tmblr.co/Z7nwWyiznQ1F",
+    "slug": "free-as-in-hugs-licence",
+    "state": "published",
+    "summary": "Free as in Hugs Licence",
+    "tags": [],
+    "timestamp": 1366298740,
+    "title": "Free as in Hugs Licence",
+    "trail": [
+        {
+            "blog": {
+                "active": true,
+                "can_be_followed": true,
+                "name": "izs",
+                "share_following": false,
+                "share_likes": false,
+                "theme": {
+                    "avatar_shape": "square",
+                    "background_color": "#444444",
+                    "body_font": "Helvetica Neue",
+                    "header_bounds": "978,2448,2355,0",
+                    "header_focus_height": 1152,
+                    "header_focus_width": 2048,
+                    "header_full_height": 3264,
+                    "header_full_width": 2448,
+                    "header_image": "https://static.tumblr.com/d248e27715343669f06a3852fd2cda53/utow0jf/nwUnbvgl6/tumblr_static_d2yiqqjdv1w8gsw0s0g4goc0o.jpg",
+                    "header_image_focused": "https://static.tumblr.com/d248e27715343669f06a3852fd2cda53/utow0jf/mA1nbvglg/tumblr_static_tumblr_static_d2yiqqjdv1w8gsw0s0g4goc0o_focused_v3.jpg",
+                    "header_image_scaled": "https://static.tumblr.com/d248e27715343669f06a3852fd2cda53/utow0jf/nwUnbvgl6/tumblr_static_d2yiqqjdv1w8gsw0s0g4goc0o_2048_v2.jpg",
+                    "header_stretch": true,
+                    "link_color": "#FB4C16",
+                    "show_avatar": true,
+                    "show_description": true,
+                    "show_header_image": true,
+                    "show_title": true,
+                    "title_color": "#fb4c16",
+                    "title_font": "Gibson",
+                    "title_font_weight": "regular"
+                }
+            },
+            "content": "<p>Copyright &copy; <code>__AUTHOR_NAME__</code> (&ldquo;Author&rdquo;) and Contributors</p>\n\n<p>All rights reserved.</p>\n\n<p>The &ldquo;Free as in Hugs&rdquo; License</p>\n\n<p>Redistribution and use in source and binary forms, with or without\nmodification, are permitted provided that the following conditions\nare met:</p>\n\n<ol><li><p>Redistributions of source code must retain the above copyright\nnotice, this list of conditions and the following disclaimer.</p></li>\n<li><p>Redistributions in binary form must reproduce the above copyright\nnotice, this list of conditions and the following disclaimer in the\ndocumentation and/or other materials provided with the distribution.</p></li>\n<li><p>Users of this software are permitted to offer to hug the Author\nor Contributors, free of charge or obligation.</p></li>\n</ol><p>THIS SOFTWARE AND ANY HUGS ARE PROVIDED BY THE AUTHOR AND CONTRIBUTORS\n&ldquo;AS IS&rdquo; AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT\nLIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR\nA PARTICULAR PURPOSE ARE DISCLAIMED.  IN NO EVENT SHALL ANYONE BE HELD\nLIABLE FOR ACTUAL HUGS.  IN NO EVENT SHALL THE AUTHOR OR CONTRIBUTORS\nBE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR\nCONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF\nSUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS;\nLONELINESS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY\nOF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT\n(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE\nOF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.\nDON&rsquo;T BE CREEPY.</p>",
+            "content_raw": "<p>Copyright \u00a9 <code>__AUTHOR_NAME__</code> (\u201cAuthor\u201d) and Contributors</p>\n\n<p>All rights reserved.</p>\n\n<p>The \u201cFree as in Hugs\u201d License</p>\n\n<p>Redistribution and use in source and binary forms, with or without\nmodification, are permitted provided that the following conditions\nare met:</p>\n\n<ol><li><p>Redistributions of source code must retain the above copyright\nnotice, this list of conditions and the following disclaimer.</p></li>\n<li><p>Redistributions in binary form must reproduce the above copyright\nnotice, this list of conditions and the following disclaimer in the\ndocumentation and/or other materials provided with the distribution.</p></li>\n<li><p>Users of this software are permitted to offer to hug the Author\nor Contributors, free of charge or obligation.</p></li>\n</ol><p>THIS SOFTWARE AND ANY HUGS ARE PROVIDED BY THE AUTHOR AND CONTRIBUTORS\n\u201cAS IS\u201d AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT\nLIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR\nA PARTICULAR PURPOSE ARE DISCLAIMED.  IN NO EVENT SHALL ANYONE BE HELD\nLIABLE FOR ACTUAL HUGS.  IN NO EVENT SHALL THE AUTHOR OR CONTRIBUTORS\nBE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR\nCONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF\nSUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS;\nLONELINESS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY\nOF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT\n(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE\nOF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.\nDON\u2019T BE CREEPY.</p>",
+            "is_current_item": true,
+            "is_root_item": true,
+            "post": {
+                "id": "48281002063"
+            }
+        }
+    ],
+    "type": "text"
+}

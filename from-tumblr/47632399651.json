@@ -1,0 +1,89 @@
+{
+    "blog": {
+        "description": "Writing and Stuff from Isaac Z. Schlueter",
+        "name": "izs",
+        "title": "blog.izs.me",
+        "updated": 1544051896,
+        "url": "http://blog.izs.me/",
+        "uuid": "t:qZa3tMNNGjX7PQ45aXJ-jw"
+    },
+    "blog_name": "izs",
+    "body": "<p><a href=\"http://www.kungfugrippe.com/post/47631308074/chasing-the-right-zero\" class=\"tumblr_blog\">merlin</a>:</p>\n\n<blockquote>\n<p>Not to be all \u201cMerlin Mann\u201d or anything, but, maybe somebody will find this useful.</p>\n\n<p>I was recently asked to talk about how I think about the infamous <em>Inbox Zero</em> these days, and here\u2019s what I said:</p>\n\n<p><a href=\"http://www.kungfugrippe.com/post/47631308074/chasing-the-right-zero\">Read More</a></p></blockquote>",
+    "can_like": false,
+    "can_reblog": false,
+    "can_reply": false,
+    "can_send_in_message": true,
+    "date": "2013-04-10 18:09:21 GMT",
+    "display_avatar": true,
+    "format": "markdown",
+    "id": 47632399651,
+    "is_blocks_post_format": false,
+    "note_count": 259,
+    "post_url": "http://blog.izs.me/post/47632399651/on-chasing-the-right-zero",
+    "reblog": {
+        "comment": "",
+        "tree_html": "<p><a href=\"http://www.kungfugrippe.com/post/47631308074/chasing-the-right-zero\" class=\"tumblr_blog\">merlin</a>:</p><blockquote>\n<p>Not to be all \u201cMerlin Mann\u201d or anything, but, maybe somebody will find this useful.</p>\n\n<p>I was recently asked to talk about how I think about the infamous <em>Inbox Zero</em> these days, and here\u2019s what I said:</p>\n\n<p><a href=\"http://www.kungfugrippe.com/post/47631308074/chasing-the-right-zero\">Read More</a></p>\n</blockquote>"
+    },
+    "reblog_key": "ovdZOgTp",
+    "reblogged_from_can_message": true,
+    "reblogged_from_id": "47631308074",
+    "reblogged_from_name": "merlin",
+    "reblogged_from_title": "kung fu grippe",
+    "reblogged_from_url": "http://www.kungfugrippe.com/post/47631308074/chasing-the-right-zero",
+    "reblogged_from_uuid": "t:TqC84tFwr4VEL3LEQOJxOQ",
+    "reblogged_root_can_message": true,
+    "reblogged_root_id": "47631308074",
+    "reblogged_root_name": "merlin",
+    "reblogged_root_title": "kung fu grippe",
+    "reblogged_root_url": "http://www.kungfugrippe.com/post/47631308074/chasing-the-right-zero",
+    "reblogged_root_uuid": "t:TqC84tFwr4VEL3LEQOJxOQ",
+    "recommended_color": null,
+    "recommended_source": null,
+    "short_url": "https://tmblr.co/Z7nwWyiN7BqZ",
+    "slug": "on-chasing-the-right-zero",
+    "state": "published",
+    "summary": "On Chasing the Right \"Zero\"",
+    "tags": [],
+    "timestamp": 1365617361,
+    "title": "On Chasing the Right \"Zero\"",
+    "trail": [
+        {
+            "blog": {
+                "active": true,
+                "can_be_followed": true,
+                "name": "merlin",
+                "share_following": false,
+                "share_likes": false,
+                "theme": {
+                    "avatar_shape": "square",
+                    "background_color": "#F6F6F6",
+                    "body_font": "Helvetica Neue",
+                    "header_bounds": "130,1673,1051,36",
+                    "header_focus_height": 921,
+                    "header_focus_width": 1637,
+                    "header_full_height": 1197,
+                    "header_full_width": 2350,
+                    "header_image": "https://static.tumblr.com/786fdf931ffb797b805de8ab34a09ae5/1jxfwtv/yFZny19g2/tumblr_static_.jpg",
+                    "header_image_focused": "https://static.tumblr.com/786fdf931ffb797b805de8ab34a09ae5/1jxfwtv/Jg9ny19g7/tumblr_static_tumblr_static__focused_v3.jpg",
+                    "header_image_scaled": "https://static.tumblr.com/786fdf931ffb797b805de8ab34a09ae5/1jxfwtv/yFZny19g2/tumblr_static__2048_v2.jpg",
+                    "header_stretch": true,
+                    "link_color": "#4687AE",
+                    "show_avatar": true,
+                    "show_description": true,
+                    "show_header_image": true,
+                    "show_title": true,
+                    "title_color": "#444444",
+                    "title_font": "Gibson",
+                    "title_font_weight": "bold"
+                }
+            },
+            "content": "<p>Not to be all &ldquo;Merlin Mann&rdquo; or anything, but, maybe somebody will find this useful.</p>\n\n<p>I was recently asked to talk about how I think about the infamous <em>Inbox Zero</em> these days, and here&rsquo;s what I said:</p>\n\n<p><a href=\"http://www.kungfugrippe.com/post/47631308074/chasing-the-right-zero\">Read More</a></p>",
+            "content_raw": "<p>Not to be all \u201cMerlin Mann\u201d or anything, but, maybe somebody will find this useful.</p>\n\n<p>I was recently asked to talk about how I think about the infamous <em>Inbox Zero</em> these days, and here\u2019s what I said:</p>\n\n<p><a href=\"http://www.kungfugrippe.com/post/47631308074/chasing-the-right-zero\">Read More</a></p>",
+            "is_root_item": true,
+            "post": {
+                "id": "47631308074"
+            }
+        }
+    ],
+    "type": "text"
+}

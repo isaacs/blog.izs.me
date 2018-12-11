@@ -1,0 +1,56 @@
+{
+    "blog": {
+        "description": "Writing and Stuff from Isaac Z. Schlueter",
+        "name": "izs",
+        "title": "blog.izs.me",
+        "updated": 1544051896,
+        "url": "http://blog.izs.me/",
+        "uuid": "t:qZa3tMNNGjX7PQ45aXJ-jw"
+    },
+    "blog_name": "izs",
+    "body": "9:56:26 AM Thom Blake: is there something like the abbr tag for attaching a definition?\r\n\r\n9:56:45 AM Isaac Z. Schlueter: <dfn title=\"A big slut\">Your Mom</dfn>\r\n\r\n9:56:56 AM Thom Blake: thanks!\r\n\r\n9:56:59 AM Isaac Z. Schlueter: np\r\n",
+    "can_like": false,
+    "can_reblog": false,
+    "can_reply": false,
+    "can_send_in_message": true,
+    "date": "2009-08-03 18:30:11 GMT",
+    "dialogue": [
+        {
+            "label": "Thom Blake:",
+            "name": "Thom Blake",
+            "phrase": "is there something like the abbr tag for attaching a definition?"
+        },
+        {
+            "label": "Isaac Z. Schlueter:",
+            "name": "Isaac Z. Schlueter",
+            "phrase": "<dfn title=\"A big slut\">Your Mom</dfn>"
+        },
+        {
+            "label": "Thom Blake:",
+            "name": "Thom Blake",
+            "phrase": "thanks!"
+        },
+        {
+            "label": "Isaac Z. Schlueter:",
+            "name": "Isaac Z. Schlueter",
+            "phrase": "np"
+        }
+    ],
+    "display_avatar": true,
+    "format": "markdown",
+    "id": 155044797,
+    "is_blocks_post_format": false,
+    "note_count": 0,
+    "post_url": "http://blog.izs.me/post/155044797/dfn",
+    "reblog_key": "2MyUfCMP",
+    "recommended_color": null,
+    "recommended_source": null,
+    "short_url": "https://tmblr.co/Z7nwWy9FSkz",
+    "slug": "dfn",
+    "state": "published",
+    "summary": "dfn",
+    "tags": [],
+    "timestamp": 1249324211,
+    "title": "dfn",
+    "type": "chat"
+}

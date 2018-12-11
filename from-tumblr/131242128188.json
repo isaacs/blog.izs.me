@@ -1,0 +1,313 @@
+{
+    "blog": {
+        "description": "Writing and Stuff from Isaac Z. Schlueter",
+        "name": "izs",
+        "title": "blog.izs.me",
+        "updated": 1544051896,
+        "url": "http://blog.izs.me/",
+        "uuid": "t:qZa3tMNNGjX7PQ45aXJ-jw"
+    },
+    "blog_name": "izs",
+    "can_like": false,
+    "can_reblog": false,
+    "can_reply": false,
+    "can_send_in_message": true,
+    "caption": "<p><a class=\"tumblr_blog\" href=\"http://micdotcom.tumblr.com/post/131154905020\">micdotcom</a>:</p>\n\n<blockquote>\n<h2>Watch: <b><a href=\"http://mic.com/articles/126737/after-the-debate-bernie-sanders-helped-save-msnbc-s-andrea-mitchell-from-a-reporter-crush?utm_source=policymicTBLR&amp;utm_medium=main&amp;utm_campaign=social\">Bernie Sanders, what a mensch.</a></b>\n</h2>\n</blockquote>",
+    "date": "2015-10-15 21:21:24 GMT",
+    "display_avatar": true,
+    "format": "markdown",
+    "id": 131242128188,
+    "is_blocks_post_format": false,
+    "note_count": 369137,
+    "photos": [
+        {
+            "alt_sizes": [
+                {
+                    "height": 59,
+                    "url": "https://66.media.tumblr.com/f2b2b8be484fd14913b4d193466e09e4/tumblr_nw7qfxKxJa1r83d7lo1_540.jpg",
+                    "width": 540
+                },
+                {
+                    "height": 55,
+                    "url": "https://66.media.tumblr.com/f2b2b8be484fd14913b4d193466e09e4/tumblr_nw7qfxKxJa1r83d7lo1_500.jpg",
+                    "width": 500
+                },
+                {
+                    "height": 44,
+                    "url": "https://66.media.tumblr.com/f2b2b8be484fd14913b4d193466e09e4/tumblr_nw7qfxKxJa1r83d7lo1_400.jpg",
+                    "width": 400
+                },
+                {
+                    "height": 27,
+                    "url": "https://66.media.tumblr.com/f2b2b8be484fd14913b4d193466e09e4/tumblr_nw7qfxKxJa1r83d7lo1_250.jpg",
+                    "width": 250
+                },
+                {
+                    "height": 11,
+                    "url": "https://66.media.tumblr.com/f2b2b8be484fd14913b4d193466e09e4/tumblr_nw7qfxKxJa1r83d7lo1_100.jpg",
+                    "width": 100
+                },
+                {
+                    "height": 59,
+                    "url": "https://66.media.tumblr.com/f2b2b8be484fd14913b4d193466e09e4/tumblr_nw7qfxKxJa1r83d7lo1_75sq.jpg",
+                    "width": 75
+                }
+            ],
+            "caption": "",
+            "original_size": {
+                "height": 59,
+                "url": "https://66.media.tumblr.com/f2b2b8be484fd14913b4d193466e09e4/tumblr_nw7qfxKxJa1r83d7lo1_540.jpg",
+                "width": 540
+            }
+        },
+        {
+            "alt_sizes": [
+                {
+                    "height": 419,
+                    "url": "https://66.media.tumblr.com/f35e9ac6ca196cf9ae448d9270b2ec59/tumblr_nw7qfxKxJa1r83d7lo2_400.gif",
+                    "width": 283
+                },
+                {
+                    "height": 370,
+                    "url": "https://66.media.tumblr.com/f35e9ac6ca196cf9ae448d9270b2ec59/tumblr_nw7qfxKxJa1r83d7lo2_250.gif",
+                    "width": 250
+                },
+                {
+                    "height": 148,
+                    "url": "https://66.media.tumblr.com/f35e9ac6ca196cf9ae448d9270b2ec59/tumblr_nw7qfxKxJa1r83d7lo2_100.gif",
+                    "width": 100
+                },
+                {
+                    "height": 75,
+                    "url": "https://66.media.tumblr.com/f35e9ac6ca196cf9ae448d9270b2ec59/tumblr_nw7qfxKxJa1r83d7lo2_75sq.gif",
+                    "width": 75
+                }
+            ],
+            "caption": "",
+            "original_size": {
+                "height": 419,
+                "url": "https://66.media.tumblr.com/f35e9ac6ca196cf9ae448d9270b2ec59/tumblr_nw7qfxKxJa1r83d7lo2_400.gif",
+                "width": 283
+            }
+        },
+        {
+            "alt_sizes": [
+                {
+                    "height": 419,
+                    "url": "https://66.media.tumblr.com/bfa29de265343791d3a7b648308fe789/tumblr_nw7qfxKxJa1r83d7lo3_400.gif",
+                    "width": 283
+                },
+                {
+                    "height": 370,
+                    "url": "https://66.media.tumblr.com/bfa29de265343791d3a7b648308fe789/tumblr_nw7qfxKxJa1r83d7lo3_250.gif",
+                    "width": 250
+                },
+                {
+                    "height": 148,
+                    "url": "https://66.media.tumblr.com/bfa29de265343791d3a7b648308fe789/tumblr_nw7qfxKxJa1r83d7lo3_100.gif",
+                    "width": 100
+                },
+                {
+                    "height": 75,
+                    "url": "https://66.media.tumblr.com/bfa29de265343791d3a7b648308fe789/tumblr_nw7qfxKxJa1r83d7lo3_75sq.gif",
+                    "width": 75
+                }
+            ],
+            "caption": "",
+            "original_size": {
+                "height": 419,
+                "url": "https://66.media.tumblr.com/bfa29de265343791d3a7b648308fe789/tumblr_nw7qfxKxJa1r83d7lo3_400.gif",
+                "width": 283
+            }
+        },
+        {
+            "alt_sizes": [
+                {
+                    "height": 419,
+                    "url": "https://66.media.tumblr.com/de96af05ba1c6617a4077e433f60ad30/tumblr_nw7qfxKxJa1r83d7lo4_400.gif",
+                    "width": 283
+                },
+                {
+                    "height": 370,
+                    "url": "https://66.media.tumblr.com/de96af05ba1c6617a4077e433f60ad30/tumblr_nw7qfxKxJa1r83d7lo4_250.gif",
+                    "width": 250
+                },
+                {
+                    "height": 148,
+                    "url": "https://66.media.tumblr.com/de96af05ba1c6617a4077e433f60ad30/tumblr_nw7qfxKxJa1r83d7lo4_100.gif",
+                    "width": 100
+                },
+                {
+                    "height": 75,
+                    "url": "https://66.media.tumblr.com/de96af05ba1c6617a4077e433f60ad30/tumblr_nw7qfxKxJa1r83d7lo4_75sq.gif",
+                    "width": 75
+                }
+            ],
+            "caption": "",
+            "original_size": {
+                "height": 419,
+                "url": "https://66.media.tumblr.com/de96af05ba1c6617a4077e433f60ad30/tumblr_nw7qfxKxJa1r83d7lo4_400.gif",
+                "width": 283
+            }
+        },
+        {
+            "alt_sizes": [
+                {
+                    "height": 419,
+                    "url": "https://66.media.tumblr.com/b9a597d5980d893a9a45cf8054aa5c82/tumblr_nw7qfxKxJa1r83d7lo5_400.gif",
+                    "width": 283
+                },
+                {
+                    "height": 370,
+                    "url": "https://66.media.tumblr.com/b9a597d5980d893a9a45cf8054aa5c82/tumblr_nw7qfxKxJa1r83d7lo5_250.gif",
+                    "width": 250
+                },
+                {
+                    "height": 148,
+                    "url": "https://66.media.tumblr.com/b9a597d5980d893a9a45cf8054aa5c82/tumblr_nw7qfxKxJa1r83d7lo5_100.gif",
+                    "width": 100
+                },
+                {
+                    "height": 75,
+                    "url": "https://66.media.tumblr.com/b9a597d5980d893a9a45cf8054aa5c82/tumblr_nw7qfxKxJa1r83d7lo5_75sq.gif",
+                    "width": 75
+                }
+            ],
+            "caption": "",
+            "original_size": {
+                "height": 419,
+                "url": "https://66.media.tumblr.com/b9a597d5980d893a9a45cf8054aa5c82/tumblr_nw7qfxKxJa1r83d7lo5_400.gif",
+                "width": 283
+            }
+        },
+        {
+            "alt_sizes": [
+                {
+                    "height": 419,
+                    "url": "https://66.media.tumblr.com/8f4c87f72a3a70fae16079282b671834/tumblr_nw7qfxKxJa1r83d7lo6_400.gif",
+                    "width": 283
+                },
+                {
+                    "height": 370,
+                    "url": "https://66.media.tumblr.com/8f4c87f72a3a70fae16079282b671834/tumblr_nw7qfxKxJa1r83d7lo6_250.gif",
+                    "width": 250
+                },
+                {
+                    "height": 148,
+                    "url": "https://66.media.tumblr.com/8f4c87f72a3a70fae16079282b671834/tumblr_nw7qfxKxJa1r83d7lo6_100.gif",
+                    "width": 100
+                },
+                {
+                    "height": 75,
+                    "url": "https://66.media.tumblr.com/8f4c87f72a3a70fae16079282b671834/tumblr_nw7qfxKxJa1r83d7lo6_75sq.gif",
+                    "width": 75
+                }
+            ],
+            "caption": "",
+            "original_size": {
+                "height": 419,
+                "url": "https://66.media.tumblr.com/8f4c87f72a3a70fae16079282b671834/tumblr_nw7qfxKxJa1r83d7lo6_400.gif",
+                "width": 283
+            }
+        },
+        {
+            "alt_sizes": [
+                {
+                    "height": 419,
+                    "url": "https://66.media.tumblr.com/402fea65301747dc910a69fb39042570/tumblr_nw7qfxKxJa1r83d7lo7_400.gif",
+                    "width": 283
+                },
+                {
+                    "height": 370,
+                    "url": "https://66.media.tumblr.com/402fea65301747dc910a69fb39042570/tumblr_nw7qfxKxJa1r83d7lo7_250.gif",
+                    "width": 250
+                },
+                {
+                    "height": 148,
+                    "url": "https://66.media.tumblr.com/402fea65301747dc910a69fb39042570/tumblr_nw7qfxKxJa1r83d7lo7_100.gif",
+                    "width": 100
+                },
+                {
+                    "height": 75,
+                    "url": "https://66.media.tumblr.com/402fea65301747dc910a69fb39042570/tumblr_nw7qfxKxJa1r83d7lo7_75sq.gif",
+                    "width": 75
+                }
+            ],
+            "caption": "",
+            "original_size": {
+                "height": 419,
+                "url": "https://66.media.tumblr.com/402fea65301747dc910a69fb39042570/tumblr_nw7qfxKxJa1r83d7lo7_400.gif",
+                "width": 283
+            }
+        }
+    ],
+    "photoset_layout": "1222",
+    "post_url": "http://blog.izs.me/post/131242128188/micdotcom-watch-bernie-sanders-what-a",
+    "reblog": {
+        "comment": "",
+        "tree_html": "<p><a class=\"tumblr_blog\" href=\"http://micdotcom.tumblr.com/post/131154905020\">micdotcom</a>:</p><blockquote>\n<h2>Watch: <b><a href=\"http://mic.com/articles/126737/after-the-debate-bernie-sanders-helped-save-msnbc-s-andrea-mitchell-from-a-reporter-crush?utm_source=policymicTBLR&amp;utm_medium=main&amp;utm_campaign=social\">Bernie Sanders, what a mensch.</a></b>\n</h2>\n</blockquote>"
+    },
+    "reblog_key": "f9sTYRpG",
+    "reblogged_from_can_message": true,
+    "reblogged_from_id": "131154905020",
+    "reblogged_from_name": "micdotcom",
+    "reblogged_from_title": "Mic",
+    "reblogged_from_url": "https://micdotcom.tumblr.com/post/131154905020/watch-bernie-sanders-what-a-mensch",
+    "reblogged_from_uuid": "t:HLTLEff-Egy9wxO8we2ztQ",
+    "reblogged_root_can_message": true,
+    "reblogged_root_id": "131154905020",
+    "reblogged_root_name": "micdotcom",
+    "reblogged_root_title": "Mic",
+    "reblogged_root_url": "https://micdotcom.tumblr.com/post/131154905020/watch-bernie-sanders-what-a-mensch",
+    "reblogged_root_uuid": "t:HLTLEff-Egy9wxO8we2ztQ",
+    "recommended_color": null,
+    "recommended_source": null,
+    "short_url": "https://tmblr.co/Z7nwWy1wEe-Cy",
+    "slug": "micdotcom-watch-bernie-sanders-what-a",
+    "source_title": "mic.com",
+    "source_url": "https://t.umblr.com/redirect?z=http%3A%2F%2Fmic.com%2Farticles%2F126737%2Fafter-the-debate-bernie-sanders-helped-save-msnbc-s-andrea-mitchell-from-a-reporter-crush%3Futm_source%3DpolicymicTBLR%26utm_medium%3Dmain%26utm_campaign%3Dsocial&t=ZTFjMzM0MmU5MTg5NWRlZDU5NjE1MTFhN2M4YzlhNmQwMTE5ZGY4ZSwxMzEyNDIxMjgxODg%3D&b=t%3AqZa3tMNNGjX7PQ45aXJ-jw&p=http%3A%2F%2Fblog.izs.me%2Fpost%2F131242128188%2Fmicdotcom-watch-bernie-sanders-what-a&m=1",
+    "state": "published",
+    "summary": "Watch: Bernie Sanders, what a mensch.",
+    "tags": [],
+    "timestamp": 1444944084,
+    "trail": [
+        {
+            "blog": {
+                "active": true,
+                "can_be_followed": true,
+                "name": "micdotcom",
+                "share_following": false,
+                "share_likes": false,
+                "theme": {
+                    "avatar_shape": "square",
+                    "background_color": "#FAFAFA",
+                    "body_font": "Helvetica Neue",
+                    "header_bounds": "0,4875,2110,1124",
+                    "header_focus_height": 1152,
+                    "header_focus_width": 2048,
+                    "header_full_height": 2110,
+                    "header_full_width": 6000,
+                    "header_image": "https://static.tumblr.com/0c72bff773a3183b8b95cc36fefd14e2/ckoljun/f2Fonmgwo/tumblr_static_e2yxod7d7a8kkgssggow8sg0c.png",
+                    "header_image_focused": "https://static.tumblr.com/01e7800e64f770358d38721a3db2dd9f/ckoljun/IX8onmgwu/tumblr_static_tumblr_static_e2yxod7d7a8kkgssggow8sg0c_focused_v3.jpg",
+                    "header_image_scaled": "https://static.tumblr.com/0c72bff773a3183b8b95cc36fefd14e2/ckoljun/f2Fonmgwo/tumblr_static_e2yxod7d7a8kkgssggow8sg0c_2048_v2.png",
+                    "header_stretch": true,
+                    "link_color": "#529ECC",
+                    "show_avatar": false,
+                    "show_description": true,
+                    "show_header_image": true,
+                    "show_title": false,
+                    "title_color": "#444444",
+                    "title_font": "Gibson",
+                    "title_font_weight": "bold"
+                }
+            },
+            "content": "<p><h2>Watch: <b><a href=\"http://mic.com/articles/126737/after-the-debate-bernie-sanders-helped-save-msnbc-s-andrea-mitchell-from-a-reporter-crush?utm_source=policymicTBLR&amp;utm_medium=main&amp;utm_campaign=social\">Bernie Sanders, what a mensch.</a></b>\n</h2></p>",
+            "content_raw": "<p><h2>Watch: <b><a href=\"http://mic.com/articles/126737/after-the-debate-bernie-sanders-helped-save-msnbc-s-andrea-mitchell-from-a-reporter-crush?utm_source=policymicTBLR&utm_medium=main&utm_campaign=social\">Bernie Sanders, what a mensch.</a></b>\n</h2></p>",
+            "is_root_item": true,
+            "post": {
+                "id": "131154905020"
+            }
+        }
+    ],
+    "type": "photo"
+}

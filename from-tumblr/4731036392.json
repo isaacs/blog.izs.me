@@ -1,0 +1,78 @@
+{
+    "blog": {
+        "description": "Writing and Stuff from Isaac Z. Schlueter",
+        "name": "izs",
+        "title": "blog.izs.me",
+        "updated": 1544051896,
+        "url": "http://blog.izs.me/",
+        "uuid": "t:qZa3tMNNGjX7PQ45aXJ-jw"
+    },
+    "blog_name": "izs",
+    "body": "<ol><li>Fresh out of Java or C++, learning JavaScript.  Look up on the internets how to define a class.  It doesn&rsquo;t quite work.  Avoid the &ldquo;new&rdquo; keyword, because it is dangerous.</li>\n<li>Learn about prototypes.  Design constructors that work how you expect.  Re-introduce &ldquo;new&rdquo; into your code. <small>Note: Many programmers stop here.  And that is <strong>fine</strong>.</small></li>\n<li>Learn about Object.create, Object.getPrototypeOf.  Mix and match constructors with just &ldquo;raw&rdquo; Object prototype usage.  Monkey-patch native prototypes.  Use prototypes to do everything.</li>\n<li>Come back to sanity.  Use constructors+prototypes to define objects, but use Plain Old Functions more often.  Prefer composition to &ldquo;is-a&rdquo; inheritance, but use is-a when it makes sense.  Use <code>new</code> and prototypes to create objects that all extend the same prototype, because, well, why not?</li>\n<li>Re-read <a href=\"http://en.wikipedia.org/wiki/Design_Patterns\">the Gang of Four book</a> that you once thought was so inspiring.  Grok how the &ldquo;class&rdquo; pattern is just a special case of disciplined prototype re-use.  Realize that prototypal inheritance makes a lot of those patterns trivial, and it&rsquo;s a bit silly to spend so much time on them.</li>\n<li>Begin to notice actual applications that are best moduled with prototype chains.  (Branching recursive file-system walks, configuration object overriding, inheritance trees, etc.)</li>\n</ol><p>I&rsquo;m really wondering what&rsquo;s next on this list.</p>\n\n<p>The great thing about enlightenment is that it doesn&rsquo;t end.  It is continually extending itself in multiple non-overlapping directions.</p>",
+    "can_like": false,
+    "can_reblog": false,
+    "can_reply": false,
+    "can_send_in_message": true,
+    "date": "2011-04-18 23:28:00 GMT",
+    "display_avatar": true,
+    "format": "markdown",
+    "id": 4731036392,
+    "is_blocks_post_format": false,
+    "note_count": 68,
+    "post_url": "http://blog.izs.me/post/4731036392/evolution-of-a-prototypal-language-user",
+    "reblog": {
+        "comment": "<p><ol><li>Fresh out of Java or C++, learning JavaScript.  Look up on the internets how to define a class.  It doesn\u2019t quite work.  Avoid the \u201cnew\u201d keyword, because it is dangerous.</li>\n<li>Learn about prototypes.  Design constructors that work how you expect.  Re-introduce \u201cnew\u201d into your code. <small>Note: Many programmers stop here.  And that is <strong>fine</strong>.</small></li>\n<li>Learn about Object.create, Object.getPrototypeOf.  Mix and match constructors with just \u201craw\u201d Object prototype usage.  Monkey-patch native prototypes.  Use prototypes to do everything.</li>\n<li>Come back to sanity.  Use constructors+prototypes to define objects, but use Plain Old Functions more often.  Prefer composition to \u201cis-a\u201d inheritance, but use is-a when it makes sense.  Use <code>new</code> and prototypes to create objects that all extend the same prototype, because, well, why not?</li>\n<li>Re-read <a href=\"http://en.wikipedia.org/wiki/Design_Patterns\">the Gang of Four book</a> that you once thought was so inspiring.  Grok how the \u201cclass\u201d pattern is just a special case of disciplined prototype re-use.  Realize that prototypal inheritance makes a lot of those patterns trivial, and it\u2019s a bit silly to spend so much time on them.</li>\n<li>Begin to notice actual applications that are best moduled with prototype chains.  (Branching recursive file-system walks, configuration object overriding, inheritance trees, etc.)</li>\n</ol><p>I\u2019m really wondering what\u2019s next on this list.</p>\n\n<p>The great thing about enlightenment is that it doesn\u2019t end.  It is continually extending itself in multiple non-overlapping directions.</p></p>",
+        "tree_html": ""
+    },
+    "reblog_key": "BPHy3vwN",
+    "recommended_color": null,
+    "recommended_source": null,
+    "short_url": "https://tmblr.co/Z7nwWy4P-UBe",
+    "slug": "evolution-of-a-prototypal-language-user",
+    "state": "published",
+    "summary": "Evolution of a Prototypal Language User",
+    "tags": [],
+    "timestamp": 1303169280,
+    "title": "Evolution of a Prototypal Language User",
+    "trail": [
+        {
+            "blog": {
+                "active": true,
+                "can_be_followed": true,
+                "name": "izs",
+                "share_following": false,
+                "share_likes": false,
+                "theme": {
+                    "avatar_shape": "square",
+                    "background_color": "#444444",
+                    "body_font": "Helvetica Neue",
+                    "header_bounds": "978,2448,2355,0",
+                    "header_focus_height": 1152,
+                    "header_focus_width": 2048,
+                    "header_full_height": 3264,
+                    "header_full_width": 2448,
+                    "header_image": "https://static.tumblr.com/d248e27715343669f06a3852fd2cda53/utow0jf/nwUnbvgl6/tumblr_static_d2yiqqjdv1w8gsw0s0g4goc0o.jpg",
+                    "header_image_focused": "https://static.tumblr.com/d248e27715343669f06a3852fd2cda53/utow0jf/mA1nbvglg/tumblr_static_tumblr_static_d2yiqqjdv1w8gsw0s0g4goc0o_focused_v3.jpg",
+                    "header_image_scaled": "https://static.tumblr.com/d248e27715343669f06a3852fd2cda53/utow0jf/nwUnbvgl6/tumblr_static_d2yiqqjdv1w8gsw0s0g4goc0o_2048_v2.jpg",
+                    "header_stretch": true,
+                    "link_color": "#FB4C16",
+                    "show_avatar": true,
+                    "show_description": true,
+                    "show_header_image": true,
+                    "show_title": true,
+                    "title_color": "#fb4c16",
+                    "title_font": "Gibson",
+                    "title_font_weight": "regular"
+                }
+            },
+            "content": "<p><ol><li>Fresh out of Java or C++, learning JavaScript.  Look up on the internets how to define a class.  It doesn&rsquo;t quite work.  Avoid the &ldquo;new&rdquo; keyword, because it is dangerous.</li>\n<li>Learn about prototypes.  Design constructors that work how you expect.  Re-introduce &ldquo;new&rdquo; into your code. <small>Note: Many programmers stop here.  And that is <strong>fine</strong>.</small></li>\n<li>Learn about Object.create, Object.getPrototypeOf.  Mix and match constructors with just &ldquo;raw&rdquo; Object prototype usage.  Monkey-patch native prototypes.  Use prototypes to do everything.</li>\n<li>Come back to sanity.  Use constructors+prototypes to define objects, but use Plain Old Functions more often.  Prefer composition to &ldquo;is-a&rdquo; inheritance, but use is-a when it makes sense.  Use <code>new</code> and prototypes to create objects that all extend the same prototype, because, well, why not?</li>\n<li>Re-read <a href=\"http://en.wikipedia.org/wiki/Design_Patterns\">the Gang of Four book</a> that you once thought was so inspiring.  Grok how the &ldquo;class&rdquo; pattern is just a special case of disciplined prototype re-use.  Realize that prototypal inheritance makes a lot of those patterns trivial, and it&rsquo;s a bit silly to spend so much time on them.</li>\n<li>Begin to notice actual applications that are best moduled with prototype chains.  (Branching recursive file-system walks, configuration object overriding, inheritance trees, etc.)</li>\n</ol><p>I&rsquo;m really wondering what&rsquo;s next on this list.</p>\n\n<p>The great thing about enlightenment is that it doesn&rsquo;t end.  It is continually extending itself in multiple non-overlapping directions.</p></p>",
+            "content_raw": "<p><ol><li>Fresh out of Java or C++, learning JavaScript.  Look up on the internets how to define a class.  It doesn\u2019t quite work.  Avoid the \u201cnew\u201d keyword, because it is dangerous.</li>\n<li>Learn about prototypes.  Design constructors that work how you expect.  Re-introduce \u201cnew\u201d into your code. <small>Note: Many programmers stop here.  And that is <strong>fine</strong>.</small></li>\n<li>Learn about Object.create, Object.getPrototypeOf.  Mix and match constructors with just \u201craw\u201d Object prototype usage.  Monkey-patch native prototypes.  Use prototypes to do everything.</li>\n<li>Come back to sanity.  Use constructors+prototypes to define objects, but use Plain Old Functions more often.  Prefer composition to \u201cis-a\u201d inheritance, but use is-a when it makes sense.  Use <code>new</code> and prototypes to create objects that all extend the same prototype, because, well, why not?</li>\n<li>Re-read <a href=\"http://en.wikipedia.org/wiki/Design_Patterns\">the Gang of Four book</a> that you once thought was so inspiring.  Grok how the \u201cclass\u201d pattern is just a special case of disciplined prototype re-use.  Realize that prototypal inheritance makes a lot of those patterns trivial, and it\u2019s a bit silly to spend so much time on them.</li>\n<li>Begin to notice actual applications that are best moduled with prototype chains.  (Branching recursive file-system walks, configuration object overriding, inheritance trees, etc.)</li>\n</ol><p>I\u2019m really wondering what\u2019s next on this list.</p>\n\n<p>The great thing about enlightenment is that it doesn\u2019t end.  It is continually extending itself in multiple non-overlapping directions.</p></p>",
+            "is_current_item": true,
+            "is_root_item": true,
+            "post": {
+                "id": "4731036392"
+            }
+        }
+    ],
+    "type": "text"
+}

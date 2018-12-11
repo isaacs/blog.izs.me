@@ -1,0 +1,85 @@
+{
+    "blog": {
+        "description": "Writing and Stuff from Isaac Z. Schlueter",
+        "name": "izs",
+        "title": "blog.izs.me",
+        "updated": 1544051896,
+        "url": "http://blog.izs.me/",
+        "uuid": "t:qZa3tMNNGjX7PQ45aXJ-jw"
+    },
+    "blog_name": "izs",
+    "body": "<p><a class=\"tumblr_blog\" href=\"http://npmjs.tumblr.com/post/133542170540\">npmjs</a>:</p>\n\n<blockquote>\n<p>Today, npm released a set of features that I\u2019m really excited about: Private Packages for Organizations.</p>\n\n<p>This release allows teams to use private npm packages more effectively. It\u2019s intended for businesses that manage developer teams, with varying permissions and multiple projects.</p>\n\n<p>You can read the <a href=\"http://finance.yahoo.com/news/npm-inc-announces-products-organizations-140000934.html\">official announcement</a>, and learn more about the product <a href=\"https://www.npmjs.com/npm/private-packages/\">on our website</a>.</p>\n\n<p>A big part of the motivation to start a company around this project was that people using npm at work wanted to be able to manage teams and control access to private code.  We got a lot of feedback from the early adopters of private packages for individuals, and even more from our beta testers who\u2019ve been banging on this stuff for the last few months as it\u2019s come together.</p>\n\n<p>The team at npm has worked hard on this release, and we look forward to feedback and suggestions from the community.  Now that it\u2019s live, we\u2019ll be continuing to improve and polish it as we see how more people use it.  <a href=\"https://www.npmjs.com/contact\">Contact us</a> and tell us how we\u2019re doing :)</p>\n</blockquote>",
+    "can_like": false,
+    "can_reblog": false,
+    "can_reply": false,
+    "can_send_in_message": true,
+    "date": "2015-11-19 19:00:58 GMT",
+    "display_avatar": true,
+    "format": "markdown",
+    "id": 133542187178,
+    "is_blocks_post_format": false,
+    "note_count": 11,
+    "post_url": "http://blog.izs.me/post/133542187178/private-packages-for-organizations",
+    "reblog": {
+        "comment": "",
+        "tree_html": "<p><a class=\"tumblr_blog\" href=\"http://npmjs.tumblr.com/post/133542170540\">npmjs</a>:</p><blockquote>\n<p>Today, npm released a set of features that I\u2019m really excited about: Private Packages for Organizations.</p>\n\n<p>This release allows teams to use private npm packages more effectively. It\u2019s intended for businesses that manage developer teams, with varying permissions and multiple projects.</p>\n\n<p>You can read the <a href=\"http://finance.yahoo.com/news/npm-inc-announces-products-organizations-140000934.html\">official announcement</a>, and learn more about the product <a href=\"https://www.npmjs.com/npm/private-packages/\">on our website</a>.</p>\n\n<p>A big part of the motivation to start a company around this project was that people using npm at work wanted to be able to manage teams and control access to private code.  We got a lot of feedback from the early adopters of private packages for individuals, and even more from our beta testers who\u2019ve been banging on this stuff for the last few months as it\u2019s come together.</p>\n\n<p>The team at npm has worked hard on this release, and we look forward to feedback and suggestions from the community.  Now that it\u2019s live, we\u2019ll be continuing to improve and polish it as we see how more people use it.  <a href=\"https://www.npmjs.com/contact\">Contact us</a> and tell us how we\u2019re doing :)</p>\n</blockquote>"
+    },
+    "reblog_key": "c0murh4R",
+    "reblogged_from_can_message": false,
+    "reblogged_from_id": "133542170540",
+    "reblogged_from_name": "npmjs",
+    "reblogged_from_title": "The npm Blog",
+    "reblogged_from_url": "https://blog.npmjs.org/post/133542170540/private-packages-for-organizations",
+    "reblogged_from_uuid": "t:nXsLs1P4AptPf1fBr_nFxw",
+    "reblogged_root_can_message": false,
+    "reblogged_root_id": "133542170540",
+    "reblogged_root_name": "npmjs",
+    "reblogged_root_title": "The npm Blog",
+    "reblogged_root_url": "https://blog.npmjs.org/post/133542170540/private-packages-for-organizations",
+    "reblogged_root_uuid": "t:nXsLs1P4AptPf1fBr_nFxw",
+    "recommended_color": null,
+    "recommended_source": null,
+    "short_url": "https://tmblr.co/Z7nwWy1yNl12g",
+    "slug": "private-packages-for-organizations",
+    "state": "published",
+    "summary": "Private Packages for Organizations",
+    "tags": [],
+    "timestamp": 1447959658,
+    "title": "Private Packages for Organizations",
+    "trail": [
+        {
+            "blog": {
+                "active": true,
+                "can_be_followed": true,
+                "name": "npmjs",
+                "share_following": false,
+                "share_likes": false,
+                "theme": {
+                    "avatar_shape": "circle",
+                    "background_color": "#F6F6F6",
+                    "body_font": "Helvetica Neue",
+                    "header_bounds": 0,
+                    "header_image": "https://assets.tumblr.com/images/default_header/optica_pattern_12.png?_v=66d5962d3469ecad376c5ae8c13d5a27",
+                    "header_image_focused": "https://assets.tumblr.com/images/default_header/optica_pattern_12.png?_v=66d5962d3469ecad376c5ae8c13d5a27",
+                    "header_image_scaled": "https://assets.tumblr.com/images/default_header/optica_pattern_12.png?_v=66d5962d3469ecad376c5ae8c13d5a27",
+                    "header_stretch": true,
+                    "link_color": "#c12127",
+                    "show_avatar": true,
+                    "show_description": true,
+                    "show_header_image": true,
+                    "show_title": true,
+                    "title_color": "#444444",
+                    "title_font": "Helvetica Neue",
+                    "title_font_weight": "bold"
+                }
+            },
+            "content": "<p>Today, npm released a set of features that I&rsquo;m really excited about: Private Packages for Organizations.</p>\n\n<p>This release allows teams to use private npm packages more effectively. It&rsquo;s intended for businesses that manage developer teams, with varying permissions and multiple projects.</p>\n\n<p>You can read the <a href=\"http://finance.yahoo.com/news/npm-inc-announces-products-organizations-140000934.html\">official announcement</a>, and learn more about the product <a href=\"https://www.npmjs.com/npm/private-packages/\">on our website</a>.</p>\n\n<p>A big part of the motivation to start a company around this project was that people using npm at work wanted to be able to manage teams and control access to private code.  We got a lot of feedback from the early adopters of private packages for individuals, and even more from our beta testers who&rsquo;ve been banging on this stuff for the last few months as it&rsquo;s come together.</p>\n\n<p>The team at npm has worked hard on this release, and we look forward to feedback and suggestions from the community.  Now that it&rsquo;s live, we&rsquo;ll be continuing to improve and polish it as we see how more people use it.  <a href=\"https://www.npmjs.com/contact\">Contact us</a> and tell us how we&rsquo;re doing :)</p>",
+            "content_raw": "<p>Today, npm released a set of features that I\u2019m really excited about: Private Packages for Organizations.</p>\n\n<p>This release allows teams to use private npm packages more effectively. It\u2019s intended for businesses that manage developer teams, with varying permissions and multiple projects.</p>\n\n<p>You can read the <a href=\"http://finance.yahoo.com/news/npm-inc-announces-products-organizations-140000934.html\">official announcement</a>, and learn more about the product <a href=\"https://www.npmjs.com/npm/private-packages/\">on our website</a>.</p>\n\n<p>A big part of the motivation to start a company around this project was that people using npm at work wanted to be able to manage teams and control access to private code.  We got a lot of feedback from the early adopters of private packages for individuals, and even more from our beta testers who\u2019ve been banging on this stuff for the last few months as it\u2019s come together.</p>\n\n<p>The team at npm has worked hard on this release, and we look forward to feedback and suggestions from the community.  Now that it\u2019s live, we\u2019ll be continuing to improve and polish it as we see how more people use it.  <a href=\"https://www.npmjs.com/contact\">Contact us</a> and tell us how we\u2019re doing :)</p>",
+            "is_root_item": true,
+            "post": {
+                "id": "133542170540"
+            }
+        }
+    ],
+    "type": "text"
+}

@@ -1,0 +1,82 @@
+{
+    "blog": {
+        "description": "Writing and Stuff from Isaac Z. Schlueter",
+        "name": "izs",
+        "title": "blog.izs.me",
+        "updated": 1544051896,
+        "url": "http://blog.izs.me/",
+        "uuid": "t:qZa3tMNNGjX7PQ45aXJ-jw"
+    },
+    "blog_name": "izs",
+    "body": "<p><em><strong>Note</strong>: This post is regarding an issue that has since been fixed by Apple.  If you&rsquo;ve run this script, then please run the included undo.sh to reverse the changes, and then get the actual patch from the Software Update command in the Apple Menu.</em></p>\n\n<hr><p>If you&rsquo;ve upgraded to 10.4.10, and you use wireless (who doesn&rsquo;t, these days?) and you work off the battery (why else would you have a laptop?), then you&rsquo;ve probably run into issues with kernel panics and fast-dying batteries.</p>\n\n<p><a href=\"http://discussions.apple.com/thread.jspa?threadID=1017323&amp;tstart=50\">The fix</a> is a bit tricky, and involves finding and downloading 3 different files, and then moving stuff around manually.  Not being able to suffer the thought of doing this by hand, I decided to write a fix that&rsquo;s all packaged up in a single download and one step.</p>\n\n<p>Download <a href=\"http://foohack.com/blog/wp-content/uploads/2007/07/10410_wireless_fix.tgz\" title=\"10.4.10 Wireless Fix\">the tgz file</a>.  Unpack it, and run <code>install.sh</code>.  It&rsquo;ll create a backup of the files that are touched, and can be easily reverted to said backup with <code>undo.sh</code>.</p>\n\n<p>Enjoy using wireless on battery power, <abbr title=\"MacBook Pro\">MBP</abbr> lovers!</p>\n\n<p><strong>Like it says in the script:</strong> I make <strong>NO</strong> gaurantees about the quality or reliability of this code.  It worked for me, but it might make your machine explode.  <strong class=\"warning\">Use at your own risk!</strong></p>\n\n<h3>Edit</h3>\n\n<p>Updated the scripts to work when run from Terminal.app.  Sorry for the confusion, guys!</p>",
+    "can_like": false,
+    "can_reblog": false,
+    "can_reply": false,
+    "can_send_in_message": true,
+    "date": "2007-07-27 00:37:54 GMT",
+    "display_avatar": true,
+    "format": "markdown",
+    "id": 146671636,
+    "is_blocks_post_format": false,
+    "note_count": 0,
+    "post_url": "http://blog.izs.me/post/146671636/broken-mac-wireless-driver-in-10410",
+    "reblog": {
+        "comment": "<p><em><strong>Note</strong>: This post is regarding an issue that has since been fixed by Apple.  If you\u2019ve run this script, then please run the included undo.sh to reverse the changes, and then get the actual patch from the Software Update command in the Apple Menu.</em></p>\n\n<hr><p>If you\u2019ve upgraded to 10.4.10, and you use wireless (who doesn\u2019t, these days?) and you work off the battery (why else would you have a laptop?), then you\u2019ve probably run into issues with kernel panics and fast-dying batteries.</p>\n\n<p><a href=\"http://discussions.apple.com/thread.jspa?threadID=1017323&amp;tstart=50\">The fix</a> is a bit tricky, and involves finding and downloading 3 different files, and then moving stuff around manually.  Not being able to suffer the thought of doing this by hand, I decided to write a fix that\u2019s all packaged up in a single download and one step.</p>\n\n<p>Download <a href=\"http://foohack.com/blog/wp-content/uploads/2007/07/10410_wireless_fix.tgz\" title=\"10.4.10 Wireless Fix\">the tgz file</a>.  Unpack it, and run <code>install.sh</code>.  It\u2019ll create a backup of the files that are touched, and can be easily reverted to said backup with <code>undo.sh</code>.</p>\n\n<p>Enjoy using wireless on battery power, <abbr title=\"MacBook Pro\">MBP</abbr> lovers!</p>\n\n<p><strong>Like it says in the script:</strong> I make <strong>NO</strong> gaurantees about the quality or reliability of this code.  It worked for me, but it might make your machine explode.  <strong class=\"warning\">Use at your own risk!</strong></p>\n\n<h3>Edit</h3>\n\n<p>Updated the scripts to work when run from Terminal.app.  Sorry for the confusion, guys!</p>",
+        "tree_html": ""
+    },
+    "reblog_key": "r2Y0IMHW",
+    "recommended_color": null,
+    "recommended_source": null,
+    "short_url": "https://tmblr.co/Z7nwWy8lWWK",
+    "slug": "broken-mac-wireless-driver-in-10410",
+    "state": "published",
+    "summary": "Broken Mac Wireless Driver in 10.4.10",
+    "tags": [
+        "Broken",
+        "Freebie",
+        "Tools of the Trade"
+    ],
+    "timestamp": 1185496674,
+    "title": "Broken Mac Wireless Driver in 10.4.10",
+    "trail": [
+        {
+            "blog": {
+                "active": true,
+                "can_be_followed": true,
+                "name": "izs",
+                "share_following": false,
+                "share_likes": false,
+                "theme": {
+                    "avatar_shape": "square",
+                    "background_color": "#444444",
+                    "body_font": "Helvetica Neue",
+                    "header_bounds": "978,2448,2355,0",
+                    "header_focus_height": 1152,
+                    "header_focus_width": 2048,
+                    "header_full_height": 3264,
+                    "header_full_width": 2448,
+                    "header_image": "https://static.tumblr.com/d248e27715343669f06a3852fd2cda53/utow0jf/nwUnbvgl6/tumblr_static_d2yiqqjdv1w8gsw0s0g4goc0o.jpg",
+                    "header_image_focused": "https://static.tumblr.com/d248e27715343669f06a3852fd2cda53/utow0jf/mA1nbvglg/tumblr_static_tumblr_static_d2yiqqjdv1w8gsw0s0g4goc0o_focused_v3.jpg",
+                    "header_image_scaled": "https://static.tumblr.com/d248e27715343669f06a3852fd2cda53/utow0jf/nwUnbvgl6/tumblr_static_d2yiqqjdv1w8gsw0s0g4goc0o_2048_v2.jpg",
+                    "header_stretch": true,
+                    "link_color": "#FB4C16",
+                    "show_avatar": true,
+                    "show_description": true,
+                    "show_header_image": true,
+                    "show_title": true,
+                    "title_color": "#fb4c16",
+                    "title_font": "Gibson",
+                    "title_font_weight": "regular"
+                }
+            },
+            "content": "<p><em><strong>Note</strong>: This post is regarding an issue that has since been fixed by Apple.  If you&rsquo;ve run this script, then please run the included undo.sh to reverse the changes, and then get the actual patch from the Software Update command in the Apple Menu.</em></p>\n\n<hr /><p>If you&rsquo;ve upgraded to 10.4.10, and you use wireless (who doesn&rsquo;t, these days?) and you work off the battery (why else would you have a laptop?), then you&rsquo;ve probably run into issues with kernel panics and fast-dying batteries.</p>\n\n<p><a href=\"http://discussions.apple.com/thread.jspa?threadID=1017323&amp;tstart=50\">The fix</a> is a bit tricky, and involves finding and downloading 3 different files, and then moving stuff around manually.  Not being able to suffer the thought of doing this by hand, I decided to write a fix that&rsquo;s all packaged up in a single download and one step.</p>\n\n<p>Download <a href=\"http://foohack.com/blog/wp-content/uploads/2007/07/10410_wireless_fix.tgz\" title=\"10.4.10 Wireless Fix\">the tgz file</a>.  Unpack it, and run <code>install.sh</code>.  It&rsquo;ll create a backup of the files that are touched, and can be easily reverted to said backup with <code>undo.sh</code>.</p>\n\n<p>Enjoy using wireless on battery power, MBP lovers!</p>\n\n<p><strong>Like it says in the script:</strong> I make <strong>NO</strong> gaurantees about the quality or reliability of this code.  It worked for me, but it might make your machine explode.  <strong>Use at your own risk!</strong></p>\n\n<h3>Edit</h3>\n\n<p>Updated the scripts to work when run from Terminal.app.  Sorry for the confusion, guys!</p>",
+            "content_raw": "<p><em><strong>Note</strong>: This post is regarding an issue that has since been fixed by Apple.  If you\u2019ve run this script, then please run the included undo.sh to reverse the changes, and then get the actual patch from the Software Update command in the Apple Menu.</em></p>\n\n<hr><p>If you\u2019ve upgraded to 10.4.10, and you use wireless (who doesn\u2019t, these days?) and you work off the battery (why else would you have a laptop?), then you\u2019ve probably run into issues with kernel panics and fast-dying batteries.</p>\n\n<p><a href=\"http://discussions.apple.com/thread.jspa?threadID=1017323&amp;tstart=50\">The fix</a> is a bit tricky, and involves finding and downloading 3 different files, and then moving stuff around manually.  Not being able to suffer the thought of doing this by hand, I decided to write a fix that\u2019s all packaged up in a single download and one step.</p>\n\n<p>Download <a href=\"http://foohack.com/blog/wp-content/uploads/2007/07/10410_wireless_fix.tgz\" title=\"10.4.10 Wireless Fix\">the tgz file</a>.  Unpack it, and run <code>install.sh</code>.  It\u2019ll create a backup of the files that are touched, and can be easily reverted to said backup with <code>undo.sh</code>.</p>\n\n<p>Enjoy using wireless on battery power, <abbr title=\"MacBook Pro\">MBP</abbr> lovers!</p>\n\n<p><strong>Like it says in the script:</strong> I make <strong>NO</strong> gaurantees about the quality or reliability of this code.  It worked for me, but it might make your machine explode.  <strong class=\"warning\">Use at your own risk!</strong></p>\n\n<h3>Edit</h3>\n\n<p>Updated the scripts to work when run from Terminal.app.  Sorry for the confusion, guys!</p>",
+            "is_current_item": true,
+            "is_root_item": true,
+            "post": {
+                "id": "146671636"
+            }
+        }
+    ],
+    "type": "text"
+}
