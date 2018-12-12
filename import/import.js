@@ -15,20 +15,30 @@ const main = () => fs.readdirSync(jsondir)
   .filter(t => /^[^.].*\.json$/.test(t))
   .forEach(t => write(parse(require(`${jsondir}/${t}`))))
 
-const deleteUndefined = obj =>
-  Object.keys(obj)
-    .filter(k => obj[k] !== undefined)
+const pruneObj = filter => function f (obj) {
+  return Object.keys(obj)
+    .filter(k => filter(obj[k]))
+    .sort()
     .map(k =>
-      [k, obj[k] && typeof obj[k] === 'object' && !(obj[k] instanceof Date) ? deleteUndefined(obj[k]) : obj[k]])
+      [k, obj[k] &&
+        typeof obj[k] === 'object' &&
+        !(obj[k] instanceof Date) ? f(obj[k]) : obj[k]])
     .reduce((set, [key, val]) => {
       set[key] = val
       return set
     }, Array.isArray(obj) ? [] : {})
+}
+
+const delUndef = pruneObj(x => x !== undefined)
+
+const delEmpty = pruneObj(x =>
+  !x || typeof x !== 'object' || x instanceof Date ||
+  Object.keys(x).length > 0)
 
 // [Object frontmatter, String content] => String remarkPost
 const markify = ([frontmatter, content]) =>
 `---
-${yaml.safeDump(deleteUndefined(frontmatter))}---
+${yaml.safeDump(delEmpty(delUndef(frontmatter)))}---
 ${content}
 `
 
@@ -62,6 +72,16 @@ const common = data => ({
   title: data.title || '',
   tumblrid: data.id,
   tags: data.tags,
+  source: {
+    title: data.reblogged_root_title,
+    name: data.reblogged_root_name,
+    url: data.reblogged_root_url,
+  },
+  via: {
+    name: data.reblogged_from_name,
+    title: data.reblogged_from_title,
+    url: data.reblogged_from_url
+  },
   redirects: [ `/post/${data.id}/${data.slug}`, `/post/${data.id}` ],
 })
 
