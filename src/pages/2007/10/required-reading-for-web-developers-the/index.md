@@ -1,0 +1,74 @@
+---
+date: 2007-10-29T17:00:58.000Z
+redirects:
+  - /post/146672376/required-reading-for-web-developers-the
+  - /post/146672376
+slug: required-reading-for-web-developers-the
+tags:
+  - Code Beauty
+  - Code Ecosystems
+title: 'Required reading for web developers: The Fountainhead by Ayn Rand'
+tumblrid: 146672376
+type: text
+---
+<p>I was thinking recently about one of my favorite books, <a href="http://www.amazon.com/dp/0452286751/?tag=isaacschlcom-20">The Fountainhead</a> by Ayn Rand, and how relevant it is to the topic of web development.  Yahoo&rsquo;s internal web developer mailing list flares up in these delightful debates once or twice a month, and it always warms my heart to be reminded that there&rsquo;s an intransigent little Roark inside each one of us.  Some 50 years before the Internet was even a spark in <a title="Tim Berners-Lee" href="http://en.wikipedia.org/wiki/Tim_Berners-Lee">TBL</a>&rsquo;s eye, Ayn Rand managed to capture the timeless essence of a web developer in the character of Howard Roark.</p>
+
+<p><a href="http://www.amazon.com/dp/0452286751/?tag=isaacschlcom-20"><img src="http://myskitch.com/isaacschlueter/the-fountainhead-20071026-142719.jpg" alt="The Fountainhead" height="400" width="272" class="alignright"/></a> Don&rsquo;t worry, this isn&rsquo;t going to be a post about philosophy or capitalism or &ldquo;Man&rsquo;s life <i lang="latin">qua</i> Man&rdquo; or any of that.  If that&rsquo;s the Ayn Rand you want, maybe you should check out <a href="http://www.amazon.com/dp/0452011876/?tag=isaacschlcom-20">Atlas Shrugged</a>.  There&rsquo;s a bit of that in The Fountainhead, too, but what struck me most deeply about it is the way that it deals with the internal passion that seems to accompany the creative/technical blend in fields like ours.</p>
+
+<p>From Chapter 1&hellip;</p>
+
+<blockquote>Here are my rules: what can be done with one substance must never be done with another. No two materials are alike. No two sites on earth are alike. No two buildings have the same purpose. The purpose, the site, the material determine the shape. Nothing can be reasonable or beautiful unless its made by one central idea, and the idea sets every detail. A building is alive, like a man.</blockquote>
+
+<p>Some sites are best built with a few static HTML files.  Others are better served by a database-driven PHP pages and links between them.  Still others are best served by a lot of Ajax and a single URL.  No web site can be reasonable or beautiful unless it is made by one central idea, and the idea sets every detail.  Every trade-off must be negotiated and determined by the site&rsquo;s central purpose.</p>
+
+<p>From Chapter 7&hellip;</p>
+
+<blockquote>Roark looked at the sketches, and even though he wanted to throw them at Keating&rsquo;s face and resign, one thought stopped him: the thought that it was a building and that he had to save it, as others could not pass a drowning man without leaping in to the rescue.</blockquote>
+
+<p><a href="http://pirates.yahoo.com">Ahem&hellip;</a> <ins datetime="2008-03-26T00:33:45+00:00">NB: That link used to go to a site we built that was terrible. Now, thankfully, it goes somewhere less heinous. I&rsquo;m not trying to say anything negative about the Yahoo Movies site.  It&rsquo;s a great site built by great people.  The pirates &ldquo;brand universe&rdquo; site was a terrible site built by great people in a terrible situation.</ins></p>
+
+<p>From Chapter 10&hellip;</p>
+
+<blockquote>The house on the sketches had been designed not by Roark, but by the cliff on which it stood. It was as if the cliff had grown and completed itself and proclaimed the purpose for which it had been waiting.</blockquote>
+
+<p>Great sites seem like they were designed and built not by the people on the team, but somehow simply grown forth from the needs that they fulfill.</p>
+
+<p>From Chapter 13&hellip;</p>
+
+<blockquote>Now, take a human body. Why wouldn&rsquo;t you like to see a human body with a curling tail with a crest of ostrich feathers at the end? &hellip; It would be ornamental, you know, instead of the stark, bare ugliness we have now. Well, why don&rsquo;t you like the idea? Because it would be useless and pointless.</blockquote>
+
+<p><a href="http://www.myspace.com">This site comes to mind</a>.  Know what happens to sites with too many noisy ads?  <a href="http://foohack.com/2007/09/whiting-out-ads-is-adblock-even-necessary-any-more/">They get ignored</a>.</p>
+
+<p>From Chapter 13&hellip;</p>
+
+<blockquote>The twelve faces before him had a variety of countenances, but there was something, neither color nor feature, uupon all of them, as a common denominator, something that dissolved their expressions, so that they were not faces any longer but only empty ovals of flesh.</blockquote>
+
+<p>I&rsquo;ve been in that meeting.</p>
+
+<p>From Part 3, Chapter 8&hellip;</p>
+
+<blockquote>It was a contest without time, a struggle of two abstractions, the thing that had created the building against things that made the play possible-two forces, suddenly naked to her in their simple statement-two forces that had fought since the world began-and every religion had known of them-and there had always been a God and a Devil-only men had been so mistaken about the shapes of their Devil-he was not single and big, he was many and smutty and small.</blockquote>
+
+<p>Design by committee always leads to trouble.  Ultimately, it is one brain, unshared, that produces code, and decisions have to be made independently, even when we try to comply with some standard or another for the sake of <a href="http://foohack.com/2007/06/the-most-important-things-they-don%e2%80%99t-teach-in-compsci-101-but-should-maintainability/">maintainability</a>.</p>
+
+<p>One of my favorite quotes ever, from Part 4, Chapter 8&hellip;</p>
+
+<blockquote>My work done my way. A private, personal, selfish, egotistical motivation. That&rsquo;s the only way I function. That&rsquo;s all I am.</blockquote>
+
+<p>The work is its own reward.  That&rsquo;s why so many webdevs were doing this before they started getting a paycheck for it.  <a href="http://foohack.com/2007/10/adhd-and-web-development/">It attracts the kind of people who are passionate and crazy about it.</a></p>
+
+<p>About 100 pages later, there&rsquo;s this quote, also great&hellip;</p>
+
+<blockquote>Independence is the only gauge of human virtue and value. What a man is and makes of himself; not what he has or hasn&rsquo;t done for others. There is no substitute for personal dignity.</blockquote>
+
+<p>Professionally speaking, you are your skill, what you&rsquo;ve done for yourself with your own brain.  Your degree doesn&rsquo;t matter.</p>
+
+<p>I was thinking the other day about why I tend to brush past the &ldquo;How&rsquo;s work?&rdquo; question when well-meaning friends and relatives ask, but spend a bunch of time sharing my webdev related thoughts here on this site.  This quote from Chapter 8 sums it up:</p>
+
+<blockquote>Sometimes, he was asked to show his sketches; he extended them across a desk, feeling a contraction of shame in the muscles of his hand; it was like having the clothes torn off his body, and the shame was not, that his body was exposed, but that it was exposed to indifferent eyes.</blockquote>
+
+<p>There are countless more quotes that I could post.  I&rsquo;d post the whole book, but that would be plagiarism and 800 pages would make <abbr title="an even crappier">a crappy</abbr> blog entry.</p>
+
+<p>If you&rsquo;re a web developer haven&rsquo;t ever read The Fountainhead, or if you only read it in High School because you had to, <a href="http://www.amazon.com/dp/0452286751/?tag=isaacschlcom-20">get a copy now</a>, and find the time to get into it.  You&rsquo;ll be glad you did.</p>
+
+<p>There are <a href="http://sdpurtill.wordpress.com/2006/09/21/some-quotes-from-the-fountainhead-that-are-insane/">a lot</a> of <a href="http://www.bookrags.com/notes/fou/QUO.htm">sites</a> out <a href="http://www.google.com/search?q=fountainhead+quotes">there</a> that have more quotes from the book.</p>

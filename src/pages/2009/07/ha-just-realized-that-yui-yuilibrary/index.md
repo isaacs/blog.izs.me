@@ -1,0 +1,11 @@
+---
+date: 2009-07-29T19:31:12.000Z
+redirects:
+  - /post/151758683/ha-just-realized-that-yui-yuilibrary
+  - /post/151758683
+slug: ha-just-realized-that-yui-yuilibrary
+title: ''
+tumblrid: 151758683
+type: text
+---
+<p>Ha. Just realized that @yui ≠ @yuilibrary</p>
