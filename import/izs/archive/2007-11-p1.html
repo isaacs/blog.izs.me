@@ -1,0 +1,272 @@
+<!DOCTYPE html>
+
+<meta charset=utf-8>
+<title>blog.izs.me</title>
+<link rel=stylesheet href=../backup.css>
+
+<body class=archive>
+
+<header>
+<h1>November 2007</h1>
+</header>
+
+<article class=text id=p-146672467>
+<header>
+<p><time datetime=2007-11-26T19:13:04Z>11/26/2007 11:13:04</time>
+<a class=llink href=../posts/146672467.html>¶</a>
+<a href=https://tmblr.co/Z7nwWy8lWjJ>●</a></header>
+<h2>CSS Modal Dialog that Works Right</h2>
+<p><em>Note: This method has a few problems.  Scrolling breaks on the iPhone, and the test page has some issues with tabbing through links.  See <a href="http://foohack.com/2007/11/css-modal-dialog-that-works-right/#comment-422">my comment</a> below.  A new version will be posted soon. &ndash;i</em></p>
+
+<p>In my <a title="Cross Browser Support for inline-block Styling" href="http://foohack.com/2007/11/cross-browser-support-for-inline-block-styling/">last post</a>, I touched on a method to get different browsers to handle the inline-block display style.  I decided to use that on a project that I&rsquo;m working on now that has a few <a href="http://en.wikipedia.org/wiki/Modal_dialog">modal dialogs</a>.</p>
+
+<p>Feel free to skip all this and go <a href="http://foohack.com/tests/vertical-align/dialog.html">straight to the example</a>.</p>
+
+<p>In the application world, creating a modal is pretty straightforward.  Here are some features that every modal window should have:</p>
+
+<ol><li>Interaction with the contents of the parent window should be *impossible* until the modal is dealt with.  Scroll-mouse should not scroll the background page, clicking should not click the background page, tabbing should not get you there, etc.</li>
+    <li>When you dismiss the modal, the parent window should be *exactly* how you left it.</li>
+    <li>The parent window should be dimmed, or there should be some other indicator that it is currently not available for interaction.  This has the corollary effect of making the modal &ldquo;pop&rdquo; a bit more.</li>
+    <li>In a web page, a modal should be constrained within the viewport.  Opening a new window just to show a dialog box is ugly as a bucket of slugs.</li>
+    <li>The modal should be placed consistently.  If it is not movable, then it should be centered vertically and horizontally.  This positioning should be consistent if the parent window is resized or moved.</li>
+    <li>The modal should be smaller than the parent window.  If the viewport is resized smaller than the modal, then scrollbars should appear that allow the user to see the rest of the modal.</li>
+</ol><p>The rule of thumb: The modal should be visible always and in every situation, the parent should be dimmed and preserved.  Almost every modal dialog I could find online broke a few of these rules.</p>
+
+<p>In some, the html and body elements have their overflow set to hidden when the modal is shown, so the current scroll position of those elements is lost.  If you were looking through a list of items, and you brought up a modal dialog related to one of them, then you&rsquo;re back to the start of the list when the modal is dismissed. Annoying.</p>
+
+<p>In others,  you CAN scroll the background, but the modal is set to respond to the onscroll event to try to stay in place.  Some of the time, they use display:fixed to behave a little nicer in non-IE browsers.  At worse, you get a jumpy seizure-inducing experience; at best, you accidentally scroll the background and lose your place without realizing it.</p>
+
+<p>It&rsquo;s a bit of an edge case, but you do have to handle cases where the modal might be taller/wider than the viewport.  As a test, I tried resizing the viewport down on a bunch of modal approaches.  Vertical centering often doesn&rsquo;t do too well unless the contents are smaller than the viewport, so the top and bottom of the modal were cut off.  Unacceptable.</p>
+
+<p>It wasn&rsquo;t terribly difficult to create one that obeyed these rules.  Here&rsquo;s the approach that I took.</p>
+
+<ol><li>Build it with tables.</li>
+    <li>Replace the tables with divs, and give them the appropriate display:table, display:table-cell CSS rules.</li>
+    <li>Fret and hack to try to get it to work in IE, unsuccessfully.</li>
+    <li>IM <a href="http://hedgerwow.com">another yahoo</a> who has a reputation for being a great webdev hacker.</li>
+    <li>Adapt what he did to my needs.</li>
+</ol><p>For the non-IE browsers, it&rsquo;s pretty straightforward.  Take the scrollbars off of the HTML and BODY elements, and put them on #body instead.  #modal is a sibling of #body, so when it is 100% height and width, it will cover it up.  Then #modal will overlap the scrollbars of #body, without losing the scroll position.  Also, that means there&rsquo;s no need to do any trickery with a negative right margin to try (unsuccessfully, on the mac) to overlap the scrollbars.</p>
+
+<p>Since .overlay element in the modal has a display:table, it will always expand to fit its contents.  .overlay&rsquo;s parent is overflow:auto, so if .overlay is too big, it&rsquo;ll let you scroll to see the rest.</p>
+
+<p>What this means is that you can&rsquo;t cut off the top and bottom of the modal. It&rsquo;ll be vertically centered if there&rsquo;s room, and if not, it&rsquo;ll be flush to the top and scrollable.  Perfect.</p>
+
+<p>For IE it gets trickier.  <a href="http://www.hedgerwow.com/temp/css-vertical-align-center-overlay.html">Hedger&rsquo;s example</a> showed 2 great ideas, though.  Basically, if you have 2 siblings that are display:inline-block, then, in IE at least, the line-block will expand to fit both of them.  So, they both end up being vertically centered to the height of the taller child.  If that taller element is width:0, then you essentially have an arbitrary line-height setter for the inline-block row.  In this case, the height is set to 100%.</p>
+
+<p>The other child will be whatever height it is based on its contents.  If that happens to be taller than 100%, then the line-height will be taller than the viewport.  At that point, the overflow:auto parent shows a scrollbar to let you see the rest.  Identical behavior to the standards browsers!</p>
+
+<p>The second problem arises with IE&rsquo;s peculiarities when it comes to percentage heights.  For whatever reason, if you have a position:absolute element, it doesn&rsquo;t like to do height:100% unless some parent has a fixed height value, like 500px.  100% of 100% doesn&rsquo;t compute, for some reason.  Sadly, that means that the element that does the overlay wouldn&rsquo;t be able to properly do its job in IE.  So, instead of using a separate transparent layer with a background image, Hedger used the <a href="http://msdn2.microsoft.com/en-us/library/ms532997.aspx">DXImageTransform.Microsoft.gradient</a> filter on the modal container itself.  However, since the gradient filter doesn&rsquo;t actually prevent interaction with the background, I added a 1 pixel transparent gif as the background image.</p>
+
+<p>I&rsquo;d very much like to not use this transparent pixel.  It feels a bit like a spacer gif to me.  But, all in all, it&rsquo;s a pretty small price to pay.</p>
+
+<p>I didn&rsquo;t bother to tackle the tab-order focus stuff in this little test page, since I wanted to just isolate the stylistic stuff to get it working across browsers.  However, it would be good to put a focus handler on #body, and any time a #body element gets focus, focus the #modal instead.  That way, once you tab off the modal dialog, you&rsquo;d get right back onto it.  In the spirit of being friendly to keyboard users, it would also be a good idea to keep track of the currently focused element when the modal opens, and go back to it once the dialog closes.</p>
+
+<p><a href="http://foohack.com/tests/vertical-align/dialog.html">Here it is</a> for your view-source pleasure.</p>
+
+<p>Please please feel free use this modal.  Life is too short to futz around trying to see the &ldquo;cancel&rdquo; button that is hiding off the screen so you can go back to reading your page.</p>
+
+<p>Let me know if you can think of any enhancements or find any problems with it.  Those of you in the US, I hope you had a great Thanksgiving.</p>
+
+<h3>Update</h3>
+
+<p>I updated it to add support for focus and blur events.  It works in Firefox, MSIE, and Safari. Opera on the Mac has some really strange behavior regarding focusing on links, and I decided that it just wasn&rsquo;t salvageable.  Safari requires a bit of hacking to get the focus stuff to work properly, but I think it&rsquo;s acceptable.</p>
+<footer><a href=http://izs.tumblr.com/tagged/CSS>#CSS</a>
+<a href=http://izs.tumblr.com/tagged/Freebie>#Freebie</a>
+</footer>
+</article>
+<article class=text id=p-146672448>
+<header>
+<p><time datetime=2007-11-19T18:06:33Z>11/19/2007 10:06:33</time>
+<a class=llink href=../posts/146672448.html>¶</a>
+<a href=https://tmblr.co/Z7nwWy8lWj0>●</a></header>
+<h2>Cross Browser Support for inline-block Styling</h2>
+<p>I learned a new CSS trick from <a href="http://blog.hedgerwow.com/">one of the best insane inventor webdevs I know</a>.  The pieces have been <a href="http://www.google.com/search?q=display%3A-moz-inline-stack%3B+display%3Ainline%3B+display%3Ainline-block%3B+zoom%3A1%3B">out there for some time</a>, it seems, but I hadn&rsquo;t ever seen this spelled out as simply and elegantly as he did it.</p>
+
+<p>Inline-block layout solves a lot of problems.  It lets you do some cool stuff previously thought impossible with CSS.  It makes vertical alignment work properly.  And sadly, it&rsquo;s supported pretty badly.</p>
+
+<p>Mozilla doesn&rsquo;t support inline-block at all, but they have -moz-inline-stack which is about the same.  Fair enough, since no one else understands -moz-inline-block, you can just do this:</p>
+
+<p><code class="block css">display:-moz-inline-stack;
+display:inline-block;</code></p>
+
+<p>If you put inline-block after -moz-inline-stack, then Moz will start using the &ldquo;right&rdquo; one <a title="That is, with version 3" href="http://developer.mozilla.org/en/docs/Firefox_3_for_developers">when it supports it</a>.</p>
+
+<p>IE supports inline-block, but only for elements that are natively inline.  So, if you really want to use inline-block, you&rsquo;re restricted to spans and strongs and ems, when a list or paragraph would perhaps make more semantic sense (and also degrade more nicely for non-CSS users.)</p>
+
+<p>However, if you trigger <a href="http://www.satzansatz.de/cssd/onhavinglayout.html">hasLayout</a> on a block element, and then set it to display:inline, it magically becomes an inline-block in IE!  By using the *property hack (which I love so well), you can hide the display:inline from all non-IE browsers effortlessly.</p>
+
+<p>Here&rsquo;s the code, in all its brief loveliness:</p>
+
+<p><code class="css block">display:-moz-inline-stack;
+display:inline-block;
+zoom:1;
+*display:inline;</code></p>
+
+<p>From there, it pays to learn a thing or two about <a href="http://www.w3.org/TR/CSS21/visudet.html#propdef-vertical-align">the vertical-align property</a>.  It lets you do lovely things like <a href="http://foohack.com/tests/vertical-align/image-labels.html">this</a>.</p>
+
+<h3>Benefits</h3>
+
+<p>Inline block elements can be vertically centered like display:table-cell, but they wrap when they get to the end of their parent.  Also, it&rsquo;s supported across browsers using this hack, whereas display:table-cell is not supported in IE.</p>
+
+<p>This technique allows for some very interesting layout approaches that would have required a lot of very tricky use of floats previously.</p>
+
+<h3>Caveats</h3>
+
+<p>If an element is inside of an inline block, and lies outside the <a href="http://www.w3.org/TR/REC-CSS2/visuren.html#inline-formatting">line box</a>, then it won&rsquo;t be clickable in Mozilla.  Give the child element <code>position:relative</code> to correct the problem.</p>
+
+<p>Elements treated this way will have <a href="http://www.satzansatz.de/cssd/onhavinglayout.html">hasLayout</a> set in MSIE.  This is a weird and esoteric aspect of MSIE&rsquo;s CSS engine that has potentially unforeseen consequences.  Beware.</p>
+
+<p>If an IMG element is directly inside an inline block element in Mozilla, it will stretch to the full width of that element.  Wrap all IMG tags in a block-level container element to avoid the problem.</p>
+
+<p>Since inline block elements wrap and flow like inline content, that means that they also respect white space like words on a page would.  That is, if there is <em>any</em> whitespace between two inline-block elements, then a single space will be added between two inline-block elements.  If this causes a problem, you can either remove the whitespace or comment it out like so:</p>
+
+<p><code class="html block">&lt;/div&gt;&lt;!--
+--&gt;&lt;div&gt;</code></p>
+
+<p>All in all, the caveats are pretty easy to work around, and the benefits allow for some really cool stuff that would be almost impossible or very difficult otherwise.</p>
+
+<h3>The 2 Faces of vertical-align</h3>
+
+<p>In <a href="http://foohack.com/2007/10/top-5-css-mistakes/#p41_vertical_alignment">a classic CSS blunder</a>, vertical-align can mean 2 extremely different things, depending on whether an element is display:inline-block or display:table-cell.</p>
+
+<dl><dt>table-cell</dt>
+<dd><p>Align the element&rsquo;s <strong>contents</strong> according to the element&rsquo;s vertical-align property.  IE, if the cell&rsquo;s vertical-align is set to &ldquo;middle&rdquo;, then vertically center the element&rsquo;s contents.  The height and position of the element itself is determined by the containing display:table element.</p></dd>
+<dt>inline-block</dt>
+<dd><p>Align the <strong>element</strong> according to the element&rsquo;s vertical-align property.  IE, if the inline-block&rsquo;s vertical-align is set to &ldquo;middle&rdquo;, then the element is vertically centered in the line-block.  The height and position of the element&rsquo;s contents are determined by the standard block-level flow rules.</p>
+</dd>
+</dl><p>While I personally believe that this was a stupendously bad and confusing approach to take, I believe that the reasoning comes from backwards compatibility.  Inline blocks emulate the behavior of the IMG tag, and the vertical-align CSS property thus mimics the old valign attribute.  Table cells emulate the behavior of the TD tag, and the vertical-align CSS property thus mimics the behavior of the valign attribute on TDs.  In other words, in this way, CSS faithfully reproduces the sloppy errors of HTML.  It would have been better to use two different properties to achieve this effect; after all, vertical-align:baseline hardly makes sense for table cells.  Perhaps the inline-block type of vertical alignment would have been better called &ldquo;line-position&rdquo; or some such, since it is less like a vertical version of the text-align property.</p>
+
+<p>But, you write code with the language you have, not the language you wish you had, and CSS is what it is, at least for the foreseeable future.</p>
+
+<p>Recently, I had to achieve <a href="http://foohack.com/tests/vertical-align/dialog-table.html">an effect</a> that was extremely tricky by standard methods, but extremely easy using tables.  I decided to test out a display:table approach, and then try to hack it into place for IE, since it is the only browser that does not support this approach.</p>
+
+<p><a href="http://foohack.com/tests/vertical-align/dialog.html">The result</a> uses a fairly large number of DIVs, but still fewer than the straight table approach, and without the semantic rubble of tables.  The dialog is vertically and horizontally centered, but if you resize the viewport too small, the dialog will not be hidden permanently, due to the &ldquo;collapse to fit&rdquo; nature of the table display style.  Doing this will an inline-block would have been quite a bit more difficult.</p>
+
+<p>For IE, I used the 50/50 hack.  Create a position:absolute element at top:50%.  Then, create a position:relative child at top:-50%.  The negative top rule on the position:relative element will be misinterpreted, and result in a vertically centered box.  The downside is that IE gets a scrollbar if the viewport is less than twice the height of the dialog.  But, that&rsquo;s a pretty acceptable down side, in my opinion.</p>
+
+<p>Sadly, unlike with display:inline-block, it doesn&rsquo;t look like there&rsquo;s any real consistency to support display:table across browsers.  (Except, of course, using table tags.)  You basically just have to hack something for IE that achieves the same effect, and which approach you use varies on the effect you&rsquo;re going for.  In this case, I exploited an IE positioning bug to achieve vertical centering, but other situations would require different approaches.  If you&rsquo;re doing complex layouts using display:table, which in a perfect world would indeed be a great way to do it, you&rsquo;re going to have a lot of work cut out for you hacking away at IE.</p>
+
+<p>Let&rsquo;s pray that IE 8 supports display:table!</p>
+<footer><a href=http://izs.tumblr.com/tagged/CSS>#CSS</a>
+<a href=http://izs.tumblr.com/tagged/Code%20Beauty>#Code Beauty</a>
+</footer>
+</article>
+<article class=text id=p-146672429>
+<header>
+<p><time datetime=2007-11-12T18:00:38Z>11/12/2007 10:00:38</time>
+<a class=llink href=../posts/146672429.html>¶</a>
+<a href=https://tmblr.co/Z7nwWy8lWij>●</a></header>
+<h2>Agile Scrum Sucks (but so do the alternatives)</h2>
+<p>Software development is not like manufacturing.</p>
+
+<p>In manufacturing, you build to the same specifications over and over again.
+In software development, you create a new thing each time, and the specifications typically change along the way.</p>
+
+<p>In manufacturing, 100 factories can generally produce 100 times as many things as 1 factory.  Adding a new factory means that more things will be produced.
+20 programmers are far less productive than 5.  Adding another programmer often means that the project will be delayed even further.</p>
+
+<p>In manufacturing, you can gradually tune your methods based on past experience, and become more efficient over time.
+In software development, past problems generally have little if anything to do with future problems.  The best you can hope for is to find and learn very broad abstract efficiency boosters like &ldquo;best practices.&rdquo;</p>
+
+<p>Manufacturing and software development are similar in what I think of as the &ldquo;expert effect.&rdquo;  Generally speaking, for a given task and a given group of people, one of them will be best at that task.  If that expert is given control of that task, then they will tend to do it well; if they are forced to take input from everyone else in the group who isn&rsquo;t as good as them, then the task will tend to suffer, if only from the time required to evaluate the input and decide not to use it.  Management is one such task, perhaps the most important one.</p>
+
+<p>Most people I know seem to accept these premises.  That is, unless you&rsquo;re an Agile Scrum zealot.  Then you may think that:</p>
+
+<ol><li>Specifications change, but that&rsquo;s OK, because it&rsquo;s &ldquo;iterative design&rdquo;.</li>
+    <li>You can predict how long something will take, and your predictions will get better over time.</li>
+    <li>Tasks can be broken down based on the time required, and can be assigned to any &ldquo;qualified&rdquo; person.</li>
+    <li>Programming experts will be happier if they do project management, and are qualified to do so.</li>
+</ol><p>This is all 100% bullshit.  In the real world:</p>
+
+<ol><li>Specifications change because it&rsquo;s virtually impossible to design something that&rsquo;s never been done if you can&rsquo;t see it as you go along.  The specs stop changing when the team puts their collective foot down to management and the customer, and that&rsquo;s when &ldquo;research&rdquo; stops and &ldquo;development&rdquo; begins.  The time at which this occurs is flexible, but if you&rsquo;re targeting a fixed release date, it&rsquo;d better be soon!  If you don&rsquo;t build in enough time for research, then the product will not be satisfactory.</li>
+    <li><a href="http://www.codinghorror.com/blog/archives/000981.html">Your estimates suck.</a>  And they&rsquo;ll keep sucking, no matter what you do.  You&rsquo;re probably around 10-15% accurate, and if you work your ass off, you can get up to a 20-25% accuracy rate.  Estimates that aren&rsquo;t even remotely accurate are a waste of everyone&rsquo;s time.</li>
+    <li>I&rsquo;m not the only one, I&rsquo;m sure, who finds that at least 60% of my planned tasks for any given sprint don&rsquo;t get accomplished, either because a) they depend on something else that wasn&rsquo;t evident at the planning meeting, b) they just weren&rsquo;t as high priority as something that came up since the planning meeting, or c) my time estimates suck, and so I budgeted way less time than required for a few of my tasks.</li>
+    <li>No one likes project planning meetings.  But, since project managers typically aren&rsquo;t programmers dealing with the software each day, they need our input.  If you&rsquo;re a product manager, trust me, your team will absolutely love you if you can get these chores down a half hour or less.  Streamline every part of the meeting that requires their attention.  Focus their time on what you actually need them to weigh in on.  Have estimates prepared, and ask them to critique them.  Wrapping it in silly games won&rsquo;t help&mdash;that just makes it take longer.  <strong>Programmers hate project management.</strong>  So make them do as little of it as possible.  Trust me, if they wanted to be project managers, <strong>they wouldn&rsquo;t have degrees in computer science.</strong>  Let them get back to work.  There&rsquo;s no worse blocker than having to stop coding for a meeting.  Like torture or invasive surgery, it&rsquo;d better be necessary, otherwise it&rsquo;s all kinds of wrong.  (The &ldquo;5 levels of estimates&rdquo; is the Dread Cthulhu of time-wasters.)</li>
+    <li>Prototypes don&rsquo;t pay the bills.  If you create a bunch of dummy-functional UI screens, you haven&rsquo;t created software, you&rsquo;ve created a demo.  A prototype is an important first step, a valuable communication tool.  But you can&rsquo;t sell a demo, which means you can&rsquo;t create demos forever.  Once the &ldquo;research&rdquo; phase is over, demos are a liability, because they tend to obscure missing functionality.</li>
+</ol><p>There are a few things that scrum gets right:</p>
+
+<ol><li>When it comes to estimating, often the crowd is smarter than the individual.  &ldquo;Planning poker,&rdquo; though overly goofy and time-consuming, does a pretty good job.  But it takes forever, and while I&rsquo;m waiting to show my card, I&rsquo;m only thinking, <q>I&rsquo;d really rather be coding right now.</q>  I&rsquo;m not a project manager <small>(that&rsquo;s part of the problem with Agile Scrum)</small> but I know there simply must be a better way.</li>
+    <li>A daily meeting is <strong>crucial</strong> if there&rsquo;s more than one person on the team.  It&rsquo;s still best if everyone can physically see the people that they&rsquo;re working with from where they sit, but that&rsquo;s not always possible.  Even in that case, forcing everyone to stand up for a few minutes each morning and tell everyone what they&rsquo;re up to is a good way to make sure that the team doesn&rsquo;t get sidetracked or splintered.  It keeps programmers from &ldquo;going dark&rdquo; and coming back a week later with something that doesn&rsquo;t mesh with the rest of the product.</li>
+</ol><p>It seems that some Scrum Masters are die-hard zealots, and others follow a more &ldquo;pick and choose&rdquo; approach.  The Agile methodology explicitly encourages project managers to use what works, and customize the process to meet their needs.</p>
+
+<p>In other words, Agile Scrum makes a lot of ridiculous assumptions, and suggests a set of practices&mdash;some harmless, some obvious, some useful, and others specifically counter-productive&mdash;and then says, <q>customize to your team/product/environment.</q>  If your project fails or misses a deadline, well, you didn&rsquo;t do it right, or the team wasn&rsquo;t committed, or the management was unreasonable.  <em>Anything at all to avoid placing blame on the methodology.</em></p>
+
+<p>Anyone else see the similarities to a faith healer?</p>
+
+<p>Ultimately, a successful project that uses Agile Scrum is successful for the same reason that any other project is successful:</p>
+
+<ol><li>The management managed, and got out of the workers&rsquo; way.</li>
+    <li>The workers were capable of doing what they were called on to do, and happy doing it.</li>
+    <li>The product vision was something the customer wanted</li>
+    <li>No one went dark.  (That goes for upper management, as well!)</li>
+</ol><p>On my current team at Yahoo!, we use Agile Scrum, at least in name.  Ostensibly, Yahoo! officially endorses the use of Agile Scrum.  In my experience, successful use of agile amounts to this:</p>
+
+<ul><li>Every week or two, the team gets together for an hour to talk about where the project is at.</li>
+    <li>Every day, the team spends 15 minutes in the morning with each person telling what they&rsquo;re up to.</li>
+    <li>Throughout the day, everyone is in constant communication via IM, email, and in person.</li>
+    <li>Put your tasks in Bugzilla, and mark them done when they&rsquo;re done.</li>
+    <li>Most important: Management&rsquo;s vision of the product is something that the team is happy building, and the team is selected for their expertise in the kinds of problems that the product raises.</li>
+</ul><p>No one likes to create crap.  No one likes to be surprised with new requirements in the 11th hour.  No one likes to be held responsible for something they&rsquo;re no good at.</p>
+
+<p>Everyone loves to be a part of a quality product.  Everyone likes to have visibility into their own future.  Everyone likes to be praised and respected for doing what they love.</p>
+
+<p>By taking credit for the success of projects that use it, Agile Scrum glosses over these fundamental principles and tries to turn the team into a bunch of part-time project managers.  Anything that deviates from the plan is derided as &ldquo;cowboy coding&rdquo; or &ldquo;waterfall process.&rdquo;  Granted, these two paradigms do tend to standardize bad practices, and they do little to encourage communication, but they also admit important aspects of the software development world:</p>
+
+<ol><li>Actual coding, typing characters into an editor, is best done alone without distractions.  You think with your own brain only.  All coding is, at some level, &ldquo;cowboy coding.&rdquo;</li>
+    <li>If piece A depends on piece B, then it makes no sense to start working on A until B is done.  It makes even less sense to QA a half-working early pre-alpha dev version of the product, or worse yet, file bugs against it.  <strong>Of course it&rsquo;s broken.</strong>  Don&rsquo;t distract your developers telling them what they already know.</li>
+</ol><p>Chances are wildly against getting any software product out on time or under budget.  My heart goes out to project managers and executives who are tasked with controlling the chaos.  I understand why many of them might grasp at ideologies that promise to solve the problems, but Scrum rarely helps the odds.</p>
+
+<p>If you&rsquo;re doing software development right, you&rsquo;re probably doing Agile wrong.</p>
+<footer><a href=http://izs.tumblr.com/tagged/Code%20Ecosystems>#Code Ecosystems</a>
+<a href=http://izs.tumblr.com/tagged/The%20Business>#The Business</a>
+</footer>
+</article>
+<article class=text id=p-146672401>
+<header>
+<p><time datetime=2007-11-05T18:00:59Z>11/05/2007 10:00:59</time>
+<a class=llink href=../posts/146672401.html>¶</a>
+<a href=https://tmblr.co/Z7nwWy8lWiH>●</a></header>
+<h2>What Makes a Good Web developer, and how can you tell?</h2>
+<p>Luckily, I&rsquo;ve never been a manager with people who report up to me.  I&rsquo;ve been a tech lead on a few teams, and quite frankly, I find that I prefer to be doing the coding than directing it.  Managing is about 10% more money for 100% more work that is 100% less fun.  No thanks.</p>
+
+<p>Nevertheless, it&rsquo;s always a good idea to take part in the hiring process, and smart managers get their team involved.  I&rsquo;ve sat in on a lot of interviews, and talked and thought a lot about interview processes.  However, despite all the complications inherent in the interview process, it is remarkably difficult to hire web developers.</p>
+
+<ul><li>A lot of great web developers have very odd educational history.  Querying is hard.</li>
+    <li>Everyone knows what keywords to put in their resume.</li>
+    <li>Some really horrible web developers would be great programmers, but are not of the mindset to deal with in-browser development.</li>
+</ul><p>Today, I looked through a stack of resumes from upcoming college grads with my current manager since he&rsquo;s got a requisition open for a front-end engineer.  In the interest of full disclosure on this blog, here&rsquo;s what I was looking for:</p>
+
+<h3>Education - Lots of topics</h3>
+
+<p>I&rsquo;d rather see a list of minors a mile long than a single major that has anything to do with the subject.  The world&rsquo;s top expert on distributed systems and service oriented architectures probably can&rsquo;t do much else.  When you have a hammer, the world looks like a nail, as they say.</p>
+
+<p>On the other hand, you have a candidate who started out in graphic design, and then decided that he liked math better, and then took some classes on computer science, and finally started making web pages, and decided that he&rsquo;d like to do that professionally.  Most of the best web developers that I&rsquo;ve met have bounced around a lot in their studies, and only settled on web development because they found it satisfying.</p>
+
+<p>Web development is a very open and strange discipline, and people who are self-directed and cross-disciplinary tend to excel in it.</p>
+
+<p>On the other hand, no education at all is also not necessarily a bad thing.  In this case, it didn&rsquo;t apply, since the resumes were all for upcoming college grads.</p>
+
+<h3>Extra Activities, Other Information, etc. - Play an Instrument</h3>
+
+<p>It seems like a lot of web developers have some kind of musical inkling.  Either they play an instrument, make electronic mixes, do amateur production for local bands, run a radio show or podcast, something.  Music seems to be a common theme.</p>
+
+<p>Some of us are terrible at it.  For example, I&rsquo;m a bad-to-moderate guitarist.  But we all seem to enjoy it.</p>
+
+<p>Put it on your resume.  It matters.</p>
+
+<h3>Objective - If it&rsquo;s not compelling, skip it.</h3>
+
+<p>I saw a few objectives that read like carbon copies of one another: <q>An entry level position in a software company.</q>  Or this one: <q>A job where I can put my education to use.</q>  Jeezus, why not just put <q>A soul-crushing career kissing the ass of my dipshit manager while I contemplate burning the building down</q>?</p>
+
+<p>On the other hand, I saw one that said <q>Remake the web in a groovier image.</q>  His name got on the callback list.  A lot of them didn&rsquo;t have an objective section, which is perfectly acceptable if it&rsquo;s obvious.</p>
+
+<p>Ultimately, <a href="http://blip.tv/file/300883/">every hiring decision is an exercise in risk management</a>.  The hiring manager has to ask himself, <q>Does it put my project more or less at risk to hire this person?</q>  Adding a new team member is a big risk.  They might be a drag, and bring down the productivity of the rest of the team.  On the other hand, you need people on your team, and not having them can be an even bigger drag.  On an emotional level, hiring decisions come down to a question of <q>Will I <strong>enjoy</strong> the experience of working with this person, or not?</q>  There are a lot of really smart people out there, and some of them are a chore to work with.</p>
+
+<p>The resume is a validation key designed to get you in a particular door.  The more it shows off what you&rsquo;re really like and what you&rsquo;re really into, the more likely it is that you&rsquo;ll walk through a door and like what you find.</p>
+<footer><a href=http://izs.tumblr.com/tagged/The%20Business>#The Business</a>
+</footer>
+</article>
+<footer><nav><a href=../index.html rel=index>Index</a>
+| <a href=2007-12-p1.html rel=prev>Previous</a>
+| <a href=2007-10-p1.html rel=next>Next</a>
+</nav></footer>

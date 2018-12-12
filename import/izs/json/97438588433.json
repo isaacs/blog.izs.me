@@ -1,0 +1,38 @@
+{
+    "blog": {
+        "description": "Writing and Stuff from Isaac Z. Schlueter",
+        "name": "izs",
+        "title": "blog.izs.me",
+        "updated": 1544578035,
+        "url": "http://blog.izs.me/",
+        "uuid": "t:qZa3tMNNGjX7PQ45aXJ-jw"
+    },
+    "blog_name": "izs",
+    "can_like": false,
+    "can_reblog": false,
+    "can_reply": false,
+    "can_send_in_message": true,
+    "date": "2014-09-14 02:57:19 GMT",
+    "display_avatar": true,
+    "format": "markdown",
+    "id": 97438588433,
+    "is_blocks_post_format": false,
+    "note_count": 1,
+    "post_url": "http://blog.izs.me/post/97438588433/to-increase-their-capacity-for-consumption",
+    "reblog": {
+        "comment": "<p>Zygmunt Bauman, <a href=\"http://smile.amazon.com/Globalization-Human-Consequences-Themes-Century-ebook/dp/B00E6OVZEQ\">Globalization: The Human Consequences</a></p>",
+        "tree_html": ""
+    },
+    "reblog_key": "rOKGVk9c",
+    "recommended_color": null,
+    "recommended_source": null,
+    "short_url": "https://tmblr.co/Z7nwWy1QlojuH",
+    "slug": "to-increase-their-capacity-for-consumption",
+    "source": "Zygmunt Bauman, <a href=\"http://smile.amazon.com/Globalization-Human-Consequences-Themes-Century-ebook/dp/B00E6OVZEQ\">Globalization: The Human Consequences</a>",
+    "state": "published",
+    "summary": "To increase their capacity for consumption, consumers must never be allowed to rest. They need to be kept forever awake and on...",
+    "tags": [],
+    "text": "To increase their capacity for consumption, consumers must never be allowed to rest. They need to be kept forever awake and on the alert, constantly exposed to new temptations and so remain in a state of never wilting excitation \u2013 and also, indeed, a state of perpetual suspicion and steady disaffection",
+    "timestamp": 1410663439,
+    "type": "quote"
+}

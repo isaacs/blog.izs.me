@@ -1,0 +1,78 @@
+{
+    "blog": {
+        "description": "Writing and Stuff from Isaac Z. Schlueter",
+        "name": "izs",
+        "title": "blog.izs.me",
+        "updated": 1544578035,
+        "url": "http://blog.izs.me/",
+        "uuid": "t:qZa3tMNNGjX7PQ45aXJ-jw"
+    },
+    "blog_name": "izs",
+    "body": "<p>These are my optimization tips for JavaScript.</p>\n\n<ol><li>Do less IO.  (Fewer, smaller HTTP reqs.  But mostly just fewer.)</li>\n<li>Do slow operations in ways that don&rsquo;t block user interaction.  (Aka &ldquo;async&rdquo; or &ldquo;cheating&rdquo;.)</li>\n<li><strong>Write smaller programs.</strong>  Cut unnecessary features.  Most software latency and bugs come from code, so use less of that.</li>\n<li><strong>Profile before you optimize</strong>, or go blind from pointless bit twiddling masturbation.</li>\n<li><strong>Profile your actual app with actual data.</strong>  Microbenchmarks are often inapplicable.</li>\n<li>Write code that you can read and understand.</li>\n<li>Don&rsquo;t believe anything you read on the internet about speeding up your site <strong>until you have verified it for yourself, in the context of your app</strong>.</li>\n</ol>",
+    "can_like": false,
+    "can_reblog": false,
+    "can_reply": false,
+    "can_send_in_message": true,
+    "date": "2012-07-11 18:10:00 GMT",
+    "display_avatar": true,
+    "format": "markdown",
+    "id": 26989258789,
+    "is_blocks_post_format": false,
+    "note_count": 14,
+    "post_url": "http://blog.izs.me/post/26989258789/7-surprising-ways-to-speed-up-your-site",
+    "reblog": {
+        "comment": "<p><p>These are my optimization tips for JavaScript.</p>\n\n<ol><li>Do less IO.  (Fewer, smaller HTTP reqs.  But mostly just fewer.)</li>\n<li>Do slow operations in ways that don\u2019t block user interaction.  (Aka \u201casync\u201d or \u201ccheating\u201d.)</li>\n<li><strong>Write smaller programs.</strong>  Cut unnecessary features.  Most software latency and bugs come from code, so use less of that.</li>\n<li><strong>Profile before you optimize</strong>, or go blind from pointless bit twiddling masturbation.</li>\n<li><strong>Profile your actual app with actual data.</strong>  Microbenchmarks are often inapplicable.</li>\n<li>Write code that you can read and understand.</li>\n<li>Don\u2019t believe anything you read on the internet about speeding up your site <strong>until you have verified it for yourself, in the context of your app</strong>.</li>\n</ol></p>",
+        "tree_html": ""
+    },
+    "reblog_key": "OU4MPG0t",
+    "recommended_color": null,
+    "recommended_source": null,
+    "short_url": "https://tmblr.co/Z7nwWyP8hsWb",
+    "slug": "7-surprising-ways-to-speed-up-your-site",
+    "state": "published",
+    "summary": "7 Surprising Ways to Speed Up Your Site!!!",
+    "tags": [],
+    "timestamp": 1342030200,
+    "title": "7 Surprising Ways to Speed Up Your Site!!!",
+    "trail": [
+        {
+            "blog": {
+                "active": true,
+                "can_be_followed": true,
+                "name": "izs",
+                "share_following": false,
+                "share_likes": false,
+                "theme": {
+                    "avatar_shape": "square",
+                    "background_color": "#444444",
+                    "body_font": "Helvetica Neue",
+                    "header_bounds": "978,2448,2355,0",
+                    "header_focus_height": 1152,
+                    "header_focus_width": 2048,
+                    "header_full_height": 3264,
+                    "header_full_width": 2448,
+                    "header_image": "https://static.tumblr.com/d248e27715343669f06a3852fd2cda53/utow0jf/nwUnbvgl6/tumblr_static_d2yiqqjdv1w8gsw0s0g4goc0o.jpg",
+                    "header_image_focused": "https://static.tumblr.com/d248e27715343669f06a3852fd2cda53/utow0jf/mA1nbvglg/tumblr_static_tumblr_static_d2yiqqjdv1w8gsw0s0g4goc0o_focused_v3.jpg",
+                    "header_image_scaled": "https://static.tumblr.com/d248e27715343669f06a3852fd2cda53/utow0jf/nwUnbvgl6/tumblr_static_d2yiqqjdv1w8gsw0s0g4goc0o_2048_v2.jpg",
+                    "header_stretch": true,
+                    "link_color": "#FB4C16",
+                    "show_avatar": true,
+                    "show_description": true,
+                    "show_header_image": true,
+                    "show_title": true,
+                    "title_color": "#fb4c16",
+                    "title_font": "Gibson",
+                    "title_font_weight": "regular"
+                }
+            },
+            "content": "<p><p>These are my optimization tips for JavaScript.</p>\n\n<ol><li>Do less IO.  (Fewer, smaller HTTP reqs.  But mostly just fewer.)</li>\n<li>Do slow operations in ways that don&rsquo;t block user interaction.  (Aka &ldquo;async&rdquo; or &ldquo;cheating&rdquo;.)</li>\n<li><strong>Write smaller programs.</strong>  Cut unnecessary features.  Most software latency and bugs come from code, so use less of that.</li>\n<li><strong>Profile before you optimize</strong>, or go blind from pointless bit twiddling masturbation.</li>\n<li><strong>Profile your actual app with actual data.</strong>  Microbenchmarks are often inapplicable.</li>\n<li>Write code that you can read and understand.</li>\n<li>Don&rsquo;t believe anything you read on the internet about speeding up your site <strong>until you have verified it for yourself, in the context of your app</strong>.</li>\n</ol></p>",
+            "content_raw": "<p><p>These are my optimization tips for JavaScript.</p>\n\n<ol><li>Do less IO.  (Fewer, smaller HTTP reqs.  But mostly just fewer.)</li>\n<li>Do slow operations in ways that don\u2019t block user interaction.  (Aka \u201casync\u201d or \u201ccheating\u201d.)</li>\n<li><strong>Write smaller programs.</strong>  Cut unnecessary features.  Most software latency and bugs come from code, so use less of that.</li>\n<li><strong>Profile before you optimize</strong>, or go blind from pointless bit twiddling masturbation.</li>\n<li><strong>Profile your actual app with actual data.</strong>  Microbenchmarks are often inapplicable.</li>\n<li>Write code that you can read and understand.</li>\n<li>Don\u2019t believe anything you read on the internet about speeding up your site <strong>until you have verified it for yourself, in the context of your app</strong>.</li>\n</ol></p>",
+            "is_current_item": true,
+            "is_root_item": true,
+            "post": {
+                "id": "26989258789"
+            }
+        }
+    ],
+    "type": "text"
+}

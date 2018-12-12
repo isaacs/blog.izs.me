@@ -1,0 +1,95 @@
+{
+    "blog": {
+        "description": "Writing and Stuff from Isaac Z. Schlueter",
+        "name": "izs",
+        "title": "blog.izs.me",
+        "updated": 1544578035,
+        "url": "http://blog.izs.me/",
+        "uuid": "t:qZa3tMNNGjX7PQ45aXJ-jw"
+    },
+    "blog_name": "izs",
+    "body": "seld0: Scoble is in my office\r\nseld0: Should I throw something? Trip him up?\r\nisaac_schlueter: hey, something similar just happened here, actually.\r\nisaac_schlueter: right as you sent that IM, i farted, and it smells REALLY bad\r\nseld0: ...\r\nseld0: wow\r\nisaac_schlueter: basically the same thing as scoble showing up\r\nseld0: Yeah\r\nseld0: I got it\r\nseld0: Hence: wow\r\nisaac_schlueter: it's ok, though.  it's one of those big open-air type deals, so no one will know where it came from.\r\n",
+    "can_like": false,
+    "can_reblog": false,
+    "can_reply": false,
+    "can_send_in_message": true,
+    "date": "2010-05-12 00:40:00 GMT",
+    "dialogue": [
+        {
+            "label": "seld0:",
+            "name": "seld0",
+            "phrase": "Scoble is in my office"
+        },
+        {
+            "label": "seld0:",
+            "name": "seld0",
+            "phrase": "Should I throw something? Trip him up?"
+        },
+        {
+            "label": "isaac_schlueter:",
+            "name": "isaac_schlueter",
+            "phrase": "hey, something similar just happened here, actually."
+        },
+        {
+            "label": "isaac_schlueter:",
+            "name": "isaac_schlueter",
+            "phrase": "right as you sent that IM, i farted, and it smells REALLY bad"
+        },
+        {
+            "label": "seld0:",
+            "name": "seld0",
+            "phrase": "..."
+        },
+        {
+            "label": "seld0:",
+            "name": "seld0",
+            "phrase": "wow"
+        },
+        {
+            "label": "isaac_schlueter:",
+            "name": "isaac_schlueter",
+            "phrase": "basically the same thing as scoble showing up"
+        },
+        {
+            "label": "seld0:",
+            "name": "seld0",
+            "phrase": "Yeah"
+        },
+        {
+            "label": "seld0:",
+            "name": "seld0",
+            "phrase": "I got it"
+        },
+        {
+            "label": "seld0:",
+            "name": "seld0",
+            "phrase": "Hence: wow"
+        },
+        {
+            "label": "isaac_schlueter:",
+            "name": "isaac_schlueter",
+            "phrase": "it's ok, though.  it's one of those big open-air type deals, so no one will know where it came from."
+        }
+    ],
+    "display_avatar": true,
+    "format": "markdown",
+    "id": 590923550,
+    "is_blocks_post_format": false,
+    "note_count": 4,
+    "post_url": "http://blog.izs.me/post/590923550/scoble",
+    "reblog_key": "fo7ptNH5",
+    "recommended_color": null,
+    "recommended_source": null,
+    "short_url": "https://tmblr.co/Z7nwWyZECSU",
+    "slug": "scoble",
+    "state": "published",
+    "summary": "Scoble",
+    "tags": [
+        "seldo",
+        "scoble",
+        "potty humor"
+    ],
+    "timestamp": 1273624800,
+    "title": "Scoble",
+    "type": "chat"
+}

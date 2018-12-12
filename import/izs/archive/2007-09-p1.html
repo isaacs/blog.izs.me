@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+
+<meta charset=utf-8>
+<title>blog.izs.me</title>
+<link rel=stylesheet href=../backup.css>
+
+<body class=archive>
+
+<header>
+<h1>September 2007</h1>
+</header>
+
+<article class=text id=p-146672251>
+<header>
+<p><time datetime=2007-09-24T17:00:03Z>09/24/2007 10:00:03</time>
+<a class=llink href=../posts/146672251.html>¶</a>
+<a href=https://tmblr.co/Z7nwWy8lWfx>●</a></header>
+<h2>Fix for Vi's broken arrow key support in iTerm</h2>
+<p><cite>I originally posted this at <a href="http://isaacschlueter.com/2007/04/fix-for-vis-broken-arrow-key-support-in-iterm/">isaacschlueter.com</a> on <abbr class="date" title="2007-04-17T11:45:36-7:00">Tuesday, April 17th, 2007</abbr>.  I&rsquo;ve incorporated the info from the comments into the main post.  Special thanks to: radius, benstiglitz, and Higgaion for helping to provide more information.</cite></p>
+
+<p>So, I got turned on to <a href="http://iterm.sourceforge.net/">iTerm</a>, a prettier and more user-friendly alternative to Apple&rsquo;s native Terminal.app.</p>
+
+<p>However, for some reason, I got the following error message whenever I tried to use arrow keys in Vi:</p>
+
+<p><code>Usage: [[</code></p>
+
+<p>The problem is that Vi is faithfully responding to the TERM variable that iTerm is sending.  (I&rsquo;m not sure why Terminal.app and PuTTY don&rsquo;t suffer from this issue, but c'est la vie.)  So, I thought, you <em>should</em> keep the terminal setting in iTerm to xterm-color, since this is great for most things, but then add this setting to your .exrc file to tame Vi:</p>
+
+<p><code>set term=linux</code></p>
+
+<p>I wasn&rsquo;t sure why that fixed it, but it did.  <code>set term=cons25</code> was another fix that I found, but it seemed to break when I had line numbers turned on, because all tab characters are turned into backticks (<code>`</code>).</p>
+
+<p>Of course, that&rsquo;ll break if you use a different terminal setting on another program, so Higgaion suggested putting this into your .vimrc or .exrc instead:</p>
+
+<p><code class="block rc">if $TERM_PROGRAM == 'iTerm.app'
+set term=linux
+endif</code></p>
+
+<p>However, the same problem occurs when using the <code>more</code> and <code>less</code> commands&mdash;the arrow keys are broken, but the hjkl keys worked just like they do in Vi. Since there&rsquo;s no <code>.morerc</code> or <code>.lessrc</code> to set the term variable, I was dismayed.</p>
+
+<p>According to <a href="http://isaacschlueter.com/2007/04/fix-for-vis-broken-arrow-key-support-in-iterm/#comment-3960">benstiglitz</a>:</p>
+
+<blockquote cite="http://isaacschlueter.com/2007/04/fix-for-vis-broken-arrow-key-support-in-iterm/#comment-3960">The default termcap on Mac OS X specifies that applications should enter application-specific cursor mode when capturing the display. iTerm is faithfully sending the application-mode sequences, but most terminal emulators just ignore the app-mode escape sequences and send normal key sequences instead.</blockquote>
+
+<p>So, this is being determined by iTerm&rsquo;s behavior, so should be fixable in iTerm&rsquo;s settings.  I poked around in iTerm&rsquo;s menus.  Under Bookmarks &gt; Manage Profiles &gt; Terminal Profiles &gt; Default, you can set the default terminal type to <code>linux</code>.  Then you can enjoy proper arrow key support in every situation under iTerm, without futzing with config files in your home directory.  Incidentally, it seems that <code>linux</code> has the same color support as <code>xterm-color</code>, so nothing is lost.</p>
+<footer><a href=http://izs.tumblr.com/tagged/Broken>#Broken</a>
+<a href=http://izs.tumblr.com/tagged/Tools%20of%20the%20Trade>#Tools of the Trade</a>
+</footer>
+</article>
+<article class=text id=p-146672206>
+<header>
+<p><time datetime=2007-09-17T17:01:49Z>09/17/2007 10:01:49</time>
+<a class=llink href=../posts/146672206.html>¶</a>
+<a href=https://tmblr.co/Z7nwWy8lWfE>●</a></header>
+<h2>Whiting out ads: Is AdBlock even Necessary?</h2>
+<p>I read <a href="http://www.nytimes.com/2007/09/03/technology/03link.html?_r=2&amp;oref=slogin&amp;oref=slogin">an article</a> last week in the New York Times about <a href="https://addons.mozilla.org/en-US/firefox/addon/10">AdBlock</a>, a Firefox plugin that whites out ads if they are served from certain large advertising servers.  Apparently, a rather large number of people are getting very vocal and outraged at this, calling it theft, and so forth.  They&rsquo;re even <a href="http://whyfirefoxisblocked.com/">blocking Firefox users</a> from visiting their sites.  (Via a <a href="http://twitter.com/codinghorror/statuses/249767202">Twitter update</a> from <a href="http://codinghorror.com">Jeff Atwood</a>.)</p>
+
+<p>I found it somewhat interesting that the Big Three (Google, Yahoo!, Microsoft) in the online advertising business seem to have no comment.  Also, I wasn&rsquo;t surprised.  At least here at Yahoo!, it&rsquo;s pretty well known that online advertising is not as effective as high-quality partnerships when it comes to driving revenue.  The entire &ldquo;brand universe&rdquo; thing is all about getting a brand&rsquo;s fans to interact around the brand, and thus drive interest.  Advertising is secondary to building a strong relationship with the partner.  The reason why search marketing is so much more lucrative than rich media ads is that <em>some users actually notice textual sponsored search results</em>, because they are so often relevant.</p>
+
+<p>The &ldquo;Block Firefox&rdquo; crowd is misguided, but not for the reasons that AdBlock&rsquo;s defenders tend to cite.  Ultimately, AdBlock doesn&rsquo;t matter.  If your main revenue model is from &ldquo;dumb&rdquo; ads&mdash;even if they&rsquo;re YPN or AdSense, which are some of the smartest &ldquo;dumb&rdquo; ads on the market&mdash;then you&rsquo;re bound for failure, or at least mediocrity.  At the best, unless you work the system and create thousands of adsense-spam sites, or you&rsquo;re in the Viagra business, your ads will be ignored and you&rsquo;ll never make very much money.  At the worst, you&rsquo;ll damage your brand and your users will move on.  (Note that &ldquo;smart&rdquo; ads can potentially be much better.  I actually think that <a href="http://www.codinghorror.com/blog/archives/000893.html" title="How To Advertise on Your Blog Without (Completely) Selling Out">Jeff Atwoods ads on Coding Horror</a> are helpful fairly often&mdash;but I still don&rsquo;t see them most of the time.)</p>
+
+<h3>Banner-blind</h3>
+
+<p><a href="http://www.useit.com/alertbox/9709a.html">As far back as 1997</a>, research showed that users ignore advertisements with alarming consistency.  <a href="http://en.wikipedia.org/wiki/Banner_blindness">Banner Blindness</a> is so pervasive that it <a href="http://www.useit.com/alertbox/fancy-formatting.html">makes &ldquo;highlighted&rdquo; text invisible</a> and even <a href="http://www.useit.com/alertbox/banner-blindness-ballot-design.html">affected the results of an election</a>.</p>
+
+<p>As Nielsen so aptly pointed out, the election was not a case of &ldquo;stupid voters.&rdquo;  It&rsquo;s a case of normal, intelligent people, habituated to a specific set of situations, falling victim to a <a href="http://www.useit.com/alertbox/banner-blindness.html">stupid design</a> that isn&rsquo;t ergonomic.  <q cite="http://www.useit.com/alertbox/banner-blindness-ballot-design.html">&ldquo;In fact, tech-savvy voters are more likely to be hit by banner blindness than people who never use the Internet.&rdquo;</q></p>
+
+<p>There are plenty of cases like this.  The conventional wisdom about the best places to put things is often wrong.  Recently, I needed to look up a word.  I usually use <a href="http://m-w.com">Merriam Webster</a>, but their site was taking a long time to respond for some reason.  So, I punched up <a href="http://dictionary.com">dictionary.com</a>.  And I, an extremely web-savvy user who has spent about 70% of his waking hours over the last 15 years online, sat and stared at the screen for a full 5 minutes before I could figure out how to get a word defined.</p>
+
+<p>That bears repeating:</p>
+
+<p>On <em>dictionary.com</em>, it took me <em>5 minutes</em> to figure out <em>how to get a word defined</em>.  In that amount of time, I could have found the word in a paper dictionary.  Major catastrophic UI failure.  Dead on the table, flat lining, going towards the light.  The nurses are pumping the bag on its face, but there&rsquo;s no use.  The old battle-hardened UI surgeon comes in the room and proclaims, &ldquo;He doesn&rsquo;t need a doctor, he needs a priest.&rdquo;</p>
+
+<p>How is this possible?  Well, in a classic fit of hubris, they put the input field up in the header, most likely on the (extremely incorrect) assumption that &ldquo;that&rsquo;s the most visible spot.&rdquo;  Wrong, wrong, wrong!  The header is for your logo, navigation, and maybe some useless doodads.  It is nearly the <em>least</em> visible spot on your page, especially if its colored differently than the rest of the page!   If your site is called &ldquo;dictionary.com&rdquo;, then the dictionary is main content, and that goes dead-center on the page, where the user&rsquo;s eyeballs will fall if they&rsquo;re looking straight ahead.  In fact, it would be better to take a cue from Google, and have <em>nothing but</em> the input box on the page.</p>
+
+<p>To make matters worse, just below the header, they put an advertisement.  My mental adblock kicked in, and blanked out the header and the ad&mdash;<em>completely and organically obscuring the input field from my mental model of the page</em>.  Worse, the field is labeled &ldquo;search&rdquo;, rather than something more useful like &ldquo;enter your term&rdquo;.  When I did find the field, my instinct was to type &ldquo;get definitions&rdquo; or something like that.  (I didn&rsquo;t, of course&mdash;I&rsquo;ve been trained over the years to cope with bad design.)</p>
+
+<h3>Fast Forward &mdash; 99.9% Wasted</h3>
+
+<p>On television, many people either zoom past the commercials on their DVR, or they leave the room, or, even more often, they just ignore them.  The more you watch TV, the less you interact with commercials.  The more often you use the web, the less you need AdBlock, because the easier it gets to ignore the ads, to the point where you don&rsquo;t even notice that they&rsquo;re there.  The thought of intentionally clicking on a banner ad is on par with walking to work naked.</p>
+
+<p>There&rsquo;s an old saying, &ldquo;<q>I know half my advertising dollars are wasted, but I don&rsquo;t know which half.</q>&rdquo;  Online, it&rsquo;s not half, it&rsquo;s 99.9% wasted, and with click-through tracking, you know exactly which 99.9%.  Your money is wasted when you buy banner ads, because users don&rsquo;t see them.  That&rsquo;s not to say that advertising online is a waste&mdash;it just has to be done smarter, because the users adapted almost immediately.</p>
+
+<p>Take, for example, Smirnoff Green Tea.  <a href="http://www.youtube.com/watch?v=PTU2He2BIc0">The &ldquo;ad&rdquo;</a> (and the West Coast <a href="http://www.youtube.com/watch?v=GWzNiUXTh7E">response</a>) came out long before you could buy <a href="http://www.teapartay.com/">the product</a> in stores.  They uploaded the videos to the internet, and let users pass them around.  The trick is, <em>users wanted to see these ads</em>, because they provided real entertainment value in addition to very subtly pushing a product.  Or, look at the <a href="http://www.youtube.com/watch?v=srrbvNNUKrA">BMW short directed by Guy Richie and starring Madonna</a>, or the <a href="http://www.youtube.com/results?search_query=bmw+clive+owen&amp;search=Search">other BMW vids with Clive Owen</a>.  They&rsquo;re too slick to be an ad, and funny enough for everyone to tell their friends about it.  And they just happen to make the BMW M5 seem like the coolest car on the road.</p>
+
+<p>In a less high-budget approach, consider the snippets above the message-list in GMail.  About 80% of the time, they&rsquo;re the things that I chose to put there: Slashdot and other news feeds, mostly.  That other 20% of the time, they&rsquo;re contextually related to either the news feeds that I normally view, or the message(s) I&rsquo;m viewing now.  I see those, because my brain doesn&rsquo;t see them as an &ldquo;ad&rdquo;, but rather as potentially relevant content that I may be interested in.</p>
+
+<h3>Evolved to Ignore</h3>
+
+<p>Millions of years of evolution has made us very good at picking out relevancy in a sea of details.  Once upon a time, it helped us find the materials to make tools, the footprints of our prey, and the plants that were edible.  Even as you read this sentence, yuor brain will likely skip right over the spelling error, since it doesn&rsquo;t matter.  A human only has so much attention and mental energy, and survival depends upon the judicious use of it.  The more information you&rsquo;re exposed to, the more noise you have to tune out, and the mental cost of making these choices ads up quick.  So, we delegate certain rules to the subconscious, like &ldquo;Ads are always pointless. Flashy text is a gimmick. Don&rsquo;t bother me with it.&rdquo;  The ad doesn&rsquo;t even make it to the conceptual level of analysis&mdash;somewhere between the eyeballs and the higher brain functions, it hits a spam filter and gets discarded.</p>
+
+<p>Wladimir Palant <a href="http://adblockplus.org/blog/mozilla-hurting-google-by-recommending-adblock-plus">said it well</a>: <q>[T]here is only one reliable way to make sure your ads aren&rsquo;t blocked — make sure the users don&rsquo;t want to block them.</q></p>
+
+<p>I&rsquo;d go a step further than his statement: Even if the &ldquo;block firefox&rdquo; crowd were to find a way to detect AdBlock, it wouldn&rsquo;t matter.  I used to find online ads annoying.  Now I don&rsquo;t find them anything, because I can&rsquo;t see them, and as such, I&rsquo;ve never felt a need to install AdBlock.  (The occasional rich-media ad that breaks the page layout does annoy the piss out of me, though.)  There will never be a way to block users who ignore ads, and the percentage of people who are completely blind to ads will continue to increase as more people use the web.  The revenue stream, which has been drying up since the 90s, will get ever drier as more brand owners realize that there are more effective ways to meet their marketing objectives.  If AdBlock is relevant to your site, you&rsquo;re already in trouble, and it&rsquo;s just going to get worse from here.</p>
+<footer><a href=http://izs.tumblr.com/tagged/Broken>#Broken</a>
+<a href=http://izs.tumblr.com/tagged/In%20the%20Minds%20of%20Users>#In the Minds of Users</a>
+<a href=http://izs.tumblr.com/tagged/The%20Business>#The Business</a>
+</footer>
+</article>
+<article class=text id=p-146672166>
+<header>
+<p><time datetime=2007-09-10T17:00:54Z>09/10/2007 10:00:54</time>
+<a class=llink href=../posts/146672166.html>¶</a>
+<a href=https://tmblr.co/Z7nwWy8lWec>●</a></header>
+<h2>Font Size vs Zoom --- The only thing that's wrong with YUI's grids.css</h2>
+<p>In the course of a recent code review, I got into a discussion with fellow Yahoo Webdev <a href="http://nate.koechley.com">Nate Koechley</a>, the engineer behind the <a href="http://developer.yahoo.com/yui/grids/">YUI grids CSS</a>.</p>
+
+<p>YUI Grids is designed to give the developer a few microformat-style grid layouts that can be easily mixed and matched to create many different types of pages.  It does something like what Blueprint does, but without a lot of <a href="http://foohack.com/2007/08/blueprint-css-framework-vs-yui-grids/">Blueprint&rsquo;s problems</a>.  I&rsquo;ve been using it since it was released for internal use back when I was first hired here, and have really come to love the skeleton that it provides for building a page.</p>
+
+<p>However, there&rsquo;s one mistake about it that I routinely alter in my pages&rsquo; CSS.  Standard or not, I have a personal gripe with flexible layout pages.</p>
+
+<p>As someone with just-correctible-enough-to-drive vision <small>(and maybe not even&mdash;I have a lot of trouble with street signs at night)</small>, I frequently bump up the font size in my browser.  A big selling point that got me to use the very buggy beta Firefox 0.2 was that it could increase the font size of ANY web page, whether the designer &ldquo;allowed&rdquo; it or not.</p>
+
+<p>People like me don&rsquo;t browse from page to page with the font size increased.  I scan through headings and links, and when I find something interesting, I increase the size to read it, and then zoom back out when I&rsquo;m done.  (Sort of like the iPhone: zoom into the newspaper article, read it, and then zooms back out to see the whole page.)</p>
+
+<p>When I do this, I can&rsquo;t stand for the columns to change widths.  It drives me crazy.  I add this to my CSS almost every time:</p>
+
+<p><code class="block css">#doc {
+  width:950px;
+}</code></p>
+
+<p>When I say that it&rsquo;s the &ldquo;only thing that&rsquo;s wrong with grids.css,&rdquo; I really mean it.  I can&rsquo;t praise it enough, and highly recommend that every developer use it on every page they build.  But fix the width.</p>
+
+<blockquote><cite class="hcard">On Aug 10, 2007, at 9:15 AM, <a class="fn" href="http://nate.koechley.com">Nate Koechley</a> wrote:</cite>
+Tell me more about this. In general you prefer the page width to be fixed even as the text within it grows? I definitely understand that the introduction of a horizontal scroll is bad, but you dislike expansion even before it exceeds the vierport&rsquo;s size? <i>[sic]</i></blockquote>
+
+<p>Short Answer: Yes and yes.</p>
+
+<p>Long Answer:</p>
+
+<p>This is a tricky issue that the hardware and software worlds just don&rsquo;t address very well.  (Hopefully they will someday.)  To make things more complicated, every user thinks that they&rsquo;re 100% dead-on right, and we all seem to have a slightly different opinion about how it should work.  I don&rsquo;t claim to be an expert typesetter, but it is an ergonomic issue that I regularly run into and think about quite often.</p>
+
+<h3>Line Length Measurement</h3>
+
+<p>You hear stuff like, <q>Lines of text should be about 4 inches (500px, 50%, etc.) wide at the most to be readable.</q>  Really, that&rsquo;s not the case.  Look at a billboard&mdash;the ideal text width there is about 30 feet, some 10000pt font-size, or a skywriter which is even longer and bigger.  Just consider how many millenniums it took for hand-written text to reach a good state, and then how many centuries it took to really apply those learnings to machine-printed text.  If you want to see text layout done very very well, look at the print world.</p>
+
+<p>Visually, size is measured in degrees.  A column of text should be about 10-15 visual degrees.  (10 degrees is about the width of your fist at full arm&rsquo;s length.)  The font size just needs to be big enough that you can make out the letters at whatever distance away you have to move the page to get it to that 10-15 degree width.</p>
+
+<p>Lines that are shorter than this are easier to scan for relevant details, but harder to &ldquo;savor.&rdquo;  That&rsquo;s why newspapers usually have very narrow columns and text in books takes up almost the whole page.  If the column is too narrow, you&rsquo;ll tend to bring the page closer to your face&ndash;which is why newspapers can get away with very small text.  It&rsquo;s rare that someone reads a newspaper at arm&rsquo;s length.  (As people get older, and the muscles that focus the eyes on items up close start to weaken, many will wear glasses to zoom the text up to a comfortable width for reading at arm&rsquo;s length.)</p>
+
+<h3>Physical Resizing</h3>
+
+<p>So, the width of a column should be about 10-15 degrees for most text (narrower for &ldquo;scannable&rdquo; stuff, like sidebars and alerts, wider when we are being really thoughtful and analyzing the concepts.)  We&rsquo;re unconsciously going to &ldquo;zoom in&rdquo; by moving closer to the target until this ideal width is reached.  The font size should be such that it can be read easily from a distance that brings the visual column width to a comfortable range.  So, you slide your chair until you&rsquo;re at the right width, and then adjust the font size.  Or, you resize the browser until the columns are where you like them, and then move the font around until it&rsquo;s readable.</p>
+
+<p>Most of the time, this is largely unconscious, which is good.  However, you almost never want the line length to scale up with the font size, because the line length is already good&mdash;but the text is too small for the eyeballs to focus on it.  (If it&rsquo;s not, then you really need zoom, not a font-size change.)  When I bump up the font size on a YUI grids page, the line length expands to occupy about 30 degrees of visual space, which is too much.  The natural instinct is to slide my chair back, which means that I can&rsquo;t read the text easily, or more likely, just get annoyed and move on.</p>
+
+<p>This also ties into discussions about wide-screen vs. multi-screen, pixel density, and maximize behavior.  Even if we say that we want to always have a fixed width, what may be perfect on one display may be obnoxious on another.  I have a 24&quot; monitor that is 1920px wide, but my browser window is usually around 1024.  Sites that work well on 1024x768 (or 800x600) will be abusive on a 50&quot; 1080p HD display, and vice versa.  What we really need is a way to easily zoom in and out with one action, and adjust the font-size as a separate action.  Also, it has to be so easy to do both that the user is hardly aware of the work involved&mdash;that&rsquo;s the really hard part.</p>
+
+<h3>Moving Forward</h3>
+
+<p>Browsers tend to blur the distinction between zoom and font-size; they get users and developers to share in the error by frequently saying one when they mean the other.  Opera Mini on my phone has a &ldquo;zoom&rdquo; feature that only changes the font size.  IE 7 zooms images and column widths when you change View &gt; Font Size.  In the 2 seconds here and there that I&rsquo;ve managed to play with it, it seems like Safari on the iPhone is probably the best implementation to date of zoom and font-size both done independently and well.  OSX provides a &ldquo;zoom&rdquo; feature that&rsquo;s pretty easy to use, but it feels klunky to zoom the whole OS just to read a web page.</p>
+
+<p>Kathy Marks wrote up a great list of the <a href="http://www.kathymarks.com/archives/2006/11/best_fonts_for_the_web_1.html">best fonts for the web</a>, and also has some great resources at the bottom of that page about typography.  And of course, there&rsquo;s <a href="http://www.informationarchitects.jp/the-web-is-all-about-typography-period">iA&rsquo;s classic article: Web Design is 95% Typography</a>.</p>
+
+<p>I should point out that full-width designs are good for <a href="http://search.yahoo.com/search?p=full+width+css">some</a> <a href="http://mail.yahoo.com">particular</a> <a href="http://maps.google.com/maps?q=701+1st+ave+94089">cases</a>, but probably wrong for most.  In the cases where it makes sense to size the page to the browser&rsquo;s width, I don&rsquo;t think it falls into this sort of problems.  Flexible-width pages, however, are a nightmare.  Fixed-width isn&rsquo;t perfect either, but it&rsquo;s better.</p>
+
+<p>What we really need is separation between &ldquo;zoom&rdquo; and &ldquo;font resize.&rdquo;</p>
+<footer><a href=http://izs.tumblr.com/tagged/Broken>#Broken</a>
+<a href=http://izs.tumblr.com/tagged/CSS>#CSS</a>
+<a href=http://izs.tumblr.com/tagged/In%20the%20Minds%20of%20Users>#In the Minds of Users</a>
+</footer>
+</article>
+<article class=text id=p-146672090>
+<header>
+<p><time datetime=2007-09-04T21:21:05Z>09/04/2007 14:21:05</time>
+<a class=llink href=../posts/146672090.html>¶</a>
+<a href=https://tmblr.co/Z7nwWy8lWdQ>●</a></header>
+<h2>Squish it good - Code compression for the masses</h2>
+<p>Labor Day came and I completely forgot that it would mean no Monday morning for writing a post.  Hope you all had great beer and burgers, or whatever you were doing.</p>
+
+<p>In the meantime, I&rsquo;d like to mention something cool.  <a href="http://www.julienlecomte.net/">Julien LeComte</a> has released his <a href="http://www.julienlecomte.net/yuicompressor/">YUI Compressor</a> that includes a CSS minification script that I built here for internal use.</p>
+
+<p>Compression is a little more than just minifying.  Julien&rsquo;s compressor also shortens all local variable names, resulting in significant improvements over minification alone, but without the bug-risks of obfuscation.</p>
+
+<p>It&rsquo;s interesting to me that his tests show that compression is actually more effective than obfuscation when the code is gzipped.  I&rsquo;m not enough of a gzip scholar to know why that is, but in my mind at least, it shuts <a href="http://dean.edwards.name/packer/">packer</a>&rsquo;s Base 62 encoding out of the running.  Additionally, in my <small>(non-scientific, not statistically significant, but probably still accurate)</small> tests, packer adds <abbr title="between 100ms and 500ms for any given piece of code">a significant amount</abbr> of run-time due to the convolutions of eval and a needless large Regex.  You need to have pretty big download gains in order to make it worth putting the browser through that extra work.</p>
+
+<p>Say it once, say it forever, say it to yourself at night, teach it to your children: Javascript obfuscation is pointless and dangerous.  You don&rsquo;t get enough download savings to justify the risk of bugs, you can&rsquo;t <em>really</em> hide your code, and when gzipped, compression is better anyhow.</p>
+
+<p>The CSS Compressor that I wrote doesn&rsquo;t do what <a href="http://csstidy.sourceforge.net/">CSS Tidy</a> does.  There are a few steps that could be taken from CSS Tidy, like shortening <code>margin:1px 1px 1px 1px</code> to just <code>margin:1px</code>.  It doesn&rsquo;t merge properties or background properties.  Like JSMin and the YUI Compressor&rsquo;s javascript minifier, it tries to err on the side of not affecting functionality in any relevant way, while attempting at the maximum compression possible within that boundary.</p>
+<footer><a href=http://izs.tumblr.com/tagged/Code%20Beauty>#Code Beauty</a>
+<a href=http://izs.tumblr.com/tagged/Code%20Ecosystems>#Code Ecosystems</a>
+ — 2 notes</footer>
+</article>
+<footer><nav><a href=../index.html rel=index>Index</a>
+| <a href=2007-10-p1.html rel=prev>Previous</a>
+| <a href=2007-08-p1.html rel=next>Next</a>
+</nav></footer>

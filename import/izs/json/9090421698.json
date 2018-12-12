@@ -1,0 +1,82 @@
+{
+    "blog": {
+        "description": "Writing and Stuff from Isaac Z. Schlueter",
+        "name": "izs",
+        "title": "blog.izs.me",
+        "updated": 1544578035,
+        "url": "http://blog.izs.me/",
+        "uuid": "t:qZa3tMNNGjX7PQ45aXJ-jw"
+    },
+    "blog_name": "izs",
+    "can_like": false,
+    "can_reblog": false,
+    "can_reply": false,
+    "can_send_in_message": true,
+    "date": "2011-08-18 20:01:21 GMT",
+    "description": "<p>Very encouraging article.</p>\n\n<blockquote>\n  <p>If the world feels like a more violent place than it actually is, that&rsquo;s because there&rsquo;s more information about wars &ndash; not more wars themselves. Once-remote battles and war crimes now regularly make it onto our TV and computer screens, and in more or less real time. Cell-phone cameras have turned citizens into reporters in many war zones. Societal norms about what to make of this information have also changed. As Harvard University psychologist Steven Pinker has noted, &ldquo;The decline of violent behavior has been paralleled by a decline in attitudes that tolerate or glorify violence,&rdquo; so that we see today&rsquo;s atrocities &ndash; though mild by historical standards &ndash; as &ldquo;signs of how low our behavior can sink, not of how high our standards have risen.&rdquo;</p>\n</blockquote>",
+    "display_avatar": true,
+    "excerpt": null,
+    "format": "markdown",
+    "id": 9090421698,
+    "is_blocks_post_format": false,
+    "link_author": null,
+    "note_count": 4,
+    "post_url": "http://blog.izs.me/post/9090421698/think-again-war",
+    "publisher": "foreignpolicy.com",
+    "reblog": {
+        "comment": "<p><p>Very encouraging article.</p>\n\n<blockquote>\n  <p>If the world feels like a more violent place than it actually is, that\u2019s because there\u2019s more information about wars \u2013 not more wars themselves. Once-remote battles and war crimes now regularly make it onto our TV and computer screens, and in more or less real time. Cell-phone cameras have turned citizens into reporters in many war zones. Societal norms about what to make of this information have also changed. As Harvard University psychologist Steven Pinker has noted, \u201cThe decline of violent behavior has been paralleled by a decline in attitudes that tolerate or glorify violence,\u201d so that we see today\u2019s atrocities \u2013 though mild by historical standards \u2013 as \u201csigns of how low our behavior can sink, not of how high our standards have risen.\u201d</p>\n</blockquote></p>",
+        "tree_html": ""
+    },
+    "reblog_key": "5UriR6jg",
+    "recommended_color": null,
+    "recommended_source": null,
+    "short_url": "https://tmblr.co/Z7nwWy8TrDF2",
+    "slug": "think-again-war",
+    "state": "published",
+    "summary": "Think Again: War",
+    "tags": [],
+    "timestamp": 1313697681,
+    "title": "Think Again: War",
+    "trail": [
+        {
+            "blog": {
+                "active": true,
+                "can_be_followed": true,
+                "name": "izs",
+                "share_following": false,
+                "share_likes": false,
+                "theme": {
+                    "avatar_shape": "square",
+                    "background_color": "#444444",
+                    "body_font": "Helvetica Neue",
+                    "header_bounds": "978,2448,2355,0",
+                    "header_focus_height": 1152,
+                    "header_focus_width": 2048,
+                    "header_full_height": 3264,
+                    "header_full_width": 2448,
+                    "header_image": "https://static.tumblr.com/d248e27715343669f06a3852fd2cda53/utow0jf/nwUnbvgl6/tumblr_static_d2yiqqjdv1w8gsw0s0g4goc0o.jpg",
+                    "header_image_focused": "https://static.tumblr.com/d248e27715343669f06a3852fd2cda53/utow0jf/mA1nbvglg/tumblr_static_tumblr_static_d2yiqqjdv1w8gsw0s0g4goc0o_focused_v3.jpg",
+                    "header_image_scaled": "https://static.tumblr.com/d248e27715343669f06a3852fd2cda53/utow0jf/nwUnbvgl6/tumblr_static_d2yiqqjdv1w8gsw0s0g4goc0o_2048_v2.jpg",
+                    "header_stretch": true,
+                    "link_color": "#FB4C16",
+                    "show_avatar": true,
+                    "show_description": true,
+                    "show_header_image": true,
+                    "show_title": true,
+                    "title_color": "#fb4c16",
+                    "title_font": "Gibson",
+                    "title_font_weight": "regular"
+                }
+            },
+            "content": "<p><p>Very encouraging article.</p>\n\n<blockquote>\n  <p>If the world feels like a more violent place than it actually is, that&rsquo;s because there&rsquo;s more information about wars &ndash; not more wars themselves. Once-remote battles and war crimes now regularly make it onto our TV and computer screens, and in more or less real time. Cell-phone cameras have turned citizens into reporters in many war zones. Societal norms about what to make of this information have also changed. As Harvard University psychologist Steven Pinker has noted, &ldquo;The decline of violent behavior has been paralleled by a decline in attitudes that tolerate or glorify violence,&rdquo; so that we see today&rsquo;s atrocities &ndash; though mild by historical standards &ndash; as &ldquo;signs of how low our behavior can sink, not of how high our standards have risen.&rdquo;</p>\n</blockquote></p>",
+            "content_raw": "<p><p>Very encouraging article.</p>\n\n<blockquote>\n  <p>If the world feels like a more violent place than it actually is, that\u2019s because there\u2019s more information about wars \u2013 not more wars themselves. Once-remote battles and war crimes now regularly make it onto our TV and computer screens, and in more or less real time. Cell-phone cameras have turned citizens into reporters in many war zones. Societal norms about what to make of this information have also changed. As Harvard University psychologist Steven Pinker has noted, \u201cThe decline of violent behavior has been paralleled by a decline in attitudes that tolerate or glorify violence,\u201d so that we see today\u2019s atrocities \u2013 though mild by historical standards \u2013 as \u201csigns of how low our behavior can sink, not of how high our standards have risen.\u201d</p>\n</blockquote></p>",
+            "is_current_item": true,
+            "is_root_item": true,
+            "post": {
+                "id": "9090421698"
+            }
+        }
+    ],
+    "type": "link",
+    "url": "http://www.foreignpolicy.com/articles/2011/08/15/think_again_war?page=full"
+}

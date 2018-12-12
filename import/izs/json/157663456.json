@@ -1,0 +1,84 @@
+{
+    "blog": {
+        "description": "Writing and Stuff from Isaac Z. Schlueter",
+        "name": "izs",
+        "title": "blog.izs.me",
+        "updated": 1544578035,
+        "url": "http://blog.izs.me/",
+        "uuid": "t:qZa3tMNNGjX7PQ45aXJ-jw"
+    },
+    "blog_name": "izs",
+    "can_like": false,
+    "can_reblog": false,
+    "can_reply": false,
+    "can_send_in_message": true,
+    "date": "2009-08-07 04:28:00 GMT",
+    "description": "<blockquote><p>We&rsquo;re also learning that a lot of the stereotypes about autistics are false or at least misleading. It&rsquo;s been suggested, for instance, that autistics don&rsquo;t care much about other people, or that autistics lack genuine emotions or are incapable of empathy. The more likely truth is that autistics and nonautistics do not always understand each other very well. It&rsquo;s odd that the people who make this charge so often, in the very act of doing so, fail to show much empathy for autistics or to recognize their rich emotional lives. Even when the cognitive capabilities of autistics are recognized \u2014most commonly in the cases of savants \u2014it is too often accompanied by a clich\u00e9d and inaccurate picture of a cold, robotic, or less than human personality.</p></blockquote>",
+    "display_avatar": true,
+    "excerpt": null,
+    "feed_item": "http://chronicle.com/article/Autism-as-Academic-Paradigm/47033/",
+    "format": "markdown",
+    "from_feed_id": "606330",
+    "id": 157663456,
+    "is_blocks_post_format": false,
+    "link_author": null,
+    "note_count": 0,
+    "post_url": "http://blog.izs.me/post/157663456/autism-as-academic-paradigm",
+    "publisher": "chronicle.com",
+    "reblog": {
+        "comment": "<p><blockquote><p>We\u2019re also learning that a lot of the stereotypes about autistics are false or at least misleading. It\u2019s been suggested, for instance, that autistics don\u2019t care much about other people, or that autistics lack genuine emotions or are incapable of empathy. The more likely truth is that autistics and nonautistics do not always understand each other very well. It\u2019s odd that the people who make this charge so often, in the very act of doing so, fail to show much empathy for autistics or to recognize their rich emotional lives. Even when the cognitive capabilities of autistics are recognized \u2014most commonly in the cases of savants \u2014it is too often accompanied by a clich\u00e9d and inaccurate picture of a cold, robotic, or less than human personality.</p></blockquote></p>",
+        "tree_html": ""
+    },
+    "reblog_key": "yC0lclVH",
+    "recommended_color": null,
+    "recommended_source": null,
+    "short_url": "https://tmblr.co/Z7nwWy9PS3W",
+    "slug": "autism-as-academic-paradigm",
+    "state": "published",
+    "summary": "Autism as Academic Paradigm",
+    "tags": [],
+    "timestamp": 1249619280,
+    "title": "Autism as Academic Paradigm",
+    "trail": [
+        {
+            "blog": {
+                "active": true,
+                "can_be_followed": true,
+                "name": "izs",
+                "share_following": false,
+                "share_likes": false,
+                "theme": {
+                    "avatar_shape": "square",
+                    "background_color": "#444444",
+                    "body_font": "Helvetica Neue",
+                    "header_bounds": "978,2448,2355,0",
+                    "header_focus_height": 1152,
+                    "header_focus_width": 2048,
+                    "header_full_height": 3264,
+                    "header_full_width": 2448,
+                    "header_image": "https://static.tumblr.com/d248e27715343669f06a3852fd2cda53/utow0jf/nwUnbvgl6/tumblr_static_d2yiqqjdv1w8gsw0s0g4goc0o.jpg",
+                    "header_image_focused": "https://static.tumblr.com/d248e27715343669f06a3852fd2cda53/utow0jf/mA1nbvglg/tumblr_static_tumblr_static_d2yiqqjdv1w8gsw0s0g4goc0o_focused_v3.jpg",
+                    "header_image_scaled": "https://static.tumblr.com/d248e27715343669f06a3852fd2cda53/utow0jf/nwUnbvgl6/tumblr_static_d2yiqqjdv1w8gsw0s0g4goc0o_2048_v2.jpg",
+                    "header_stretch": true,
+                    "link_color": "#FB4C16",
+                    "show_avatar": true,
+                    "show_description": true,
+                    "show_header_image": true,
+                    "show_title": true,
+                    "title_color": "#fb4c16",
+                    "title_font": "Gibson",
+                    "title_font_weight": "regular"
+                }
+            },
+            "content": "<p><blockquote><p>We&rsquo;re also learning that a lot of the stereotypes about autistics are false or at least misleading. It&rsquo;s been suggested, for instance, that autistics don&rsquo;t care much about other people, or that autistics lack genuine emotions or are incapable of empathy. The more likely truth is that autistics and nonautistics do not always understand each other very well. It&rsquo;s odd that the people who make this charge so often, in the very act of doing so, fail to show much empathy for autistics or to recognize their rich emotional lives. Even when the cognitive capabilities of autistics are recognized &mdash;most commonly in the cases of savants &mdash;it is too often accompanied by a clich&eacute;d and inaccurate picture of a cold, robotic, or less than human personality.</p></blockquote></p>",
+            "content_raw": "<p><blockquote><p>We\u2019re also learning that a lot of the stereotypes about autistics are false or at least misleading. It\u2019s been suggested, for instance, that autistics don\u2019t care much about other people, or that autistics lack genuine emotions or are incapable of empathy. The more likely truth is that autistics and nonautistics do not always understand each other very well. It\u2019s odd that the people who make this charge so often, in the very act of doing so, fail to show much empathy for autistics or to recognize their rich emotional lives. Even when the cognitive capabilities of autistics are recognized \u2014most commonly in the cases of savants \u2014it is too often accompanied by a clich\u00e9d and inaccurate picture of a cold, robotic, or less than human personality.</p></blockquote></p>",
+            "is_current_item": true,
+            "is_root_item": true,
+            "post": {
+                "id": "157663456"
+            }
+        }
+    ],
+    "type": "link",
+    "url": "http://chronicle.com/article/Autism-as-Academic-Paradigm/47033/"
+}

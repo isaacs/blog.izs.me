@@ -1,0 +1,89 @@
+{
+    "blog": {
+        "description": "Writing and Stuff from Isaac Z. Schlueter",
+        "name": "izs",
+        "title": "blog.izs.me",
+        "updated": 1544578035,
+        "url": "http://blog.izs.me/",
+        "uuid": "t:qZa3tMNNGjX7PQ45aXJ-jw"
+    },
+    "blog_name": "izs",
+    "can_like": false,
+    "can_reblog": false,
+    "can_reply": false,
+    "can_send_in_message": true,
+    "date": "2014-04-03 19:04:16 GMT",
+    "description": "<p><a href=\"http://seldo.tumblr.com/post/81553767829/sleep-deprivation-destroys-us-especially-at-startups\" class=\"tumblr_blog\">seldo</a>:</p>\n\n<blockquote><p>I am extremely proud of npm\u2019s focus on regular, modest working hours for everyone.</p></blockquote>",
+    "display_avatar": true,
+    "excerpt": null,
+    "format": "markdown",
+    "id": 81605040893,
+    "is_blocks_post_format": false,
+    "link_author": null,
+    "note_count": 5,
+    "post_url": "http://blog.izs.me/post/81605040893/sleep-deprivation-destroys-us-especially-at",
+    "publisher": "forbes.com",
+    "reblog": {
+        "comment": "",
+        "tree_html": "<p><a href=\"http://seldo.tumblr.com/post/81553767829/sleep-deprivation-destroys-us-especially-at-startups\" class=\"tumblr_blog\">seldo</a>:</p><blockquote><p>I am extremely proud of npm\u2019s focus on regular, modest working hours for everyone.</p></blockquote>"
+    },
+    "reblog_key": "7pRJeqrU",
+    "reblogged_from_can_message": true,
+    "reblogged_from_id": "81553767829",
+    "reblogged_from_name": "seldo",
+    "reblogged_from_title": "Seldo's Tumblr",
+    "reblogged_from_url": "https://seldo.tumblr.com/post/81553767829/sleep-deprivation-destroys-us-especially-at",
+    "reblogged_from_uuid": "t:EFpzGDRo0X0vvBzQEy4lOg",
+    "reblogged_root_can_message": true,
+    "reblogged_root_id": "81553767829",
+    "reblogged_root_name": "seldo",
+    "reblogged_root_title": "Seldo's Tumblr",
+    "reblogged_root_url": "https://seldo.tumblr.com/post/81553767829/sleep-deprivation-destroys-us-especially-at",
+    "reblogged_root_uuid": "t:EFpzGDRo0X0vvBzQEy4lOg",
+    "recommended_color": null,
+    "recommended_source": null,
+    "short_url": "https://tmblr.co/Z7nwWy1C02Xhz",
+    "slug": "sleep-deprivation-destroys-us-especially-at",
+    "state": "published",
+    "summary": "Sleep deprivation destroys us, especially at startups",
+    "tags": [],
+    "timestamp": 1396551856,
+    "title": "Sleep deprivation destroys us, especially at startups",
+    "trail": [
+        {
+            "blog": {
+                "active": true,
+                "can_be_followed": true,
+                "name": "seldo",
+                "share_following": false,
+                "share_likes": false,
+                "theme": {
+                    "avatar_shape": "circle",
+                    "background_color": "#ffffff",
+                    "body_font": "Helvetica Neue",
+                    "header_bounds": "",
+                    "header_image": "https://static.tumblr.com/f1bb50a9288ae2233b044b86400e0f64/g6idsjo/rw8n3s7au/tumblr_static_fpn0c51mw1s0og0888gsokkc.png",
+                    "header_image_focused": "https://static.tumblr.com/f1bb50a9288ae2233b044b86400e0f64/g6idsjo/rw8n3s7au/tumblr_static_fpn0c51mw1s0og0888gsokkc.png",
+                    "header_image_scaled": "https://static.tumblr.com/f1bb50a9288ae2233b044b86400e0f64/g6idsjo/rw8n3s7au/tumblr_static_fpn0c51mw1s0og0888gsokkc.png",
+                    "header_stretch": true,
+                    "link_color": "#529ECC",
+                    "show_avatar": true,
+                    "show_description": true,
+                    "show_header_image": true,
+                    "show_title": true,
+                    "title_color": "#444444",
+                    "title_font": "Helvetica Neue",
+                    "title_font_weight": "bold"
+                }
+            },
+            "content": "<p>I am extremely proud of npm&rsquo;s focus on regular, modest working hours for everyone.</p>",
+            "content_raw": "<p>I am extremely proud of npm\u2019s focus on regular, modest working hours for everyone.</p>",
+            "is_root_item": true,
+            "post": {
+                "id": "81553767829"
+            }
+        }
+    ],
+    "type": "link",
+    "url": "http://www.forbes.com/sites/michaelthomsen/2014/03/27/how-sleep-deprivation-drives-the-high-failure-rates-of-tech-startups/"
+}

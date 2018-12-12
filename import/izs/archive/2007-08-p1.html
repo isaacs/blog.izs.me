@@ -1,0 +1,337 @@
+<!DOCTYPE html>
+
+<meta charset=utf-8>
+<title>blog.izs.me</title>
+<link rel=stylesheet href=../backup.css>
+
+<body class=archive>
+
+<header>
+<h1>August 2007</h1>
+</header>
+
+<article class=text id=p-146672022>
+<header>
+<p><time datetime=2007-08-27T17:00:11Z>08/27/2007 10:00:11</time>
+<a class=llink href=../posts/146672022.html>¶</a>
+<a href=https://tmblr.co/Z7nwWy8lWcM>●</a></header>
+<h2>Blueprint CSS Framework vs YUI Grids</h2>
+<p>I did <a href="http://foohack.com/2007/08/yui-crockford-module-pattern-vs-prototypes-class-function/">recently compare YUI with a competitor</a>, and I don&rsquo;t want this to turn into a &ldquo;<abbr title="Yahoo User Interface">YUI</abbr> vs. X&rdquo; blog.  It&rsquo;s a very limited topic that quickly becomes just one guy&rsquo;s opinion&mdash;and you probably already know that I&rsquo;m a big fan of YUI, so it would just turn into somewhat heavy-handed marketing.  There are more interesting things I could blog about, and so I plan to only compare YUI with a rival framework when there is some relevant point to make besides <q lang="retarded">YUI iz teh hotness lolzzzz!!!!!11111</q>  Also, <a href="http://mattsnider.com/">Matt Snider already does a good job of comparing frameworks</a>, a much better job than I could, so that niche is filled.  <small>While I write this, I have another half-finished draft about a YUI component sitting in my Wordpress dashboard.  What can I say?  I make web pages at Yahoo, so I use it a lot.  But it&rsquo;s not a &ldquo;YUI vs. X&rdquo; article.</small></p>
+
+<p>CSS frameworks in general, and <a href="http://developer.yahoo.com/yui/grids/">grids.css</a> in particular, have <a href="http://www.elliotswan.com/2006/05/10/yui-grids-css-framework-considered-harmful/">taken</a> <a href="http://vysnu.com/log/2007/08/11/dry-css.html">some</a> <a href="http://www.thinkvitamin.com/features/javascript/15-things-you-can-do-with-yahoo-ui#comment-3192">heat</a>, but I think that the basic concept has been accepted.  The &ldquo;non-semantic class names&rdquo; argument is specious, in my opinion, since the meanings are defined by the grids microformat.  The &ldquo;more code&rdquo; argument is also a bit off, since the verbosity is actually <em>easier</em> to parse and manage once you get used to it (speaking as a 90&rsquo;s-era table-master.)  Also, downloading code is usually faster than parsing/displaying it&mdash;and divs typically render faster than tables.</p>
+
+<p>A recent thread in our internal web development mailing list compared <a href="http://developer.yahoo.com/yui/grids/">YUI&rsquo;s Grids CSS</a> with a hot new kid on the CSS framework block, <a href="http://bjorkoy.com/blueprint/">Blueprint</a>.  As I&rsquo;ve <a href="http://foohack.com/2007/08/yui-crockford-module-pattern-vs-prototypes-class-function/">said before</a>, I feel like the YUI Javascript components seem to be created by developers who love the language and want to use it, rather than other frameworks that seem intent on re-inventing Javascript or turning it into some other language.  The same can be said, I think, for YUI Grids as compared to Blueprint; but in this case, the love/hate is towards standards, semantic markup, microformats, and the &ldquo;spirit&rdquo; of CSS layouts.  As its primary author states, Blueprint &ldquo;brings print design on the web one step closer.&rdquo;</p>
+
+<p>Haven&rsquo;t we all be working to convince our bosses and stakeholders and users and fellow developers that &ldquo;print design on the web&rdquo; is a fundamentally misguided goal?  Isn&rsquo;t that what the whole &ldquo;web standards movement&rdquo; has been about, really?</p>
+
+<p>I think that Blueprint is interesting, but it has some pretty major problems as a CSS framework.</p>
+
+<h3>Pixel-based fonts</h3>
+
+<p>In principle, using a px measurement for font-size is not a good idea.  A handful of browsers will prevent the font from being resized by the user if you do this.  Others will set a minimum pixel font size, which means that, for example, your 8px font and 12px fonts, which should be different sizes to convey differing importance, could both be 12px.</p>
+
+<p>The goal of having a consistent vertical grid is a good idea, and very pleasing visually.  <a href="http://foohack.com/2007/08/marching-to-a-vertical-cadence/">I did it on this site</a>, and without a single px font size (except a single setting on the HTML element while debugging, which was removed later.)</p>
+
+<p>They were wise to attempt it, but misguided in the implementation.  You can do that with flexible fonts just fine, if you&rsquo;re willing to do just a little bit of math.  It won&rsquo;t always round perfectly, but it&rsquo;ll be mostly right most of the time in most browsers, which is all that we can ever hope for as webdevs.</p>
+
+<p>(To be fair, it looks like support for fully flexible fonts is on the road map.)</p>
+
+<h3>It&rsquo;s a bit bloated</h3>
+
+<p>I&rsquo;m not so sure about the complaint that the YUI CSS is bloated&mdash;next to the CSS that most simple blog templates contain (including this one), it&rsquo;s teensy, especially when served gzipped and concatenated with your other stuff.  Unless you&rsquo;re working on some very-high-volume streamlined-to-ridiculousness site, there are probably better ways to optimize.  Do any kind of profiling on most sites, and you&rsquo;ll find that the CSS and markup is a very small fraction of the loading time.  If the requests are minimized, it&rsquo;s almost instantaneous.  Check out the bloated stuff that we wrote for <a href="http://harrypotter.yahoo.com">the Yahoo! Harry Potter site</a>.  The images take a while to download, but the CSS and markup is there faster than you can say &ldquo;He Who Must Not Be Named.&rdquo;</p>
+
+<p>On the other hand, Blueprint CSS is 3 files, one for each of screen and print, and another for IE hacks.  While some will say that having a separate file for IE hacks is a good thing, I much prefer to put all the information for a particular element in one place.  Having a single CSS file makes it easier to concatenate and minify with your own stuff.  And it&rsquo;s just one request, whereas Blueprint is 3.</p>
+
+<h3>Tabular class names like &ldquo;span-2&rdquo; or &ldquo;append-4&rdquo;</h3>
+
+<p>While YUI Grids is often accused of using non-semantic class names, I think that it is actually quite tame in this area.  It uses a microformat-style approach, so that the <em>structure</em> of the data is (ideally) expressed in the class names as they are defined in the microformat, and the visual treatment is defined in the CSS to reflect that structure.  This is in fact the purpose of the div tag and class attribute, and it is wrong to say that it&rsquo;s non-semantic or classitis.  <a href="http://nate.koechley.com/blog/2006/12/15/divitis_and_correct_div_usage/">Nate Koechley said it better</a> than I can.</p>
+
+<p>On the other hand, while Blueprint CSS results in a shallower hierarchy of nested divs, it uses class names with colspan-esque names like &ldquo;span-2&rdquo; and &ldquo;append-4&rdquo;, or definitive &ldquo;stylistic class names&rdquo; like &ldquo;.clear&rdquo;, and so on.  Have we come so far from <a href="http://annevankesteren.nl/2004/06/keep-style-out-of-markup">the sound wisdom that stylistic class attributes are problematic</a>?</p>
+
+<p>This is <em>exactly</em> why we don&rsquo;t use tables for layout any more.  Blueprint CSS ends up rendering faster than a layout table, but it still has most of the same problems as layout tables.</p>
+
+<p>If it is important enough to define your grid layout in the markup, then you should be using a table.  The whole point of CSS layouts is to separate the layout information from the structural semantic markup.</p>
+
+<h3>Takeaways&hellip;</h3>
+
+<p>I use YUI grids on production sites.  I love it.  Other webdevs who are familiar with it can pick up my stuff and run with it easily.  It&rsquo;s a great thing.  I know some who &ldquo;only use frameworks to prototype,&rdquo; but I think it&rsquo;s best to write production-quality code for prototypes.  (Perhaps your front-end isn&rsquo;t wired up to live data, but I strive to make all the code I write meet a certain level of quality.)  If it&rsquo;s useful in prototyping, what&rsquo;s the argument to not use it in a live environment?  Is the 6k of gzipped CSS really such a burden on your page?  If we all use the same framework, then we all know what&rsquo;s going on in one another&rsquo;s code.  This doesn&rsquo;t matter for prototypes, but is crucial for live products that need to be maintained.</p>
+
+<p>All that being said, it would be nice if there was a YUI typography CSS that provided an easy way to achieve consistent vertical spacing without resorting to pixel-sized fonts.  Functionality-wise, that&rsquo;s where Blueprint beats YUI Grids, but I don&rsquo;t think it&rsquo;s a very good implementation, overall.  I&rsquo;m not 100% sure if such a thing is planned for YUI, but I would be surprised if no one on that team has at least thought about it.  As I said before, <a href="http://?show_lines#post-27-itspossible" id="post-27-itspossible">it&rsquo;s possible</a> without stabbing semantics in the face and setting the standards movement back 10 years.</p>
+
+<p>A message to all would-be framework developers out there: Please don&rsquo;t rewrite my languages!  I became a web developer because I care about this craft and enjoy doing it.  CSS, HTML, and Javascript are powerful tools to manipulate this very flexible and exciting development platform.  Please don&rsquo;t think that you can make things better by turning them into something else.  Abstract out some of the commonly used functionality, or show us how to do more with what we have, or set a standard that we can all agree upon; that&rsquo;s all fine.  But don&rsquo;t turn my DIVs into TABLEs, or my SPANs into FONTs, or my Javascript into Ruby.</p>
+<footer><a href=http://izs.tumblr.com/tagged/CSS>#CSS</a>
+<a href=http://izs.tumblr.com/tagged/Code%20Beauty>#Code Beauty</a>
+</footer>
+</article>
+<article class=text id=p-146671933>
+<header>
+<p><time datetime=2007-08-20T18:39:00Z>08/20/2007 11:39:00</time>
+<a class=llink href=../posts/146671933.html>¶</a>
+<a href=https://tmblr.co/Z7nwWy8lWaz>●</a></header>
+<h2>The New Spam: Broken Unsubscribe Methods</h2>
+<p>Sometimes, I&rsquo;ll forget to (un)check the box on a form, and inadvertently tell some perfectly well-meaning company that I want to receive their crappy emails in my inbox.  Or, perhaps, I&rsquo;ll think it sounds like a good idea, and even enjoy receiving them for a while, and then get bored or decide that it&rsquo;s not for me.  It&rsquo;s not spam, per se, since I <em>did</em> ask for it, and the sender isn&rsquo;t some Nigerian banker or penis enlarger, but I no longer want to receive it.</p>
+
+<p>Today I ran face-first into the fact that Borders Bookstore breaks every rule in this list.  Every single one.  And sadly, they&rsquo;re not that unusual.</p>
+
+<p>Either way, the result is usually the same: I scroll to the bottom of the message, searching for the url that I have to visit to unsubscribe.  Since I often view my email on my phone in text-only mode, I then find the words &ldquo;click here to unsubscribe&rdquo; that are not hyperlinked.  Strike 1: Sending html email is fine, but make sure that the text-only version has the url and not the link text.  Almost every text-only email reader these days will turn it into a link.</p>
+
+<p>What&rsquo;s worse is the &ldquo;reply to blah blah with the word &lsquo;unsubscribe&rsquo; in the subject&rdquo;.  Strike 2: Don&rsquo;t make me send you anything.  If I have to send you an email to stop receiving your crappy emails, I&rsquo;ll probably just black-hole that account on general principle.</p>
+
+<p>Log onto my email in Firefox, and change to the html view.  Click the link.  It says that I have to log in to change my email preferences.  Strike 3: If I&rsquo;m clicking a link from my email address telling you that I want to unsubscribe, don&rsquo;t make me log in and navigate your crappy application to find the unsubscribe link.  You already know who I am, because you sent me something.  Put a key or whatever in the URL.</p>
+
+<p>I log in, and click the url again.  It says that I have to log in to change my email preferences.  Strike 4: If I&rsquo;m already logged in, why doesn&rsquo;t it just read the cookie or whatever?</p>
+
+<p>So, I log in again, and look through the options to find the &ldquo;Email preferences&rdquo; link.  I go to the page, uncheck the &ldquo;please send me crap&rdquo; box, and then look for the submit button.  It&rsquo;s nowhere to be found.  I actually resorted to inspecting the HTML in Firebug and finding the submit element in question and tweaking its CSS to pull it out from behind another element so that I could click on it.  Out of curiousity, to research for this article, I tried it in a few other browsers, and it worked in IE 6 on a PC only.  (It was broken in IE 7.)  Strike 5: Please test your pages in something other than last year&rsquo;s IE on Windows.  At least load them up and make sure that the stuff is visible.  It literally takes 5 minutes.</p>
+
+<p>On the next page, it asks me if I&rsquo;m sure.  It assures me that there is no other way to get coupons and valuable discounts.  Strike 6: If I&rsquo;ve made it this far, I don&rsquo;t care about your stupid offers, I&rsquo;m sure that I don&rsquo;t want them.</p>
+
+<p>In my opinion, there is only one good way to handle any kind of automated mailing.  At the bottom of every message, in legible font, it should say: <q>You are receiving this message because you signed up for it.  Please visit <a href="http://example.com/unsubscribe?u=12345&amp;e=blah@blah.com">http://example.com/unsubscribe?u=12345&amp;e=blah@blah.com</a> to unsubscribe.</q></p>
+
+<p>On the page reached, it says, <q>You have been unsubscribed.  You will receive one more message confirming this, just in case it was an accident.</q></p>
+
+<p>It sends you a message that says, <q>You were unsubscribed from the blah blah list.  If this was an accident or a mistake, please visit <a href="http://example.com/subscribe?u=12345&amp;e=blah@blah.com">http://example.com/subscribe?u=12345&amp;e=blah@blah.com</a> to sign up again.</q></p>
+
+<p>Failing that ideal setup, the link should take the user directly to a plain-vanilla page where they can <em>easily</em> choose what to receive and not receive in a single step.  That&rsquo;s what this blog does, care of my lightly hacked version of <a href="http://txfx.net/code/wordpress/subscribe-to-comments/">the Subscribe to Comments plugin</a>.  As a reader and commenter, I find that it&rsquo;s nice to receive an update if someone leaves a comment on a blog post where I&rsquo;ve commented.  I&rsquo;m writing a comment, so I&rsquo;m interested in the discussion.  As an author, it&rsquo;s nice to know that the readers who leave comments will know that I&rsquo;m responding to them.  And it&rsquo;s easy to avoid, for those who don&rsquo;t want to receive anything, because of the nice &ldquo;Don&rsquo;t ever send me crap&rdquo; option on the subscription management page.</p>
+
+<p>If you don&rsquo;t want to hurt your brand and anger your customers, ALWAYS err on the side of <em>not</em> sending them email.  This experience only served to make me more likely to use <a href="http://amazon.com?tag=isaacschcom-20">Amazon</a> next time.</p>
+<footer><a href=http://izs.tumblr.com/tagged/Broken>#Broken</a>
+<a href=http://izs.tumblr.com/tagged/The%20Business>#The Business</a>
+</footer>
+</article>
+<article class=text id=p-146671880>
+<header>
+<p><time datetime=2007-08-13T17:47:36Z>08/13/2007 10:47:36</time>
+<a class=llink href=../posts/146671880.html>¶</a>
+<a href=https://tmblr.co/Z7nwWy8lWa8>●</a></header>
+<h2>YUI's "Module Pattern" vs. Prototype's Class Function</h2>
+<p>Via <a href="http://geoffreymoller.com/2007/05/15/when-javascript-libraries-attack/">Geoffery Moller</a>, I came across <a href="http://mattsnider.com/javascript/prototype-vs-yui-round-1-oop-architecture/">this article</a> on Matt Snider&rsquo;s blog.  I&rsquo;m surprised that no one noticed what (to me) was the most relevant difference in the libraries that he evaluated.</p>
+
+<p>The &ldquo;YUI method of class creation&rdquo; is not distinctively YUI&mdash;it&rsquo;s just what Javascript gives you for free.  You can use the &ldquo;Module Pattern&rdquo; alone on a page with no library at all!  You can call it Crockford&rsquo;s Module Pattern, but it seems to me that he discovered or popularized it more than &ldquo;invented&rdquo; it.</p>
+
+<p>This, to me, highlights the biggest difference in approach between YUI and every other library: YUI doesn&rsquo;t attempt to re-write the language, but rather to show off what the language can do and how those features can be effectively put to use.  My experience with Prototype and Dojo and Mochikit all made me feel a bit like the author must not have liked Javascript very much.  (Dojo actually goes a bit further&mdash;it rewrites HTML as well!)  It seems like the other libraries say, &ldquo;This Javascript language is too hard and confusing.  Let&rsquo;s make it into something else.&rdquo;  YUI says, &ldquo;This language is beautiful and powerful, but it would be handy if we had some conventions and a common approach to these rough edges.  Let&rsquo;s build those common pieces.&rdquo;  It&rsquo;s the difference between teaching someone to fish and giving them a fish, except instead of giving him a fish, you pass the fish through a slow and complex machine that spits out Java code.</p>
+
+<p>Of course, I&rsquo;m a bit biased.  I <a href="http://www.codinghorror.com/blog/archives/000921.html">imprinted upon YUI</a> at a fairly early stage in my Javascript development.  I work <a href="http://yahoo.com">here</a>, so I get to request features directly through our internal bugzilla instead of pleading in the public arenas.  But the approach is one that I&rsquo;ve always favored.  If you feel the need to rewrite the language, then just go use another language.  Javascript is the common tongue of the internet, and will remain so for the indefinite future.  Don&rsquo;t fight it. (<a href="http://www.codinghorror.com/blog/archives/000857.html">Hat-tip</a> to Jeff Atwood.)</p>
+
+<p>Crockford&rsquo;s &ldquo;Module Pattern&rdquo; is a great way to create a singleton that has some private methods.  In fact, in my opinion, it&rsquo;s the best and only way that this task should be done.  (There are others, but they tend to be more obtuse, IMO.)  But that&rsquo;s not the only task of an object-oriented development.  Sometimes, you need to have a bunch of objects, and if they have shared functionality, then that should be handled with a class of sorts.  In Javascript, that means that they&rsquo;re stamped from the same Constructor and Prototype.  The Module Pattern does not address this in a very clear way, but it does highlight the principle of data-hiding through a closure that is the key to OOP in Javascript.</p>
+
+<p>To create a class, I usually do something like this, which takes the essence of the Module Pattern and uses it to create a reusable class.</p>
+
+<p><code class="block javascript">(function () {<br/>
+  // these are properly private static, not just private
+  // but with scope correction, that's good enough for functions.<br/>
+  // private function, called with privateFunction.call(this, a, b, c);
+  var privateFunction = function (a, b) {
+    this.a = a;
+    this.b = b;
+  };<br/>
+  // private static data.  Shared between all instances!
+  var privateStaticData = "I'm private and static.  All instances share me.";<br/>
+  YAHOO.myProject.myClass = function (a, b, id) {
+    // a and b are public, since they're set on this.
+    this.a = a;
+    this.b = b;
+    YAHOO.myProject.myClass.instances[id] = this;
+  };<br/>
+  YAHOO.myProject.myClass.instances = {};<br/>
+  YAHOO.myProject.myClass.prototype = {
+    myPublicProperty : "I'm accessible as <object reference>.myPublicProperty.",
+    myPublicMethod : function () {
+      var a = (new Date()).getTime();
+      var b = a + 10000;<br/>
+      // note the way that private functions are called.
+      privateFunction.call(this, a, b);
+    }  
+  };<br/>
+})(); // close the closure and execute the code.<br/>
+// later on...
+(function () {
+  var myInstance = new YAHOO.myProject.myClass(1,2,'blahblah');
+  // now you can deal with it as "myInstance" within this closure,
+  // or as YAHOO.myProject.myClass.instances.blahblah elsewhere.
+})();</object></code></p>
+
+<p>(When in doubt, wrap it in a closure.  <a href="http://yuiblog.com/blog/2006/06/01/global-domination/">Global variables are evil.</a>)</p>
+
+<p>I&rsquo;d rather work with someone who is a bit green with Javascript but can learn, rather than someone who is an expert with Prototype or Dojo.  <em>The more time someone spends building applications with a library like Prototype, the further they get from Javascript, and the more dependent they become on the library.</em>  By contrast, time spent using YUI tends to breed developers who are experts in <em>Javascript</em>, and that skill is far more useful than being an expert in a particular library.</p>
+<footer><a href=http://izs.tumblr.com/tagged/Code%20Ecosystems>#Code Ecosystems</a>
+<a href=http://izs.tumblr.com/tagged/Javascript>#Javascript</a>
+ — 2 notes</footer>
+</article>
+<article class=text id=p-146671830>
+<header>
+<p><time datetime=2007-08-06T17:00:06Z>08/06/2007 10:00:06</time>
+<a class=llink href=../posts/146671830.html>¶</a>
+<a href=https://tmblr.co/Z7nwWy8lWZM>●</a></header>
+<h2>When will the Bubble Bubble burst? (Or: Who really listens to these pundits?)</h2>
+<p>So, I stumbled across <a href="http://www.pcmag.com/article2/0,1895,2164136,00.asp">an article by John Dvorak</a>, who seems to think that we&rsquo;re headed for another bubble burst in the next few years, and that it&rsquo;ll be worse than the 2001 tech crash.  In fact, he asserts that <q>&ldquo;Every single person working in the media today who experienced the dot-com bubble in 1999 to 2000 believes that we are going through the exact same process and can expect the exact same results,&rdquo;</q> an absurdly over-reaching generalization that made me literally laugh out loud.</p>
+
+<p>I&rsquo;ve heard this before.  Every once in a while, a relative or friend of mine hears someone talking on the news about how Microsoft is going to buy Yahoo, or how we&rsquo;re headed for a crash, or how the internet will be outdated by some new thing in 6 months, or how &ldquo;web2.0 is changing everything,&rdquo; and so on, and sometimes calls me to ask what I think of it, since I&rsquo;m the person they know with some skin in that game.  The vast majority of punditry is utter trash.  Like any fortune teller, they get by on one or two hits, and rely on the short attention span of the crowd to hide their nearly endless string of failed predictions.  The more radical their claim, the more likely it is that they&rsquo;ll get attention, because people so often fall victim to the &ldquo;Cloud Insurance&rdquo; scam.  (&ldquo;What if this guy is right, and the clouds really <em>are</em> going to fall&hellip; then I&rsquo;ll be glad I bought that insurance!&rdquo;)  The more attention he gets, and the more he can whip the audience up into a frenzy, the more likely it is that the pundits&rsquo; past failed predictions will be forgotten.</p>
+
+<p>I don&rsquo;t want to come off as decrying punditry as such.  (That would sort of make me like a Dvorak of Pundits, wouldn&rsquo;t it?)  No, there is some very good analysis out there.  One mark of a good analyst is a history of successful predictions.  For example, if you look through the &ldquo;iTulip&rsquo;s Record&rdquo; links at the top of <a href="http://itulip.com">iTulip.com</a>&rsquo;s homepage, you&rsquo;ll find some very sound predictions that were insightful, well-informed, and ultimately accurate.  In fact, <a href="http://www.bankrate.com/brm/news/investing/19991129f.asp?keyword=">this article from November 1999</a> called the bubble for what it was.</p>
+
+<p>Back in the 90s, there was a great new thing that changed the way that humans interact, communicate, and generally live their lives.  Big technological innovations rarely come along and change the landscape of daily life.  The railroad, the steam engine, the printing press, the television&mdash;these kinds of things have made our world smaller, and in so doing, have had huge effects on the way that we live and work.  By changing the way that we live, they also made certain skills and commodities much more (or less) valuable than they were prior to the change.  Things that were never possible now are, and there&rsquo;s new money to be made.</p>
+
+<p>By definition, no one has any experience in a new landscape-changing technology when it shows up.  New ventures cost money, and carry a risk of failure.  Not wanting to be left behind, there is often a frenzy of new ideas, along with a corresponding frenzy of spending and speculation.  Money floods into the market, artificially pushing up prices above their &ldquo;real&rdquo; value.  Most of those ideas fail, and most of that money is thus wasted on unproductive ends.  Eventually, the economy does what economies do, and there is a correction.</p>
+
+<p>Not all <a href="http://en.wikipedia.org/wiki/Economic_bubble">Economic Bubbles</a> are the same.  Some are big, and some are small.  The stock market crash of 1929 was a bubble that kicked off the start of the <a href="http://en.wikipedia.org/wiki/Great_Depression">Great Depression</a>.  By comparison, the <a href="http://en.wikipedia.org/wiki/Dot-com_bubble">dot-com bubble</a> was pretty tame, though it did reduce quite a few &ldquo;paper millionaires&rdquo; to pennies.  (Not all economic bubbles are <a href="http://en.wikipedia.org/wiki/Stock_market_bubble">stock-market bubbles</a>.  Anything that is overvalued and becomes and object of speculation will eventually come crashing back to reality.  <a href="http://en.wikipedia.org/wiki/Tulip_mania">Tulips</a> and <a href="http://en.wikipedia.org/wiki/Beanie_Baby">Beanie Babies</a> come to mind.)</p>
+
+<p>A speculative bubble is a dangerous thing to get wrapped up in, and highlights the importance of not betting more than you have and always diversifying your investments.  However, in the long run, it&rsquo;s a necessary part of the feedback-cycle that produces a quality marketplace.  Yahoo, eBay, Amazon, and Google were never going to go under during the dot-com bubble.  They had to tighten their belts a notch or two, but good ideas that are executed on wisely will always do alright.</p>
+
+<p>I personally think that there really aren&rsquo;t any Amazon- or Google-sized ideas left on the web.  That&rsquo;s not to say that we can&rsquo;t innovate or can&rsquo;t make money, of course, but at this point, it&rsquo;s the 37signals and Twitters and Flickrs and YouTubes, which take a small team to create value with simple good ideas on a shoestring budget, that are making out well.  And of course, Yahoo and Google and them are doing what they do, and buying the successful startups when it makes sense to do so.  VC has been flowing back into Silicon Valley, but in much smaller streams, and with the benefit of a big failure to learn from.  The benefit of doing things on a shoestring is that it doesn&rsquo;t cost as much, and you get to keep more of your purchase price if you are eventually bought.  There is a much more stable ecosystem than there was 6 years ago.</p>
+
+<p>Granted, &ldquo;Web2.0&rdquo; is a silly marketing buzzword, and I think that most engineers and businesspeople pretty much understood that from the start.  Social networking is an interesting phenomenon, but ultimately nothing new.  (Weren&rsquo;t we networking socially <em>before</em> web2.0?)  Some things are getting attention and interest and $$$ that probably shouldn&rsquo;t, and there will be corrections in the future.  But the web crash of 2001 is not going to happen again&mdash;at least, not until the next life-changing piece of technology comes by and gets us all excited.</p>
+
+<p>What I want to know is this:  When will we as a society stop listening to doom-and-gloom pundits like Dvorak?  Did 2001 traumatize us so much that we can&rsquo;t even admit the possibility of a fortunate future?  I think there is a sort of &ldquo;interest bubble&rdquo; that somewhat mirrors the phenomenon of an economic speculative bubble.  You invest your agreement, and in return, you get to say &ldquo;I told you so.&rdquo;  The problem is, when that bubble pops, no one notices.</p>
+<footer><a href=http://izs.tumblr.com/tagged/Punditry>#Punditry</a>
+<a href=http://izs.tumblr.com/tagged/The%20Business>#The Business</a>
+</footer>
+</article>
+<article class=text id=p-146671793>
+<header>
+<p><time datetime=2007-08-05T17:00:38Z>08/05/2007 10:00:38</time>
+<a class=llink href=../posts/146671793.html>¶</a>
+<a href=https://tmblr.co/Z7nwWy8lWYn>●</a></header>
+<h2>Phonetic English</h2>
+<p>If there had not been so much money to be so easily acquired in information technology, there&rsquo;s a good chance that I would have pursued a career in linguistics.  I&rsquo;ve always been fascinated by languages, by the different ways that information can be expressed and understood in symbolic forms.  Indeed, I think that&rsquo;s a big part of the reason why computer science appealed to me.</p>
+
+<p>This post is pretty off-topic for this blog, so it&rsquo;s hidden behind the jump.  You&rsquo;re invited to continue if you&rsquo;d like.</p>
+
+<!--more-->
+
+<p>I need to preface all of this with a huge disclaimer, lest any true linguist geeks see this and lose all respect for me.  I am a linguaphile, but not any kind of serious linguistic scholar.  Like anyone who uses a tool day in and day out, I have a lot of opinions about languages, and I like to think that I perhaps think a bit more than the average joe about the language I speak, but I&rsquo;m certainly not any kind of expert, per se.  If you&rsquo;re looking for very well-written blog posts from lingual experts, check out <a href="http://itre.cis.upenn.edu/~myl/languagelog/">The Language Log</a>.  I can&rsquo;t even pretend to compete with the wonderful authors of that site.  I lose about 6 hours every time I check the bookmark.</p>
+
+<p>In high school, I studied Latin for 4 years.  In college, I studied Spanish for 2.  Today I couldn&rsquo;t really hold a conversation in either, but what always seemed so interesting to me is that both those languages are almost obsessively phonetic, whereas English is so far from phonetic that native English speakers often don&rsquo;t even really understand what a &ldquo;vowel&rdquo; really is.  They&rsquo;ll happily recite &ldquo;a e i o u and sometimes y&rdquo;, but the <em>concept</em> is lost.  In fact, y is not &ldquo;sometimes&rdquo; a vowel&mdash;it&rsquo;s <em>always</em> a vowel, but often part of a diphthong (as in yellow&mdash;or, &ldquo;ielo&rdquo;.)</p>
+
+<p>In a spoken language, sound is made by passing air over tightened vocal chords through a particularly shaped chamber.  The chamber can be opened and closed in various different ways, and can be shaped in different ways.  Consonants define the method by which the chamber is opened or closed (sound is started or stopped) while vowels define the shape of the chamber while sound is being created.  Nasals are sound that is passed through the nose, where air does not escape the mouth.  When the chamber is changed during the sound from one shape into another, that is a diphthong, or combination of vowels.  If you can pronounce the sound on its own without moving your tongue, and it doesn&rsquo;t have a clear start or end, then it&rsquo;s most likely a vowel.  (It could also be a nasal like n, m, and ng, or a sibilant consonant, like s or z.  Perhaps there are others, I&rsquo;m not sure.)</p>
+
+<p>I&rsquo;ve been thinking a lot the last few weeks about how English might be made phonetic.  The first step is identifying the vowels and diphthongs that we use in our spoken language, and forget everything we now know about spelling.  Where possible, I believe that it would make sense to use the Spanish vowels, since they are so widely known and seem to be fairly consistent in most languages:</p>
+
+<p>a = &ldquo;ah&rdquo; as in &ldquo;father&rdquo;
+e = &ldquo;eh&rdquo; as in &ldquo;bed&rdquo;
+i = &ldquo;ee&rdquo; as in &ldquo;feet&rdquo;
+o = &ldquo;oh&rdquo; as in &ldquo;go&rdquo;
+u = &ldquo;oo&rdquo; as in &ldquo;boot&rdquo;</p>
+
+<p>The first thing that struck me is that we have a lot of other vowel sounds that simply don&rsquo;t exist in Spanish.  For example:</p>
+
+<p>&ldquo;r&rdquo; as in &ldquo;they&rsquo;re grrrrrrreat!&rdquo;
+&ldquo;a&rdquo; as in &ldquo;bat&rdquo;
+&ldquo;i&rdquo; as in &ldquo;bit&rdquo;</p>
+
+<p>There&rsquo;s already a letter for &ldquo;r&rdquo;, but the &ldquo;short a&rdquo; needs a new symbol.  Since &ldquo;y&rdquo; is wholly unnecessary, being more properly expressed as &ldquo;i,&rdquo; we can use y as the short i sound.  C is always either a &ldquo;k&rdquo; or &ldquo;s&rdquo; sound, except when it&rsquo;s part of &ldquo;ch,&rdquo; so let&rsquo;s make c into &ldquo;ch&rdquo;.  Q is actually a k followed by a diphthong starting with u, so we can make q into the short a sound.  (It&rsquo;s kind of like an a with a tail, anyway.)  The short &ldquo;oo&rdquo; sound is tricky, as well.  X is also just a &ldquo;ks&rdquo;, so we can use that.  The short &ldquo;u&rdquo; as in &ldquo;but&rdquo; is also missing.  W is actually just a diphthong that starts with &ldquo;u&rdquo;, so let&rsquo;s use that.  So:</p>
+
+<p>y = &ldquo;i&rdquo; as in &ldquo;bit&rdquo;
+q = &ldquo;a&rdquo; as in &ldquo;bat&rdquo;
+x = &ldquo;oo&rdquo; as in &ldquo;book&rdquo;
+w = &ldquo;u&rdquo; as in &ldquo;but&rdquo;
+c = &ldquo;ch&rdquo; as in &ldquo;chess&rdquo;</p>
+
+<p>A lot of the so-called vowels in English are actually diphthongs.  Spanish mostly gets these right  For example,</p>
+
+<p>&ldquo;i&rdquo; as in &ldquo;bite&rdquo; is actually ai
+&ldquo;ai&rdquo; as in &ldquo;wait&rdquo; is actually ei</p>
+
+<p>So, uat du ui faind hir?  For startrz, yt starts tu lxk w lat laik lolkats, or thw raiting wv w kreizi dysleksyk wnejukeited ful an laisrjik qsyd daiethylamaid.  Houevr, yt dwz get izir tu rid uons u hqv sin mor wv yt.  Thi er yz veri klir tudei, thi wethr meiks mi w hqpi boi.  Ai qm yn iur yntrnets, kloging iur tubz.  Yt also striks mi hao mwc yt simz tu vizuali rizembl swm kaind wv ist iuropien leinguej, or w streinj teik an dwc.</p>
+
+<p>Thi bygest prablem wyth thys speling yzynt thqt yts hard tu wndrstqnd, bwt rqthr thqt ui form hqbyts uyc ar hard tu breik.  Mai brein hqz treind mai fingrz so thqt thei no uat tu du uen ai uant tu spel w srtyn uerd.  Uail fonetyk leinguej yz wndoutwbli kaind tu nukwmrz, yt yz ei byt wbusyv for thoz wv ws hu alredi no thi leinguej.</p>
+
+<p>Also, srtyn uerdz bigyn tu sho wp thqt ar shr tu koaz prablemz.  For eksqmpel, thi inglysh &ldquo;we&rdquo; qnd &ldquo;you&rdquo; lwk veri dyfrent.  Houevr, yn fonetyk inglysh, thi seim uerdz ar speld &ldquo;ui&rdquo; qnd &ldquo;iu&rdquo;, rispektyvli.  Ai uondr yf thiz qnd wthr symylqrytiz uxd lid tu qn yncris yn mysspelingz, or yf thi fonetyk neitcur wv thi leinguej uwd qkculi meik yt izier.</p>
+
+<p>Ok, enough of that craziness&hellip;</p>
+
+<p>So, why not just use <a href="http://en.wikipedia.org/wiki/Kirshenbaum">Kirshenbaum</a> or some other <a href="http://en.wikipedia.org/wiki/International_Phonetic_Alphabet">IPA</a> for day-to-day writing?  After all, if you&rsquo;re going to be phonetic, why not <em>be</em> phonetic?</p>
+
+<p>The problem with that is that, while these alphabets are extremely useful in the analysis of speech and dialects, they are <em>too</em> precise to serve as a written language, as different dialects would then have completely different spellings.  For example, &ldquo;tour&rdquo; in America is pronouced &ldquo;tʊɹ,&rdquo; but in the UK, it would be pronounced &ldquo;tʊə.&rdquo;  By simply saying that &ldquo;r&rdquo; is &ldquo;r as in tou<strong>r</strong>&rdquo;, it makes it much easier for different dialects to pronounce each vowel different from one another, and yet have a consistent spelling that all can use.  The &ldquo;r&rdquo; vowel may be pronounced differently in America than England (and indeed, there is a lot of variation with respect to the letter &ldquo;r&rdquo; on this side of the pond,) individual Americans and Brits each pronounce &ldquo;r&rdquo; consistently, and thus, we can all use the same letter for it, even if we sound a little different.</p>
+
+<p>However, the IPA alphabets do get one thing very right: &ldquo;th&rdquo; should really be either &ldquo;θ&rdquo; (th as in <strong>th</strong>ing) or &ldquo;ð&rdquo; (th as in brea<strong>th</strong>e.)  Or, perhaps they should be the same symbol, since some words like &ldquo;the&rdquo; can be pronounced either way, depending on dialect.  Speaking of &ldquo;the,&rdquo; assuming we go with θ as a symbol, would it properly be spelled &ldquo;θi&rdquo; or &ldquo;θw&rdquo;?  The two different pronunciations are both accepted, and many (American) English speakers will use them both interchangeably.  When speaking quickly, as in the middle of this sentence, we tend to say θw.  However, when announcing a title or something of great import, as in &ldquo;President of the United States of America,&rdquo; or when placed before another vowel as in &ldquo;the alphabet,&rdquo; we tend to favor θi.  Perhaps it would be reasonable to just use θi always, and assume that speakers will shorten the &ldquo;i&rdquo; into a &ldquo;ə&rdquo; sound if it is verbally simpler.  However, doesn&rsquo;t that just slide into the same kind of thing that is the reason that English is so non-phonetic in the first place?  Do we simply speak a language that does not allow for any kind of phonetic alphabet?</p>
+
+<p>If you&rsquo;re at all interested in this topic, I highly recommend checking out these WikiPedia topics:</p>
+
+<ul><li><a href="http://en.wikipedia.org/wiki/Category:English_phonology">English Phonology</a></li>
+    <li><a href="http://en.wikipedia.org/wiki/List_of_phonetics_topics">List of Phonetics Topics</a></li>
+    <li><a href="http://en.wikipedia.org/wiki/Great_vowel_shift">Great Vowel Shift</a></li>
+    <li><a href="http://en.wikipedia.org/wiki/Category:History_of_the_English_language">History of the English Language</a></li>
+</ul>
+<footer><a href=http://izs.tumblr.com/tagged/Off%20Topic>#Off Topic</a>
+</footer>
+</article>
+<article class=text id=p-146671732>
+<header>
+<p><time datetime=2007-08-01T17:39:31Z>08/01/2007 10:39:31</time>
+<a class=llink href=../posts/146671732.html>¶</a>
+<a href=https://tmblr.co/Z7nwWy8lWXq>●</a></header>
+<h2>Marching to a Vertical Cadence</h2>
+<p>Regular readers will notice that this blog got a bit of a face-lift today.  The obvious change is the addition of a background texture, but actually the biggest change is that I updated all of the elements to fit into a vertical em grid.  Actually, I&rsquo;m not all that thrilled with the background image, but it was killing me having such a bland vanilla design, so I whipped up something as fast as possible.  (For comparison, <a href="http://?version=1.0">here&rsquo;s the old version</a>.)</p>
+
+<p>If you <a href="http://?show_lines">turn on the lines</a>, you can see how each line of text, every heading and block, is now lined up so that it will &ldquo;resonate&rdquo; with a consistent vertical spacing.  I&rsquo;m certainly <a href="http://24ways.org/2006/compose-to-a-vertical-rhythm">not the first one</a> to <a href="http://alistapart.com/articles/settingtypeontheweb">do something like this</a>.  However, in the process of figuring out how this could be done, I came up with a few shortcuts to make the math easier.  You&rsquo;ll probably need to have a calculator handy, and building a decent grid tile graphic is key.</p>
+
+<h3>First step: Build the grid image</h3>
+
+<p>To make the process somewhat sane, come up with a font-size that&rsquo;s pretty reasonable, and build a background baseline graphic to hold you to that size.  Since I favor readability over teensy designery text, I chose 16px, and built <a href="http://foohack.com/blog/wp-content/themes/sandbox/line.png">this image</a>.  It&rsquo;s 32px tall, with a horizontal line every 8px.  (The color choices are purely for nostalgic reasons.  I can practically smell the #2 pencil in my hand.)</p>
+
+<p>Going forward, every block element must begin just below a line, and end exactly on a line.  If it&rsquo;s hanging over, there&rsquo;s a problem.  (Adding and removing background colors is a good technique to check things.)</p>
+
+<p>Set the font size to 16px in the HTML element, and add the background image:</p>
+
+<p><code class="block">html {
+  background:#fafafa url(line.png) top repeat;
+  font-size:16px;
+}</code></p>
+
+<p>Once everything works, you can pull out the line and the fixed px font-size, and let it resize to whatever the user has set in their browser.  Since everything will be based on ems, it will all scale up and down to any size.  If you sniff the CSS on this page, you&rsquo;ll see that I apply this rule whenever the &ldquo;show-lines&rdquo; class is on the HTML element.</p>
+
+<h3>The Rules</h3>
+
+<ol><li>Never set font-size without setting line-height (or vice versa.)</li>
+    <li>For simplicity, vertical padding and margin should be avoided when they&rsquo;re not needed, or at the very least not set on an element that has an altered font-size, and must be specified in ems.</li>
+    <li>Top and bottom borders get hairy.  Use outline instead, and let it be a little broken for IE.</li>
+    <li>The horizontal direction is fair game, outside the scope of this article.  Use px or ex or whatever units you want.</li>
+    <li>The big one: font-size * (line-height + vertical padding + vertical margin) must be a whole number.  If you&rsquo;re going to use a double-spacing cadence, then it should ideally also be an even number most of the time.</li>
+    <li>Go to 5 decimal places when you get numbers that repeat.  Browsers only look at the first 4, but most of them will round rather than truncate, so the additional number is worth having.</li>
+</ol><p>So, for example, on the body text, I wanted to have simple double-spacing.  So, this rule was fine:</p>
+
+<p><code class="block">p {
+  font-size: 1em;
+  line-height:2;
+}</code></p>
+
+<p>On some elements, I wanted to drop down the font size a bit, say to 70% of normal body text (or 0.7em.)  If the element had a line-height of 1, and its font-size is 0.7em, then that&rsquo;s a problem, because 0.7 * ( 1 ) = 0.7, which is not a whole number.  If we want to make this element take up 1 row on the baseline grid, then we can say that 0.7 * ( x ) = 1, and solve for x, the line-height.  In this case, 1/0.7 = 1.428571, so we set the line-height to that value, and end up with small text that takes up 1 line on the grid.</p>
+
+<p>The same technique can be done if you wanted to go even smaller.  The table below has values for various font sizes and double- and single-spacing:</p>
+
+<table><thead><tr><th>Font-size (in ems)</th><th>Line-height (single)</th><th>Line-height (double)</th></tr></thead><tbody><tr><td>0.5</td><td>2</td><td>4</td></tr><tr><td>0.6</td><td>1.666667</td><td>3.333333</td></tr><tr><td>0.7</td><td>1.428571</td><td>2.857142</td></tr><tr><td>0.8</td><td>1.25</td><td>2.5</td></tr><tr><td>0.9</td><td>1.111111</td><td>2.222222</td></tr><tr><td>1</td><td>1</td><td>2</td></tr><tr><td>1.1</td><td>0.909090</td><td>1.818181</td></tr><tr><td>1.2</td><td>0.833333</td><td>1.666667</td></tr><tr><td>1.3</td><td>0.769231</td><td>1.538461</td></tr><tr><td>1.4</td><td>0.714285</td><td>1.428571</td></tr><tr><td>1.5</td><td>0.666667</td><td>1.333333</td></tr><tr><td>1.6</td><td>0.625</td><td>1.25</td></tr><tr><td>1.7</td><td>0.588235</td><td>1.176471</td></tr><tr><td>1.8</td><td>0.555555</td><td>1.111111</td></tr><tr><td>1.9</td><td>0.526315</td><td>1.0526315</td></tr><tr><td>2</td><td>0.5</td><td>1</td></tr></tbody></table><p>As you might expect, some of these work better than others.  The funkier looking a decimal is, the greater the chance that it will be improperly rounded.</p>
+
+<h3>Effects on Layout</h3>
+
+<p>As you can see in the table above, without the ability to put pixel borders on the tops and bottoms of things, it presents interesting challenges in some cases.  A gradient image can be a little nicer than borders for table cells, and is certainly a lot nicer than not having any kind of vertical breaks.</p>
+
+<p>Form elements are particularly tricky.  I didn&rsquo;t want to have them borderless, since borderless forms are just visually weird to me.  However, a border on the top and bottom messes with the spacing.  So, I&rsquo;ve used outline, and just passed a border rule to IE 6 via the underscore hack.  It&rsquo;s not a great solution, but it works for now, since outline is drawn outside the element, instead of pushing it further down the page.  When I come up with a more clever way to do this, I&rsquo;ll share it.</p>
+
+<p>Input elements seemed to need just a shade less padding than the math would indicate.  They seemed to work properly using 0.41em instead of the 0.421758em that my formula would have predicted.  Not sure why that is, but I&rsquo;m OK with the hack.</p>
+
+<h3>Margins and Padding</h3>
+
+<p>If you ever have to move something up or down, I find it&rsquo;s useful to figure out how many ems it needs to move, and then convert by the font size.  To keep things easy, you can restrict any font-size changes to inner elements, and apply padding and margin on the container (which always has a font-size of 1em.)  However, some adjustments are just easier to make on an element that has a font size, so the conversion comes in handy.</p>
+
+<p>For example, let&rsquo;s say that we have an element with a font size of 0.6em, and we want to move it down 1.5ems.  (In the baseline graphic, that would be moving it down 1.5 &ldquo;red lines&rdquo;.)  So, the ratio looks like this:</p>
+
+<p><code class="block">1.5 * 1 = x * 0.6
+1.5 / 0.6 = x = 2.5</code></p>
+
+<p>so we have to give the element a padding or margin of 2.5em.  The simplified formula is:</p>
+
+<p><code class="block">distance / font-size = correct em measurement</code></p>
+
+<p>I find that, as I have this style live and notice little errors that need correcting, I&rsquo;m using that formula quite a bit.</p>
+
+<h3>Update</h3>
+
+<p>Some browsers do this better than others, of course.  Gecko browsers (Firefox, Camino, etc.) are impeccable with their em-spacing and line-height calculations.  Safari seems to always be a bit off of the lines in the background image, as does MSIE.  Opera is better than those two, but not quite as good as the Geckos.  Even when it&rsquo;s not perfect, though, getting close does seem to feel more &ldquo;right&rdquo; to me.</p>
+<footer><a href=http://izs.tumblr.com/tagged/CSS>#CSS</a>
+<a href=http://izs.tumblr.com/tagged/Colophon>#Colophon</a>
+</footer>
+</article>
+<footer><nav><a href=../index.html rel=index>Index</a>
+| <a href=2007-09-p1.html rel=prev>Previous</a>
+| <a href=2007-07-p1.html rel=next>Next</a>
+</nav></footer>

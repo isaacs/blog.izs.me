@@ -1,0 +1,80 @@
+{
+    "blog": {
+        "description": "Writing and Stuff from Isaac Z. Schlueter",
+        "name": "izs",
+        "title": "blog.izs.me",
+        "updated": 1544578035,
+        "url": "http://blog.izs.me/",
+        "uuid": "t:qZa3tMNNGjX7PQ45aXJ-jw"
+    },
+    "blog_name": "izs",
+    "body": "<p><a href=\"http://henrik.nyh.se/2007/10/open-in-textmate-from-leopard-finder\">This post</a> has a great little droplet that can be added to the Finder toolbar to open either the selected items or the current Finder folder in TextMate.</p>\n\n<p>Sadly, it doesn&rsquo;t work in Tiger, and I haven&rsquo;t made the jump to Leopard yet.  If you&rsquo;re a TextMate user who&rsquo;s still on Tiger, and wants this feature, I tweaked Henrik&rsquo;s AppleScript to play nice with Tiger.</p>\n\n<p><a href=\"http://foohack.com/blog/wp-content/uploads/2008/04/open-in-textmate-tiger.dmg\">Open in TextMate (for Tiger)</a></p>\n\n<p>Enjoy!</p>\n\n<p><ins datetime=\"2008-05-04T06:50:12+00:00\"><strong>Update</strong>: Just fixed the script to work with folders and files that have spaces in the name.</ins></p>",
+    "can_like": false,
+    "can_reblog": false,
+    "can_reply": false,
+    "can_send_in_message": true,
+    "date": "2008-04-09 09:03:49 GMT",
+    "display_avatar": true,
+    "format": "markdown",
+    "id": 146672632,
+    "is_blocks_post_format": false,
+    "note_count": 0,
+    "post_url": "http://blog.izs.me/post/146672632/open-in-textmate-in-finder-for-tiger",
+    "reblog": {
+        "comment": "<p><a href=\"http://henrik.nyh.se/2007/10/open-in-textmate-from-leopard-finder\">This post</a> has a great little droplet that can be added to the Finder toolbar to open either the selected items or the current Finder folder in TextMate.</p>\n\n<p>Sadly, it doesn\u2019t work in Tiger, and I haven\u2019t made the jump to Leopard yet.  If you\u2019re a TextMate user who\u2019s still on Tiger, and wants this feature, I tweaked Henrik\u2019s AppleScript to play nice with Tiger.</p>\n\n<p><a href=\"http://foohack.com/blog/wp-content/uploads/2008/04/open-in-textmate-tiger.dmg\">Open in TextMate (for Tiger)</a></p>\n\n<p>Enjoy!</p>\n\n<p><ins datetime=\"2008-05-04T06:50:12+00:00\"><strong>Update</strong>: Just fixed the script to work with folders and files that have spaces in the name.</ins></p>",
+        "tree_html": ""
+    },
+    "reblog_key": "uZQRErBe",
+    "recommended_color": null,
+    "recommended_source": null,
+    "short_url": "https://tmblr.co/Z7nwWy8lWlu",
+    "slug": "open-in-textmate-in-finder-for-tiger",
+    "state": "published",
+    "summary": "Open in TextMate in Finder for Tiger",
+    "tags": [
+        "Freebie"
+    ],
+    "timestamp": 1207731829,
+    "title": "Open in TextMate in Finder for Tiger",
+    "trail": [
+        {
+            "blog": {
+                "active": true,
+                "can_be_followed": true,
+                "name": "izs",
+                "share_following": false,
+                "share_likes": false,
+                "theme": {
+                    "avatar_shape": "square",
+                    "background_color": "#444444",
+                    "body_font": "Helvetica Neue",
+                    "header_bounds": "978,2448,2355,0",
+                    "header_focus_height": 1152,
+                    "header_focus_width": 2048,
+                    "header_full_height": 3264,
+                    "header_full_width": 2448,
+                    "header_image": "https://static.tumblr.com/d248e27715343669f06a3852fd2cda53/utow0jf/nwUnbvgl6/tumblr_static_d2yiqqjdv1w8gsw0s0g4goc0o.jpg",
+                    "header_image_focused": "https://static.tumblr.com/d248e27715343669f06a3852fd2cda53/utow0jf/mA1nbvglg/tumblr_static_tumblr_static_d2yiqqjdv1w8gsw0s0g4goc0o_focused_v3.jpg",
+                    "header_image_scaled": "https://static.tumblr.com/d248e27715343669f06a3852fd2cda53/utow0jf/nwUnbvgl6/tumblr_static_d2yiqqjdv1w8gsw0s0g4goc0o_2048_v2.jpg",
+                    "header_stretch": true,
+                    "link_color": "#FB4C16",
+                    "show_avatar": true,
+                    "show_description": true,
+                    "show_header_image": true,
+                    "show_title": true,
+                    "title_color": "#fb4c16",
+                    "title_font": "Gibson",
+                    "title_font_weight": "regular"
+                }
+            },
+            "content": "<p><a href=\"http://henrik.nyh.se/2007/10/open-in-textmate-from-leopard-finder\">This post</a> has a great little droplet that can be added to the Finder toolbar to open either the selected items or the current Finder folder in TextMate.</p>\n\n<p>Sadly, it doesn&rsquo;t work in Tiger, and I haven&rsquo;t made the jump to Leopard yet.  If you&rsquo;re a TextMate user who&rsquo;s still on Tiger, and wants this feature, I tweaked Henrik&rsquo;s AppleScript to play nice with Tiger.</p>\n\n<p><a href=\"http://foohack.com/blog/wp-content/uploads/2008/04/open-in-textmate-tiger.dmg\">Open in TextMate (for Tiger)</a></p>\n\n<p>Enjoy!</p>\n\n<p><strong>Update</strong>: Just fixed the script to work with folders and files that have spaces in the name.</p>",
+            "content_raw": "<p><a href=\"http://henrik.nyh.se/2007/10/open-in-textmate-from-leopard-finder\">This post</a> has a great little droplet that can be added to the Finder toolbar to open either the selected items or the current Finder folder in TextMate.</p>\n\n<p>Sadly, it doesn\u2019t work in Tiger, and I haven\u2019t made the jump to Leopard yet.  If you\u2019re a TextMate user who\u2019s still on Tiger, and wants this feature, I tweaked Henrik\u2019s AppleScript to play nice with Tiger.</p>\n\n<p><a href=\"http://foohack.com/blog/wp-content/uploads/2008/04/open-in-textmate-tiger.dmg\">Open in TextMate (for Tiger)</a></p>\n\n<p>Enjoy!</p>\n\n<p><ins datetime=\"2008-05-04T06:50:12+00:00\"><strong>Update</strong>: Just fixed the script to work with folders and files that have spaces in the name.</ins></p>",
+            "is_current_item": true,
+            "is_root_item": true,
+            "post": {
+                "id": "146672632"
+            }
+        }
+    ],
+    "type": "text"
+}

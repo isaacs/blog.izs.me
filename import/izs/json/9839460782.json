@@ -1,0 +1,38 @@
+{
+    "blog": {
+        "description": "Writing and Stuff from Isaac Z. Schlueter",
+        "name": "izs",
+        "title": "blog.izs.me",
+        "updated": 1544578035,
+        "url": "http://blog.izs.me/",
+        "uuid": "t:qZa3tMNNGjX7PQ45aXJ-jw"
+    },
+    "blog_name": "izs",
+    "can_like": false,
+    "can_reblog": false,
+    "can_reply": false,
+    "can_send_in_message": true,
+    "date": "2011-09-05 17:22:32 GMT",
+    "display_avatar": true,
+    "format": "markdown",
+    "id": 9839460782,
+    "is_blocks_post_format": false,
+    "note_count": 83,
+    "post_url": "http://blog.izs.me/post/9839460782/in-the-universe-where-everything-works-the-way-it",
+    "reblog": {
+        "comment": "<p>Eliezer Yudkowsky, <a href=\"http://lesswrong.com/lw/uc/aboveaverage_ai_scientists/\">Above-Average AI Scientists</a></p>",
+        "tree_html": ""
+    },
+    "reblog_key": "NNYED7Lt",
+    "recommended_color": null,
+    "recommended_source": null,
+    "short_url": "https://tmblr.co/Z7nwWy9AUa6k",
+    "slug": "in-the-universe-where-everything-works-the-way-it",
+    "source": "Eliezer Yudkowsky, <a href=\"http://lesswrong.com/lw/uc/aboveaverage_ai_scientists/\">Above-Average AI Scientists</a>",
+    "state": "published",
+    "summary": "In the universe where everything works the way it common-sensically ought to, everything about the study of Artificial General...",
+    "tags": [],
+    "text": "In the universe where everything works the way it common-sensically ought to, everything about the study of Artificial General Intelligence is driven by the one overwhelming fact of the indescribably huge effects: initial conditions and unfolding patterns whose consequences will resound for as long as causal chains continue out of Earth, until all the stars and galaxies in the night sky have burned down to cold iron, and maybe long afterward, or forever into infinity if the true laws of physics should happen to permit that.  To deliberately thrust your mortal brain onto that stage, as it plays out on ancient Earth the first root of life, is an act so far beyond &ldquo;audacity&rdquo; as to set the word on fire, an act which can only be excused by the terrifying knowledge that the empty skies offer no higher authority.",
+    "timestamp": 1315243352,
+    "type": "quote"
+}

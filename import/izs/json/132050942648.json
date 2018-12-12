@@ -1,0 +1,587 @@
+{
+    "blog": {
+        "description": "Writing and Stuff from Isaac Z. Schlueter",
+        "name": "izs",
+        "title": "blog.izs.me",
+        "updated": 1544578035,
+        "url": "http://blog.izs.me/",
+        "uuid": "t:qZa3tMNNGjX7PQ45aXJ-jw"
+    },
+    "blog_name": "izs",
+    "can_like": false,
+    "can_reblog": false,
+    "can_reply": false,
+    "can_send_in_message": true,
+    "caption": "<p><a class=\"tumblr_blog\" href=\"http://jamietheignorantamerican.tumblr.com/post/72154890106\">jamietheignorantamerican</a>:</p>\n\n<blockquote>\n<p><strong>Go Forth and Educate Yourselves!</strong></p>\n<ul><li><a href=\"http://thesocietypages.org/\">http://thesocietypages.org/</a></li>\n<li><a href=\"http://www.ensemble-rd.com/en\">http://www.ensemble-rd.com/en</a></li>\n<li><a href=\"http://www.everyday-democracy.org/en/index.aspx\">http://www.everyday-democracy.org/en/index.aspx</a></li>\n<li><a href=\"http://www.stophate.us/racism/\">http://www.stophate.us/racism/</a></li>\n<li><a href=\"http://www.victimsofcrime.org/home\">http://www.victimsofcrime.org/home</a></li>\n<li><a href=\"http://en.wikipedia.org/wiki/Racism\">http://en.wikipedia.org/wiki/Racism</a></li>\n<li><a href=\"http://www.communitychangeinc.org/\">http://www.communitychangeinc.org/</a></li>\n<li><a href=\"http://en.wikipedia.org/wiki/White_privilege\">http://en.wikipedia.org/wiki/White_privilege</a></li>\n<li><a href=\"http://ted.coe.wayne.edu/ele3600/mcintosh.html\">http://ted.coe.wayne.edu/ele3600/mcintosh.html</a></li>\n<li><a href=\"http://www.whiteprivilegeconference.com/white_privilege.html\">http://www.whiteprivilegeconference.com/white_privilege.html</a></li>\n</ul><p>I\u2019d also highly recommend watching the Jane Elliot Brown-eye/Blue-eye experiments, which can be found here:</p>\n<ul><li><a href=\"http://www.youtube.com/watch?v=VeK759FF84s\">http://www.youtube.com/watch?v=VeK759FF84s</a></li>\n<li>\n<a href=\"http://www.youtube.com/watch?v=-pv8mCHbOrs\">http://www.youtube.com/watch?v=-pv8mCHbOrs</a>\u00a0(Part 1)</li>\n<li>\n<a href=\"http://www.youtube.com/watch?v=neEVoFODQOE\">http://www.youtube.com/watch?v=neEVoFODQOE</a>\u00a0(Part 2 - Has very important points on Reverse Racism and how it doesn\u2019t exist, and it also dismantles the \u201cWe All Bleed Red\u201d mentality.)</li>\n<li><a href=\"http://www.youtube.com/watch?v=6MYHBrJIIFU\">http://www.youtube.com/watch?v=6MYHBrJIIFU</a></li>\n</ul></blockquote>",
+    "date": "2015-10-28 00:36:45 GMT",
+    "display_avatar": true,
+    "format": "markdown",
+    "id": 132050942648,
+    "is_blocks_post_format": false,
+    "note_count": 399967,
+    "photos": [
+        {
+            "alt_sizes": [
+                {
+                    "height": 500,
+                    "url": "https://66.media.tumblr.com/087e01ccfda27006042db688f886892b/tumblr_myuv88qhMw1rqscijo2_1280.png",
+                    "width": 750
+                },
+                {
+                    "height": 427,
+                    "url": "https://66.media.tumblr.com/087e01ccfda27006042db688f886892b/tumblr_myuv88qhMw1rqscijo2_640.png",
+                    "width": 640
+                },
+                {
+                    "height": 360,
+                    "url": "https://66.media.tumblr.com/087e01ccfda27006042db688f886892b/tumblr_myuv88qhMw1rqscijo2_540.png",
+                    "width": 540
+                },
+                {
+                    "height": 333,
+                    "url": "https://66.media.tumblr.com/087e01ccfda27006042db688f886892b/tumblr_myuv88qhMw1rqscijo2_500.png",
+                    "width": 500
+                },
+                {
+                    "height": 267,
+                    "url": "https://66.media.tumblr.com/087e01ccfda27006042db688f886892b/tumblr_myuv88qhMw1rqscijo2_400.png",
+                    "width": 400
+                },
+                {
+                    "height": 167,
+                    "url": "https://66.media.tumblr.com/087e01ccfda27006042db688f886892b/tumblr_myuv88qhMw1rqscijo2_250.png",
+                    "width": 250
+                },
+                {
+                    "height": 67,
+                    "url": "https://66.media.tumblr.com/087e01ccfda27006042db688f886892b/tumblr_myuv88qhMw1rqscijo2_100.png",
+                    "width": 100
+                },
+                {
+                    "height": 75,
+                    "url": "https://66.media.tumblr.com/087e01ccfda27006042db688f886892b/tumblr_myuv88qhMw1rqscijo2_75sq.png",
+                    "width": 75
+                }
+            ],
+            "caption": "",
+            "original_size": {
+                "height": 500,
+                "url": "https://66.media.tumblr.com/087e01ccfda27006042db688f886892b/tumblr_myuv88qhMw1rqscijo2_1280.png",
+                "width": 750
+            }
+        },
+        {
+            "alt_sizes": [
+                {
+                    "height": 500,
+                    "url": "https://66.media.tumblr.com/b94995974bc33b877b5c73f0f2231e6f/tumblr_myuv88qhMw1rqscijo3_1280.png",
+                    "width": 750
+                },
+                {
+                    "height": 427,
+                    "url": "https://66.media.tumblr.com/b94995974bc33b877b5c73f0f2231e6f/tumblr_myuv88qhMw1rqscijo3_640.png",
+                    "width": 640
+                },
+                {
+                    "height": 360,
+                    "url": "https://66.media.tumblr.com/b94995974bc33b877b5c73f0f2231e6f/tumblr_myuv88qhMw1rqscijo3_540.png",
+                    "width": 540
+                },
+                {
+                    "height": 333,
+                    "url": "https://66.media.tumblr.com/b94995974bc33b877b5c73f0f2231e6f/tumblr_myuv88qhMw1rqscijo3_500.png",
+                    "width": 500
+                },
+                {
+                    "height": 267,
+                    "url": "https://66.media.tumblr.com/b94995974bc33b877b5c73f0f2231e6f/tumblr_myuv88qhMw1rqscijo3_400.png",
+                    "width": 400
+                },
+                {
+                    "height": 167,
+                    "url": "https://66.media.tumblr.com/b94995974bc33b877b5c73f0f2231e6f/tumblr_myuv88qhMw1rqscijo3_250.png",
+                    "width": 250
+                },
+                {
+                    "height": 67,
+                    "url": "https://66.media.tumblr.com/b94995974bc33b877b5c73f0f2231e6f/tumblr_myuv88qhMw1rqscijo3_100.png",
+                    "width": 100
+                },
+                {
+                    "height": 75,
+                    "url": "https://66.media.tumblr.com/b94995974bc33b877b5c73f0f2231e6f/tumblr_myuv88qhMw1rqscijo3_75sq.png",
+                    "width": 75
+                }
+            ],
+            "caption": "",
+            "original_size": {
+                "height": 500,
+                "url": "https://66.media.tumblr.com/b94995974bc33b877b5c73f0f2231e6f/tumblr_myuv88qhMw1rqscijo3_1280.png",
+                "width": 750
+            }
+        },
+        {
+            "alt_sizes": [
+                {
+                    "height": 500,
+                    "url": "https://66.media.tumblr.com/e1cc513e11db013b47b92ad16b90ca88/tumblr_myuv88qhMw1rqscijo4_1280.png",
+                    "width": 750
+                },
+                {
+                    "height": 427,
+                    "url": "https://66.media.tumblr.com/e1cc513e11db013b47b92ad16b90ca88/tumblr_myuv88qhMw1rqscijo4_640.png",
+                    "width": 640
+                },
+                {
+                    "height": 360,
+                    "url": "https://66.media.tumblr.com/e1cc513e11db013b47b92ad16b90ca88/tumblr_myuv88qhMw1rqscijo4_540.png",
+                    "width": 540
+                },
+                {
+                    "height": 333,
+                    "url": "https://66.media.tumblr.com/e1cc513e11db013b47b92ad16b90ca88/tumblr_myuv88qhMw1rqscijo4_500.png",
+                    "width": 500
+                },
+                {
+                    "height": 267,
+                    "url": "https://66.media.tumblr.com/e1cc513e11db013b47b92ad16b90ca88/tumblr_myuv88qhMw1rqscijo4_400.png",
+                    "width": 400
+                },
+                {
+                    "height": 167,
+                    "url": "https://66.media.tumblr.com/e1cc513e11db013b47b92ad16b90ca88/tumblr_myuv88qhMw1rqscijo4_250.png",
+                    "width": 250
+                },
+                {
+                    "height": 67,
+                    "url": "https://66.media.tumblr.com/e1cc513e11db013b47b92ad16b90ca88/tumblr_myuv88qhMw1rqscijo4_100.png",
+                    "width": 100
+                },
+                {
+                    "height": 75,
+                    "url": "https://66.media.tumblr.com/e1cc513e11db013b47b92ad16b90ca88/tumblr_myuv88qhMw1rqscijo4_75sq.png",
+                    "width": 75
+                }
+            ],
+            "caption": "",
+            "original_size": {
+                "height": 500,
+                "url": "https://66.media.tumblr.com/e1cc513e11db013b47b92ad16b90ca88/tumblr_myuv88qhMw1rqscijo4_1280.png",
+                "width": 750
+            }
+        },
+        {
+            "alt_sizes": [
+                {
+                    "height": 500,
+                    "url": "https://66.media.tumblr.com/43441fd9f620f470857a1bc58d80345a/tumblr_myuv88qhMw1rqscijo5_r2_1280.png",
+                    "width": 750
+                },
+                {
+                    "height": 427,
+                    "url": "https://66.media.tumblr.com/43441fd9f620f470857a1bc58d80345a/tumblr_myuv88qhMw1rqscijo5_r2_640.png",
+                    "width": 640
+                },
+                {
+                    "height": 360,
+                    "url": "https://66.media.tumblr.com/43441fd9f620f470857a1bc58d80345a/tumblr_myuv88qhMw1rqscijo5_r2_540.png",
+                    "width": 540
+                },
+                {
+                    "height": 333,
+                    "url": "https://66.media.tumblr.com/43441fd9f620f470857a1bc58d80345a/tumblr_myuv88qhMw1rqscijo5_r2_500.png",
+                    "width": 500
+                },
+                {
+                    "height": 267,
+                    "url": "https://66.media.tumblr.com/43441fd9f620f470857a1bc58d80345a/tumblr_myuv88qhMw1rqscijo5_r2_400.png",
+                    "width": 400
+                },
+                {
+                    "height": 167,
+                    "url": "https://66.media.tumblr.com/43441fd9f620f470857a1bc58d80345a/tumblr_myuv88qhMw1rqscijo5_r2_250.png",
+                    "width": 250
+                },
+                {
+                    "height": 67,
+                    "url": "https://66.media.tumblr.com/43441fd9f620f470857a1bc58d80345a/tumblr_myuv88qhMw1rqscijo5_r2_100.png",
+                    "width": 100
+                },
+                {
+                    "height": 75,
+                    "url": "https://66.media.tumblr.com/43441fd9f620f470857a1bc58d80345a/tumblr_myuv88qhMw1rqscijo5_r2_75sq.png",
+                    "width": 75
+                }
+            ],
+            "caption": "",
+            "original_size": {
+                "height": 500,
+                "url": "https://66.media.tumblr.com/43441fd9f620f470857a1bc58d80345a/tumblr_myuv88qhMw1rqscijo5_r2_1280.png",
+                "width": 750
+            }
+        },
+        {
+            "alt_sizes": [
+                {
+                    "height": 500,
+                    "url": "https://66.media.tumblr.com/e10d8c949b0e064db64fd86df7ad43b3/tumblr_myuv88qhMw1rqscijo6_1280.png",
+                    "width": 750
+                },
+                {
+                    "height": 427,
+                    "url": "https://66.media.tumblr.com/e10d8c949b0e064db64fd86df7ad43b3/tumblr_myuv88qhMw1rqscijo6_640.png",
+                    "width": 640
+                },
+                {
+                    "height": 360,
+                    "url": "https://66.media.tumblr.com/e10d8c949b0e064db64fd86df7ad43b3/tumblr_myuv88qhMw1rqscijo6_540.png",
+                    "width": 540
+                },
+                {
+                    "height": 333,
+                    "url": "https://66.media.tumblr.com/e10d8c949b0e064db64fd86df7ad43b3/tumblr_myuv88qhMw1rqscijo6_500.png",
+                    "width": 500
+                },
+                {
+                    "height": 267,
+                    "url": "https://66.media.tumblr.com/e10d8c949b0e064db64fd86df7ad43b3/tumblr_myuv88qhMw1rqscijo6_400.png",
+                    "width": 400
+                },
+                {
+                    "height": 167,
+                    "url": "https://66.media.tumblr.com/e10d8c949b0e064db64fd86df7ad43b3/tumblr_myuv88qhMw1rqscijo6_250.png",
+                    "width": 250
+                },
+                {
+                    "height": 67,
+                    "url": "https://66.media.tumblr.com/e10d8c949b0e064db64fd86df7ad43b3/tumblr_myuv88qhMw1rqscijo6_100.png",
+                    "width": 100
+                },
+                {
+                    "height": 75,
+                    "url": "https://66.media.tumblr.com/e10d8c949b0e064db64fd86df7ad43b3/tumblr_myuv88qhMw1rqscijo6_75sq.png",
+                    "width": 75
+                }
+            ],
+            "caption": "",
+            "original_size": {
+                "height": 500,
+                "url": "https://66.media.tumblr.com/e10d8c949b0e064db64fd86df7ad43b3/tumblr_myuv88qhMw1rqscijo6_1280.png",
+                "width": 750
+            }
+        },
+        {
+            "alt_sizes": [
+                {
+                    "height": 500,
+                    "url": "https://66.media.tumblr.com/a60a85c1231f298a8f00182e78567320/tumblr_myuv88qhMw1rqscijo7_1280.png",
+                    "width": 750
+                },
+                {
+                    "height": 427,
+                    "url": "https://66.media.tumblr.com/a60a85c1231f298a8f00182e78567320/tumblr_myuv88qhMw1rqscijo7_640.png",
+                    "width": 640
+                },
+                {
+                    "height": 360,
+                    "url": "https://66.media.tumblr.com/a60a85c1231f298a8f00182e78567320/tumblr_myuv88qhMw1rqscijo7_540.png",
+                    "width": 540
+                },
+                {
+                    "height": 333,
+                    "url": "https://66.media.tumblr.com/a60a85c1231f298a8f00182e78567320/tumblr_myuv88qhMw1rqscijo7_500.png",
+                    "width": 500
+                },
+                {
+                    "height": 267,
+                    "url": "https://66.media.tumblr.com/a60a85c1231f298a8f00182e78567320/tumblr_myuv88qhMw1rqscijo7_400.png",
+                    "width": 400
+                },
+                {
+                    "height": 167,
+                    "url": "https://66.media.tumblr.com/a60a85c1231f298a8f00182e78567320/tumblr_myuv88qhMw1rqscijo7_250.png",
+                    "width": 250
+                },
+                {
+                    "height": 67,
+                    "url": "https://66.media.tumblr.com/a60a85c1231f298a8f00182e78567320/tumblr_myuv88qhMw1rqscijo7_100.png",
+                    "width": 100
+                },
+                {
+                    "height": 75,
+                    "url": "https://66.media.tumblr.com/a60a85c1231f298a8f00182e78567320/tumblr_myuv88qhMw1rqscijo7_75sq.png",
+                    "width": 75
+                }
+            ],
+            "caption": "",
+            "original_size": {
+                "height": 500,
+                "url": "https://66.media.tumblr.com/a60a85c1231f298a8f00182e78567320/tumblr_myuv88qhMw1rqscijo7_1280.png",
+                "width": 750
+            }
+        },
+        {
+            "alt_sizes": [
+                {
+                    "height": 500,
+                    "url": "https://66.media.tumblr.com/50f0f6386d8b239dcfea44cf975f2106/tumblr_myuv88qhMw1rqscijo8_1280.png",
+                    "width": 750
+                },
+                {
+                    "height": 427,
+                    "url": "https://66.media.tumblr.com/50f0f6386d8b239dcfea44cf975f2106/tumblr_myuv88qhMw1rqscijo8_640.png",
+                    "width": 640
+                },
+                {
+                    "height": 360,
+                    "url": "https://66.media.tumblr.com/50f0f6386d8b239dcfea44cf975f2106/tumblr_myuv88qhMw1rqscijo8_540.png",
+                    "width": 540
+                },
+                {
+                    "height": 333,
+                    "url": "https://66.media.tumblr.com/50f0f6386d8b239dcfea44cf975f2106/tumblr_myuv88qhMw1rqscijo8_500.png",
+                    "width": 500
+                },
+                {
+                    "height": 267,
+                    "url": "https://66.media.tumblr.com/50f0f6386d8b239dcfea44cf975f2106/tumblr_myuv88qhMw1rqscijo8_400.png",
+                    "width": 400
+                },
+                {
+                    "height": 167,
+                    "url": "https://66.media.tumblr.com/50f0f6386d8b239dcfea44cf975f2106/tumblr_myuv88qhMw1rqscijo8_250.png",
+                    "width": 250
+                },
+                {
+                    "height": 67,
+                    "url": "https://66.media.tumblr.com/50f0f6386d8b239dcfea44cf975f2106/tumblr_myuv88qhMw1rqscijo8_100.png",
+                    "width": 100
+                },
+                {
+                    "height": 75,
+                    "url": "https://66.media.tumblr.com/50f0f6386d8b239dcfea44cf975f2106/tumblr_myuv88qhMw1rqscijo8_75sq.png",
+                    "width": 75
+                }
+            ],
+            "caption": "",
+            "original_size": {
+                "height": 500,
+                "url": "https://66.media.tumblr.com/50f0f6386d8b239dcfea44cf975f2106/tumblr_myuv88qhMw1rqscijo8_1280.png",
+                "width": 750
+            }
+        },
+        {
+            "alt_sizes": [
+                {
+                    "height": 500,
+                    "url": "https://66.media.tumblr.com/5a2b724e98a5aaf8dc0a02879298cb7f/tumblr_myuv88qhMw1rqscijo9_1280.png",
+                    "width": 750
+                },
+                {
+                    "height": 427,
+                    "url": "https://66.media.tumblr.com/5a2b724e98a5aaf8dc0a02879298cb7f/tumblr_myuv88qhMw1rqscijo9_640.png",
+                    "width": 640
+                },
+                {
+                    "height": 360,
+                    "url": "https://66.media.tumblr.com/5a2b724e98a5aaf8dc0a02879298cb7f/tumblr_myuv88qhMw1rqscijo9_540.png",
+                    "width": 540
+                },
+                {
+                    "height": 333,
+                    "url": "https://66.media.tumblr.com/5a2b724e98a5aaf8dc0a02879298cb7f/tumblr_myuv88qhMw1rqscijo9_500.png",
+                    "width": 500
+                },
+                {
+                    "height": 267,
+                    "url": "https://66.media.tumblr.com/5a2b724e98a5aaf8dc0a02879298cb7f/tumblr_myuv88qhMw1rqscijo9_400.png",
+                    "width": 400
+                },
+                {
+                    "height": 167,
+                    "url": "https://66.media.tumblr.com/5a2b724e98a5aaf8dc0a02879298cb7f/tumblr_myuv88qhMw1rqscijo9_250.png",
+                    "width": 250
+                },
+                {
+                    "height": 67,
+                    "url": "https://66.media.tumblr.com/5a2b724e98a5aaf8dc0a02879298cb7f/tumblr_myuv88qhMw1rqscijo9_100.png",
+                    "width": 100
+                },
+                {
+                    "height": 75,
+                    "url": "https://66.media.tumblr.com/5a2b724e98a5aaf8dc0a02879298cb7f/tumblr_myuv88qhMw1rqscijo9_75sq.png",
+                    "width": 75
+                }
+            ],
+            "caption": "",
+            "original_size": {
+                "height": 500,
+                "url": "https://66.media.tumblr.com/5a2b724e98a5aaf8dc0a02879298cb7f/tumblr_myuv88qhMw1rqscijo9_1280.png",
+                "width": 750
+            }
+        },
+        {
+            "alt_sizes": [
+                {
+                    "height": 500,
+                    "url": "https://66.media.tumblr.com/5debd2bb0f7b756701a29d2ce2646b23/tumblr_myuv88qhMw1rqscijo1_r2_1280.png",
+                    "width": 1003
+                },
+                {
+                    "height": 319,
+                    "url": "https://66.media.tumblr.com/5debd2bb0f7b756701a29d2ce2646b23/tumblr_myuv88qhMw1rqscijo1_r2_640.png",
+                    "width": 640
+                },
+                {
+                    "height": 269,
+                    "url": "https://66.media.tumblr.com/5debd2bb0f7b756701a29d2ce2646b23/tumblr_myuv88qhMw1rqscijo1_r2_540.png",
+                    "width": 540
+                },
+                {
+                    "height": 249,
+                    "url": "https://66.media.tumblr.com/5debd2bb0f7b756701a29d2ce2646b23/tumblr_myuv88qhMw1rqscijo1_r2_500.png",
+                    "width": 500
+                },
+                {
+                    "height": 199,
+                    "url": "https://66.media.tumblr.com/5debd2bb0f7b756701a29d2ce2646b23/tumblr_myuv88qhMw1rqscijo1_r2_400.png",
+                    "width": 400
+                },
+                {
+                    "height": 125,
+                    "url": "https://66.media.tumblr.com/5debd2bb0f7b756701a29d2ce2646b23/tumblr_myuv88qhMw1rqscijo1_r2_250.png",
+                    "width": 250
+                },
+                {
+                    "height": 50,
+                    "url": "https://66.media.tumblr.com/5debd2bb0f7b756701a29d2ce2646b23/tumblr_myuv88qhMw1rqscijo1_r2_100.png",
+                    "width": 100
+                },
+                {
+                    "height": 75,
+                    "url": "https://66.media.tumblr.com/5debd2bb0f7b756701a29d2ce2646b23/tumblr_myuv88qhMw1rqscijo1_r2_75sq.png",
+                    "width": 75
+                }
+            ],
+            "caption": "",
+            "original_size": {
+                "height": 500,
+                "url": "https://66.media.tumblr.com/5debd2bb0f7b756701a29d2ce2646b23/tumblr_myuv88qhMw1rqscijo1_r2_1280.png",
+                "width": 1003
+            }
+        },
+        {
+            "alt_sizes": [
+                {
+                    "height": 500,
+                    "url": "https://66.media.tumblr.com/9402a6ec5b4e9b95abfe5eb8f321509b/tumblr_myuv88qhMw1rqscijo10_r2_1280.png",
+                    "width": 750
+                },
+                {
+                    "height": 427,
+                    "url": "https://66.media.tumblr.com/9402a6ec5b4e9b95abfe5eb8f321509b/tumblr_myuv88qhMw1rqscijo10_r2_640.png",
+                    "width": 640
+                },
+                {
+                    "height": 360,
+                    "url": "https://66.media.tumblr.com/9402a6ec5b4e9b95abfe5eb8f321509b/tumblr_myuv88qhMw1rqscijo10_r2_540.png",
+                    "width": 540
+                },
+                {
+                    "height": 333,
+                    "url": "https://66.media.tumblr.com/9402a6ec5b4e9b95abfe5eb8f321509b/tumblr_myuv88qhMw1rqscijo10_r2_500.png",
+                    "width": 500
+                },
+                {
+                    "height": 267,
+                    "url": "https://66.media.tumblr.com/9402a6ec5b4e9b95abfe5eb8f321509b/tumblr_myuv88qhMw1rqscijo10_r2_400.png",
+                    "width": 400
+                },
+                {
+                    "height": 167,
+                    "url": "https://66.media.tumblr.com/9402a6ec5b4e9b95abfe5eb8f321509b/tumblr_myuv88qhMw1rqscijo10_r2_250.png",
+                    "width": 250
+                },
+                {
+                    "height": 67,
+                    "url": "https://66.media.tumblr.com/9402a6ec5b4e9b95abfe5eb8f321509b/tumblr_myuv88qhMw1rqscijo10_r2_100.png",
+                    "width": 100
+                },
+                {
+                    "height": 75,
+                    "url": "https://66.media.tumblr.com/9402a6ec5b4e9b95abfe5eb8f321509b/tumblr_myuv88qhMw1rqscijo10_r2_75sq.png",
+                    "width": 75
+                }
+            ],
+            "caption": "",
+            "original_size": {
+                "height": 500,
+                "url": "https://66.media.tumblr.com/9402a6ec5b4e9b95abfe5eb8f321509b/tumblr_myuv88qhMw1rqscijo10_r2_1280.png",
+                "width": 750
+            }
+        }
+    ],
+    "photoset_layout": "1111111111",
+    "post_url": "http://blog.izs.me/post/132050942648/jamietheignorantamerican-go-forth-and-educate",
+    "reblog": {
+        "comment": "",
+        "tree_html": "<p><a class=\"tumblr_blog\" href=\"http://jamietheignorantamerican.tumblr.com/post/72154890106\">jamietheignorantamerican</a>:</p><blockquote>\n<p><strong>Go Forth and Educate Yourselves!</strong></p>\n<ul>\n<li><a href=\"http://thesocietypages.org/\">http://thesocietypages.org/</a></li>\n<li><a href=\"http://www.ensemble-rd.com/en\">http://www.ensemble-rd.com/en</a></li>\n<li><a href=\"http://www.everyday-democracy.org/en/index.aspx\">http://www.everyday-democracy.org/en/index.aspx</a></li>\n<li><a href=\"http://www.stophate.us/racism/\">http://www.stophate.us/racism/</a></li>\n<li><a href=\"http://www.victimsofcrime.org/home\">http://www.victimsofcrime.org/home</a></li>\n<li><a href=\"http://en.wikipedia.org/wiki/Racism\">http://en.wikipedia.org/wiki/Racism</a></li>\n<li><a href=\"http://www.communitychangeinc.org/\">http://www.communitychangeinc.org/</a></li>\n<li><a href=\"http://en.wikipedia.org/wiki/White_privilege\">http://en.wikipedia.org/wiki/White_privilege</a></li>\n<li><a href=\"http://ted.coe.wayne.edu/ele3600/mcintosh.html\">http://ted.coe.wayne.edu/ele3600/mcintosh.html</a></li>\n<li><a href=\"http://www.whiteprivilegeconference.com/white_privilege.html\">http://www.whiteprivilegeconference.com/white_privilege.html</a></li>\n</ul>\n<p>I\u2019d also highly recommend watching the Jane Elliot Brown-eye/Blue-eye experiments, which can be found here:</p>\n<ul>\n<li><a href=\"http://www.youtube.com/watch?v=VeK759FF84s\">http://www.youtube.com/watch?v=VeK759FF84s</a></li>\n<li>\n<a href=\"http://www.youtube.com/watch?v=-pv8mCHbOrs\">http://www.youtube.com/watch?v=-pv8mCHbOrs</a>\u00a0(Part 1)</li>\n<li>\n<a href=\"http://www.youtube.com/watch?v=neEVoFODQOE\">http://www.youtube.com/watch?v=neEVoFODQOE</a>\u00a0(Part 2 - Has very important points on Reverse Racism and how it doesn\u2019t exist, and it also dismantles the \u201cWe All Bleed Red\u201d mentality.)</li>\n<li><a href=\"http://www.youtube.com/watch?v=6MYHBrJIIFU\">http://www.youtube.com/watch?v=6MYHBrJIIFU</a></li>\n</ul>\n</blockquote>"
+    },
+    "reblog_key": "ytMfLzZH",
+    "reblogged_from_can_message": true,
+    "reblogged_from_id": "72154890106",
+    "reblogged_from_name": "j-popsicles",
+    "reblogged_from_title": "J-Popsicles",
+    "reblogged_from_url": "https://j-popsicles.tumblr.com/post/72154890106/go-forth-and-educate-yourselves",
+    "reblogged_from_uuid": "t:xDIdfIDdDkdfLorZ6S8JyA",
+    "reblogged_root_can_message": true,
+    "reblogged_root_id": "72154890106",
+    "reblogged_root_name": "j-popsicles",
+    "reblogged_root_title": "J-Popsicles",
+    "reblogged_root_url": "https://j-popsicles.tumblr.com/post/72154890106/go-forth-and-educate-yourselves",
+    "reblogged_root_uuid": "t:xDIdfIDdDkdfLorZ6S8JyA",
+    "recommended_color": null,
+    "recommended_source": null,
+    "short_url": "https://tmblr.co/Z7nwWy1w_sNgu",
+    "slug": "jamietheignorantamerican-go-forth-and-educate",
+    "state": "published",
+    "summary": "Go Forth and Educate Yourselves!\n http://thesocietypages.org/\n http://www.ensemble-rd.com/en\n...",
+    "tags": [],
+    "timestamp": 1445992605,
+    "trail": [
+        {
+            "blog": {
+                "active": true,
+                "can_be_followed": true,
+                "name": "jamietheignorantamerican",
+                "share_following": false,
+                "share_likes": false,
+                "theme": {
+                    "avatar_shape": "square",
+                    "background_color": "#FAFAFA",
+                    "body_font": "Helvetica Neue",
+                    "header_bounds": "",
+                    "header_image": "https://assets.tumblr.com/images/default_header/optica_pattern_05.png?_v=671444c5f47705cce40d8aefd23df3b1",
+                    "header_image_focused": "https://assets.tumblr.com/images/default_header/optica_pattern_05_focused_v3.png?_v=671444c5f47705cce40d8aefd23df3b1",
+                    "header_image_scaled": "https://assets.tumblr.com/images/default_header/optica_pattern_05_focused_v3.png?_v=671444c5f47705cce40d8aefd23df3b1",
+                    "header_stretch": true,
+                    "link_color": "#529ECC",
+                    "show_avatar": true,
+                    "show_description": true,
+                    "show_header_image": true,
+                    "show_title": true,
+                    "title_color": "#444444",
+                    "title_font": "Gibson",
+                    "title_font_weight": "bold"
+                }
+            },
+            "content": "<p><p><strong>Go Forth and Educate Yourselves!</strong></p>\n<ul><li><a href=\"http://thesocietypages.org/\">http://thesocietypages.org/</a></li>\n<li><a href=\"http://www.ensemble-rd.com/en\">http://www.ensemble-rd.com/en</a></li>\n<li><a href=\"http://www.everyday-democracy.org/en/index.aspx\">http://www.everyday-democracy.org/en/index.aspx</a></li>\n<li><a href=\"http://www.stophate.us/racism/\">http://www.stophate.us/racism/</a></li>\n<li><a href=\"http://www.victimsofcrime.org/home\">http://www.victimsofcrime.org/home</a></li>\n<li><a href=\"http://en.wikipedia.org/wiki/Racism\">http://en.wikipedia.org/wiki/Racism</a></li>\n<li><a href=\"http://www.communitychangeinc.org/\">http://www.communitychangeinc.org/</a></li>\n<li><a href=\"http://en.wikipedia.org/wiki/White_privilege\">http://en.wikipedia.org/wiki/White_privilege</a></li>\n<li><a href=\"http://ted.coe.wayne.edu/ele3600/mcintosh.html\">http://ted.coe.wayne.edu/ele3600/mcintosh.html</a></li>\n<li><a href=\"http://www.whiteprivilegeconference.com/white_privilege.html\">http://www.whiteprivilegeconference.com/white_privilege.html</a></li>\n</ul><p>I&rsquo;d also highly recommend watching the Jane Elliot Brown-eye/Blue-eye experiments, which can be found here:</p>\n<ul><li><a href=\"http://www.youtube.com/watch?v=VeK759FF84s\">http://www.youtube.com/watch?v=VeK759FF84s</a></li>\n<li>\n<a href=\"http://www.youtube.com/watch?v=-pv8mCHbOrs\">http://www.youtube.com/watch?v=-pv8mCHbOrs</a>&nbsp;(Part 1)</li>\n<li>\n<a href=\"http://www.youtube.com/watch?v=neEVoFODQOE\">http://www.youtube.com/watch?v=neEVoFODQOE</a>&nbsp;(Part 2 - Has very important points on Reverse Racism and how it doesn&rsquo;t exist, and it also dismantles the &ldquo;We All Bleed Red&rdquo; mentality.)</li>\n<li><a href=\"http://www.youtube.com/watch?v=6MYHBrJIIFU\">http://www.youtube.com/watch?v=6MYHBrJIIFU</a></li>\n</ul></p>",
+            "content_raw": "<p><p><strong>Go Forth and Educate Yourselves!</strong></p>\n<ul><li><a href=\"http://thesocietypages.org/\">http://thesocietypages.org/</a></li>\n<li><a href=\"http://www.ensemble-rd.com/en\">http://www.ensemble-rd.com/en</a></li>\n<li><a href=\"http://www.everyday-democracy.org/en/index.aspx\">http://www.everyday-democracy.org/en/index.aspx</a></li>\n<li><a href=\"http://www.stophate.us/racism/\">http://www.stophate.us/racism/</a></li>\n<li><a href=\"http://www.victimsofcrime.org/home\">http://www.victimsofcrime.org/home</a></li>\n<li><a href=\"http://en.wikipedia.org/wiki/Racism\">http://en.wikipedia.org/wiki/Racism</a></li>\n<li><a href=\"http://www.communitychangeinc.org/\">http://www.communitychangeinc.org/</a></li>\n<li><a href=\"http://en.wikipedia.org/wiki/White_privilege\">http://en.wikipedia.org/wiki/White_privilege</a></li>\n<li><a href=\"http://ted.coe.wayne.edu/ele3600/mcintosh.html\">http://ted.coe.wayne.edu/ele3600/mcintosh.html</a></li>\n<li><a href=\"http://www.whiteprivilegeconference.com/white_privilege.html\">http://www.whiteprivilegeconference.com/white_privilege.html</a></li>\n</ul><p>I\u2019d also highly recommend watching the Jane Elliot Brown-eye/Blue-eye experiments, which can be found here:</p>\n<ul><li><a href=\"http://www.youtube.com/watch?v=VeK759FF84s\">http://www.youtube.com/watch?v=VeK759FF84s</a></li>\n<li>\n<a href=\"http://www.youtube.com/watch?v=-pv8mCHbOrs\">http://www.youtube.com/watch?v=-pv8mCHbOrs</a>\u00a0(Part 1)</li>\n<li>\n<a href=\"http://www.youtube.com/watch?v=neEVoFODQOE\">http://www.youtube.com/watch?v=neEVoFODQOE</a>\u00a0(Part 2 - Has very important points on Reverse Racism and how it doesn\u2019t exist, and it also dismantles the \u201cWe All Bleed Red\u201d mentality.)</li>\n<li><a href=\"http://www.youtube.com/watch?v=6MYHBrJIIFU\">http://www.youtube.com/watch?v=6MYHBrJIIFU</a></li>\n</ul></p>",
+            "is_root_item": true,
+            "post": {
+                "id": "72154890106"
+            }
+        }
+    ],
+    "type": "photo"
+}

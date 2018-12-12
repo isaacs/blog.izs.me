@@ -1,0 +1,433 @@
+<!DOCTYPE html>
+
+<meta charset=utf-8>
+<title>blog.izs.me</title>
+<link rel=stylesheet href=../backup.css>
+
+<body class=archive>
+
+<header>
+<h1>November 2010</h1>
+</header>
+
+<article class=text id=p-1675072029>
+<header>
+<p><time datetime=2010-11-25T01:22:00Z>11/24/2010 17:22:00</time>
+<a class=llink href=../posts/1675072029.html>¶</a>
+<a href=https://tmblr.co/Z7nwWy1Zrv8T>●</a></header>
+<h2>10 Cool Things You Probably Didn't Realize npm Could Do</h2>
+<p><strong>OMG UPDAET!</strong> <small>2011-06-19</small></p>
+
+<p>Some of this is no longer 100% accurate, which shouldn&rsquo;t be very surprising, since it was written 7 months ago, and npm had a major version update since then.</p>
+
+<p>Check out <a href="http://blog.nodejs.org/category/npm">the node blog</a> for some of the 1.0 changes.</p>
+
+<hr><p>npm is the node package manager.  Once upon a time, I would have said
+&ldquo;a&rdquo; node package manager, and the humbler part of me would like to
+pretend that that&rsquo;s still the case, but SCREW THAT HUMBLER SIDE, I&rsquo;m
+feeling egotistical and braggy today, so today it&rsquo;s <strong>THE</strong> node package
+manager.</p>
+
+<p>Also, I&rsquo;m writing a &ldquo;head -n 10&rdquo; blog post, so it&rsquo;s basically a license to be a complete ass.</p>
+
+<p>Yeah, it&rsquo;s that kinda day.  I think tomorrow, Imma eat a turkey.  So there.</p>
+
+<p>You probably know that npm can install stuff, publish stuff, remove
+stuff, and that it makes dependencies magically work.  You may even know that it
+runs without being burdened by unnecessary semicolons.</p>
+
+<p>If you&rsquo;re a node veteran, you may even already know about some of these
+lesser-known features.  But I&rsquo;m hoping that at least one of them is a bit
+surprising, even for old timers and core node devs.</p>
+
+<h2>1: Handle multiple versions of the same thing at the same time</h2>
+
+<p>One of the reasons I wrote npm is that package managers put you in
+dependency hell, and I simply can&rsquo;t abide that.</p>
+
+<p>npm keeps all its installed packages organized in <code>name/version</code>
+folders, and versions all the public stuff.  Then, one of them is
+&ldquo;active&rdquo; at any given time in the global space.  (That&rsquo;s what you&rsquo;ll see
+if you install multiple versions of &ldquo;foo&rdquo; and then drop into the repl and
+do <code>require("foo")</code>.)</p>
+
+<p>But here&rsquo;s where it gets cool:  Let&rsquo;s say that you installed <code>foo@1.0.0</code>
+and <code>foo@2.0.0</code>.  Now, you have <code>bar@1.0.0</code> that depends on <code>foo@1.0.0</code>,
+and <code>baz@1.0.0</code> that depends on <code>foo@2.0.0</code>, and <code>quux@1.0.0</code> that
+depends on <code>bar</code> and <code>baz</code>.</p>
+
+<p>Here&rsquo;s a diagram:</p>
+
+<pre><code>quux@1.0.0
+|
++-- bar@1.0.0
+|   |
+|   `-- foo@1.0.0 \
+|                  \
+`-- baz@1.0.0       &gt; Conflict?
+    |              /
+    `-- foo@2.0.0 /
+</code></pre>
+
+<p>In most package manager systems, quux would simply never be installable.
+It needs two packages that can&rsquo;t coexist because they have competing
+dependencies.  Or, you&rsquo;d have to name things stupidly, and bar and
+baz would have tobe aware of one another.</p>
+
+<p>npm handles that all for you.  Try it.  It works.</p>
+
+<p>It&rsquo;s <strong>MAGIC</strong>.  (Also, it&rsquo;s the commonjs module system&rsquo;s built in
+separation of scope that doesn&rsquo;t require that the path be a single
+consistent thing.)</p>
+
+<h2>2: Be gone at runtime</h2>
+
+<p>npm doesn&rsquo;t load your modules.  It installs them.  Then you can even do
+<code>npm rm npm</code> and it&rsquo;ll remove itself.  All the modules you installed?
+Yeah, they still work.</p>
+
+<p>It does this by setting up things in the proper places so that node&rsquo;s
+very simple module loader can find them when it needs them.</p>
+
+<p>Most package managers are sort of hybrid loader/installer things.  npm
+is first and foremost a dependency manager.  It puts things in place,
+and then ducks out of the way so that it&rsquo;s not all in your face telling
+you how to write your programs.</p>
+
+<h2>3: Structure your program any way you want</h2>
+
+<p>&hellip;provided, of course, you describe that structure in a package.json
+file.</p>
+
+<p>That is, you can put all your node modules in a folder called &ldquo;src&rdquo; or
+&ldquo;lib&rdquo; or &ldquo;path/to/my/awesome/modules&rdquo;.  npm doesn&rsquo;t care.  In fact, it
+doesn&rsquo;t even need to be a node program.  If you can describe the package
+in a package.json file, you can install <em>literally anything</em>.  I&rsquo;m
+waiting for people to figure this out, and see something awful and
+hideous like <code>npm install vim</code>.</p>
+
+<p>A lot of people have objected to this feature.  They called me crazy and
+said that we need to form a committee and decide on a set of
+conventions.  Some even went so far as to pound fists on tables, and
+declare that madness will surely result from my freewheeling insanity!</p>
+
+<p>To them, I say, HA!  JavaScript is at its heart an anarchic language,
+forged in the great battles of Browsers, lit by the flicker of a
+thousand animated gifs depicting construction workers.  It bears many
+scars from those dark days, but it also resulted in a strong and vibrant
+community, all of whom have strong opinions and found their way here
+because they could not agree on much of anything.</p>
+
+<p>npm welcomes your strife.  Like JavaScript itself, it doesn&rsquo;t judge you.</p>
+
+<p>Read through <code>npm help json</code> to learn what you can put in your
+package.json file.</p>
+
+<h2>4: Start a package.json file for you</h2>
+
+<p>If you run <code>npm init</code> in a folder, it&rsquo;ll ask you a few questions, and
+then write out a package.json file.</p>
+
+<p>The init command is pretty new, and doesn&rsquo;t do much.  But sometimes all
+you need is a little nudge to get started.</p>
+
+<h2>5: Verify sha1 hashes of packages</h2>
+
+<p>As of version 0.2.9, sha hashes get generated for all packages as they
+get published, and then are verified after being downloaded.</p>
+
+<p>Checksumming is one of those things where everyone feels a little safer
+knowing it&rsquo;s there, but no one usually pays much attention to it.  When
+it works, it&rsquo;s silent, and that&rsquo;s great.</p>
+
+<p>The good news is that, now, if there&rsquo;s some kind of error downloading
+something, or if something gets corrupted in transit in any other way,
+then npm will stubbornly refuse to proceed.</p>
+
+<p>(You have to compile node with openssl crypto support for this to work.)</p>
+
+<h2>6: Shut The Hell Up</h2>
+
+<p>Sometimes you just need to show your packager who&rsquo;s boss.  &ldquo;Shutting up&rdquo; is a feature.  By
+setting the <code>loglevel</code> config, you can make npm anywhere from completely
+silent to ludicrously noisy.  The levels are: silent, win, error, warn,
+info, verbose, and silly.</p>
+
+<ul><li>silent: completely silent.  Zero logging output.</li>
+<li>win: Just the &ldquo;npm ok&rdquo; or &ldquo;npm not ok&rdquo; message at the end.</li>
+<li>error: When something unexpected and bad happens.</li>
+<li>warn: When something odd or potentially dangerous is happening.</li>
+<li>info: Helpful information so you can track what&rsquo;s happening.</li>
+<li>verbose: Even more.  Perhaps just a wee bit obnoxious, even.</li>
+<li>silly: Completely fuckin crazy, man.  Dump everything.  Whole objects,
+you name it, whatever.</li>
+</ul><p>Like any configuration option, you can set the loglevel in a few ways.
+To set it for just one command just add <code>--loglevel silent</code> to the
+command.  This is particularly handy if something breaks, and you want
+to provide a bit more debugging output with <code>--loglevel verbose</code>.</p>
+
+<p>To set it for your user account, you can do <code>npm config set loglevel
+win</code>.</p>
+
+<p>To set it globally for all users on the machine, you can do <code>npm config
+set loglevel info --global</code>.</p>
+
+<p>You can also set it in the environment if that floats your boat.  Any
+config option can be set by the <code>npm_config_&lt;blerg&gt;</code> environ, so doing
+<code>export npm_config_loglevel=verbose</code> will affect all subsequent npm
+commands.</p>
+
+<p>Oh, and if those <code>npm config set</code> and <code>npm config get</code> commands get
+tedious, you can just do <code>npm c edit</code> to open up the config in your
+favorite editor.</p>
+
+<p>See <code>npm help config</code> for more info.</p>
+
+<h2>7: Abbreviate commands</h2>
+
+<p>If you&rsquo;re anything like me, then you drink a lot of coffee, hate extra typing,
+and are awesome.  But mostly the typing.  Let&rsquo;s focus on that.</p>
+
+<p>Is &ldquo;install&rdquo; just too long for you?  Try <code>npm inst connect</code>.  Bam.  Done.</p>
+
+<p>Anything that is unambiguous will work just as well.  I don&rsquo;t have this
+logic implemented for arguments and package names, but that&rsquo;s on the
+roadmap.  It uses the <code>abbrev</code> program, and you can use it in your
+programs, too.  <code>npm i abbrev</code> to get it.</p>
+
+<p>The most common commands even have super short shorthands, because I
+love you.</p>
+
+<ul><li>i: install</li>
+<li>r, rm: uninstall</li>
+<li>ln: link</li>
+<li>ls: list</li>
+<li>bn: bundle</li>
+<li>up: update</li>
+<li>c: config</li>
+</ul><p>If you think it stops there, you&rsquo;re wrong.  So wrong.  Go sit in the
+corner.</p>
+
+<p>In the npm source folder, there&rsquo;s a file called <code>npm-completion.sh</code>.
+Source that bad boy in your bashrc or whatever, and you&rsquo;ve got tab
+completion.</p>
+
+<p><em>Tab completion!</em>  The <abbr title="Yeah, I know what penultimate means,
+hold on a second">penultimate</abbr> feature of any unix program, <abbr title="see?">second only to</abbr> tab completion that works and is
+helpful!</p>
+
+<p>This is where you come in.  Check out what it&rsquo;s doing.  Dig into the
+code.  Make it better.  Right now it can just tab-complete npm commands,
+not package names or other useful things.  But if you hack away on the
+<code>lib/completion.js</code> file, you can make it awesomer.</p>
+
+<h2>8: Get help on <em>anything</em></h2>
+
+<p>npm has a ton of documentation.  In fact, the biggest documentation
+problem at the moment in npm is that there&rsquo;s too much of it, and it&rsquo;s
+probably impossible for any non-robot to read all if it in a reasonable
+amount of time.</p>
+
+<p>In case you&rsquo;re not a robot, here&rsquo;s how you can get the most out of the
+docs:</p>
+
+<ol><li>run <code>npm</code> without any arguments.  This&rsquo;ll show you what you can do.
+It lists out the commands and the help topics.</li>
+<li>run <code>npm command -h</code> to quickly view the arguments that command
+expects.  This is handy when you forget how to do something that you
+knew how to do, and you just need to remember how you did it.</li>
+<li>run <code>npm help &lt;topic&gt;</code> to get more detailed manpage-style
+documentation.  For general info about npm itself, you can run <code>npm
+help npm</code>.  This page has a few pointers based on your use cases.
+Check it out.</li>
+</ol><h2>9: View specific fields on published packages</h2>
+
+<p>The <code>npm view</code> command was pretty lame for a while.  Basically it just
+fetched data from the registry and then dumped it to the terminal.  But
+now, it&rsquo;s so much more.</p>
+
+<p>Specify a package name (in the form of <code>name@version</code> or <code>name@latest</code>
+or <code>name</code> or even <code>name@"&gt;=1.2.3"</code> for ranges), and optionally one or
+more fields, and it&rsquo;ll pull just those fields out and show them to you.</p>
+
+<p>It operates smartly on arrays, and parses out the <code>url</code> and <code>email</code>
+fields from contributors and author names.  So, if you do this:</p>
+
+<pre><code>npm view npm contributors.name
+</code></pre>
+
+<p>then you&rsquo;ll get a list of all the contributor names in npm.  If you just
+do:</p>
+
+<pre><code>npm view npm contributors
+</code></pre>
+
+<p>then you&rsquo;ll see the list of contributors in the <code>"name (url) &lt;email&gt;"</code>
+format.</p>
+
+<h2>10: Bump your package version FOR YOU OMG HOLY CRAP WHAT!?</h2>
+
+<p>Yeah.  That&rsquo;s right.</p>
+
+<p>It&rsquo;ll even commit the change, and tag it for you, if you do it in a git
+repo.  Just run:</p>
+
+<pre><code>npm version 1.2.3
+</code></pre>
+
+<p>It&rsquo;ll open up your package.json file, change the version to 1.2.3, <code>git
+add</code> it, <code>git commit</code> it, and <code>git tag v1.2.3</code> it.</p>
+
+<p>If your git repository is unclean, then it&rsquo;ll recoil in horror at the
+dirty, and tell you to get your act together.  (Of course, if you&rsquo;re not
+using git, then it won&rsquo;t do the git stuff.  It&rsquo;ll just change the json
+and write it back to package.json.)</p>
+
+<h2>11: Bundle all your dependencies into the package itself</h2>
+
+<p>When you use the <code>npm bundle</code> command, npm will put all your
+dependencies into the <code>node_modules</code> folder in your package.  But it
+doesn&rsquo;t stop there.</p>
+
+<p>If you want to depend on something that&rsquo;s not on the registry, you can
+do that.  Just do this:</p>
+
+<pre><code>npm bundle install <a href="http://github.com/whoever/whatever/tarball/master">http://github.com/whoever/whatever/tarball/master</a>
+</code></pre>
+
+<p>This will install the contents of that tarball into the bundle, and then
+you can list it as a dependency, and it won&rsquo;t try to install it when
+your package gets installed.</p>
+
+<p>This also is handy if you have your own fork of something, and would
+prefer not to change the name.</p>
+
+<p>In fact, you can run almost any npm command at the bundle.  To see
+what&rsquo;s inside, you can do <code>npm bundle ls</code>.  To remove something, do <code>npm
+bundle rm thing</code>.  And, of course, you can install multiple versions and
+activate the one you want.</p>
+
+<h2>12: Change the very laws of mathematics itself!!</h2>
+
+<p>There are 13 things in this list of 10 things.</p>
+
+<p>npm IS JUST THAT AWESOME.</p>
+
+<h2>13: Always be lowercase</h2>
+
+<p>If you see npm referred to as &ldquo;NPM&rdquo; anywhere except right there in this
+sentence, then you know that I didn&rsquo;t write it.  &ldquo;NPM&rdquo; is the <a href="http://npm.org">National Association of Pastoral Musicians</a>.
+If you need some church music, use NPM.  If you want node packages
+installed, then you need <a href="http://npmjs.org/">npm</a>.</p>
+
+<h2>Other things that didn&rsquo;t make this list because they were too common or not awesome enough</h2>
+
+<ol><li>Cache registry requests using etags.</li>
+<li>Run arbitrary scripts to start, stop, restart, and test packages.</li>
+<li>Set deprecation messages to keep people from using old versions of
+your stuff.</li>
+<li>compile node addons automatically if it sees a wscript file.</li>
+<li>rebuild packages in a single command so that you can easily keep up
+with node ABI changes.  <code>npm rebuild</code></li>
+<li>Manage owners of a project with the <code>npm owner</code> command.</li>
+<li>Edit package contents.  See <code>npm edit</code>.  (When used as <code>npm bundle
+edit</code> it&rsquo;s especially handy.)</li>
+<li>Be used as a library in node programs.  (Check the readme for a quick how-to, or <code>cli.js</code> for an example of using npm programmatically.)</li>
+</ol><p>Happy Thanksgiving, Americans.  And non-Americans, Happy Random Thursday When All Your American Friends Are Not Online Much!</p>
+<footer>106 notes</footer>
+</article>
+<article class=text id=p-1667723013>
+<header>
+<p><time datetime=2010-11-24T08:16:19Z>11/24/2010 00:16:19</time>
+<a class=llink href=../posts/1667723013.html>¶</a>
+<a href=https://tmblr.co/Z7nwWy1ZPsy5>●</a></header>
+<h2>LinkedIn</h2>
+<p>In the time that I&rsquo;ve been a LinkedIn user, 100% of the messages that
+I&rsquo;ve got from the service have been one of the following types:</p>
+
+<ol><li>[person you met once] did [some random pointless thing] on LinkedIn</li>
+<li>Recruiter Spam</li>
+</ol><p>I had 265 connections, all of whom were people I&rsquo;d actually met and
+interacted with in some professional capacity.  But I never once
+interacted with any of them in any meaningful way on LinkedIn.</p>
+
+<p>Today, I realized that the worst Manager, the worst Ops engineer, and
+the worst programmer that I&rsquo;d ever worked with (three separate people)
+all have several glowing recommendations on their profile.</p>
+
+<p>In order for evil to triumph, all that must happen is for good men to do
+nothing.</p>
+
+<p>If you&rsquo;re going to hire me, it&rsquo;s going to be because you already know my work.  If I&rsquo;m going to hire you, it&rsquo;s going to be for the same reason.</p>
+
+<p>I&rsquo;ll see you on the internets.</p>
+<footer>15 notes</footer>
+</article>
+<article class=text id=p-1591805056>
+<header>
+<p><time datetime=2010-11-16T15:58:00Z>11/16/2010 07:58:00</time>
+<a class=llink href=../posts/1591805056.html>¶</a>
+<a href=https://tmblr.co/Z7nwWy1UuGI0>●</a></header>
+<h2>TSA Success Story</h2>
+<p>By now, if you haven&rsquo;t heard the outrage at the TSA&rsquo;s &ldquo;enhanced&rdquo; pat-down procedures, then you don&rsquo;t use the internet, and you&rsquo;re not reading this blog.</p>
+
+<p>They <a href="http://www.google.com/search?q=tsa+groping+children">grope children</a>.  They <a href="http://johnnyedge.blogspot.com/2010/11/these-events-took-place-roughly-between.html">touch your junk</a>.  The procedures are <a href="http://www.thestar.com/iphone/news/world/article/744199---israelification-high-security-little-bother">ludicrously ineffective and harmful from a security point of view</a>.  And the naked-picture xray machines <a href="http://www.scribd.com/doc/35498347/UCSF-letter-to-Holdren-concerning-health-risks-of-full-body-scanner-TSA-screenings-4-6-2010">are most likely unsafe</a>.</p>
+
+<p>Things like this get me feeling all rebellious and Jeffersonian.  So, since I&rsquo;m flying up to <a href="http://joyent.com">Joyent&rsquo;s</a> Vancouver offices today, I decided to do a little prep work.</p>
+
+<p>First, I took the UCSF letter, added a bit of highlighting and annotation to make it a bit easier to scan, and printed it out.  You can get a copy from <a href="http://j.mp/cancer-ray.">http://j.mp/cancer-ray.</a></p>
+
+<p>I was worried that I&rsquo;d chicken out.  No, not &ldquo;worried&rdquo;.  I was <em>sure</em> I&rsquo;d chicken out. Of <em>course</em> I would.  I talk a good game about incendiary politics and unconventional ideals, but when the chips are down, I generally do the expedient thing like a nice polite citizen.  I&rsquo;m not one of these &ldquo;talk down the authorities&rdquo; types, even though I wish I was.</p>
+
+<p>But then my flight was cancelled, and I learned that I&rsquo;d have to be in the airport until 12 to catch the next one.  The extra time to kill strengthened my resolve.  &ldquo;So what if I&rsquo;m detained?,&rdquo; I thought. &ldquo;I don&rsquo;t have to be anywhere for 5 more hours.&rdquo;  Plus I was alone, so there wasn&rsquo;t anyone else&rsquo;s embarrassment to worry about.  I repeated the confidence mantras in my head.  They&rsquo;re expendable workers.  I own this place.  I&rsquo;m the boss.  They work for me.  The only reason I don&rsquo;t fire them is that they&rsquo;re cheaper than robots.  Etc.</p>
+
+<p>I started talking to the family behind me as soon as I got into the security line, a middle-aged couple with 2 adolescent boys and a girl about 4 or 5.  They were amused by <a href="http://www.vibrams.co.uk/">my shoes</a>, so it wasn&rsquo;t too hard to strike up a conversation.</p>
+
+<p>I asked where they were from.  Santa Clara.  Heading to Toronto for some family thing.  I asked if they&rsquo;d heard about the new X-Ray machines.  The dad was tired and apathetic. She said, &ldquo;Oh, yeah, I heard about those on the news, that if you don&rsquo;t go through, they grope you or something, and if you do, they take a naked picture of you.&rdquo;</p>
+
+<p>&ldquo;Yeah, it&rsquo;s messed up.  Did you know that the UCSF oncology department thinks they pose a serious health risk, especially to children or anyone at risk for breast cancer?&rdquo;</p>
+
+<p>&ldquo;Whoa, no, I didn&rsquo;t know that!&rdquo;</p>
+
+<p>I handed the paper to the mom.  Bam.</p>
+
+<p>&ldquo;Oh, honey, you should read this!! &hellip; Oh my god&hellip;&rdquo;</p>
+
+<p>Turns out she&rsquo;s a breast cancer survivor.  And her doctor has told her to avoid x-rays, even at the dentist, unless absolutely medically necessary.  And she didn&rsquo;t realize that &ldquo;millimeter wave digital backscatter detection&rdquo; used x-rays, because the TSA doesn&rsquo;t actually put that on the sign.</p>
+
+<p>She did the rest.</p>
+
+<p>When we got to the scanner, I opted out.  Then they opted out.  She&rsquo;d already convinced the family behind them to do the same.  Her response to the TSA agent was awesome, I wish I&rsquo;d thought of it:</p>
+
+<p>&ldquo;Ma'am, please step over here.&rdquo;</p>
+
+<p>&ldquo;No thanks, I&rsquo;ve already had cancer, just feel me up or whatever.&rdquo;</p>
+
+<p>After the first 4 &ldquo;OPT-OUT&rdquo; calls, they just passed us all through the regular metal detector.  No one got groped.</p>
+
+<p>Information, properly delivered, is power.</p>
+
+<hr><p><em>Addendum</em> The revolt was emotionally satisfying, and I totally recommend doing it, but ultimately it&rsquo;s only a drop in the ocean.  From where I&rsquo;m sitting, I can see the security line, people holding their hands up in the little booth.</p>
+
+<p>So, do make trouble.  On-the-ground rebellion is important.  But also tell your legislator. There&rsquo;s a senate oversight meeting tomorrow, so please <a href="http://hillwho.com/index.php?option=com_sobi2&amp;sobi2Task=sobi2Details&amp;catid=10&amp;sobi2Id=5651">call these people and tell them how you feel</a>.</p>
+
+<p>You&rsquo;ll leave a voicemail.  It&rsquo;s easy and takes 2 seconds.  Just call up and say &ldquo;I think that the TSA has gone too far. Body scanning and inappropriate groping are unconstitutional and wrong. If you want my vote, change the policy.&rdquo;</p>
+
+<hr><p><em>Addendum 2</em> <a href="http://en.wikipedia.org/wiki/Millimeter_wave_scanner">Millimeter wave scanners</a> and <a href="http://en.wikipedia.org/wiki/Backscatter_X-ray">Backscatter X-Rays</a> are not the same thing.  But it wasn&rsquo;t clear which one was in use, and the TSA sign used the terms interchangeably in the fine print where it told you about the opt-out option.</p>
+
+<p>Also, yes, it&rsquo;s true, the cancer risks are not well understood, and I absolutely committed the alarmist fallacy.  (&ldquo;But can you really take that risk!&rdquo;)  Unfortunately, people aren&rsquo;t as afraid of a police state as they are of cancer.  I maintain that I used my powers for Good.</p>
+<footer>903 notes</footer>
+</article>
+<article class=quote id=p-1578029400>
+<header>
+<p><time datetime=2010-11-15T03:13:31Z>11/14/2010 19:13:31</time>
+<a class=llink href=../posts/1578029400.html>¶</a>
+<a href=https://tmblr.co/Z7nwWy1U3j5O>●</a></header>
+<blockquote><p>Israelis, unlike Canadians and Americans, don’t take s—- from anybody. When the security agency in Israel (the ISA) started to tighten security and we had to wait in line for — not for hours — but 30 or 40 minutes, all hell broke loose here. We said, ‘We’re not going to do this. You’re going to find a way that will take care of security without touching the efficiency of the airport.</p></blockquote>
+<p><a href="http://www.thestar.com/news/world/article/744199---israelification-high-security-little-bother">The ‘Israelification’ of airports: High security, little bother</a> (via <a href="http://isnot.tv/" class="tumblr_blog">isnottv</a>)</p>
+<footer>5 notes — <a title=Source href=https://t.umblr.com/redirect?z=http%3A%2F%2Fwww.thestar.com%2Fnews%2Fworld%2Farticle%2F744199---israelification-high-security-little-bother&t=MmY1ZDk1YjNlMzBmMGEwOGIxMDk1OWU2ODMxOGFiZDZlM2MyNDliZSwxNTc4MDI5NDAw&b=t%3AqZa3tMNNGjX7PQ45aXJ-jw&p=http%3A%2F%2Fblog.izs.me%2Fpost%2F1578029400%2Fisraelis-unlike-canadians-and-americans-dont&m=1>thestar.com</a></footer>
+</article>
+<footer><nav><a href=../index.html rel=index>Index</a>
+| <a href=2010-12-p1.html rel=prev>Previous</a>
+| <a href=2010-10-p1.html rel=next>Next</a>
+</nav></footer>

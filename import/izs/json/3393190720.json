@@ -1,0 +1,151 @@
+{
+    "blog": {
+        "description": "Writing and Stuff from Isaac Z. Schlueter",
+        "name": "izs",
+        "title": "blog.izs.me",
+        "updated": 1544578035,
+        "url": "http://blog.izs.me/",
+        "uuid": "t:qZa3tMNNGjX7PQ45aXJ-jw"
+    },
+    "blog_name": "izs",
+    "body": "programmer 1: Hey, it turns out you don't need semicolons in JavaScript, and my previous reasons for putting them there are not actually true.  Neat.\r\nprogrammer 2: Yeah, but it'll break.\r\np1: But... that's just it, it *doesn't* break.  It's actually ok for me to do this.\r\np2: No it isn't.\r\np1: Why not?\r\np2: Browser bugs.\r\np1: Which browsers?\r\np2: All of them.\r\np1: Well, it works fine on all the engines I've tested---\r\np2: IE.\r\np1: Works fine there, too.  Even in IE 5.\r\np2: Compression.  Compressors can't handle it. Need the semicolons.  All of them.\r\np1: All the compressors in use today handle it fine.  In fact, the code compresses a little *better* in most of them.\r\np2: Well, whatever, that's not how it's done.\r\np1: Ok, well, there are other reasons to do things besides a convention.  I mean, you're wearing an unconventional hat, and that's cool.\r\np2: So, now you have a problem with my coding style AND my hat?? FUCK YOU.\r\np1: You can code however you want, and I love your hat, I was ju---\r\np2: No.  NO.  Fuck you.  Seriously.  You crossed a line, dude.  Too far.\r\np1: [puzzled] I don't get why this an issue, I mean, if you see the spec, it says---\r\np2: You just can't let this go, can you?  Why don't you lighten up?\r\np1: Let what go, exactly?  And I don't really think that I'm the one who needs to lighten anything.\r\np2: Oh, so now you come in with the personal attacks.  I get it.  We're all not smart enough to understand your precious spec, so you have to attack people?  HAVE YOU NO DECENCY, SIR?  AT LONG LAST, HAVE YOU NO DECENCY?\r\np1: I think maybe hacker news isn't for me...",
+    "can_like": false,
+    "can_reblog": false,
+    "can_reply": false,
+    "can_send_in_message": true,
+    "date": "2011-02-20 01:54:00 GMT",
+    "dialogue": [
+        {
+            "label": "programmer 1:",
+            "name": "programmer 1",
+            "phrase": "Hey, it turns out you don't need semicolons in JavaScript, and my previous reasons for putting them there are not actually true.  Neat."
+        },
+        {
+            "label": "programmer 2:",
+            "name": "programmer 2",
+            "phrase": "Yeah, but it'll break."
+        },
+        {
+            "label": "p1:",
+            "name": "p1",
+            "phrase": "But... that's just it, it *doesn't* break.  It's actually ok for me to do this."
+        },
+        {
+            "label": "p2:",
+            "name": "p2",
+            "phrase": "No it isn't."
+        },
+        {
+            "label": "p1:",
+            "name": "p1",
+            "phrase": "Why not?"
+        },
+        {
+            "label": "p2:",
+            "name": "p2",
+            "phrase": "Browser bugs."
+        },
+        {
+            "label": "p1:",
+            "name": "p1",
+            "phrase": "Which browsers?"
+        },
+        {
+            "label": "p2:",
+            "name": "p2",
+            "phrase": "All of them."
+        },
+        {
+            "label": "p1:",
+            "name": "p1",
+            "phrase": "Well, it works fine on all the engines I've tested---"
+        },
+        {
+            "label": "p2:",
+            "name": "p2",
+            "phrase": "IE."
+        },
+        {
+            "label": "p1:",
+            "name": "p1",
+            "phrase": "Works fine there, too.  Even in IE 5."
+        },
+        {
+            "label": "p2:",
+            "name": "p2",
+            "phrase": "Compression.  Compressors can't handle it. Need the semicolons.  All of them."
+        },
+        {
+            "label": "p1:",
+            "name": "p1",
+            "phrase": "All the compressors in use today handle it fine.  In fact, the code compresses a little *better* in most of them."
+        },
+        {
+            "label": "p2:",
+            "name": "p2",
+            "phrase": "Well, whatever, that's not how it's done."
+        },
+        {
+            "label": "p1:",
+            "name": "p1",
+            "phrase": "Ok, well, there are other reasons to do things besides a convention.  I mean, you're wearing an unconventional hat, and that's cool."
+        },
+        {
+            "label": "p2:",
+            "name": "p2",
+            "phrase": "So, now you have a problem with my coding style AND my hat?? FUCK YOU."
+        },
+        {
+            "label": "p1:",
+            "name": "p1",
+            "phrase": "You can code however you want, and I love your hat, I was ju---"
+        },
+        {
+            "label": "p2:",
+            "name": "p2",
+            "phrase": "No.  NO.  Fuck you.  Seriously.  You crossed a line, dude.  Too far."
+        },
+        {
+            "label": "p1:",
+            "name": "p1",
+            "phrase": "[puzzled] I don't get why this an issue, I mean, if you see the spec, it says---"
+        },
+        {
+            "label": "p2:",
+            "name": "p2",
+            "phrase": "You just can't let this go, can you?  Why don't you lighten up?"
+        },
+        {
+            "label": "p1:",
+            "name": "p1",
+            "phrase": "Let what go, exactly?  And I don't really think that I'm the one who needs to lighten anything."
+        },
+        {
+            "label": "p2:",
+            "name": "p2",
+            "phrase": "Oh, so now you come in with the personal attacks.  I get it.  We're all not smart enough to understand your precious spec, so you have to attack people?  HAVE YOU NO DECENCY, SIR?  AT LONG LAST, HAVE YOU NO DECENCY?"
+        },
+        {
+            "label": "p1:",
+            "name": "p1",
+            "phrase": "I think maybe hacker news isn't for me..."
+        }
+    ],
+    "display_avatar": true,
+    "format": "markdown",
+    "id": 3393190720,
+    "is_blocks_post_format": false,
+    "note_count": 22,
+    "post_url": "http://blog.izs.me/post/3393190720/how-this-works",
+    "reblog_key": "Q2vAzCPq",
+    "recommended_color": null,
+    "recommended_source": null,
+    "short_url": "https://tmblr.co/Z7nwWy3AF-j0",
+    "slug": "how-this-works",
+    "state": "published",
+    "summary": "How this works...",
+    "tags": [],
+    "timestamp": 1298166840,
+    "title": "How this works...",
+    "type": "chat"
+}

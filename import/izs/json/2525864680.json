@@ -1,0 +1,78 @@
+{
+    "blog": {
+        "description": "Writing and Stuff from Isaac Z. Schlueter",
+        "name": "izs",
+        "title": "blog.izs.me",
+        "updated": 1544578035,
+        "url": "http://blog.izs.me/",
+        "uuid": "t:qZa3tMNNGjX7PQ45aXJ-jw"
+    },
+    "blog_name": "izs",
+    "body": "<p>Anyone know of a license that says this?  If not, are there any lawyers out\nthere who wanna do lawyer stuff to this?</p>\n\n<ol><li>You can use this thing for whatever purpose you want, commercial,\nnon-commercial, whatever, under the following terms:</li>\n<li>You can distribute or sublicense this thing as much as you want,\nprovided the copyright and license remains attached to any reasonable\nportion of the thing.</li>\n<li>You cannot sell this thing for a profit without any meaningful\nchanges.  You can, however, sell a thing that is built using this\nthing, or a thing that uses this thing as a component and adds\nnontrivial functionality to it, or a thing\nthat links to this thing as a separate library, or pretty much anything other than\n&ldquo;this exact thing and nothing else&rdquo;.</li>\n<li>If you distribute this thing, whether for profit or not, and you&rsquo;ve made some meaningful changes, <strong>any\nsuch changes must be clearly spelled out to the end user,\nand the bug reporting contact information must be changed or removed.</strong></li>\n</ol><p>I&rsquo;m ok with you using the stuff I build.  In fact, that&rsquo;s actually why I\nbuild stuff, so people will use it.  And money is great, so using it\nto make a profit?  That&rsquo;s so totally awesome.</p>\n\n<p>I&rsquo;m also ok with you sharing the stuff I build.  I want people to use\nit, and if you help that happen, then that&rsquo;s also great.</p>\n\n<p>I&rsquo;m super ok with you tinkering with the stuff I build.  Seriously.  Go\nnuts on it.  Do stuff.  Rock on.  I&rsquo;d love to see what you do to it, but\nif it&rsquo;s your secret project, I totally get that, too.</p>\n\n<p>I just wish that, if you&rsquo;re going to change it, and then hand it out to\nothers, you didn&rsquo;t give me credit for the changes I didn&rsquo;t make.</p>",
+    "can_like": false,
+    "can_reblog": false,
+    "can_reply": false,
+    "can_send_in_message": true,
+    "date": "2010-12-30 10:31:00 GMT",
+    "display_avatar": true,
+    "format": "markdown",
+    "id": 2525864680,
+    "is_blocks_post_format": false,
+    "note_count": 2,
+    "post_url": "http://blog.izs.me/post/2525864680/wanted-no-false-attribs-oss-license",
+    "reblog": {
+        "comment": "<p>Anyone know of a license that says this?  If not, are there any lawyers out\nthere who wanna do lawyer stuff to this?</p>\n\n<ol><li>You can use this thing for whatever purpose you want, commercial,\nnon-commercial, whatever, under the following terms:</li>\n<li>You can distribute or sublicense this thing as much as you want,\nprovided the copyright and license remains attached to any reasonable\nportion of the thing.</li>\n<li>You cannot sell this thing for a profit without any meaningful\nchanges.  You can, however, sell a thing that is built using this\nthing, or a thing that uses this thing as a component and adds\nnontrivial functionality to it, or a thing\nthat links to this thing as a separate library, or pretty much anything other than\n\u201cthis exact thing and nothing else\u201d.</li>\n<li>If you distribute this thing, whether for profit or not, and you\u2019ve made some meaningful changes, <strong>any\nsuch changes must be clearly spelled out to the end user,\nand the bug reporting contact information must be changed or removed.</strong></li>\n</ol><p>I\u2019m ok with you using the stuff I build.  In fact, that\u2019s actually why I\nbuild stuff, so people will use it.  And money is great, so using it\nto make a profit?  That\u2019s so totally awesome.</p>\n\n<p>I\u2019m also ok with you sharing the stuff I build.  I want people to use\nit, and if you help that happen, then that\u2019s also great.</p>\n\n<p>I\u2019m super ok with you tinkering with the stuff I build.  Seriously.  Go\nnuts on it.  Do stuff.  Rock on.  I\u2019d love to see what you do to it, but\nif it\u2019s your secret project, I totally get that, too.</p>\n\n<p>I just wish that, if you\u2019re going to change it, and then hand it out to\nothers, you didn\u2019t give me credit for the changes I didn\u2019t make.</p>",
+        "tree_html": ""
+    },
+    "reblog_key": "Yo1dr8l9",
+    "recommended_color": null,
+    "recommended_source": null,
+    "short_url": "https://tmblr.co/Z7nwWy2MZQBe",
+    "slug": "wanted-no-false-attribs-oss-license",
+    "state": "published",
+    "summary": "Wanted: \"no-false-attribs\" OSS License",
+    "tags": [],
+    "timestamp": 1293705060,
+    "title": "Wanted: \"no-false-attribs\" OSS License",
+    "trail": [
+        {
+            "blog": {
+                "active": true,
+                "can_be_followed": true,
+                "name": "izs",
+                "share_following": false,
+                "share_likes": false,
+                "theme": {
+                    "avatar_shape": "square",
+                    "background_color": "#444444",
+                    "body_font": "Helvetica Neue",
+                    "header_bounds": "978,2448,2355,0",
+                    "header_focus_height": 1152,
+                    "header_focus_width": 2048,
+                    "header_full_height": 3264,
+                    "header_full_width": 2448,
+                    "header_image": "https://static.tumblr.com/d248e27715343669f06a3852fd2cda53/utow0jf/nwUnbvgl6/tumblr_static_d2yiqqjdv1w8gsw0s0g4goc0o.jpg",
+                    "header_image_focused": "https://static.tumblr.com/d248e27715343669f06a3852fd2cda53/utow0jf/mA1nbvglg/tumblr_static_tumblr_static_d2yiqqjdv1w8gsw0s0g4goc0o_focused_v3.jpg",
+                    "header_image_scaled": "https://static.tumblr.com/d248e27715343669f06a3852fd2cda53/utow0jf/nwUnbvgl6/tumblr_static_d2yiqqjdv1w8gsw0s0g4goc0o_2048_v2.jpg",
+                    "header_stretch": true,
+                    "link_color": "#FB4C16",
+                    "show_avatar": true,
+                    "show_description": true,
+                    "show_header_image": true,
+                    "show_title": true,
+                    "title_color": "#fb4c16",
+                    "title_font": "Gibson",
+                    "title_font_weight": "regular"
+                }
+            },
+            "content": "<p>Anyone know of a license that says this?  If not, are there any lawyers out\nthere who wanna do lawyer stuff to this?</p>\n\n<ol><li>You can use this thing for whatever purpose you want, commercial,\nnon-commercial, whatever, under the following terms:</li>\n<li>You can distribute or sublicense this thing as much as you want,\nprovided the copyright and license remains attached to any reasonable\nportion of the thing.</li>\n<li>You cannot sell this thing for a profit without any meaningful\nchanges.  You can, however, sell a thing that is built using this\nthing, or a thing that uses this thing as a component and adds\nnontrivial functionality to it, or a thing\nthat links to this thing as a separate library, or pretty much anything other than\n&ldquo;this exact thing and nothing else&rdquo;.</li>\n<li>If you distribute this thing, whether for profit or not, and you&rsquo;ve made some meaningful changes, <strong>any\nsuch changes must be clearly spelled out to the end user,\nand the bug reporting contact information must be changed or removed.</strong></li>\n</ol><p>I&rsquo;m ok with you using the stuff I build.  In fact, that&rsquo;s actually why I\nbuild stuff, so people will use it.  And money is great, so using it\nto make a profit?  That&rsquo;s so totally awesome.</p>\n\n<p>I&rsquo;m also ok with you sharing the stuff I build.  I want people to use\nit, and if you help that happen, then that&rsquo;s also great.</p>\n\n<p>I&rsquo;m super ok with you tinkering with the stuff I build.  Seriously.  Go\nnuts on it.  Do stuff.  Rock on.  I&rsquo;d love to see what you do to it, but\nif it&rsquo;s your secret project, I totally get that, too.</p>\n\n<p>I just wish that, if you&rsquo;re going to change it, and then hand it out to\nothers, you didn&rsquo;t give me credit for the changes I didn&rsquo;t make.</p>",
+            "content_raw": "<p>Anyone know of a license that says this?  If not, are there any lawyers out\nthere who wanna do lawyer stuff to this?</p>\n\n<ol><li>You can use this thing for whatever purpose you want, commercial,\nnon-commercial, whatever, under the following terms:</li>\n<li>You can distribute or sublicense this thing as much as you want,\nprovided the copyright and license remains attached to any reasonable\nportion of the thing.</li>\n<li>You cannot sell this thing for a profit without any meaningful\nchanges.  You can, however, sell a thing that is built using this\nthing, or a thing that uses this thing as a component and adds\nnontrivial functionality to it, or a thing\nthat links to this thing as a separate library, or pretty much anything other than\n\u201cthis exact thing and nothing else\u201d.</li>\n<li>If you distribute this thing, whether for profit or not, and you\u2019ve made some meaningful changes, <strong>any\nsuch changes must be clearly spelled out to the end user,\nand the bug reporting contact information must be changed or removed.</strong></li>\n</ol><p>I\u2019m ok with you using the stuff I build.  In fact, that\u2019s actually why I\nbuild stuff, so people will use it.  And money is great, so using it\nto make a profit?  That\u2019s so totally awesome.</p>\n\n<p>I\u2019m also ok with you sharing the stuff I build.  I want people to use\nit, and if you help that happen, then that\u2019s also great.</p>\n\n<p>I\u2019m super ok with you tinkering with the stuff I build.  Seriously.  Go\nnuts on it.  Do stuff.  Rock on.  I\u2019d love to see what you do to it, but\nif it\u2019s your secret project, I totally get that, too.</p>\n\n<p>I just wish that, if you\u2019re going to change it, and then hand it out to\nothers, you didn\u2019t give me credit for the changes I didn\u2019t make.</p>",
+            "is_current_item": true,
+            "is_root_item": true,
+            "post": {
+                "id": "2525864680"
+            }
+        }
+    ],
+    "type": "text"
+}

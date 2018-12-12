@@ -1,0 +1,96 @@
+{
+    "blog": {
+        "description": "Writing and Stuff from Isaac Z. Schlueter",
+        "name": "izs",
+        "title": "blog.izs.me",
+        "updated": 1544578035,
+        "url": "http://blog.izs.me/",
+        "uuid": "t:qZa3tMNNGjX7PQ45aXJ-jw"
+    },
+    "blog_name": "izs",
+    "body": "Isaac Schlueter: for the price, slicehost is shitty\r\nRyan Grove: Like I said, I'm not worried about my data, I'm worried about my *time*.\r\nRyan Grove: Bah\r\nIsaac Schlueter: for $40, i expect drink service and extra leg room.\r\nRyan Grove: Pish posh. I'm happy with it.\r\nIsaac Schlueter: big spender.\r\nRyan Grove: You know it.\r\nIsaac Schlueter: must be nice.\r\nRyan Grove: Hang on, I just spilled a gallon of caviar on my new Magic Mouse...\r\nRyan Grove: Okay, no worries, cat's licking it up.\r\nRyan Grove: I guess she won't be getting her afternoon caviar as usual today.\r\nIsaac Schlueter: SO tumblring this...\r\n",
+    "can_like": false,
+    "can_reblog": false,
+    "can_reply": false,
+    "can_send_in_message": true,
+    "date": "2009-11-03 18:37:49 GMT",
+    "dialogue": [
+        {
+            "label": "Isaac Schlueter:",
+            "name": "Isaac Schlueter",
+            "phrase": "for the price, slicehost is shitty"
+        },
+        {
+            "label": "Ryan Grove:",
+            "name": "Ryan Grove",
+            "phrase": "Like I said, I'm not worried about my data, I'm worried about my *time*."
+        },
+        {
+            "label": "Ryan Grove:",
+            "name": "Ryan Grove",
+            "phrase": "Bah"
+        },
+        {
+            "label": "Isaac Schlueter:",
+            "name": "Isaac Schlueter",
+            "phrase": "for $40, i expect drink service and extra leg room."
+        },
+        {
+            "label": "Ryan Grove:",
+            "name": "Ryan Grove",
+            "phrase": "Pish posh. I'm happy with it."
+        },
+        {
+            "label": "Isaac Schlueter:",
+            "name": "Isaac Schlueter",
+            "phrase": "big spender."
+        },
+        {
+            "label": "Ryan Grove:",
+            "name": "Ryan Grove",
+            "phrase": "You know it."
+        },
+        {
+            "label": "Isaac Schlueter:",
+            "name": "Isaac Schlueter",
+            "phrase": "must be nice."
+        },
+        {
+            "label": "Ryan Grove:",
+            "name": "Ryan Grove",
+            "phrase": "Hang on, I just spilled a gallon of caviar on my new Magic Mouse..."
+        },
+        {
+            "label": "Ryan Grove:",
+            "name": "Ryan Grove",
+            "phrase": "Okay, no worries, cat's licking it up."
+        },
+        {
+            "label": "Ryan Grove:",
+            "name": "Ryan Grove",
+            "phrase": "I guess she won't be getting her afternoon caviar as usual today."
+        },
+        {
+            "label": "Isaac Schlueter:",
+            "name": "Isaac Schlueter",
+            "phrase": "SO tumblring this..."
+        }
+    ],
+    "display_avatar": true,
+    "format": "markdown",
+    "id": 232052725,
+    "is_blocks_post_format": false,
+    "note_count": 3,
+    "post_url": "http://blog.izs.me/post/232052725/caviar",
+    "reblog_key": "UG27Aq2h",
+    "recommended_color": null,
+    "recommended_source": null,
+    "short_url": "https://tmblr.co/Z7nwWyDrDVr",
+    "slug": "caviar",
+    "state": "published",
+    "summary": "Caviar",
+    "tags": [],
+    "timestamp": 1257273469,
+    "title": "Caviar",
+    "type": "chat"
+}

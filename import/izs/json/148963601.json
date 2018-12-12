@@ -1,0 +1,61 @@
+{
+    "blog": {
+        "description": "Writing and Stuff from Isaac Z. Schlueter",
+        "name": "izs",
+        "title": "blog.izs.me",
+        "updated": 1544578035,
+        "url": "http://blog.izs.me/",
+        "uuid": "t:qZa3tMNNGjX7PQ45aXJ-jw"
+    },
+    "blog_name": "izs",
+    "body": "8:34:07 PM izs: hahahah: \"What percentage of people who don't own a TV, like to tell you at every single opportunity that they don't own a TV.\"\r\n8:44:46 PM seldo: TV is evil.\r\n8:44:49 PM seldo: TV is the mind-killer.\r\n8:45:11 PM izs: TV is the little death that brings total obliteration\r\n8:45:02 PM seldo: Now shut up, I'm watching Hulu.\r\n",
+    "can_like": false,
+    "can_reblog": false,
+    "can_reply": false,
+    "can_send_in_message": true,
+    "date": "2009-07-25 17:00:11 GMT",
+    "dialogue": [
+        {
+            "label": "izs:",
+            "name": "izs",
+            "phrase": "hahahah: \"What percentage of people who don't own a TV, like to tell you at every single opportunity that they don't own a TV.\""
+        },
+        {
+            "label": "seldo:",
+            "name": "seldo",
+            "phrase": "TV is evil."
+        },
+        {
+            "label": "seldo:",
+            "name": "seldo",
+            "phrase": "TV is the mind-killer."
+        },
+        {
+            "label": "izs:",
+            "name": "izs",
+            "phrase": "TV is the little death that brings total obliteration"
+        },
+        {
+            "label": "seldo:",
+            "name": "seldo",
+            "phrase": "Now shut up, I'm watching Hulu."
+        }
+    ],
+    "display_avatar": true,
+    "format": "markdown",
+    "id": 148963601,
+    "is_blocks_post_format": false,
+    "note_count": 0,
+    "post_url": "http://blog.izs.me/post/148963601/television",
+    "reblog_key": "e9Fot6FY",
+    "recommended_color": null,
+    "recommended_source": null,
+    "short_url": "https://tmblr.co/Z7nwWy8uG4H",
+    "slug": "television",
+    "state": "published",
+    "summary": "Television",
+    "tags": [],
+    "timestamp": 1248541211,
+    "title": "Television",
+    "type": "chat"
+}

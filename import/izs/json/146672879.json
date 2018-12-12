@@ -1,0 +1,80 @@
+{
+    "blog": {
+        "description": "Writing and Stuff from Isaac Z. Schlueter",
+        "name": "izs",
+        "title": "blog.izs.me",
+        "updated": 1544578035,
+        "url": "http://blog.izs.me/",
+        "uuid": "t:qZa3tMNNGjX7PQ45aXJ-jw"
+    },
+    "blog_name": "izs",
+    "body": "<p>It&rsquo;s a bit off-topic for this blog, but it&rsquo;s important.</p>\n\n<p>Please head over to <a href=\"http://change.gov/page/s/yourstory\">Obama&rsquo;s website</a> and let the new administration know what you expect from your government.</p>\n\n<p>This is the letter I just sent.</p>\n\n<blockquote>Mr. President Elect Barack Obama,\n\nWe spend far too much money on policing the world with a network of bases.  Our military empire is a liability.  We can&rsquo;t afford it.  It doesn&rsquo;t actually make America safer.  It provides a way for crooked individuals to bilk the American taxpayer out of billions of dollars through anti-competitive contracts.\n\nAmerica could cut its military spending by a very significant amount, and still remain an overwhelmingly powerful world leader.  Our economy cannot support the expense of tyranny, especially if you are going to actually accomplish half of what you&rsquo;ve promised.\n\nThe cold war is over.  The worst ever foreign attack on American civilians was orchestrated with airplanes and box cutters.  Wars of the future will be won and lost through diplomacy and intelligence, and those can be had at a relative bargain.  An arms race is a fruitless waste of money, paid for by the sweat and time of the people who have given you a clear mandate to improve their lives.\n\nWhat&rsquo;s worse, our military empire is perversely un-American.  The nation that once ran the banner of &ldquo;no taxation without representation&rdquo; is now using its military weight to enforce policy on nations whose citizens do not get a representative in the American congress, a vote in our elections, or the protection of the Bill of Rights.  Even if it seems expedient at times, oppression never ultimately furthers the American agenda.  It alienates and disenfranchises the very people whose help we most need in future conflicts.\n\nPlease put an end to this outdated, immoral, and expensive offense against humans everywhere.  We&rsquo;ve hired you to change things.  Please change this.</blockquote>",
+    "can_like": false,
+    "can_reblog": false,
+    "can_reply": false,
+    "can_send_in_message": true,
+    "date": "2008-11-10 22:36:59 GMT",
+    "display_avatar": true,
+    "format": "markdown",
+    "id": 146672879,
+    "is_blocks_post_format": false,
+    "note_count": 0,
+    "post_url": "http://blog.izs.me/post/146672879/my-letter-to-obama",
+    "reblog": {
+        "comment": "<p><p>It\u2019s a bit off-topic for this blog, but it\u2019s important.</p>\n\n<p>Please head over to <a href=\"http://change.gov/page/s/yourstory\">Obama\u2019s website</a> and let the new administration know what you expect from your government.</p>\n\n<p>This is the letter I just sent.</p>\n\n<blockquote>Mr. President Elect Barack Obama,\n\nWe spend far too much money on policing the world with a network of bases.  Our military empire is a liability.  We can\u2019t afford it.  It doesn\u2019t actually make America safer.  It provides a way for crooked individuals to bilk the American taxpayer out of billions of dollars through anti-competitive contracts.\n\nAmerica could cut its military spending by a very significant amount, and still remain an overwhelmingly powerful world leader.  Our economy cannot support the expense of tyranny, especially if you are going to actually accomplish half of what you\u2019ve promised.\n\nThe cold war is over.  The worst ever foreign attack on American civilians was orchestrated with airplanes and box cutters.  Wars of the future will be won and lost through diplomacy and intelligence, and those can be had at a relative bargain.  An arms race is a fruitless waste of money, paid for by the sweat and time of the people who have given you a clear mandate to improve their lives.\n\nWhat\u2019s worse, our military empire is perversely un-American.  The nation that once ran the banner of \u201cno taxation without representation\u201d is now using its military weight to enforce policy on nations whose citizens do not get a representative in the American congress, a vote in our elections, or the protection of the Bill of Rights.  Even if it seems expedient at times, oppression never ultimately furthers the American agenda.  It alienates and disenfranchises the very people whose help we most need in future conflicts.\n\nPlease put an end to this outdated, immoral, and expensive offense against humans everywhere.  We\u2019ve hired you to change things.  Please change this.</blockquote></p>",
+        "tree_html": ""
+    },
+    "reblog_key": "VVr9Fagr",
+    "recommended_color": null,
+    "recommended_source": null,
+    "short_url": "https://tmblr.co/Z7nwWy8lWpl",
+    "slug": "my-letter-to-obama",
+    "state": "published",
+    "summary": "My Letter to Obama",
+    "tags": [
+        "Off Topic"
+    ],
+    "timestamp": 1226356619,
+    "title": "My Letter to Obama",
+    "trail": [
+        {
+            "blog": {
+                "active": true,
+                "can_be_followed": true,
+                "name": "izs",
+                "share_following": false,
+                "share_likes": false,
+                "theme": {
+                    "avatar_shape": "square",
+                    "background_color": "#444444",
+                    "body_font": "Helvetica Neue",
+                    "header_bounds": "978,2448,2355,0",
+                    "header_focus_height": 1152,
+                    "header_focus_width": 2048,
+                    "header_full_height": 3264,
+                    "header_full_width": 2448,
+                    "header_image": "https://static.tumblr.com/d248e27715343669f06a3852fd2cda53/utow0jf/nwUnbvgl6/tumblr_static_d2yiqqjdv1w8gsw0s0g4goc0o.jpg",
+                    "header_image_focused": "https://static.tumblr.com/d248e27715343669f06a3852fd2cda53/utow0jf/mA1nbvglg/tumblr_static_tumblr_static_d2yiqqjdv1w8gsw0s0g4goc0o_focused_v3.jpg",
+                    "header_image_scaled": "https://static.tumblr.com/d248e27715343669f06a3852fd2cda53/utow0jf/nwUnbvgl6/tumblr_static_d2yiqqjdv1w8gsw0s0g4goc0o_2048_v2.jpg",
+                    "header_stretch": true,
+                    "link_color": "#FB4C16",
+                    "show_avatar": true,
+                    "show_description": true,
+                    "show_header_image": true,
+                    "show_title": true,
+                    "title_color": "#fb4c16",
+                    "title_font": "Gibson",
+                    "title_font_weight": "regular"
+                }
+            },
+            "content": "<p><p>It&rsquo;s a bit off-topic for this blog, but it&rsquo;s important.</p>\n\n<p>Please head over to <a href=\"http://change.gov/page/s/yourstory\">Obama&rsquo;s website</a> and let the new administration know what you expect from your government.</p>\n\n<p>This is the letter I just sent.</p>\n\n<blockquote><p>Mr. President Elect Barack Obama,\n\nWe spend far too much money on policing the world with a network of bases.  Our military empire is a liability.  We can&rsquo;t afford it.  It doesn&rsquo;t actually make America safer.  It provides a way for crooked individuals to bilk the American taxpayer out of billions of dollars through anti-competitive contracts.\n\nAmerica could cut its military spending by a very significant amount, and still remain an overwhelmingly powerful world leader.  Our economy cannot support the expense of tyranny, especially if you are going to actually accomplish half of what you&rsquo;ve promised.\n\nThe cold war is over.  The worst ever foreign attack on American civilians was orchestrated with airplanes and box cutters.  Wars of the future will be won and lost through diplomacy and intelligence, and those can be had at a relative bargain.  An arms race is a fruitless waste of money, paid for by the sweat and time of the people who have given you a clear mandate to improve their lives.\n\nWhat&rsquo;s worse, our military empire is perversely un-American.  The nation that once ran the banner of &ldquo;no taxation without representation&rdquo; is now using its military weight to enforce policy on nations whose citizens do not get a representative in the American congress, a vote in our elections, or the protection of the Bill of Rights.  Even if it seems expedient at times, oppression never ultimately furthers the American agenda.  It alienates and disenfranchises the very people whose help we most need in future conflicts.\n\nPlease put an end to this outdated, immoral, and expensive offense against humans everywhere.  We&rsquo;ve hired you to change things.  Please change this.</p></blockquote></p>",
+            "content_raw": "<p><p>It\u2019s a bit off-topic for this blog, but it\u2019s important.</p>\n\n<p>Please head over to <a href=\"http://change.gov/page/s/yourstory\">Obama\u2019s website</a> and let the new administration know what you expect from your government.</p>\n\n<p>This is the letter I just sent.</p>\n\n<blockquote>Mr. President Elect Barack Obama,\n\nWe spend far too much money on policing the world with a network of bases.  Our military empire is a liability.  We can\u2019t afford it.  It doesn\u2019t actually make America safer.  It provides a way for crooked individuals to bilk the American taxpayer out of billions of dollars through anti-competitive contracts.\n\nAmerica could cut its military spending by a very significant amount, and still remain an overwhelmingly powerful world leader.  Our economy cannot support the expense of tyranny, especially if you are going to actually accomplish half of what you\u2019ve promised.\n\nThe cold war is over.  The worst ever foreign attack on American civilians was orchestrated with airplanes and box cutters.  Wars of the future will be won and lost through diplomacy and intelligence, and those can be had at a relative bargain.  An arms race is a fruitless waste of money, paid for by the sweat and time of the people who have given you a clear mandate to improve their lives.\n\nWhat\u2019s worse, our military empire is perversely un-American.  The nation that once ran the banner of \u201cno taxation without representation\u201d is now using its military weight to enforce policy on nations whose citizens do not get a representative in the American congress, a vote in our elections, or the protection of the Bill of Rights.  Even if it seems expedient at times, oppression never ultimately furthers the American agenda.  It alienates and disenfranchises the very people whose help we most need in future conflicts.\n\nPlease put an end to this outdated, immoral, and expensive offense against humans everywhere.  We\u2019ve hired you to change things.  Please change this.</blockquote></p>",
+            "is_current_item": true,
+            "is_root_item": true,
+            "post": {
+                "id": "146672879"
+            }
+        }
+    ],
+    "type": "text"
+}

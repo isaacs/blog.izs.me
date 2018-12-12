@@ -1,0 +1,38 @@
+{
+    "blog": {
+        "description": "Writing and Stuff from Isaac Z. Schlueter",
+        "name": "izs",
+        "title": "blog.izs.me",
+        "updated": 1544578035,
+        "url": "http://blog.izs.me/",
+        "uuid": "t:qZa3tMNNGjX7PQ45aXJ-jw"
+    },
+    "blog_name": "izs",
+    "can_like": false,
+    "can_reblog": false,
+    "can_reply": false,
+    "can_send_in_message": true,
+    "date": "2009-08-04 18:30:18 GMT",
+    "display_avatar": true,
+    "format": "markdown",
+    "id": 155787976,
+    "is_blocks_post_format": false,
+    "note_count": 0,
+    "post_url": "http://blog.izs.me/post/155787976/if-you-always-put-limits-on-everything-you-do",
+    "reblog": {
+        "comment": "<p>Bruce Lee</p>",
+        "tree_html": ""
+    },
+    "reblog_key": "Irii5Ms5",
+    "recommended_color": null,
+    "recommended_source": null,
+    "short_url": "https://tmblr.co/Z7nwWy9IIB8",
+    "slug": "if-you-always-put-limits-on-everything-you-do",
+    "source": "Bruce Lee",
+    "state": "published",
+    "summary": "If you always put limits on everything you do, physical or anything else, it will spread into your work and into your life....",
+    "tags": [],
+    "text": "If you always put limits on everything you do, physical or anything else, it will spread into your work and into your life. There are no limits. There are only plateaus, and you must not stay there, you must go beyond them.",
+    "timestamp": 1249410618,
+    "type": "quote"
+}

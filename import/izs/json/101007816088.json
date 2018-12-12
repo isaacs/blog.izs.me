@@ -1,0 +1,58 @@
+{
+    "blog": {
+        "description": "Writing and Stuff from Isaac Z. Schlueter",
+        "name": "izs",
+        "title": "blog.izs.me",
+        "updated": 1544578035,
+        "url": "http://blog.izs.me/",
+        "uuid": "t:qZa3tMNNGjX7PQ45aXJ-jw"
+    },
+    "blog_name": "izs",
+    "body": "Child: Mom, can you tell me a bedtime story?\r\nMe: Of course. *clears throat* Boy toy named Troy used to live in Detroit. Big dope dealer money, he was getting some coins. Was in shootouts with the law, but he live in a palace. Bought me Alexander McQueen, he was keeping me stylish. ",
+    "can_like": false,
+    "can_reblog": false,
+    "can_reply": false,
+    "can_send_in_message": true,
+    "date": "2014-10-26 17:22:18 GMT",
+    "dialogue": [
+        {
+            "label": "Child:",
+            "name": "Child",
+            "phrase": "Mom, can you tell me a bedtime story?"
+        },
+        {
+            "label": "Me:",
+            "name": "Me",
+            "phrase": "Of course. *clears throat* Boy toy named Troy used to live in Detroit. Big dope dealer money, he was getting some coins. Was in shootouts with the law, but he live in a palace. Bought me Alexander McQueen, he was keeping me stylish."
+        }
+    ],
+    "display_avatar": true,
+    "format": "html",
+    "id": 101007816088,
+    "is_blocks_post_format": false,
+    "note_count": 179350,
+    "post_url": "http://blog.izs.me/post/101007816088/child-mom-can-you-tell-me-a-bedtime-story-me",
+    "reblog_key": "k4c0RElU",
+    "reblogged_from_can_message": true,
+    "reblogged_from_id": "100456479603",
+    "reblogged_from_name": "sadie-monster",
+    "reblogged_from_title": "act a fool, girl",
+    "reblogged_from_url": "http://sadie-monster.tumblr.com/post/100456479603/child-mom-can-you-tell-me-a-bedtime-story-me",
+    "reblogged_from_uuid": "t:vmzN61pCvtdZd4Fb6th4vg",
+    "reblogged_root_can_message": true,
+    "reblogged_root_id": "100456479603",
+    "reblogged_root_name": "sadie-monster",
+    "reblogged_root_title": "act a fool, girl",
+    "reblogged_root_url": "http://sadie-monster.tumblr.com/post/100456479603/child-mom-can-you-tell-me-a-bedtime-story-me",
+    "reblogged_root_uuid": "t:vmzN61pCvtdZd4Fb6th4vg",
+    "recommended_color": null,
+    "recommended_source": null,
+    "short_url": "https://tmblr.co/Z7nwWy1U4YFMO",
+    "slug": "child-mom-can-you-tell-me-a-bedtime-story-me",
+    "state": "published",
+    "summary": "Child: Mom, can you tell me a bedtime story?\r\nMe: Of course. *clears throat* Boy toy named Troy used to live in Detroit. Big...",
+    "tags": [],
+    "timestamp": 1414344138,
+    "title": null,
+    "type": "chat"
+}

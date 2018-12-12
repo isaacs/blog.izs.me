@@ -1,0 +1,130 @@
+{
+    "blog": {
+        "description": "Writing and Stuff from Isaac Z. Schlueter",
+        "name": "izs",
+        "title": "blog.izs.me",
+        "updated": 1544578035,
+        "url": "http://blog.izs.me/",
+        "uuid": "t:qZa3tMNNGjX7PQ45aXJ-jw"
+    },
+    "blog_name": "izs",
+    "can_like": false,
+    "can_reblog": false,
+    "can_reply": false,
+    "can_send_in_message": true,
+    "date": "2013-04-11 19:55:46 GMT",
+    "description": "<p>Omg.  This is just so so good.  Thank you so much, Jimmy Marks.</p>\n\n<p><a href=\"http://jimmymarks.tumblr.com/post/47709399840/to-a-fishstick-dying-young\" class=\"tumblr_blog\">jimmymarks</a>:</p>\n\n<blockquote>\n<p><em>As we near the inevitable conclusion of You Look Nice Today, my feelings become too much to bear. And when that happens, you get poetry. What follows is my lament for one of the greatest podcasts of all time.</em></p></blockquote>",
+    "display_avatar": true,
+    "excerpt": null,
+    "format": "markdown",
+    "id": 47720012568,
+    "is_blocks_post_format": false,
+    "link_author": null,
+    "note_count": 191,
+    "post_url": "http://blog.izs.me/post/47720012568/the-internet-is-eating-me-to-a-fishstick-dying",
+    "publisher": "jimmymarks.tumblr.com",
+    "reblog": {
+        "comment": "<p>Omg.  This is just so so good.  Thank you so much, Jimmy Marks.</p>",
+        "tree_html": "<p><a href=\"http://jimmymarks.tumblr.com/post/47709399840/to-a-fishstick-dying-young\" class=\"tumblr_blog\">jimmymarks</a>:</p><blockquote>\n<p><em>As we near the inevitable conclusion of You Look Nice Today, my feelings become too much to bear. And when that happens, you get poetry. What follows is my lament for one of the greatest podcasts of all time.</em></p>\n</blockquote>"
+    },
+    "reblog_key": "upJwGy8N",
+    "reblogged_from_can_message": true,
+    "reblogged_from_id": "47709399840",
+    "reblogged_from_name": "jimmymarks",
+    "reblogged_from_title": "Your Tumblr Friend!",
+    "reblogged_from_url": "http://jimmymarks.tumblr.com/post/47709399840/to-a-fishstick-dying-young",
+    "reblogged_from_uuid": "t:QrEGIodJ--AjOUC-fbUYBQ",
+    "reblogged_root_can_message": true,
+    "reblogged_root_id": "47709399840",
+    "reblogged_root_name": "jimmymarks",
+    "reblogged_root_title": "Your Tumblr Friend!",
+    "reblogged_root_url": "http://jimmymarks.tumblr.com/post/47709399840/to-a-fishstick-dying-young",
+    "reblogged_root_uuid": "t:QrEGIodJ--AjOUC-fbUYBQ",
+    "recommended_color": null,
+    "recommended_source": null,
+    "short_url": "https://tmblr.co/Z7nwWyiSLPiO",
+    "slug": "the-internet-is-eating-me-to-a-fishstick-dying",
+    "state": "published",
+    "summary": "The Internet is Eating Me: To A Fishstick Dying Young",
+    "tags": [],
+    "timestamp": 1365710146,
+    "title": "The Internet is Eating Me: To A Fishstick Dying Young",
+    "trail": [
+        {
+            "blog": {
+                "active": true,
+                "can_be_followed": true,
+                "name": "jimmymarks",
+                "share_following": false,
+                "share_likes": true,
+                "theme": {
+                    "avatar_shape": "square",
+                    "background_color": "#FFFAF4",
+                    "body_font": "Helvetica Neue",
+                    "header_bounds": "852,2253,1687,769",
+                    "header_focus_height": 835,
+                    "header_focus_width": 1484,
+                    "header_full_height": 3264,
+                    "header_full_width": 2448,
+                    "header_image": "https://static.tumblr.com/f4dd1d778bcdf3e2d2677b377bb63942/8raunvp/ffwnx5w5h/tumblr_static_583dc74jr0g0448ckwgw8g8k.jpg",
+                    "header_image_focused": "https://static.tumblr.com/f4dd1d778bcdf3e2d2677b377bb63942/8raunvp/bsknx5w5r/tumblr_static_tumblr_static_583dc74jr0g0448ckwgw8g8k_focused_v3.jpg",
+                    "header_image_scaled": "https://static.tumblr.com/f4dd1d778bcdf3e2d2677b377bb63942/8raunvp/ffwnx5w5h/tumblr_static_583dc74jr0g0448ckwgw8g8k_2048_v2.jpg",
+                    "header_stretch": true,
+                    "link_color": "#4687AE",
+                    "show_avatar": true,
+                    "show_description": true,
+                    "show_header_image": true,
+                    "show_title": true,
+                    "title_color": "#444444",
+                    "title_font": "Gibson",
+                    "title_font_weight": "bold"
+                }
+            },
+            "content": "<p><em>As we near the inevitable conclusion of You Look Nice Today, my feelings become too much to bear. And when that happens, you get poetry. What follows is my lament for one of the greatest podcasts of all time.</em></p>",
+            "content_raw": "<p><em>As we near the inevitable conclusion of You Look Nice Today, my feelings become too much to bear. And when that happens, you get poetry. What follows is my lament for one of the greatest podcasts of all time.</em></p>",
+            "is_root_item": true,
+            "post": {
+                "id": "47709399840"
+            }
+        },
+        {
+            "blog": {
+                "active": true,
+                "can_be_followed": true,
+                "name": "izs",
+                "share_following": false,
+                "share_likes": false,
+                "theme": {
+                    "avatar_shape": "square",
+                    "background_color": "#444444",
+                    "body_font": "Helvetica Neue",
+                    "header_bounds": "978,2448,2355,0",
+                    "header_focus_height": 1152,
+                    "header_focus_width": 2048,
+                    "header_full_height": 3264,
+                    "header_full_width": 2448,
+                    "header_image": "https://static.tumblr.com/d248e27715343669f06a3852fd2cda53/utow0jf/nwUnbvgl6/tumblr_static_d2yiqqjdv1w8gsw0s0g4goc0o.jpg",
+                    "header_image_focused": "https://static.tumblr.com/d248e27715343669f06a3852fd2cda53/utow0jf/mA1nbvglg/tumblr_static_tumblr_static_d2yiqqjdv1w8gsw0s0g4goc0o_focused_v3.jpg",
+                    "header_image_scaled": "https://static.tumblr.com/d248e27715343669f06a3852fd2cda53/utow0jf/nwUnbvgl6/tumblr_static_d2yiqqjdv1w8gsw0s0g4goc0o_2048_v2.jpg",
+                    "header_stretch": true,
+                    "link_color": "#FB4C16",
+                    "show_avatar": true,
+                    "show_description": true,
+                    "show_header_image": true,
+                    "show_title": true,
+                    "title_color": "#fb4c16",
+                    "title_font": "Gibson",
+                    "title_font_weight": "regular"
+                }
+            },
+            "content": "<p>Omg.  This is just so so good.  Thank you so much, Jimmy Marks.</p>",
+            "content_raw": "<p>Omg.  This is just so so good.  Thank you so much, Jimmy Marks.</p>",
+            "is_current_item": true,
+            "post": {
+                "id": "47720012568"
+            }
+        }
+    ],
+    "type": "link",
+    "url": "http://jimmymarks.tumblr.com/post/47709399840/to-a-fishstick-dying-young"
+}

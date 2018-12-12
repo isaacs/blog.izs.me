@@ -1,0 +1,113 @@
+{
+    "blog": {
+        "description": "Writing and Stuff from Isaac Z. Schlueter",
+        "name": "izs",
+        "title": "blog.izs.me",
+        "updated": 1544578035,
+        "url": "http://blog.izs.me/",
+        "uuid": "t:qZa3tMNNGjX7PQ45aXJ-jw"
+    },
+    "blog_name": "izs",
+    "can_like": false,
+    "can_reblog": false,
+    "can_reply": false,
+    "can_send_in_message": true,
+    "caption": "<p><a href=\"http://fuckyeahdementia.com/post/53774820760/obama-getting-lucky\" class=\"tumblr_blog\">fuckyeahdementia</a>:</p>\n\n<blockquote><p>obama getting lucky</p></blockquote>",
+    "date": "2013-06-25 15:35:20 GMT",
+    "display_avatar": true,
+    "format": "markdown",
+    "html5_capable": true,
+    "id": 53846823123,
+    "is_blocks_post_format": false,
+    "note_count": 750,
+    "permalink_url": "https://www.youtube.com/watch?v=A6PEboTpcfI",
+    "player": [
+        {
+            "embed_code": "<iframe width=\"250\" height=\"141\"  id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/A6PEboTpcfI?feature=oembed&amp;enablejsapi=1&amp;origin=https://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+            "width": 250
+        },
+        {
+            "embed_code": "<iframe width=\"400\" height=\"225\"  id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/A6PEboTpcfI?feature=oembed&amp;enablejsapi=1&amp;origin=https://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+            "width": 400
+        },
+        {
+            "embed_code": "<iframe width=\"500\" height=\"281\"  id=\"youtube_iframe\" src=\"https://www.youtube.com/embed/A6PEboTpcfI?feature=oembed&amp;enablejsapi=1&amp;origin=https://safe.txmblr.com&amp;wmode=opaque\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+            "width": 500
+        }
+    ],
+    "post_url": "http://blog.izs.me/post/53846823123/fuckyeahdementia-obama-getting-lucky",
+    "reblog": {
+        "comment": "",
+        "tree_html": "<p><a href=\"http://fuckyeahdementia.com/post/53774820760/obama-getting-lucky\" class=\"tumblr_blog\">fuckyeahdementia</a>:</p><blockquote><p>obama getting lucky</p></blockquote>"
+    },
+    "reblog_key": "yajjGZ3q",
+    "reblogged_from_can_message": false,
+    "reblogged_from_id": "53774820760",
+    "reblogged_from_name": "fuckyeahdementia",
+    "reblogged_from_title": "FUCK YEAH DEMENTIA!!1!",
+    "reblogged_from_url": "http://fuckyeahdementia.com/post/53774820760/obama-getting-lucky",
+    "reblogged_from_uuid": "t:YwIlHWD-5-6SWyKigeOGYA",
+    "reblogged_root_can_message": false,
+    "reblogged_root_id": "53774820760",
+    "reblogged_root_name": "fuckyeahdementia",
+    "reblogged_root_title": "FUCK YEAH DEMENTIA!!1!",
+    "reblogged_root_url": "http://fuckyeahdementia.com/post/53774820760/obama-getting-lucky",
+    "reblogged_root_uuid": "t:YwIlHWD-5-6SWyKigeOGYA",
+    "recommended_color": null,
+    "recommended_source": null,
+    "short_url": "https://tmblr.co/Z7nwWyo9XL3J",
+    "slug": "fuckyeahdementia-obama-getting-lucky",
+    "source_title": "youtu.be",
+    "source_url": "https://t.umblr.com/redirect?z=http%3A%2F%2Fyoutu.be%2FA6PEboTpcfI&t=N2U2MzM5OTJmN2M0MDA1NTQ0NjIxODM5MjUzYTQyYTA1NjBlMjU4OCw1Mzg0NjgyMzEyMw%3D%3D&b=t%3AqZa3tMNNGjX7PQ45aXJ-jw&p=http%3A%2F%2Fblog.izs.me%2Fpost%2F53846823123%2Ffuckyeahdementia-obama-getting-lucky&m=1",
+    "state": "published",
+    "summary": "obama getting lucky",
+    "tags": [],
+    "thumbnail_height": 360,
+    "thumbnail_url": "https://i.ytimg.com/vi/A6PEboTpcfI/hqdefault.jpg",
+    "thumbnail_width": 480,
+    "timestamp": 1372174520,
+    "trail": [
+        {
+            "blog": {
+                "active": true,
+                "can_be_followed": true,
+                "name": "fuckyeahdementia",
+                "share_following": false,
+                "share_likes": false,
+                "theme": {
+                    "avatar_shape": "square",
+                    "background_color": "#FAFAFA",
+                    "body_font": "Helvetica Neue",
+                    "header_bounds": "",
+                    "header_image": "https://assets.tumblr.com/images/default_header/optica_pattern_02.png?_v=b976ee00195b1b7806c94ae285ca46a7",
+                    "header_image_focused": "https://assets.tumblr.com/images/default_header/optica_pattern_02_focused_v3.png?_v=b976ee00195b1b7806c94ae285ca46a7",
+                    "header_image_scaled": "https://assets.tumblr.com/images/default_header/optica_pattern_02_focused_v3.png?_v=b976ee00195b1b7806c94ae285ca46a7",
+                    "header_stretch": true,
+                    "link_color": "#529ECC",
+                    "show_avatar": true,
+                    "show_description": true,
+                    "show_header_image": true,
+                    "show_title": true,
+                    "title_color": "#444444",
+                    "title_font": "Gibson",
+                    "title_font_weight": "bold"
+                }
+            },
+            "content": "<p>obama getting lucky</p>",
+            "content_raw": "<p>obama getting lucky</p>",
+            "is_root_item": true,
+            "post": {
+                "id": "53774820760"
+            }
+        }
+    ],
+    "type": "video",
+    "video": {
+        "youtube": {
+            "height": 304,
+            "video_id": "A6PEboTpcfI",
+            "width": 540
+        }
+    },
+    "video_type": "youtube"
+}

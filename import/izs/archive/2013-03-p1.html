@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+
+<meta charset=utf-8>
+<title>blog.izs.me</title>
+<link rel=stylesheet href=../backup.css>
+
+<body class=archive>
+
+<header>
+<h1>March 2013</h1>
+</header>
+
+<article class=quote id=p-46426840964>
+<header>
+<p><time datetime=2013-03-27T16:14:58Z>03/27/2013 09:14:58</time>
+<a class=llink href=../posts/46426840964.html>¶</a>
+<a href=https://tmblr.co/Z7nwWyhFGL_4>●</a></header>
+<blockquote><p>Alex and William have only known each other for a few months and shouldn’t rush into a serious commitment.</p>
+
+<p>Greg is probably in it for Brian’s money.</p>
+
+<p>Wendy claims she loves Margaret, but she hasn’t put her feelings for Julia behind her.</p>
+
+<p>Lisa is too career driven for an emotionally needy person like Amy.</p>
+
+<p>Tim is a whore.</p></blockquote>
+<p><a href="http://www.mcsweeneys.net/articles/arguments-against-gay-marriage">Arguments Against Gay Marriage.</a> (via <a href="http://seldo.tumblr.com/" class="tumblr_blog">seldo</a>)</p>
+<footer>3 notes — <a title=Source href=https://t.umblr.com/redirect?z=http%3A%2F%2Fwww.mcsweeneys.net%2Farticles%2Farguments-against-gay-marriage&t=ZGJlNjhkOTM4NTE2MTRhMDhiZmFiNDMxNjc2MzcxNGI0NmI1ZTUyYiw0NjQyNjg0MDk2NA%3D%3D&b=t%3AqZa3tMNNGjX7PQ45aXJ-jw&p=http%3A%2F%2Fblog.izs.me%2Fpost%2F46426840964%2Falex-and-william-have-only-known-each-other-for-a&m=1>mcsweeneys.net</a></footer>
+</article>
+<article class=text id=p-45203330061>
+<header>
+<p><time datetime=2013-03-12T18:57:00Z>03/12/2013 11:57:00</time>
+<a class=llink href=../posts/45203330061.html>¶</a>
+<a href=https://tmblr.co/Z7nwWyg6L1GD>●</a></header>
+<h2>Complex System Knowledge is Not Transferrable</h2>
+<p>Imagine if someone were to say something like:</p>
+
+<p>&gt; Node uses async I/O so that it can read files faster.</p>
+
+<p>While many of the <em>words</em> in this sentence are sensible, and perhaps even somewhat close to the truth, there are several glaring errors with it:</p>
+
+<p>First of all, Node doesn&rsquo;t use AIO. It uses nonblocking I/O for sockets and pipes, but for files, it uses a thread pool.</p>
+
+<p>More subtly, doing fs operations in a worker thread does not make them faster.  Since we&rsquo;re usually limited by the system&rsquo;s fs response anyway, adding the overhead of threads and callbacks makes those operations strictly <em>slower</em> than doing them synchronously.</p>
+
+<p>The point of using an event loop and doing fs operations in a thread pool is so that your <em>server&rsquo;s</em> latency is not affected (as much).  The speed of the fs operation itself is presumably less important than making sure that the server can continue to service requests in the meantime.</p>
+
+<p>If someone said this, and a knowledgeable Node user was around to hear it, the speaker would be promptly corrected.</p>
+
+<p>Now imagine that the person saying this was a very highly educated lawyer, with many years of experience in IP law, international copyright litigation, trademarks, and patents.</p>
+
+<p>Do you have any <em>more</em> belief in their clearly false statement?  Do you now think, &ldquo;Well, this guy&rsquo;s a <strong>lawyer</strong> after all, and he&rsquo;s dealt with some pretty hairy IP and technology issues, so he probably does know a thing or two about technology.&rdquo;  Or do you start to think <em>less</em> of him, and his craft?</p>
+
+<p>My fellow programmers, this is what you sound like when you make authoritative-sounding claims about trademark, copyright, and patent law.</p>
+
+<p>Not only is it more complicated than you probably realize, the complications differ from place to place and from situation to situation.  The law is a giant software program with legacy code going back literally <em>thousands</em> of years, and the hardware it runs on is <em>human brains</em>, which are <a href="http://lesswrong.com">notoriously buggy</a>.</p>
+
+<p>I am so glad IANAL.  Software that runs on computers is so much easier to reason about.</p>
+<footer>11 notes</footer>
+</article>
+<article class=text id=p-45196990126>
+<header>
+<p><time datetime=2013-03-12T17:06:00Z>03/12/2013 10:06:00</time>
+<a class=llink href=../posts/45196990126.html>¶</a>
+<a href=https://tmblr.co/Z7nwWyg5yrQk>●</a></header>
+<h2>Everyone has a Price</h2>
+<p>Got this email this morning:</p>
+
+<pre><code>From: Andrew
+To: i@izs.me
+Subject: Have a minute to talk about npmjs.org?
+
+Hello,
+
+We have a client interested in npmjs.org. Would you
+consider selling the site?
+
+Please let me know a day, time and phone number
+you could speak about this possibility and we'll try
+to make it work on our end.
+
+I look forward to speaking with you.
+
+Regards,
+</code></pre>
+
+<p>My reply:</p>
+
+<pre><code>From: Isaac Schlueter
+To: Andrew
+
+I will sell npmjs.org for USD $1,000,000,000.00.
+</code></pre>
+
+<p>Just so you know.  If npmjs.org ever suddenly turns into some random e-commerce site or something, and I&rsquo;m nowhere to be found, it&rsquo;s because I&rsquo;m crazy rich now and give zero fucks.</p>
+<footer>20 notes</footer>
+</article>
+<article class=text id=p-45090961790>
+<header>
+<p><time datetime=2013-03-11T04:56:55Z>03/10/2013 21:56:55</time>
+<a class=llink href=../posts/45090961790.html>¶</a>
+<a href=https://tmblr.co/Z7nwWyf-eNb_>●</a></header>
+<h2>User Feedback</h2>
+<p>Sometimes a request is much less interesting than the motivation <em>behind</em> the request, which the requestor might not even fully understand.</p>
+
+<p>Sometimes people demand a giraffe, when really, they just need a ladder, or better yet, they need things to not be up so high.</p>
+
+<p><i>&ldquo;There are <b>ZERO</b> giraffes in here and that makes me <b>ANGRY</b>!  Fix it!!&rdquo;</i></p>
+
+<p>Yes, this is unreasonable.  But if you don&rsquo;t try to hear past it, then you&rsquo;ll only see an unreasonable demand.  Marking it with your judgement, it is easy to dismiss.  Bozo bit is flipped, end of story.</p>
+
+<p>Worse yet, if you <em>don&rsquo;t</em> dismiss the request, you may find yourself negotiating their giraffe down to a horse, or a dog, which isn&rsquo;t helpful at all! You&rsquo;ll resent their need for a pet, and they&rsquo;ll resent your unwillingness to provide a minion to fetch things off of high shelves.</p>
+
+<p>You might perhaps never realize that you could have trivially made the ladders more easy to find, while planning renovations to lower the shelves, so that ladders would not be necessary.</p>
+
+<p>You might be so distracted by the request for a large African mammal, that you never see that they didn&rsquo;t want a pet in the first place.</p>
+<footer>9 notes</footer>
+</article>
+<footer><nav><a href=../index.html rel=index>Index</a>
+| <a href=2013-04-p1.html rel=prev>Previous</a>
+| <a href=2013-02-p1.html rel=next>Next</a>
+</nav></footer>

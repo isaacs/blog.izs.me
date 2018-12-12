@@ -1,0 +1,78 @@
+{
+    "blog": {
+        "description": "Writing and Stuff from Isaac Z. Schlueter",
+        "name": "izs",
+        "title": "blog.izs.me",
+        "updated": 1544578035,
+        "url": "http://blog.izs.me/",
+        "uuid": "t:qZa3tMNNGjX7PQ45aXJ-jw"
+    },
+    "blog_name": "izs",
+    "body": "<p>Got this email this morning:</p>\n\n<pre><code>From: Andrew\nTo: i@izs.me\nSubject: Have a minute to talk about npmjs.org?\n\nHello,\n\nWe have a client interested in npmjs.org. Would you\nconsider selling the site?\n\nPlease let me know a day, time and phone number\nyou could speak about this possibility and we'll try\nto make it work on our end.\n\nI look forward to speaking with you.\n\nRegards,\n</code></pre>\n\n<p>My reply:</p>\n\n<pre><code>From: Isaac Schlueter\nTo: Andrew\n\nI will sell npmjs.org for USD $1,000,000,000.00.\n</code></pre>\n\n<p>Just so you know.  If npmjs.org ever suddenly turns into some random e-commerce site or something, and I&rsquo;m nowhere to be found, it&rsquo;s because I&rsquo;m crazy rich now and give zero fucks.</p>",
+    "can_like": false,
+    "can_reblog": false,
+    "can_reply": false,
+    "can_send_in_message": true,
+    "date": "2013-03-12 17:06:00 GMT",
+    "display_avatar": true,
+    "format": "markdown",
+    "id": 45196990126,
+    "is_blocks_post_format": false,
+    "note_count": 20,
+    "post_url": "http://blog.izs.me/post/45196990126/everyone-has-a-price",
+    "reblog": {
+        "comment": "<p>Got this email this morning:</p>\n\n<pre><code>From: Andrew\nTo: i@izs.me\nSubject: Have a minute to talk about npmjs.org?\n\nHello,\n\nWe have a client interested in npmjs.org. Would you\nconsider selling the site?\n\nPlease let me know a day, time and phone number\nyou could speak about this possibility and we'll try\nto make it work on our end.\n\nI look forward to speaking with you.\n\nRegards,\n</code></pre>\n\n<p>My reply:</p>\n\n<pre><code>From: Isaac Schlueter\nTo: Andrew\n\nI will sell npmjs.org for USD $1,000,000,000.00.\n</code></pre>\n\n<p>Just so you know.  If npmjs.org ever suddenly turns into some random e-commerce site or something, and I\u2019m nowhere to be found, it\u2019s because I\u2019m crazy rich now and give zero fucks.</p>",
+        "tree_html": ""
+    },
+    "reblog_key": "cGoYndcu",
+    "recommended_color": null,
+    "recommended_source": null,
+    "short_url": "https://tmblr.co/Z7nwWyg5yrQk",
+    "slug": "everyone-has-a-price",
+    "state": "published",
+    "summary": "Everyone has a Price",
+    "tags": [],
+    "timestamp": 1363107960,
+    "title": "Everyone has a Price",
+    "trail": [
+        {
+            "blog": {
+                "active": true,
+                "can_be_followed": true,
+                "name": "izs",
+                "share_following": false,
+                "share_likes": false,
+                "theme": {
+                    "avatar_shape": "square",
+                    "background_color": "#444444",
+                    "body_font": "Helvetica Neue",
+                    "header_bounds": "978,2448,2355,0",
+                    "header_focus_height": 1152,
+                    "header_focus_width": 2048,
+                    "header_full_height": 3264,
+                    "header_full_width": 2448,
+                    "header_image": "https://static.tumblr.com/d248e27715343669f06a3852fd2cda53/utow0jf/nwUnbvgl6/tumblr_static_d2yiqqjdv1w8gsw0s0g4goc0o.jpg",
+                    "header_image_focused": "https://static.tumblr.com/d248e27715343669f06a3852fd2cda53/utow0jf/mA1nbvglg/tumblr_static_tumblr_static_d2yiqqjdv1w8gsw0s0g4goc0o_focused_v3.jpg",
+                    "header_image_scaled": "https://static.tumblr.com/d248e27715343669f06a3852fd2cda53/utow0jf/nwUnbvgl6/tumblr_static_d2yiqqjdv1w8gsw0s0g4goc0o_2048_v2.jpg",
+                    "header_stretch": true,
+                    "link_color": "#FB4C16",
+                    "show_avatar": true,
+                    "show_description": true,
+                    "show_header_image": true,
+                    "show_title": true,
+                    "title_color": "#fb4c16",
+                    "title_font": "Gibson",
+                    "title_font_weight": "regular"
+                }
+            },
+            "content": "<p>Got this email this morning:</p>\n\n<pre><code>From: Andrew\nTo: i@izs.me\nSubject: Have a minute to talk about npmjs.org?\n\nHello,\n\nWe have a client interested in npmjs.org. Would you\nconsider selling the site?\n\nPlease let me know a day, time and phone number\nyou could speak about this possibility and we'll try\nto make it work on our end.\n\nI look forward to speaking with you.\n\nRegards,\n</code></pre>\n\n<p>My reply:</p>\n\n<pre><code>From: Isaac Schlueter\nTo: Andrew\n\nI will sell npmjs.org for USD $1,000,000,000.00.\n</code></pre>\n\n<p>Just so you know.  If npmjs.org ever suddenly turns into some random e-commerce site or something, and I&rsquo;m nowhere to be found, it&rsquo;s because I&rsquo;m crazy rich now and give zero fucks.</p>",
+            "content_raw": "<p>Got this email this morning:</p>\n\n<pre><code>From: Andrew\nTo: i@izs.me\nSubject: Have a minute to talk about npmjs.org?\n\nHello,\n\nWe have a client interested in npmjs.org. Would you\nconsider selling the site?\n\nPlease let me know a day, time and phone number\nyou could speak about this possibility and we'll try\nto make it work on our end.\n\nI look forward to speaking with you.\n\nRegards,\n</code></pre>\n\n<p>My reply:</p>\n\n<pre><code>From: Isaac Schlueter\nTo: Andrew\n\nI will sell npmjs.org for USD $1,000,000,000.00.\n</code></pre>\n\n<p>Just so you know.  If npmjs.org ever suddenly turns into some random e-commerce site or something, and I\u2019m nowhere to be found, it\u2019s because I\u2019m crazy rich now and give zero fucks.</p>",
+            "is_current_item": true,
+            "is_root_item": true,
+            "post": {
+                "id": "45196990126"
+            }
+        }
+    ],
+    "type": "text"
+}

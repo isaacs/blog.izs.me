@@ -1,0 +1,76 @@
+{
+    "blog": {
+        "description": "Writing and Stuff from Isaac Z. Schlueter",
+        "name": "izs",
+        "title": "blog.izs.me",
+        "updated": 1544578035,
+        "url": "http://blog.izs.me/",
+        "uuid": "t:qZa3tMNNGjX7PQ45aXJ-jw"
+    },
+    "blog_name": "izs",
+    "body": "nuno: Email is such a huge part of my life.  I need to say \"No\" to a lot of people.\r\nisaacs: It'd be cool if there was an app to do that for you.\r\nnuno: Yeah, it could be almost like an autoresponder or something.\r\nisaacs: And you could have some kind of Markov thing to come up with innovative and creative ways to say no to everything.\r\nnuno: That'd be great!\r\nisaacs: You should write that.  You could call it \"Nuno's New No's\".\r\nmikeal: You were thinking about that for a while, huh?\r\nisaacs: It was either that or a rhinoplasty joke.",
+    "can_like": false,
+    "can_reblog": false,
+    "can_reply": false,
+    "can_send_in_message": true,
+    "date": "2011-07-14 00:25:08 GMT",
+    "dialogue": [
+        {
+            "label": "nuno:",
+            "name": "nuno",
+            "phrase": "Email is such a huge part of my life.  I need to say \"No\" to a lot of people."
+        },
+        {
+            "label": "isaacs:",
+            "name": "isaacs",
+            "phrase": "It'd be cool if there was an app to do that for you."
+        },
+        {
+            "label": "nuno:",
+            "name": "nuno",
+            "phrase": "Yeah, it could be almost like an autoresponder or something."
+        },
+        {
+            "label": "isaacs:",
+            "name": "isaacs",
+            "phrase": "And you could have some kind of Markov thing to come up with innovative and creative ways to say no to everything."
+        },
+        {
+            "label": "nuno:",
+            "name": "nuno",
+            "phrase": "That'd be great!"
+        },
+        {
+            "label": "isaacs:",
+            "name": "isaacs",
+            "phrase": "You should write that.  You could call it \"Nuno's New No's\"."
+        },
+        {
+            "label": "mikeal:",
+            "name": "mikeal",
+            "phrase": "You were thinking about that for a while, huh?"
+        },
+        {
+            "label": "isaacs:",
+            "name": "isaacs",
+            "phrase": "It was either that or a rhinoplasty joke."
+        }
+    ],
+    "display_avatar": true,
+    "format": "markdown",
+    "id": 7593162547,
+    "is_blocks_post_format": false,
+    "note_count": 9,
+    "post_url": "http://blog.izs.me/post/7593162547/nunos",
+    "reblog_key": "X5iVAbSj",
+    "recommended_color": null,
+    "recommended_source": null,
+    "short_url": "https://tmblr.co/Z7nwWy74bdSp",
+    "slug": "nunos",
+    "state": "published",
+    "summary": "Nuno's",
+    "tags": [],
+    "timestamp": 1310603108,
+    "title": "Nuno's",
+    "type": "chat"
+}

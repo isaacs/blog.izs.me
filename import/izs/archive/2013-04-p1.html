@@ -1,0 +1,283 @@
+<!DOCTYPE html>
+
+<meta charset=utf-8>
+<title>blog.izs.me</title>
+<link rel=stylesheet href=../backup.css>
+
+<body class=archive>
+
+<header>
+<h1>April 2013</h1>
+</header>
+
+<article class=text id=p-48281998870>
+<header>
+<p><time datetime=2013-04-18T15:45:00Z>04/18/2013 08:45:00</time>
+<a class=llink href=../posts/48281998870.html>¶</a>
+<a href=https://tmblr.co/Z7nwWyizrDOM>●</a></header>
+<h2>Unix Philosophy and Node.js</h2>
+<p>At TxJS the other day, I gave a talk where I mentioned that the Unix Philosophy is a crucial part of the patterns, opinions, and culture of Node.js.  As usual, I made my <a href="http://j.mp/node-patterns-pdf">slides available online</a> well in advance of the talk video being available.</p>
+
+<p>For some reason, this brief mention of &ldquo;Unix Philosophy&rdquo; set off a few peoples&rsquo; ire.  Since I had only 25 minutes, and every slide could probably be its own talk entirely, I was rather light on elaboration.  Chances are, the video won&rsquo;t add all that much context.  But the goal was to pique conversation, so maybe that&rsquo;s a success if it invites criticism.  After all, uninformed trolling is just an invitation for education, so I thought I&rsquo;d explain.</p>
+
+<p>Eric S. Raymond collected a few of the best explanations of the Unix Philosophy in his book, <a href="http://www.catb.org/esr/writings/taoup/html/ch01s06.html">The Art Of Unix Programming</a>.  He elaborates on 17 specific principles, but my favorite formulation of the Unix Philosophy is the terse explanation from Doug McIlroy as quoted by Salus in <em>A Quarter Century of Unix</em>:</p>
+
+<blockquote>
+  <p>This is the Unix philosophy:</p>
+  
+  <p>Write programs that do one thing and do it well.</p>
+  
+  <p>Write programs to work together.</p>
+  
+  <p>Write programs to handle text streams, because that is a universal interface.</p>
+</blockquote>
+
+<p>McIlroy&rsquo;s slightly longer original 4-point formulation is this:</p>
+
+<blockquote>
+  <p>(i) Make each program do one thing well. To do a new job, build afresh rather than complicate old programs by adding new features.</p>
+  
+  <p>(ii) Expect the output of every program to become the input to another, as yet unknown, program. Don&rsquo;t clutter output with extraneous information. Avoid stringently columnar or binary input formats. Don&rsquo;t insist on interactive input.</p>
+  
+  <p>(iii) Design and build software, even operating systems, to be tried early, ideally within weeks. Don&rsquo;t hesitate to throw away the clumsy parts and rebuild them.</p>
+  
+  <p>(iv) Use tools in preference to unskilled help to lighten a programming task, even if you have to detour to build the tools and expect to throw some of them out after you&rsquo;ve finished using them.</p>
+</blockquote>
+
+<p>Mike Gancarz, who worked on the X Window System, summed up the Unix Philosophy in 9 points:</p>
+
+<blockquote>
+  <ol><li>Small is beautiful.</li>
+  <li>Make each program do one thing well.</li>
+  <li>Build a prototype as soon as possible.</li>
+  <li>Choose portability over efficiency.</li>
+  <li>Store data in flat text files.</li>
+  <li>Use software leverage to your advantage.</li>
+  <li>Use shell scripts to increase leverage and portability.</li>
+  <li>Avoid captive user interfaces.</li>
+  <li>Make every program a filter.</li>
+  </ol></blockquote>
+
+<p>That last point really resonates with something that Ryan Dahl has often said, &ldquo;Every program is a proxy.&rdquo;  The first 3 are basically <a href="http://substack.net">James Halliday</a>&rsquo;s rules for living.</p>
+
+<p>All too often, people get hung up on the wrong aspects of the Unix Philosophy, and miss the forest for the trees.  The Unix Philosophy is not about a specific implementation, or anything that is necessarily unique to any Unix operating system or program.  It&rsquo;s not about file descriptors, pipes, sockets, or signals.  Those sorts of complaints are like saying that someone is not a buddhist unless they speak <a href="http://en.wikipedia.org/wiki/Pali">Pali</a>.</p>
+
+<p>Unix Philosophy is an outlook for software development, not any specific technical development in software.  It is an ideal to reach for, and perhaps ironically, it is an ideal that instructs us to occasionally eschew idealism in favor of practicality.</p>
+
+<p>In Node, the basic building block that people share and interact with is not a binary on the command line, but rather a module loaded in by <code>require()</code>.  The universal interface <em>is</em> a text stream, but it&rsquo;s a JavaScript Stream object, rather than a stdio pipe.  (The stdio pipes are of course represented by JavaScript streams, because that is our universal interface, so what else <em>would</em> we use?)</p>
+
+<p>So, in terms of Node.js, here&rsquo;s how I&rsquo;d express the Unix Philosophy.  Alas, I am no McIlroy, and I lack the time or skill to write this any shorter.</p>
+
+<blockquote>
+  <p>Write modules that do one thing well.  Write a new module rather than complicate an old one.</p>
+  
+  <p>Write modules that encourage composition rather than extension.</p>
+  
+  <p>Write modules that handle data Streams, because that is the universal interface.</p>
+  
+  <p>Write modules that are agnostic about the source of their input or the destination of their output.</p>
+  
+  <p>Write modules that solve a problem you know, so you can learn about the ones you don&rsquo;t.</p>
+  
+  <p>Write modules that are small.  Iterate quickly.  Refactor ruthlessly.  Rewrite bravely.</p>
+  
+  <p>Write modules quickly, to meet your needs, with just a few tests for compliance.  Avoid extensive specifications.  Add a test for each bug you fix.</p>
+  
+  <p>Write modules for publication, even if you only use them privately.  You will appreciate documentation in the future.</p>
+  
+  <hr><p>Working is better than perfect.</p>
+  
+  <p>Focus is better than features.</p>
+  
+  <p>Compatibility is better than purity.</p>
+  
+  <p>Simplicity is better than anything.</p>
+</blockquote>
+
+<p>The Unix Philosophy is an ideology of pragmatism.  It is about balancing the twin needs of writing <em>good</em> software, and writing <em>any software at all</em>.  It&rsquo;s a practical set of advice for trading a moderate increase in development cost for a much larger reduction in maintenance costs.</p>
+
+<p>In the real world, we are faced with the completely unfair constraint of being human while writing programs and while debugging them, and none of these costs can ever be reduced to zero.  This ideology is contextual, and can be applied at all levels of the stack.  It is an open acknowledgement that we are actually not smart enough to know how to write the software we need the first time around, because we usually can only fully understand our problems once we have finished solving them.</p>
+
+<p><strong>None of these rules are sacrosanct!</strong>  In fact, in many cases, they can be at odds, or even completely contradictory.  However, if we keep our units of programming small, with simple universal interfaces, we can find leverage the piecemeal structure as a quality ratchet, swapping out clumsy parts as we go along.</p>
+
+<p>Nothing about the Unix Philosophy explicitly relates to a culture of software sharing.  However, it should be no mystery that it comes from the software community where we argue at length about the best <em>way</em> to make our programs properly Free.  Software that is developed according to these principles is easier to share, reuse, repurpose, and maintain.</p>
+<footer>97 notes</footer>
+</article>
+<article class=text id=p-48281002063>
+<header>
+<p><time datetime=2013-04-18T15:25:40Z>04/18/2013 08:25:40</time>
+<a class=llink href=../posts/48281002063.html>¶</a>
+<a href=https://tmblr.co/Z7nwWyiznQ1F>●</a></header>
+<h2>Free as in Hugs Licence</h2>
+<p>Copyright &copy; <code>__AUTHOR_NAME__</code> (&ldquo;Author&rdquo;) and Contributors</p>
+
+<p>All rights reserved.</p>
+
+<p>The &ldquo;Free as in Hugs&rdquo; License</p>
+
+<p>Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions
+are met:</p>
+
+<ol><li><p>Redistributions of source code must retain the above copyright
+notice, this list of conditions and the following disclaimer.</p></li>
+<li><p>Redistributions in binary form must reproduce the above copyright
+notice, this list of conditions and the following disclaimer in the
+documentation and/or other materials provided with the distribution.</p></li>
+<li><p>Users of this software are permitted to offer to hug the Author
+or Contributors, free of charge or obligation.</p></li>
+</ol><p>THIS SOFTWARE AND ANY HUGS ARE PROVIDED BY THE AUTHOR AND CONTRIBUTORS
+&ldquo;AS IS&rdquo; AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
+LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR
+A PARTICULAR PURPOSE ARE DISCLAIMED.  IN NO EVENT SHALL ANYONE BE HELD
+LIABLE FOR ACTUAL HUGS.  IN NO EVENT SHALL THE AUTHOR OR CONTRIBUTORS
+BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR
+CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF
+SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS;
+LONELINESS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY
+OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
+(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
+OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+DON&rsquo;T BE CREEPY.</p>
+<footer>17 notes</footer>
+</article>
+<article class=link id=p-47720012568>
+<header>
+<p><time datetime=2013-04-11T19:55:46Z>04/11/2013 12:55:46</time>
+<a class=llink href=../posts/47720012568.html>¶</a>
+<a href=https://tmblr.co/Z7nwWyiSLPiO>●</a></header>
+<h2><a href="http://jimmymarks.tumblr.com/post/47709399840/to-a-fishstick-dying-young">The Internet is Eating Me: To A Fishstick Dying Young</a></h2>
+<p>Omg.  This is just so so good.  Thank you so much, Jimmy Marks.</p>
+
+<p><a href="http://jimmymarks.tumblr.com/post/47709399840/to-a-fishstick-dying-young" class="tumblr_blog">jimmymarks</a>:</p>
+
+<blockquote>
+<p><em>As we near the inevitable conclusion of You Look Nice Today, my feelings become too much to bear. And when that happens, you get poetry. What follows is my lament for one of the greatest podcasts of all time.</em></p></blockquote>
+<footer>191 notes</footer>
+</article>
+<article class=text id=p-47632399651>
+<header>
+<p><time datetime=2013-04-10T18:09:21Z>04/10/2013 11:09:21</time>
+<a class=llink href=../posts/47632399651.html>¶</a>
+<a href=https://tmblr.co/Z7nwWyiN7BqZ>●</a></header>
+<h2>On Chasing the Right "Zero"</h2>
+<p><a href="http://www.kungfugrippe.com/post/47631308074/chasing-the-right-zero" class="tumblr_blog">merlin</a>:</p>
+
+<blockquote>
+<p>Not to be all “Merlin Mann” or anything, but, maybe somebody will find this useful.</p>
+
+<p>I was recently asked to talk about how I think about the infamous <em>Inbox Zero</em> these days, and here’s what I said:</p>
+
+<p><a href="http://www.kungfugrippe.com/post/47631308074/chasing-the-right-zero">Read More</a></p></blockquote>
+<footer>259 notes</footer>
+</article>
+<article class=text id=p-47116770274>
+<header>
+<p><time datetime=2013-04-04T17:05:00Z>04/04/2013 10:05:00</time>
+<a class=llink href=../posts/47116770274.html>¶</a>
+<a href=https://tmblr.co/Z7nwWyhuODlY>●</a></header>
+<h2>My Foolish π Call of Duty</h2>
+<p>A few days ago, I broke my Twitter.</p>
+
+<p>Let me explain.</p>
+
+<p>I saw <a href="https://twitter.com/scienceporn/status/319234414360010752">this
+tweet</a>
+which links to <a href="http://pic.twitter.com/5V0zC47WR2">this image</a>.</p>
+
+<p>Knowing that <a href="http://en.wikipedia.org/wiki/Normal_number">normal
+numbers</a> are not
+necessarily the same as <a href="http://en.wikipedia.org/wiki/Irrational_number">irrational
+numbers</a>, I thought,
+&ldquo;Oh!  How interesting, there must be some proof that π is normal!  I
+wonder if they have a link, because I&rsquo;d love to read it!&rdquo;</p>
+
+<p>The image, of course, presumes that an infinite
+<a href="http://en.wikipedia.org/wiki/Pseudorandom">pseudorandom</a> sequence of
+digits will contain every digit.  (That is, that any irrational number
+will be normal in base-10, so long as it contains every digit.)</p>
+
+<p>Foolishly, perhaps, I
+<a href="https://twitter.com/izs/status/319235048823992320">replied</a>, and in
+the last few days, I&rsquo;ve been getting about 10 responses per day
+saying, roughly, <strong>DURRR!!! DONT YOU KNOW INFINITE MEANS HAS EVERY
+NUMBER LIKE THE MONKEYS WRITE SHAKE SPEAR?</strong></p>
+
+<p>As a simple proof, consider a number, very close to π, but different
+in the respect that any time a <code>41</code> appears, it is replaced by <code>14</code>.
+Let&rsquo;s call it P.  It would start
+3.1<b>14</b>59265358979323846264338327950288<b>14</b>971
+and continue on forever.</p>
+
+<p>If π is indeed normal in base 10, then clearly P would not be.
+Because any digit sequence that goes <code>41</code> would instead go <code>14</code>, so
+you could never find the first 4 digits of π within the digits of P.</p>
+
+<p>But P is also infinite, irrational, and pseudorandom.  It would
+contain exactly the same ratio of digits as π does, but <em>not</em> have
+every combination.</p>
+
+<p>For the first few days, I explained this over and over again.  Since
+then, I&rsquo;ve simply accepted that my &ldquo;replies&rdquo; tab on Twitter is
+temporarily useless.</p>
+
+<p>As it turns out, π has <a href="http://www.lbl.gov/Science-Articles/Archive/pi-random.html">NOT been proven to be
+normal</a>,
+though it passes all known tests for normality, meaning that it has
+not been proven to <strong>not</strong> be normal either.  The same is true of
+<code>log(2)</code>, <code>e</code>, the square root of 2, and many other natural constants.
+What makes matters worse, there is not (yet?) any proof that these
+things can or cannot be proven, so it may be a wild goose chase as
+infinitely irrational as π itself!</p>
+
+<p>As one might expect, <a href="http://www.youtube.com/watch?v=uXoh6vi6J5U">Vi Hart covered this math question in the most
+entertaining fashion
+possible</a>.</p>
+
+<p>If there was a proof that π is normal, then this would be a
+groundbreaking mathematical insight of historic proportions.</p>
+
+<p>It saddens me deeply that the internet is so full of fools who think
+that such a revolution has not only already occurred, but is obvious
+and foolish to even wonder about.</p>
+
+<p>Sigh.  Duty calls.</p>
+
+<p><a href="http://xkcd.com/386/"><img src="../media/duty_calls.png" title="What do you want me to do?  LEAVE?  Then they'll keep being wrong!" alt="'Are you coming to bed?' 'I can't. This is important.' 'What?' 'Someone is WRONG on the internet'"/></a></p>
+<footer>9 notes</footer>
+</article>
+<article class=text id=p-46863699961>
+<header>
+<p><time datetime=2013-04-01T18:19:00Z>04/01/2013 11:19:00</time>
+<a class=llink href=../posts/46863699961.html>¶</a>
+<a href=https://tmblr.co/Z7nwWyhfIq-v>●</a></header>
+<h2>Wis and Int</h2>
+<p>When I was younger, in my teens and early 20s, I&rsquo;m sure I had a higher IQ than I do now.  I could remember phone numbers months after hearing them once.  I could compute an 18% tip split 5 ways, in my head in a matter of seconds.  I could read highly involved and technical code or philosophy or science, and recall it perfectly.  I could remember every line from movies I&rsquo;d seen once, or all the lyrics of songs I&rsquo;d heard only a few times on the radio.</p>
+
+<p>Back then, I thought that I could think my way out of any problem.  I figured that the existing solutions were clearly not sufficient, because problems continued to exist.  I was definitely smart enough to do this, because I&rsquo;d never met anyone smarter than me (only people with more experience).  My imagination was limitless, or so I thought, and I could not imagine a problem I couldn&rsquo;t solve, so QED it was only a matter of time and persistence.</p>
+
+<p>Luckily for me, I had enough persistence to eventually build up a small bit of wisdom, because in the last 10 or 15 years, a lot of that raw computational brain power has slipped away.  I don&rsquo;t miss it, really.  I have to look things up more often, and I use a calculator.  I have to write down phone numbers, and my calendar is not in my head until I look at it each day.</p>
+
+<p>The feeling of omniscience was pretty awesome, but I&rsquo;m wise enough now to know that it was a mirage in the first place, and that I was a fool to think it was anything but an obstacle.  It was like cocaine, keeping me moving faster, and thinking more highly of myself than was appropriate.  I wasn&rsquo;t really happy; I was just distracted.  As the high of youth wears off a bit more each year, I realize how much I wasted that velocity.  If I&rsquo;d started then on the work I&rsquo;m doing now, I&rsquo;d be so much further ahead!</p>
+
+<p>Wisdom is not intelligence.  In the long run, it&rsquo;s much more important.  For a software developer, or just any rational human being, intelligence gets you in the door, but its purpose is to become the raw material of wisdom.</p>
+
+<p>Take note, clever youngsters:  You will slow down.  You are going to be noticeably less smart in 10 years.  Set yourself up with good habits now.  Be persistent, be calm, be careful.  Develop instincts and compassion.  Flinch towards the dark spots.  The hard part is recognizing that there&rsquo;s anything you need to learn.</p>
+
+<p>We do our societies and our children a disservice by glorifying intellect and achievement, when in fact it is persistence and compassion that make all the difference in life.</p>
+<footer>17 notes</footer>
+</article>
+<article class=chat id=p-46861552201>
+<header>
+<p><time datetime=2013-04-01T17:47:17Z>04/01/2013 10:47:17</time>
+<a class=llink href=../posts/46861552201.html>¶</a>
+<a href=https://tmblr.co/Z7nwWyhfAef9>●</a></header>
+<h2>Promises</h2>
+<p>isaacs: if we had first-class promises in the language, and they had deterministic flow-control properties, and were optimized by the VM, I'd be all about them.<br>
+mikeal: what if your mother and father had never met?</p>
+<footer>7 notes</footer>
+</article>
+<footer><nav><a href=../index.html rel=index>Index</a>
+| <a href=2013-05-p1.html rel=prev>Previous</a>
+| <a href=2013-03-p1.html rel=next>Next</a>
+</nav></footer>
