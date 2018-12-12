@@ -41,7 +41,6 @@ source:
   title: Naterade
   url: >-
     http://nateswinehart.tumblr.com/post/96003256367/being-good-to-each-other-is-so-important-guys
-title: ''
 tumblrid: 96196076923
 type: photo
 via:

@@ -12,7 +12,6 @@ source:
   name: fuckyeahsoulcaliburcreations
   title: 'Fuck Yeah, Soul Calibur Creations!'
   url: 'http://fuckyeahsoulcaliburcreations.tumblr.com/post/85853374764/mega-man'
-title: ''
 tumblrid: 85854861318
 type: photo
 via:

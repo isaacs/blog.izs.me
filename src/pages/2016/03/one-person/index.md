@@ -33,7 +33,6 @@ redirects:
   - /post/141131995198/one-person
   - /post/141131995198
 slug: one-person
-title: ''
 tumblrid: 141131995198
 type: photo
 ---

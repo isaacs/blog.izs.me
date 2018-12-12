@@ -12,7 +12,6 @@ source:
   name: joshuamaysart
   title: Joshua Mays
   url: 'http://joshuamaysart.tumblr.com/post/74302410599/illuminated-path'
-title: ''
 tumblrid: 79510511135
 type: photo
 via:

@@ -4,7 +4,6 @@ redirects:
   - /post/151127781/its-like-her-brain-broke-and-she-started-barfing
   - /post/151127781
 slug: its-like-her-brain-broke-and-she-started-barfing
-title: ''
 tumblrid: 151127781
 type: text
 ---

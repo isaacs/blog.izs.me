@@ -36,7 +36,6 @@ redirects:
   - /post/98906617543/roses-are-pretty
   - /post/98906617543
 slug: roses-are-pretty
-title: ''
 tumblrid: 98906617543
 type: photo
 ---

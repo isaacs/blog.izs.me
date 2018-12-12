@@ -12,7 +12,6 @@ source:
   name: youll-never-get-me-alive-blog
   title: The Come Back Kid
   url: 'http://youll-never-get-me-alive-blog.tumblr.com/post/31010131531'
-title: ''
 tumblrid: 80370116201
 type: photo
 via:

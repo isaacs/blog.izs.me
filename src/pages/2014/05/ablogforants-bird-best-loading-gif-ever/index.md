@@ -12,7 +12,6 @@ source:
   name: ablogforants
   title: 'small posts, big nerd'
   url: 'http://ablogforants.tumblr.com/post/86169721503/birt'
-title: ''
 tumblrid: 87084288903
 type: photo
 via:

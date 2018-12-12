@@ -12,7 +12,6 @@ redirects:
   - /post/144086874308/he-distinctly-said-to-blave
   - /post/144086874308
 slug: he-distinctly-said-to-blave
-title: ''
 tumblrid: 144086874308
 type: photo
 ---

@@ -9,7 +9,6 @@ source:
   title: ''
   url: >-
     http://ofgrammatology.tumblr.com/post/62134937653/if-youre-a-boy-writer-its-a-simple-rule-youve
-title: ''
 tumblrid: 64095106477
 type: quote
 via:

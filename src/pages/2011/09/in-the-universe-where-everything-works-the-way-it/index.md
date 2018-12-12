@@ -4,7 +4,6 @@ redirects:
   - /post/9839460782/in-the-universe-where-everything-works-the-way-it
   - /post/9839460782
 slug: in-the-universe-where-everything-works-the-way-it
-title: ''
 tumblrid: 9839460782
 type: quote
 ---

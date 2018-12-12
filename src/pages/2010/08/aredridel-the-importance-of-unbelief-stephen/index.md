@@ -26,7 +26,6 @@ thumbnail:
   height: 0
   url: ''
   width: 0
-title: ''
 tumblrid: 932528196
 type: video
 via:

@@ -29,7 +29,6 @@ thumbnail:
   height: 221
   url: 'https://i.vimeocdn.com/video/20018595_295x166.jpg'
   width: 295
-title: ''
 tumblrid: 153778348
 type: video
 video_type: vimeo

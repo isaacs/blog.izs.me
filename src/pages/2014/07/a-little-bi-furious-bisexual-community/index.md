@@ -29,7 +29,6 @@ source:
   title: Less Sarcasm. More Focus.
   url: >-
     http://katielittlekinrit.tumblr.com/post/57052392427/orange-is-the-new-black-sexuality
-title: ''
 tumblrid: 93410651713
 type: photo
 via:

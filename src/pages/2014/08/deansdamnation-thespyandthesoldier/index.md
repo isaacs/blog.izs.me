@@ -28,7 +28,6 @@ source:
   name: gameofsnow
   title: winter is coming
   url: 'http://gameofsnow.tumblr.com/post/22121242121/gpoy-arya'
-title: ''
 tumblrid: 95424717983
 type: photo
 via:

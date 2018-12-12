@@ -10,7 +10,6 @@ redirects:
 slug: saga-just-keeps-on-breaking-my-heart
 tags:
   - saga
-title: ''
 tumblrid: 97491198773
 type: photo
 ---

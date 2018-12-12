@@ -19,7 +19,6 @@ source:
   name: dovsherman
   title: Dov Sherman has a Tumblr
   url: 'http://dovsherman.tumblr.com/post/101397818154'
-title: ''
 tumblrid: 117057399388
 type: photo
 via:

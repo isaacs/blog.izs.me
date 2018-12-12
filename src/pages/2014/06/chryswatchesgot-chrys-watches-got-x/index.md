@@ -31,7 +31,6 @@ source:
   name: chryswatchesgot
   title: Chrys Watches Game of Thrones
   url: 'http://chryswatchesgot.tumblr.com/post/89310769191/chrys-watches-got-x'
-title: ''
 tumblrid: 89323088718
 type: photo
 via:

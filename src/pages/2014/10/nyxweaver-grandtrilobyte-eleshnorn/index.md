@@ -9,7 +9,6 @@ source:
   title: Battesimo de Fuoco
   url: >-
     http://nyxweaver-deactivated20150621.tumblr.com/post/97073363399/yall-remember-that-game-in-elementary-school
-title: ''
 tumblrid: 98906344018
 type: text
 via:

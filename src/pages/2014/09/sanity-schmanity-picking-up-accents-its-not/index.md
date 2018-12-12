@@ -13,7 +13,6 @@ source:
   title: What's Life Without A Little Existentialism?
   url: >-
     http://sanity-schmanity.tumblr.com/post/98345738643/picking-up-accents-its-not-weird-have-you
-title: ''
 tumblrid: 98363087308
 type: photo
 via:

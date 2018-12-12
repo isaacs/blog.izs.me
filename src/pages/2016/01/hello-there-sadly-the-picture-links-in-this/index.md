@@ -4,7 +4,6 @@ redirects:
   - /post/137493744663/hello-there-sadly-the-picture-links-in-this
   - /post/137493744663
 slug: hello-there-sadly-the-picture-links-in-this
-title: ''
 tumblrid: 137493744663
 type: answer
 ---

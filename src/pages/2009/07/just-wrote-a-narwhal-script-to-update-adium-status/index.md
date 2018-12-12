@@ -4,7 +4,6 @@ redirects:
   - /post/152569732/just-wrote-a-narwhal-script-to-update-adium-status
   - /post/152569732
 slug: just-wrote-a-narwhal-script-to-update-adium-status
-title: ''
 tumblrid: 152569732
 type: text
 ---

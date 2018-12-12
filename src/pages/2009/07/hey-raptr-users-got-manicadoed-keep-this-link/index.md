@@ -4,7 +4,6 @@ redirects:
   - /post/147434903/hey-raptr-users-got-manicadoed-keep-this-link
   - /post/147434903
 slug: hey-raptr-users-got-manicadoed-keep-this-link
-title: ''
 tumblrid: 147434903
 type: text
 ---

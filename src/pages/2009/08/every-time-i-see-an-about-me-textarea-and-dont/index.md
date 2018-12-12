@@ -4,7 +4,6 @@ redirects:
   - /post/153277242/every-time-i-see-an-about-me-textarea-and-dont
   - /post/153277242
 slug: every-time-i-see-an-about-me-textarea-and-dont
-title: ''
 tumblrid: 153277242
 type: text
 ---

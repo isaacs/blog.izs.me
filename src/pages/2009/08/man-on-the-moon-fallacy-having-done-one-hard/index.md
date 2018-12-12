@@ -4,7 +4,6 @@ redirects:
   - /post/153277240/man-on-the-moon-fallacy-having-done-one-hard
   - /post/153277240
 slug: man-on-the-moon-fallacy-having-done-one-hard
-title: ''
 tumblrid: 153277240
 type: text
 ---

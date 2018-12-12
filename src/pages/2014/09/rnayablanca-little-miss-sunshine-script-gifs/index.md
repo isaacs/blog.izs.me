@@ -48,7 +48,6 @@ source:
   title: 'we watched it all night, we grew up in spite of it'
   url: >-
     http://rnayablanca-blog.tumblr.com/post/33543847927/little-miss-sunshine-script-gifs-dwaynes
-title: ''
 tumblrid: 97488316028
 type: photo
 via:

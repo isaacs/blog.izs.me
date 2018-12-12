@@ -9,7 +9,6 @@ source:
   title: 'to the window, to the walrus'
   url: >-
     http://politicallyincorrectwalrus.tumblr.com/post/90627871675/i-love-the-term-partners-are-we-dating-are-we
-title: ''
 tumblrid: 93755939888
 type: text
 via:

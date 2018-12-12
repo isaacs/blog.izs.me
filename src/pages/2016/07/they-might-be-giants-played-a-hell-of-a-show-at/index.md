@@ -9,7 +9,6 @@ redirects:
   - /post/147836326983/they-might-be-giants-played-a-hell-of-a-show-at
   - /post/147836326983
 slug: they-might-be-giants-played-a-hell-of-a-show-at
-title: ''
 tumblrid: 147836326983
 type: photo
 ---

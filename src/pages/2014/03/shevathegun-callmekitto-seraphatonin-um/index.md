@@ -9,7 +9,6 @@ source:
   title: heroic blogging
   url: >-
     http://seraphatonin.tumblr.com/post/79918002262/um-starfires-powers-are-fueled-by-the-sun-thats
-title: ''
 tumblrid: 80327603251
 type: text
 via:

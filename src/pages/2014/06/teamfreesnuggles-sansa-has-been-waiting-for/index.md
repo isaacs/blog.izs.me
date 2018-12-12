@@ -20,7 +20,6 @@ source:
   title: the message. is subtle.
   url: >-
     http://galangrants.tumblr.com/post/87554437167/sansa-has-been-waiting-for-this-day-for-four-god
-title: ''
 tumblrid: 88454095488
 type: photo
 via:

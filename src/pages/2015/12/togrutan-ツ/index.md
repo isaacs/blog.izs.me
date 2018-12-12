@@ -12,7 +12,6 @@ source:
   name: togrutan
   title: art things
   url: 'http://togrutan.tumblr.com/post/135540730114/ツ'
-title: ''
 tumblrid: 136076294713
 type: photo
 via:

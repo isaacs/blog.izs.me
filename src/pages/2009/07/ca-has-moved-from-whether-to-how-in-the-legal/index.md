@@ -4,7 +4,6 @@ redirects:
   - /post/151451980/ca-has-moved-from-whether-to-how-in-the-legal
   - /post/151451980
 slug: ca-has-moved-from-whether-to-how-in-the-legal
-title: ''
 tumblrid: 151451980
 type: text
 ---

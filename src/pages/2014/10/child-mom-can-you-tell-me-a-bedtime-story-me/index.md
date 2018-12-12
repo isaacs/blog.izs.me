@@ -9,7 +9,6 @@ source:
   title: 'act a fool, girl'
   url: >-
     http://sadie-monster.tumblr.com/post/100456479603/child-mom-can-you-tell-me-a-bedtime-story-me
-title: ''
 tumblrid: 101007816088
 type: chat
 via:

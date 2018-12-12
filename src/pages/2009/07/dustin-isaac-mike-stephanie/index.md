@@ -9,7 +9,6 @@ redirects:
   - /post/147401939/dustin-isaac-mike-stephanie
   - /post/147401939
 slug: dustin-isaac-mike-stephanie
-title: ''
 tumblrid: 147401939
 type: photo
 ---

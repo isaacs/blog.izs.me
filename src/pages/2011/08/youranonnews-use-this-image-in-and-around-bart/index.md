@@ -13,7 +13,6 @@ source:
   title: Your Anon News
   url: >-
     http://youranonnews.tumblr.com/post/8877530155/use-this-image-in-and-around-bart-stations-to-let
-title: ''
 tumblrid: 9271369089
 type: photo
 via:

@@ -15,7 +15,6 @@ source:
   title: Laughing Squid Links
   url: >-
     https://laughingsquid.tumblr.com/post/81321624284/adventure-time-an-art-show-inspired-by-cartoon
-title: ''
 tumblrid: 81622098083
 type: photo
 via:

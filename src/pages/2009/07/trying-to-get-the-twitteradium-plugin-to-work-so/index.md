@@ -4,7 +4,6 @@ redirects:
   - /post/151424879/trying-to-get-the-twitteradium-plugin-to-work-so
   - /post/151424879
 slug: trying-to-get-the-twitteradium-plugin-to-work-so
-title: ''
 tumblrid: 151424879
 type: text
 ---

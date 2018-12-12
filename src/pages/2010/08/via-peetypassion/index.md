@@ -14,7 +14,6 @@ source:
   title: 1Nation.eu
   url: >-
     http://1nationeu-deactivated20170807.tumblr.com/post/515766683/accurate-representation
-title: ''
 tumblrid: 1037486431
 type: photo
 via:

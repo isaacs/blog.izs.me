@@ -4,7 +4,6 @@ redirects:
   - /post/151758696/re-yhoo-and-msft-its-like-watching-old-people
   - /post/151758696
 slug: re-yhoo-and-msft-its-like-watching-old-people
-title: ''
 tumblrid: 151758696
 type: text
 ---

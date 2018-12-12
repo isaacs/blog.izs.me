@@ -41,7 +41,6 @@ source:
   title: Superior Distraction For The Bored.
   url: >-
     http://unamusedsloth.tumblr.com/post/84081781310/so-many-things-to-ponder-in-bear-life
-title: ''
 tumblrid: 108901099753
 type: photo
 via:

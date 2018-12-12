@@ -9,7 +9,6 @@ source:
   title: beautiful chaos
   url: >-
     http://a-laa-mode.tumblr.com/post/110508242170/i-am-16-im-dancing-to-my-favorite-pop-song-at-my
-title: ''
 tumblrid: 110903654968
 type: quote
 via:

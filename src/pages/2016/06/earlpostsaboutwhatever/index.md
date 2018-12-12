@@ -12,7 +12,6 @@ redirects:
   - /post/146366887118/earlpostsaboutwhatever
   - /post/146366887118
 slug: earlpostsaboutwhatever
-title: ''
 tumblrid: 146366887118
 type: photo
 ---

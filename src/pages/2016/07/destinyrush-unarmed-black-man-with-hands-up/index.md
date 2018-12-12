@@ -38,7 +38,6 @@ source:
   title: ms terry
   url: >-
     https://destinyrush.tumblr.com/post/147738460183/unarmed-black-man-with-hands-up-shot-by-police
-title: ''
 tumblrid: 147771202278
 type: photo
 via:

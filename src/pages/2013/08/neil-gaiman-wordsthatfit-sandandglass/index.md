@@ -41,7 +41,6 @@ source:
   title: Sand & Glass
   url: >-
     http://sandandglass.tumblr.com/post/58218206040/jessica-williams-proposes-applying-new-yorks-stop
-title: ''
 tumblrid: 58333991967
 type: photo
 via:

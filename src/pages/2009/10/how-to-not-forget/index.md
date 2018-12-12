@@ -9,7 +9,6 @@ redirects:
   - /post/224102200/how-to-not-forget
   - /post/224102200
 slug: how-to-not-forget
-title: ''
 tumblrid: 224102200
 type: photo
 ---

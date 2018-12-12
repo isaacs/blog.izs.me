@@ -34,7 +34,6 @@ source:
   name: ventai-deactivated20150703
   title: asshole parking
   url: 'http://ventai-deactivated20150703.tumblr.com/post/89025011755'
-title: ''
 tumblrid: 89321084313
 type: photo
 via:

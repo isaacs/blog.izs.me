@@ -41,7 +41,6 @@ source:
   title: All the spice you'll need
   url: >-
     http://alayne-stonecoldfox.tumblr.com/post/106215659809/i-hate-this-asshole-but-i-love-this-asshole
-title: ''
 tumblrid: 108058001293
 type: photo
 via:

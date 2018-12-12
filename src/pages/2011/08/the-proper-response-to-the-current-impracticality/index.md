@@ -9,7 +9,6 @@ source:
   title: 'Hack the Planet, Tumblr Edition'
   url: >-
     http://blog.felter.org/post/9511132205/the-proper-response-to-the-current-impracticality
-title: ''
 tumblrid: 9552484379
 type: quote
 via:

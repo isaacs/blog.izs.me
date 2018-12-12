@@ -41,7 +41,6 @@ source:
   title: Tales of a Vet Student
   url: >-
     http://hoovesandheartbeats.tumblr.com/post/106259877425/source-credit-maki-naro-part-two
-title: ''
 tumblrid: 122009507983
 type: photo
 via:

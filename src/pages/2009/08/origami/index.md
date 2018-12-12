@@ -6,7 +6,6 @@ redirects:
 slug: origami
 tags:
   - _why
-title: ''
 tumblrid: 167539936
 type: quote
 ---

@@ -16,7 +16,6 @@ source:
   name: serialson
   title: Welcome to my jungle
   url: 'http://serialson.tumblr.com/post/86021753296'
-title: ''
 tumblrid: 86063273433
 type: photo
 via:

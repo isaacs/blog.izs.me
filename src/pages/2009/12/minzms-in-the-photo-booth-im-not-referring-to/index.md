@@ -9,7 +9,6 @@ redirects:
   - /post/273432179/minzms-in-the-photo-booth-im-not-referring-to
   - /post/273432179
 slug: minzms-in-the-photo-booth-im-not-referring-to
-title: ''
 tumblrid: 273432179
 type: photo
 ---

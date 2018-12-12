@@ -38,7 +38,6 @@ redirects:
 slug: pb-and-marceline-is-one-of-the-most-poignant-love
 tags:
   - bubbline
-title: ''
 tumblrid: 99517243813
 type: photo
 ---

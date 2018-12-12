@@ -9,7 +9,6 @@ redirects:
   - /post/17508339747/bikes-on-bart-taken-with-instagram
   - /post/17508339747
 slug: bikes-on-bart-taken-with-instagram
-title: ''
 tumblrid: 17508339747
 type: photo
 ---

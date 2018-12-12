@@ -12,7 +12,6 @@ source:
   name: cineraria
   title: cineraria
   url: 'http://cineraria.tumblr.com/post/38381985738/コレは遠くてアレは近い遠近感が騙される映像'
-title: ''
 tumblrid: 88051917973
 type: photo
 via:

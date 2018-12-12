@@ -9,7 +9,6 @@ redirects:
   - /post/177380610/river-people
   - /post/177380610
 slug: river-people
-title: ''
 tumblrid: 177380610
 type: photo
 ---

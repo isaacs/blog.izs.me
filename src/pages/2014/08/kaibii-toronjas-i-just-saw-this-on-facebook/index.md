@@ -13,7 +13,6 @@ source:
   title: toronjas
   url: >-
     http://toronjas.tumblr.com/post/93482328680/i-just-saw-this-on-facebook-o-m-g
-title: ''
 tumblrid: 93755582723
 type: photo
 via:

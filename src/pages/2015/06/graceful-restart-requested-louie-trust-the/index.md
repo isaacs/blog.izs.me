@@ -16,7 +16,6 @@ source:
   name: graceful-restart-requested
   title: Graceful Restart Requested
   url: 'http://graceful-restart-requested.tumblr.com/post/117600767083/louie'
-title: ''
 tumblrid: 121735764388
 type: photo
 via:

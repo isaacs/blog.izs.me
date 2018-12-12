@@ -9,7 +9,6 @@ redirects:
   - /post/17741913725/giantass-ship-as-seen-from-my-desk-taken-with
   - /post/17741913725
 slug: giantass-ship-as-seen-from-my-desk-taken-with
-title: ''
 tumblrid: 17741913725
 type: photo
 ---

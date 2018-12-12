@@ -13,7 +13,6 @@ source:
   title: "\U0001F441‍\U0001F5E8"
   url: >-
     http://sdrgiobhjkfdlbjreiug-deactivate.tumblr.com/post/102639487994/i-hate-that-i-laughed-at-this
-title: ''
 tumblrid: 135523945198
 type: photo
 via:

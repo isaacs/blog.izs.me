@@ -19,7 +19,6 @@ source:
   name: nintendette
   title: Gruckello
   url: 'http://nintendette.tumblr.com/post/91114462807'
-title: ''
 tumblrid: 106429751578
 type: photo
 via:

@@ -9,7 +9,6 @@ redirects:
   - /post/177380429/backlit
   - /post/177380429
 slug: backlit
-title: ''
 tumblrid: 177380429
 type: photo
 ---

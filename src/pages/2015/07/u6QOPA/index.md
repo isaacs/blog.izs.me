@@ -26,7 +26,6 @@ redirects:
 slug: u6QOPA
 tags:
   - sense8
-title: ''
 tumblrid: 123407175228
 type: photo
 ---

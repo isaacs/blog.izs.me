@@ -4,7 +4,6 @@ redirects:
   - /post/152773868/got-a-flickr-shirt-in-the-mail-today-for-fixing-a
   - /post/152773868
 slug: got-a-flickr-shirt-in-the-mail-today-for-fixing-a
-title: ''
 tumblrid: 152773868
 type: text
 ---

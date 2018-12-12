@@ -8,7 +8,6 @@ redirects:
   - /post/29344790548/srsly-github-please-stop-with-these
   - /post/29344790548
 slug: srsly-github-please-stop-with-these
-title: ''
 tumblrid: 29344790548
 type: photo
 ---

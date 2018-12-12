@@ -13,7 +13,6 @@ source:
   title: KIMCHI CUDDLES
   url: >-
     http://kimchicuddles.com/post/123041603900/how-many-partners-is-enough-support-kimchi-get
-title: ''
 tumblrid: 123139528918
 type: photo
 via:

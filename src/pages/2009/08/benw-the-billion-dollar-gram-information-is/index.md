@@ -13,7 +13,6 @@ source:
   name: benw
   title: Ben Ward's Scattered Mind
   url: 'http://benw.tumblr.com/post/165291215'
-title: ''
 tumblrid: 165398768
 type: photo
 via:

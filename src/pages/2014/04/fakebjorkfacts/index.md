@@ -12,7 +12,6 @@ redirects:
   - /post/84035013732/fakebjorkfacts
   - /post/84035013732
 slug: fakebjorkfacts
-title: ''
 tumblrid: 84035013732
 type: photo
 ---

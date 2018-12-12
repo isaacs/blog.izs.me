@@ -8,7 +8,6 @@ redirects:
   - /post/17081603824/i-really-like-the-view-from-where-i-live
   - /post/17081603824
 slug: i-really-like-the-view-from-where-i-live
-title: ''
 tumblrid: 17081603824
 type: photo
 ---

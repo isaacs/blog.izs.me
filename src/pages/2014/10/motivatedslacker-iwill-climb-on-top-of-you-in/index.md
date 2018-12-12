@@ -12,7 +12,6 @@ source:
   name: joala-deactivated20140505
   title: ''
   url: 'http://joala-deactivated20140505.tumblr.com/post/45720476807/im-crying'
-title: ''
 tumblrid: 99419225613
 type: photo
 via:

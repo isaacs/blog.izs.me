@@ -9,7 +9,6 @@ redirects:
   - /post/303248178/node-xmasjs
   - /post/303248178
 slug: node-xmasjs
-title: ''
 tumblrid: 303248178
 type: photo
 ---

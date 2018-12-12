@@ -41,7 +41,6 @@ source:
   title: Mic
   url: >-
     https://micdotcom.tumblr.com/post/157911359898/sportscaster-dale-hansen-defends-student-wrestler
-title: ''
 tumblrid: 157949402743
 type: photo
 via:

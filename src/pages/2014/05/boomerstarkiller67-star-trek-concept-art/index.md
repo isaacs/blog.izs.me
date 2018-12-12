@@ -35,7 +35,6 @@ source:
   title: ATOMIC CHRONOSCAPH
   url: >-
     https://atomic-chronoscaph.tumblr.com/post/83662000683/star-trek-concept-art-enterprise-interior-sets
-title: ''
 tumblrid: 86062727258
 type: photo
 via:

@@ -4,7 +4,6 @@ redirects:
   - /post/151063640/back-to-work-again-its-too-dry-here-no-sun
   - /post/151063640
 slug: back-to-work-again-its-too-dry-here-no-sun
-title: ''
 tumblrid: 151063640
 type: text
 ---

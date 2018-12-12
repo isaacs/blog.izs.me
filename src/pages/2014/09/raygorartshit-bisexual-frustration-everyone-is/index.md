@@ -13,7 +13,6 @@ source:
   title: Raygor's Super Professional Art Blog
   url: >-
     http://raygorartshit.tumblr.com/post/95491797525/bisexual-frustration-everyone-is-hot-and-im
-title: ''
 tumblrid: 97500236773
 type: photo
 via:

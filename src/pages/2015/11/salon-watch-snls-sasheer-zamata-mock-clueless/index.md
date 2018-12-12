@@ -35,7 +35,6 @@ source:
   title: Salon
   url: >-
     http://salon.tumblr.com/post/131748187807/watch-snls-sasheer-zamata-mock-clueless
-title: ''
 tumblrid: 132958956253
 type: photo
 via:

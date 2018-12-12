@@ -10,7 +10,6 @@ redirects:
   - /post/165213610/discover-hostile-towards-exclamation-points
   - /post/165213610
 slug: discover-hostile-towards-exclamation-points
-title: ''
 tumblrid: 165213610
 type: photo
 ---

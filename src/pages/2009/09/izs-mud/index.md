@@ -9,7 +9,6 @@ redirects:
   - /post/177380158/izs-mud
   - /post/177380158
 slug: izs-mud
-title: ''
 tumblrid: 177380158
 type: photo
 ---

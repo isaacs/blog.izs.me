@@ -4,7 +4,6 @@ redirects:
   - /post/151758683/ha-just-realized-that-yui-yuilibrary
   - /post/151758683
 slug: ha-just-realized-that-yui-yuilibrary
-title: ''
 tumblrid: 151758683
 type: text
 ---

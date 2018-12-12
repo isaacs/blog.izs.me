@@ -15,7 +15,6 @@ source:
   title: Let's pretend this never happened.
   url: >-
     http://kateceratops.tumblr.com/post/95390791380/people-are-giving-wilson-money-to-thank-him-for
-title: ''
 tumblrid: 95413503783
 type: photo
 via:

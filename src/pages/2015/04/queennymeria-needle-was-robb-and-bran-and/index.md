@@ -35,7 +35,6 @@ source:
   title: see the fire in your eyes
   url: >-
     http://queennymeria.tumblr.com/post/117480314421/needle-was-robb-and-bran-and-rickon-her-mother
-title: ''
 tumblrid: 117499210193
 type: photo
 via:

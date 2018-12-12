@@ -12,7 +12,6 @@ source:
   name: shalamakingfaces
   title: Shala Making Faces
   url: 'http://shalamakingfaces.tumblr.com/post/97023346985'
-title: ''
 tumblrid: 97891545073
 type: photo
 via:

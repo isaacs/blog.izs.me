@@ -9,7 +9,6 @@ redirects:
   - /post/177380300/scenic
   - /post/177380300
 slug: scenic
-title: ''
 tumblrid: 177380300
 type: photo
 ---

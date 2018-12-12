@@ -9,7 +9,6 @@ redirects:
   - /post/177380226/dam
   - /post/177380226
 slug: dam
-title: ''
 tumblrid: 177380226
 type: photo
 ---

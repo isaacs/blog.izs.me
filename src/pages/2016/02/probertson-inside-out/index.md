@@ -12,7 +12,6 @@ source:
   name: probertson
   title: Paul Robertson
   url: 'http://probertson.tumblr.com/post/128836103074/inside-out'
-title: ''
 tumblrid: 139684200003
 type: photo
 via:

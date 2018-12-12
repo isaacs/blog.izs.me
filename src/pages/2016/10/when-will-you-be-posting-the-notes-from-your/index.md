@@ -4,7 +4,6 @@ redirects:
   - /post/151651196718/when-will-you-be-posting-the-notes-from-your
   - /post/151651196718
 slug: when-will-you-be-posting-the-notes-from-your
-title: ''
 tumblrid: 151651196718
 type: answer
 ---

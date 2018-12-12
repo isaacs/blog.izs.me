@@ -9,7 +9,6 @@ source:
   title: Existential Crisis Factory
   url: >-
     http://existentialcrisisfactory.tumblr.com/post/100529693193/so-my-original-goal-was-to-portray-a-society-that
-title: ''
 tumblrid: 131137886083
 type: quote
 via:

@@ -9,7 +9,6 @@ redirects:
   - /post/177380722/rock-heart
   - /post/177380722
 slug: rock-heart
-title: ''
 tumblrid: 177380722
 type: photo
 ---

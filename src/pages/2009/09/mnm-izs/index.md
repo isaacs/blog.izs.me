@@ -9,7 +9,6 @@ redirects:
   - /post/177380783/mnm-izs
   - /post/177380783
 slug: mnm-izs
-title: ''
 tumblrid: 177380783
 type: photo
 ---

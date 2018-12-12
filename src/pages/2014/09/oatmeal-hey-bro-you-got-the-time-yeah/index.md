@@ -13,7 +13,6 @@ source:
   title: The Oatmeal
   url: >-
     http://oatmeal.tumblr.com/post/97076381806/hey-bro-you-got-the-time-yeah-its-hang
-title: ''
 tumblrid: 97500455948
 type: photo
 via:

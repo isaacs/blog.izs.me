@@ -9,7 +9,6 @@ source:
   title: kung fu grippe
   url: >-
     http://www.kungfugrippe.com/post/80092523111/being-an-expert-isnt-telling-other-people-what
-title: ''
 tumblrid: 80329461274
 type: quote
 via:

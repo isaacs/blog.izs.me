@@ -11,7 +11,6 @@ slug: people-get-built-different-we-dont-need-to
 tags:
   - adventure time
   - bonnibel bubblegum
-title: ''
 tumblrid: 133695914868
 type: photo
 ---

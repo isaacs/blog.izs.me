@@ -9,7 +9,6 @@ redirects:
   - /post/177380867/mnm-sun
   - /post/177380867
 slug: mnm-sun
-title: ''
 tumblrid: 177380867
 type: photo
 ---

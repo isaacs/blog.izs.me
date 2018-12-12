@@ -13,7 +13,6 @@ source:
   title: Gay and warlike
   url: >-
     http://turbomun.tumblr.com/post/79924021480/there-was-a-glitch-on-my-phone-when-i-scrolled
-title: ''
 tumblrid: 93831478203
 type: photo
 via:

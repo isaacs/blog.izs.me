@@ -4,7 +4,6 @@ redirects:
   - /post/147864226/fyi-yuicompressor-is-on-github-now
   - /post/147864226
 slug: fyi-yuicompressor-is-on-github-now
-title: ''
 tumblrid: 147864226
 type: text
 ---

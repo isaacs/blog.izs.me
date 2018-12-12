@@ -9,7 +9,6 @@ redirects:
   - /post/177380931/morning-yoga
   - /post/177380931
 slug: morning-yoga
-title: ''
 tumblrid: 177380931
 type: photo
 ---

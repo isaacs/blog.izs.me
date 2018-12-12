@@ -347,7 +347,6 @@ thumbnail:
   url: >-
     https://scontent-yyz1-1.cdninstagram.com/vp/1d0cfcc3b395338c3f4339d71e5432e9/5C11F9B4/t51.2885-15/e15/s480x480/29095960_1660279784041941_3218192791297327104_n.jpg?_nc_ht=scontent-yyz1-1.cdninstagram.com
   width: 480
-title: ''
 tumblrid: 172351458918
 type: video
 via:

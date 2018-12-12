@@ -9,7 +9,6 @@ redirects:
   - /post/177380095/mnm-mud
   - /post/177380095
 slug: mnm-mud
-title: ''
 tumblrid: 177380095
 type: photo
 ---

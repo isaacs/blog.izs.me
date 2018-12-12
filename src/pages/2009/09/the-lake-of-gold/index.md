@@ -9,7 +9,6 @@ redirects:
   - /post/177379991/the-lake-of-gold
   - /post/177379991
 slug: the-lake-of-gold
-title: ''
 tumblrid: 177379991
 type: photo
 ---

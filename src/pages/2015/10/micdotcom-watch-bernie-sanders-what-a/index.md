@@ -32,7 +32,6 @@ source:
   title: Mic
   url: >-
     https://micdotcom.tumblr.com/post/131154905020/watch-bernie-sanders-what-a-mensch
-title: ''
 tumblrid: 131242128188
 type: photo
 via:

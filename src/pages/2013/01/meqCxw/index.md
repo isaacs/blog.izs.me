@@ -12,7 +12,6 @@ source:
   name: himeshhh-blog
   title: everyday is déjà vu.
   url: 'http://himeshhh-blog.tumblr.com/post/38093555267/hahaha'
-title: ''
 tumblrid: 41236988615
 type: photo
 via:

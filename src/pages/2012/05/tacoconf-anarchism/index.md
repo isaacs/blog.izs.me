@@ -4,7 +4,6 @@ redirects:
   - /post/23048895912/tacoconf-anarchism
   - /post/23048895912
 slug: tacoconf-anarchism
-title: ''
 tumblrid: 23048895912
 type: text
 ---

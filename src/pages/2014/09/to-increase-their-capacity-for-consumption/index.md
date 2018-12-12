@@ -4,7 +4,6 @@ redirects:
   - /post/97438588433/to-increase-their-capacity-for-consumption
   - /post/97438588433
 slug: to-increase-their-capacity-for-consumption
-title: ''
 tumblrid: 97438588433
 type: quote
 ---

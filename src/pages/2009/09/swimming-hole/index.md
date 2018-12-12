@@ -9,7 +9,6 @@ redirects:
   - /post/177380657/swimming-hole
   - /post/177380657
 slug: swimming-hole
-title: ''
 tumblrid: 177380657
 type: photo
 ---

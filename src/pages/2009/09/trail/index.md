@@ -9,7 +9,6 @@ redirects:
   - /post/177380491/trail
   - /post/177380491
 slug: trail
-title: ''
 tumblrid: 177380491
 type: photo
 ---

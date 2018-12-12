@@ -13,7 +13,6 @@ source:
   name: heyfunniest
   title: Collection of funniest posts.
   url: 'http://heyfunniest.tumblr.com/post/76810749616'
-title: ''
 tumblrid: 79672985809
 type: photo
 via:

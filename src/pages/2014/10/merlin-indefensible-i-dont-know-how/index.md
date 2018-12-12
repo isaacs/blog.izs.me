@@ -9,7 +9,6 @@ source:
   title: Who needs a unifying theme anyway?
   url: >-
     http://indefensible.tumblr.com/post/273605615/i-dont-know-how-anybody-with-a-remotely-high
-title: ''
 tumblrid: 100110713113
 type: text
 via:

@@ -9,7 +9,6 @@ redirects:
   - /post/157602152/hope-less-ness
   - /post/157602152
 slug: hope-less-ness
-title: ''
 tumblrid: 157602152
 type: photo
 ---

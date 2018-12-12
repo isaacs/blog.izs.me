@@ -9,7 +9,6 @@ source:
   title: Tobie Langel
   url: >-
     http://tobie.tumblr.com/post/31366970040/when-im-introspective-about-the-last-few-years-i
-title: ''
 tumblrid: 31402336837
 type: quote
 via:

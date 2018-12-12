@@ -34,7 +34,6 @@ source:
   name: iraffiruse
   title: I Raff I Ruse
   url: 'http://iraffiruse.net/post/95418306968'
-title: ''
 tumblrid: 111262914288
 type: photo
 via:

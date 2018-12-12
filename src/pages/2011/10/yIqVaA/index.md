@@ -13,7 +13,6 @@ source:
   name: curvedwhite
   title: Curved White
   url: 'http://curvedwhite.tumblr.com/post/11954403256'
-title: ''
 tumblrid: 11954460008
 type: photo
 via:

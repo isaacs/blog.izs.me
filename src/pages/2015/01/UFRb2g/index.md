@@ -28,7 +28,6 @@ source:
   name: clevahgal
   title: Setting new records for the jeopardy friendly
   url: 'http://clevahgal.tumblr.com/post/105059658803/aziz-ansari-is-a-feminist-x'
-title: ''
 tumblrid: 108721888218
 type: photo
 via:

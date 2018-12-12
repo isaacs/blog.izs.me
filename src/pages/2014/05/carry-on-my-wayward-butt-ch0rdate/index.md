@@ -23,7 +23,6 @@ source:
   title: 'Staff Picks by Siz: Stuff Worth Sharing'
   url: >-
     http://sizvideos.com/post/83605294526/who-needs-traffic-lights-not-the-drivers-in
-title: ''
 tumblrid: 84780402743
 type: photo
 via:

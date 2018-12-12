@@ -4,7 +4,6 @@ redirects:
   - /post/106562694923/new-years-is-the-holiday-where-we-celebrate
   - /post/106562694923
 slug: new-years-is-the-holiday-where-we-celebrate
-title: ''
 tumblrid: 106562694923
 type: text
 ---

@@ -12,7 +12,6 @@ source:
   name: 70sscifiart
   title: 70s Sci-Fi Art
   url: 'http://70sscifiart.tumblr.com/post/91274379207/almost-there'
-title: ''
 tumblrid: 92765928483
 type: photo
 via:

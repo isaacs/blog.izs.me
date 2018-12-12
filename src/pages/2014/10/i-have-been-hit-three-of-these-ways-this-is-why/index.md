@@ -12,7 +12,6 @@ source:
   name: childrenofberlin
   title: NeverNeverSchland
   url: 'https://childrenofberlin.tumblr.com/post/100217587502'
-title: ''
 tumblrid: 100239636903
 type: photo
 via:

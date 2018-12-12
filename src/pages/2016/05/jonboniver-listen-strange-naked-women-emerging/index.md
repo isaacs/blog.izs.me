@@ -9,7 +9,6 @@ source:
   title: human debris
   url: >-
     http://jonboniver.tumblr.com/post/144440880821/listen-strange-naked-women-emerging-from-fires-is
-title: ''
 tumblrid: 144542823298
 type: text
 via:

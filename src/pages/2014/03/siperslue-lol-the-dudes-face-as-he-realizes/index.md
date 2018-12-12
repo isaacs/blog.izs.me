@@ -13,7 +13,6 @@ source:
   title: 'Gin, Lore, and Kensington Gore'
   url: >-
     http://siperslue.tumblr.com/post/72832029013/lol-the-dudes-face-as-he-realizes-he-is-no-match
-title: ''
 tumblrid: 78251395310
 type: photo
 via:

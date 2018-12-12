@@ -9,7 +9,6 @@ source:
   title: T.R.E.A.M
   url: >-
     http://ripelypine-moved.tumblr.com/post/75847972464/my-favourite-part-of-shakespeare-plays-is-the
-title: ''
 tumblrid: 93410318923
 type: text
 via:

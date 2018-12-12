@@ -23,7 +23,6 @@ source:
   title: 'well, anyway...'
   url: >-
     http://taranamgabata.tumblr.com/post/53281999466/did-u-know-theres-this-small-rural-town-in-japan
-title: ''
 tumblrid: 66190056028
 type: photo
 via:

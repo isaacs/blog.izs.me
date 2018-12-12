@@ -4,7 +4,6 @@ redirects:
   - /post/151063628/wanna-know-why-newspapers-are-dying-because-they
   - /post/151063628
 slug: wanna-know-why-newspapers-are-dying-because-they
-title: ''
 tumblrid: 151063628
 type: text
 ---

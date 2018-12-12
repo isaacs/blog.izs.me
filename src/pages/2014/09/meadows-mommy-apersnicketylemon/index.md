@@ -13,7 +13,6 @@ source:
   title: The Search for Truth
   url: >-
     http://revolutioninabox-deactivated201.tumblr.com/post/88980009365/a-pro-life-group-in-lansing-michigan-says-fetal
-title: ''
 tumblrid: 98357802708
 type: photo
 via:

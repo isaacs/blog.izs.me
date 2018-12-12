@@ -30,7 +30,6 @@ thumbnail:
   height: 0
   url: ''
   width: 0
-title: ''
 tumblrid: 84034109019
 type: video
 via:

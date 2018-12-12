@@ -21,7 +21,6 @@ source:
   url: 'http://mastaroshi78.tumblr.com/post/97123118760'
 tags:
   - batmilk
-title: ''
 tumblrid: 97439164318
 type: photo
 via:

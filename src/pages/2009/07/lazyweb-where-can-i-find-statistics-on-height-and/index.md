@@ -4,7 +4,6 @@ redirects:
   - /post/151905789/lazyweb-where-can-i-find-statistics-on-height-and
   - /post/151905789
 slug: lazyweb-where-can-i-find-statistics-on-height-and
-title: ''
 tumblrid: 151905789
 type: text
 ---

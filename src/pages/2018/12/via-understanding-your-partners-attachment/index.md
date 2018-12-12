@@ -26,7 +26,6 @@ tags:
   - humaning
   - interpersonal tools
   - relationships
-title: ''
 track_name: 'Understanding Your Partner’s Attachment Style: An Interview with Stan Tatkin'
 tumblrid: 181032519898
 type: audio

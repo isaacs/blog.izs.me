@@ -26,7 +26,6 @@ source:
   title: ''
   url: >-
     https://thomaholland.tumblr.com/post/161369949970/wonder-woman-2017-dir-patty-jenkins
-title: ''
 tumblrid: 181032414828
 type: photo
 via:

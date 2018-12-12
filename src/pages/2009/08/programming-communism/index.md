@@ -8,7 +8,6 @@ redirects:
   - /post/163600730/programming-communism
   - /post/163600730
 slug: programming-communism
-title: ''
 tumblrid: 163600730
 type: photo
 ---

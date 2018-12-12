@@ -13,7 +13,6 @@ source:
   title: i am your canadian boyfriend
   url: >-
     http://iamyourcanadianboyfriend.com/post/27018698800/a-tv-show-finishes-and-my-wife-turns-to-me-and
-title: ''
 tumblrid: 27130219758
 type: photo
 via:

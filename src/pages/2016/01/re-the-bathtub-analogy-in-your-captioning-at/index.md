@@ -4,7 +4,6 @@ redirects:
   - /post/137493172223/re-the-bathtub-analogy-in-your-captioning-at
   - /post/137493172223
 slug: re-the-bathtub-analogy-in-your-captioning-at
-title: ''
 tumblrid: 137493172223
 type: answer
 ---

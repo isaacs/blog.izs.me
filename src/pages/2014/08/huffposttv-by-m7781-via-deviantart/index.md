@@ -14,7 +14,6 @@ source:
   title: HuffPost Entertainment
   url: >-
     http://huffpostentertainment.tumblr.com/post/93522585046/by-m7781-via-deviantart
-title: ''
 tumblrid: 93607987148
 type: photo
 via:

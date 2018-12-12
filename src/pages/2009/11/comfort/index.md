@@ -12,7 +12,6 @@ tags:
   - cat
   - comfort
   - sun
-title: ''
 tumblrid: 256093424
 type: photo
 ---

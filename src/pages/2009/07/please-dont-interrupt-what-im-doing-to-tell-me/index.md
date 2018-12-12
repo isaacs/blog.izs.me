@@ -4,7 +4,6 @@ redirects:
   - /post/152569730/please-dont-interrupt-what-im-doing-to-tell-me
   - /post/152569730
 slug: please-dont-interrupt-what-im-doing-to-tell-me
-title: ''
 tumblrid: 152569730
 type: text
 ---

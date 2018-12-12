@@ -12,7 +12,6 @@ source:
   name: joshuamaysart
   title: Joshua Mays
   url: 'http://joshuamaysart.tumblr.com/post/52905400104'
-title: ''
 tumblrid: 78359805413
 type: photo
 via:

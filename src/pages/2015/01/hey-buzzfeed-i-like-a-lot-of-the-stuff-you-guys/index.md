@@ -9,7 +9,6 @@ source:
   title: Official Tumblr of BuzzFeed dot com (the website)
   url: >-
     https://buzzfeed.tumblr.com/post/108874060812/hey-buzzfeed-i-like-a-lot-of-the-stuff-you-guys
-title: ''
 tumblrid: 108923656283
 type: answer
 via:

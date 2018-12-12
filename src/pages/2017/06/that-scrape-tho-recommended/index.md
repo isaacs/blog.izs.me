@@ -22,7 +22,6 @@ thumbnail:
   url: >-
     https://scontent-yyz1-1.cdninstagram.com/vp/2519f155ebe3bdde79d557df556f4c13/5C1110D9/t51.2885-15/e15/p480x480/19367827_143985106162650_5593818036839645184_n.jpg
   width: 480
-title: ''
 tumblrid: 162097141938
 type: video
 via:

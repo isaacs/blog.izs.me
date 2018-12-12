@@ -13,7 +13,6 @@ source:
   name: gifcraft
   title: GifCraft
   url: 'http://gifcraft.tumblr.com/post/78256075627'
-title: ''
 tumblrid: 79117728429
 type: photo
 via:

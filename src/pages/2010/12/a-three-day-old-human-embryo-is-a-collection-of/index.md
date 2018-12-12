@@ -9,7 +9,6 @@ source:
   title: Hang in there
   url: >-
     https://creatowdqwdqqdqown.tumblr.com/post/2058313731/a-three-day-old-human-embryo-is-a-collection-of
-title: ''
 tumblrid: 2061428668
 type: quote
 via:

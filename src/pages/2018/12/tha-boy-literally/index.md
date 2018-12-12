@@ -12,7 +12,6 @@ source:
   name: breastforce
   title: titty committee
   url: 'http://breastforce.tumblr.com/post/180782144730'
-title: ''
 tumblrid: 180841118003
 type: photo
 via:

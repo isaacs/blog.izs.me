@@ -69,7 +69,6 @@ thumbnail:
   height: 0
   url: ''
   width: 0
-title: ''
 tumblrid: 173999202
 type: video
 video_type: unknown

@@ -9,7 +9,6 @@ source:
   title: Seldo's Tumblr
   url: >-
     https://seldo.tumblr.com/post/46426322458/alex-and-william-have-only-known-each-other-for-a
-title: ''
 tumblrid: 46426840964
 type: quote
 via:

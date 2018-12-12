@@ -13,7 +13,6 @@ source:
   title: kung fu grippe
   url: >-
     http://www.kungfugrippe.com/post/20689226702/inspecting-the-worlds-most-derp-derp-subway-map
-title: ''
 tumblrid: 20702924104
 type: photo
 via:

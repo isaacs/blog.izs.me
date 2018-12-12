@@ -29,7 +29,6 @@ thumbnail:
   height: 360
   url: 'https://i.ytimg.com/vi/o9pEzgHorH0/hqdefault.jpg'
   width: 480
-title: ''
 tumblrid: 19521376222
 type: video
 video:

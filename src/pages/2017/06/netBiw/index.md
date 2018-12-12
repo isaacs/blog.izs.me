@@ -25,7 +25,6 @@ source:
   name: gorbachops
   title: Reblogging for a Better Future
   url: 'https://gorbachops.tumblr.com/post/142497635024'
-title: ''
 tumblrid: 161563230603
 type: photo
 via:

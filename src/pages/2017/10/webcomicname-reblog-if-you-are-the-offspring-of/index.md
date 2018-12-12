@@ -13,7 +13,6 @@ source:
   title: webcomic name
   url: >-
     http://webcomicname.com/post/154380587284/reblog-if-you-are-the-offspring-of-older-humans
-title: ''
 tumblrid: 166992459873
 type: photo
 via:

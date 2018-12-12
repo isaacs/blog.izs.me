@@ -9,7 +9,6 @@ redirects:
   - /post/40649970381/
   - /post/40649970381
 slug: du1SzQ
-title: ''
 tumblrid: 40649970381
 type: photo
 ---

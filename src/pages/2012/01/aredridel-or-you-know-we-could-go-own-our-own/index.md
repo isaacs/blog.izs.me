@@ -14,7 +14,6 @@ source:
   title: get in loser
   url: >-
     http://samueloser-deactivated20120222.tumblr.com/post/15152527217/remember-back-when-tumblr-didnt-have-all-these
-title: ''
 tumblrid: 15212505704
 type: photo
 via:

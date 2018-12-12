@@ -9,7 +9,6 @@ redirects:
   - /post/242138924/my-new-desktop-background-youre-welcome
   - /post/242138924
 slug: my-new-desktop-background-youre-welcome
-title: ''
 tumblrid: 242138924
 type: photo
 ---

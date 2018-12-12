@@ -13,7 +13,6 @@ source:
   title: birdandmoon.com
   url: >-
     http://birdandmoon.tumblr.com/post/96165973070/dating-isnt-easy-no-matter-who-you-are-this-is
-title: ''
 tumblrid: 97500333583
 type: photo
 via:

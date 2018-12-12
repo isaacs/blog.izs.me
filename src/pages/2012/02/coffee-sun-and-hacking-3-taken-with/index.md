@@ -9,7 +9,6 @@ redirects:
   - /post/18100078521/coffee-sun-and-hacking-3-taken-with
   - /post/18100078521
 slug: coffee-sun-and-hacking-3-taken-with
-title: ''
 tumblrid: 18100078521
 type: photo
 ---

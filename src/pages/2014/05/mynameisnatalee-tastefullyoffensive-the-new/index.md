@@ -20,7 +20,6 @@ source:
   title: Tastefully Offensive on Tumblr
   url: >-
     http://tumblr.tastefullyoffensive.com/post/85664842393/the-new-batman-logo-zacksnyderhappyharrytoons
-title: ''
 tumblrid: 85722095938
 type: photo
 via:

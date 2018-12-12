@@ -12,7 +12,6 @@ source:
   name: icanread
   title: i can read
   url: 'https://icanread.tumblr.com/post/1003458988'
-title: ''
 tumblrid: 1007345170
 type: photo
 via:

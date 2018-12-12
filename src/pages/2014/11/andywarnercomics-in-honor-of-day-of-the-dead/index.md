@@ -23,7 +23,6 @@ source:
   title: Andy Warner
   url: >-
     https://andywarnercomics.tumblr.com/post/101623276094/in-honor-of-day-of-the-dead-heres-a-repost-of-my
-title: ''
 tumblrid: 101764788988
 type: photo
 via:

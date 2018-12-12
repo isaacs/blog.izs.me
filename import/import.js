@@ -69,7 +69,7 @@ const common = data => ({
   date: new Date(data.date),
   // must always have a slug
   slug: data.slug || sluggo(data.id),
-  title: data.title || '',
+  title: data.title || undefined,
   tumblrid: data.id,
   tags: data.tags,
   source: {

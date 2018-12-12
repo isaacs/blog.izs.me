@@ -9,7 +9,6 @@ redirects:
   - /post/177380830/perdon-bridge
   - /post/177380830
 slug: perdon-bridge
-title: ''
 tumblrid: 177380830
 type: photo
 ---

@@ -13,7 +13,6 @@ source:
   title: W3C Memes
   url: >-
     http://w3cmemes.tumblr.com/post/25228936127/learning-how-to-write-good-test-assertions-at
-title: ''
 tumblrid: 33290169040
 type: photo
 via:

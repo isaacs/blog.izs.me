@@ -9,7 +9,6 @@ redirects:
   - /post/298878179/white-xmas-in-reno
   - /post/298878179
 slug: white-xmas-in-reno
-title: ''
 tumblrid: 298878179
 type: photo
 ---

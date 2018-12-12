@@ -4,7 +4,6 @@ redirects:
   - /post/151651108308/im-really-curious-about-the-tj-node-js-story-is
   - /post/151651108308
 slug: im-really-curious-about-the-tj-node-js-story-is
-title: ''
 tumblrid: 151651108308
 type: answer
 ---

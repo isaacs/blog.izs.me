@@ -12,7 +12,6 @@ source:
   name: champagnemanagement
   title: Champagne Management
   url: 'http://champagnemanagement.com/post/104875297721'
-title: ''
 tumblrid: 139700175273
 type: photo
 via:

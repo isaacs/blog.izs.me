@@ -35,7 +35,6 @@ source:
   title: 'I love you all, Marta.'
   url: >-
     http://its-arrested-development.tumblr.com/post/49872289984/you-know-our-familys-really-messed-up-i-know
-title: ''
 tumblrid: 156721319493
 type: photo
 via:

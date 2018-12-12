@@ -9,7 +9,6 @@ redirects:
   - /post/151318283/why-i-use-facebook
   - /post/151318283
 slug: why-i-use-facebook
-title: ''
 tumblrid: 151318283
 type: photo
 ---

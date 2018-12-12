@@ -14,7 +14,6 @@ source:
   name: yallarebrutalizingme-deactivate
   title: 'TW: Laughter! :)'
   url: 'http://yallarebrutalizingme-deactivate.tumblr.com/post/21450647059'
-title: ''
 tumblrid: 116946128418
 type: photo
 via:

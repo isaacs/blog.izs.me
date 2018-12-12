@@ -9,7 +9,6 @@ redirects:
   - /post/233086636/monster-venn-diagram
   - /post/233086636
 slug: monster-venn-diagram
-title: ''
 tumblrid: 233086636
 type: photo
 ---

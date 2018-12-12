@@ -32,7 +32,6 @@ source:
   title: fireproof on repeat
   url: >-
     https://quietasides.tumblr.com/post/145840950971/mark-whether-im-gay-or-not-has-no-reflection
-title: ''
 tumblrid: 145878352723
 type: photo
 via:

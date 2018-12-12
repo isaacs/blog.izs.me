@@ -9,7 +9,6 @@ source:
   title: negativity sandwiches
   url: >-
     http://negativitysandwiches.com/post/138499772525/the-corollary-of-constant-change-is-ignorance
-title: ''
 tumblrid: 138599220888
 type: quote
 via:

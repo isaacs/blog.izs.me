@@ -13,7 +13,6 @@ source:
   title: Max Eating In Places
   url: >-
     http://maxeatinginplaces.tumblr.com/post/30998235598/max-eating-smores-at-node-summer-camp
-title: ''
 tumblrid: 31066306648
 type: photo
 via:

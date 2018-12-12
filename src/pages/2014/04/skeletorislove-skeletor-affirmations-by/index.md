@@ -14,7 +14,6 @@ source:
   title: 'Heal Yourself, Skeletor'
   url: >-
     http://skeletorislove.tumblr.com/post/80773504786/skeletor-affirmations-by-ghoulnextdoor-the
-title: ''
 tumblrid: 83559158383
 type: photo
 via:

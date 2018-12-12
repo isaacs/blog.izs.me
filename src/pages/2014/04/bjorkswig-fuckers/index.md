@@ -13,7 +13,6 @@ source:
   name: ''
   title: WELCOME TO DEEZ NUTS
   url: 'https://www.tumblr.com/blog/private_72331410?33744682978'
-title: ''
 tumblrid: 84034521117
 type: photo
 via:

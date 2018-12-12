@@ -9,7 +9,6 @@ redirects:
   - /post/186612353/in-my-house-right-now-sweet-beautiful-and
   - /post/186612353
 slug: in-my-house-right-now-sweet-beautiful-and
-title: ''
 tumblrid: 186612353
 type: photo
 ---

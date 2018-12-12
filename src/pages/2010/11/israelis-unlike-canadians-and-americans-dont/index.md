@@ -9,7 +9,6 @@ source:
   title: isnot.tv
   url: >-
     http://isnottv.tumblr.com/post/1576880791/israelis-unlike-canadians-and-americans-dont
-title: ''
 tumblrid: 1578029400
 type: quote
 via:

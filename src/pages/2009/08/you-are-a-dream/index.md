@@ -6,7 +6,6 @@ redirects:
 slug: you-are-a-dream
 tags:
   - poem
-title: ''
 tumblrid: 153284018
 type: text
 ---

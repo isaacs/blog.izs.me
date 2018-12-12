@@ -4,7 +4,6 @@ redirects:
   - /post/147723448/i-see-idempotent-gets-as-a-big-invitation-to
   - /post/147723448
 slug: i-see-idempotent-gets-as-a-big-invitation-to
-title: ''
 tumblrid: 147723448
 type: text
 ---

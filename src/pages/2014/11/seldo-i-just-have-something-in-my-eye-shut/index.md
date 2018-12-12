@@ -14,7 +14,6 @@ source:
   title: A rose by any other name...
   url: >-
     http://peek-a-dillo.tumblr.com/post/102877526548/reddit-user-hemeyou-was-left-overwhelmed-by
-title: ''
 tumblrid: 104009679273
 type: photo
 via:

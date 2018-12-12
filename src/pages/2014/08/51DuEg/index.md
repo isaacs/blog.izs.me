@@ -34,7 +34,6 @@ source:
   name: masterfulsarcasm
   title: 'masterfulsarcasm [07/2013 - 04/2017]'
   url: 'http://masterfulsarcasm.tumblr.com/post/56763305311/ryan-gosling-is-awesome'
-title: ''
 tumblrid: 94075153938
 type: photo
 via:

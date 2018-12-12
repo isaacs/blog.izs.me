@@ -14,7 +14,6 @@ source:
   title: Just random thoughts and shit
   url: >-
     http://jtbritto-deactivated20140822.tumblr.com/post/2813988145/what-was-that-you-said
-title: ''
 tumblrid: 2839477869
 type: photo
 via:

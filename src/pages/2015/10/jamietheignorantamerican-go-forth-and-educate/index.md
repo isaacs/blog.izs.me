@@ -41,7 +41,6 @@ source:
   title: J-Popsicles
   url: >-
     https://j-popsicles.tumblr.com/post/72154890106/go-forth-and-educate-yourselves
-title: ''
 tumblrid: 132050942648
 type: photo
 via:

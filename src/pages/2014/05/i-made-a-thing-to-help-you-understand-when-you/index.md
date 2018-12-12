@@ -8,7 +8,6 @@ redirects:
   - /post/85442489663/i-made-a-thing-to-help-you-understand-when-you
   - /post/85442489663
 slug: i-made-a-thing-to-help-you-understand-when-you
-title: ''
 tumblrid: 85442489663
 type: photo
 ---

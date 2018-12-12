@@ -26,7 +26,6 @@ source:
   title: HuffPost
   url: >-
     http://huffpost.tumblr.com/post/126132469464/watch-this-comedian-skewer-anti-abortion
-title: ''
 tumblrid: 126138357748
 type: photo
 via:

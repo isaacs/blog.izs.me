@@ -9,7 +9,6 @@ tags:
   - politics
   - Christian Nation
   - American Secularity
-title: ''
 tumblrid: 165476684
 type: quote
 ---

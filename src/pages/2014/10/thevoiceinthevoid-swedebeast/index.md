@@ -35,7 +35,6 @@ source:
   title: Dr.Restless' Beautiful World
   url: >-
     https://drrestless.tumblr.com/post/48720224626/milo-manara-storia-dellumanità
-title: ''
 tumblrid: 101176529413
 type: photo
 via:

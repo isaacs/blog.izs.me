@@ -14,7 +14,6 @@ source:
   title: kung fu grippe
   url: >-
     http://www.kungfugrippe.com/post/158649660/fuck-fək-vulgar-slang-i-cant-believe-the
-title: ''
 tumblrid: 158714902
 type: photo
 via:

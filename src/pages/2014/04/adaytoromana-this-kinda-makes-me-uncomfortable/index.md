@@ -47,7 +47,6 @@ thumbnail:
   height: 480
   url: 'https://66.media.tumblr.com/tumblr_n17q7q51i71qcecwv_frame1.jpg'
   width: 480
-title: ''
 tumblrid: 84034333846
 type: video
 via:

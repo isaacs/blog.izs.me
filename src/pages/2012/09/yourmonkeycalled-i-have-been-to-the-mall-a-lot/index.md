@@ -13,7 +13,6 @@ source:
   title: your monkey called
   url: >-
     http://yourmonkeycalled.com/post/30947674856/i-have-been-to-the-mall-a-lot-lately
-title: ''
 tumblrid: 30998286230
 type: photo
 via:

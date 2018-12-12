@@ -12,7 +12,6 @@ source:
   name: allanhawkins
   title: '23'
   url: 'http://allanhawkins.tumblr.com/post/98447553338'
-title: ''
 tumblrid: 116336920173
 type: photo
 via:

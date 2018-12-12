@@ -4,7 +4,6 @@ redirects:
   - /post/151063642/its-like-seeing-people-i-know-on-tv-seriously
   - /post/151063642
 slug: its-like-seeing-people-i-know-on-tv-seriously
-title: ''
 tumblrid: 151063642
 type: text
 ---

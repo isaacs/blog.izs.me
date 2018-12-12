@@ -4,7 +4,6 @@ redirects:
   - /post/162146648/politicians-and-diapers-should-be-changed-often
   - /post/162146648
 slug: politicians-and-diapers-should-be-changed-often
-title: ''
 tumblrid: 162146648
 type: quote
 ---

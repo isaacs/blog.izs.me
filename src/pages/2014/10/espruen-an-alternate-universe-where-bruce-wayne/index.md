@@ -29,7 +29,6 @@ source:
   title: Thatonekid
   url: >-
     http://espruen.tumblr.com/post/56289516787/an-alternate-universe-where-bruce-wayne-died
-title: ''
 tumblrid: 99465499318
 type: photo
 via:

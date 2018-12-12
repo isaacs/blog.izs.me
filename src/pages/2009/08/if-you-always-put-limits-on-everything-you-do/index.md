@@ -4,7 +4,6 @@ redirects:
   - /post/155787976/if-you-always-put-limits-on-everything-you-do
   - /post/155787976
 slug: if-you-always-put-limits-on-everything-you-do
-title: ''
 tumblrid: 155787976
 type: quote
 ---
