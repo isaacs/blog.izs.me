@@ -3,7 +3,17 @@
 const mkdirp = require('mkdirp')
 const yaml = require('js-yaml')
 const fs = require('fs')
+const path = require('path')
 const jsondir = `${__dirname}/izs/json`
+const mediadir = `${__dirname}/izs/media`
+const srcdir = `${path.dirname(__dirname)}/src/pages`
+const mediaFiles = fs.readdirSync(mediadir)
+const url = require('url')
+
+// called at the bottom
+const main = () => fs.readdirSync(jsondir)
+  .filter(t => /^[^.].*\.json$/.test(t))
+  .forEach(t => write(parse(require(`${jsondir}/${t}`))))
 
 const deleteUndefined = obj =>
   Object.keys(obj)
@@ -39,11 +49,16 @@ const parse = data => {
   }
 }
 
+const sluggo = n => Buffer.from([
+  (n>>24)%256, (n>>16)%256, (n>>8)%256, n%256
+]).toString('base64').replace(/=+$/, '')
+
 // XXX do something interesting with trail and reblog stuff
 const common = data => ({
   type: data.type,
   date: new Date(data.date),
-  slug: data.slug,
+  // must always have a slug
+  slug: data.slug || sluggo(data.id),
   title: data.title || '',
   tumblrid: data.id,
   tags: data.tags,
@@ -146,14 +161,13 @@ const photo = data => [
   {
     ...common(data),
     // I don't much care about all the alt size stuff
-    // XXX fetch these and swap out with local files in the post folder
     link_url: data.link_url,
     photoset_layout: data.photoset_layout,
     photos: data.photos.map(p => ({
-      alt: p.caption,
+      alt: p.caption || undefined,
       height: p.original_size.height,
       width: p.original_size.width,
-      src: p.original_size.url
+      url: p.original_size.url
     }))
   },
   data.caption
@@ -171,16 +185,58 @@ const link = data => [
   data.description
 ]
 
-const go = data => {
-  try {
-    console.error(markify(parse(data)))
-  } catch (er) {
-    // if (!(er instanceof TypeError) || !/^Unknown post type: /.test(er.message))
-      throw er
-  }
+// replace remote url links to local files from the media folder
+// Copy each one into the post folder if found
+const mediaify = ([ front, content ], postdir) => {
+  let newContent = content
+  mediaFiles.forEach(f => {
+    let found = false
+    const urlexpr = new RegExp('https?://[^"\'> ]+?/' + f + '\\b', 'g')
+    if (urlexpr.test(newContent)) {
+      found = true
+      newContent = newContent.replace(urlexpr, `./${f}`)
+    }
+
+    if (front.type === 'photo') {
+      front.photos = front.photos.map(p => {
+        if (urlexpr.test(p.url)) {
+          p.url = `./${f}`
+          found = true
+        }
+        return p
+      })
+    } else if (front.type === 'audio') {
+      if (urlexpr.test(front.audio.source_url)) {
+        front.audio.source_url =
+          front.audio.source_url.replace(urlexpr, `./${f}`)
+        found = true
+      }
+      if (urlexpr.test(front.audio.url)) {
+        front.audio.url = front.audio.url.replace(urlexpr, `./${f}`)
+        found = true
+      }
+    } else if (front.type === 'video') {
+      if (urlexpr.test(front.thumbnail.url)) {
+        front.thumbnail.url =
+          front.thumbnail.url.replace(urlexpr, `./${f}`)
+        found = true
+      }
+    }
+
+    if (found)
+      fs.copyFileSync(`${mediadir}/${f}`, `${postdir}/${f}`)
+  })
+  return [ front, newContent ]
 }
 
-const tumblrs = fs.readdirSync(jsondir)
-  .filter(t => /^[^.].*\.json$/.test(t))
+const write = ([ front, content ]) => {
+  const YYYY = front.date.getUTCFullYear() + ''
+  const m = front.date.getUTCMonth() + 1
+  const MM = m < 10 ? `0${m}` : `${m}`
+  const postdir = `${srcdir}/${YYYY}/${MM}/${front.slug}`
+  mkdirp.sync(postdir)
+  const markdown = markify(mediaify([front, content], postdir))
+  fs.writeFileSync(`${postdir}/index.md`, markdown)
+}
 
-tumblrs.forEach(tumbl => go(require(`${jsondir}/${tumbl}`)))
+main()
