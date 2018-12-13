@@ -32,7 +32,7 @@ export const query = graphql`
         slug # just the texty bit of the slug, not the gatsby "slug"
         tumblrid
         tags
-        redirects # map from the tumblr urls
+        redirect_from # map from the tumblr urls
 
         # video content
         video {

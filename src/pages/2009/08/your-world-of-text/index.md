@@ -2,7 +2,9 @@
 date: 2009-08-05T03:08:50.000Z
 link_publisher: yourworldoftext.com
 link_url: 'http://www.yourworldoftext.com/'
-redirects:
+redirect_from:
+  - /post/156084739/your-world-of-text/
+  - /post/156084739/
   - /post/156084739/your-world-of-text
   - /post/156084739
 slug: your-world-of-text

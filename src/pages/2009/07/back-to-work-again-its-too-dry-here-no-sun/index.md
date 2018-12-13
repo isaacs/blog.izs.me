@@ -1,6 +1,8 @@
 ---
 date: 2009-07-28T20:23:09.000Z
-redirects:
+redirect_from:
+  - /post/151063640/back-to-work-again-its-too-dry-here-no-sun/
+  - /post/151063640/
   - /post/151063640/back-to-work-again-its-too-dry-here-no-sun
   - /post/151063640
 slug: back-to-work-again-its-too-dry-here-no-sun

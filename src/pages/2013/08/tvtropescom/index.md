@@ -1,6 +1,8 @@
 ---
 date: 2013-08-01T21:29:17.000Z
-redirects:
+redirect_from:
+  - /post/57095129556/tvtropescom/
+  - /post/57095129556/
   - /post/57095129556/tvtropescom
   - /post/57095129556
 slug: tvtropescom

@@ -1,6 +1,8 @@
 ---
 date: 2008-08-04T17:00:11.000Z
-redirects:
+redirect_from:
+  - /post/146672781/why-im-not-working-on-my-startup-yet/
+  - /post/146672781/
   - /post/146672781/why-im-not-working-on-my-startup-yet
   - /post/146672781
 slug: why-im-not-working-on-my-startup-yet

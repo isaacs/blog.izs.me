@@ -1,6 +1,8 @@
 ---
 date: 2013-04-01T17:47:17.000Z
-redirects:
+redirect_from:
+  - /post/46861552201/promises/
+  - /post/46861552201/
   - /post/46861552201/promises
   - /post/46861552201
 slug: promises

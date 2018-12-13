@@ -1,6 +1,8 @@
 ---
 date: 2007-08-01T17:39:31.000Z
-redirects:
+redirect_from:
+  - /post/146671732/marching-to-a-vertical-cadence/
+  - /post/146671732/
   - /post/146671732/marching-to-a-vertical-cadence
   - /post/146671732
 slug: marching-to-a-vertical-cadence

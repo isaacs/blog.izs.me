@@ -1,6 +1,8 @@
 ---
 date: 2009-11-03T18:37:49.000Z
-redirects:
+redirect_from:
+  - /post/232052725/caviar/
+  - /post/232052725/
   - /post/232052725/caviar
   - /post/232052725
 slug: caviar

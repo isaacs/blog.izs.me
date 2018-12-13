@@ -1,6 +1,8 @@
 ---
 date: 2013-03-12T18:57:00.000Z
-redirects:
+redirect_from:
+  - /post/45203330061/complex-system-knowledge-is-not-transferrable/
+  - /post/45203330061/
   - /post/45203330061/complex-system-knowledge-is-not-transferrable
   - /post/45203330061
 slug: complex-system-knowledge-is-not-transferrable

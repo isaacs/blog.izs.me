@@ -1,6 +1,8 @@
 ---
 date: 2012-10-15T01:22:00.000Z
-redirects:
+redirect_from:
+  - /post/33610827882/on-sexism-in-tech/
+  - /post/33610827882/
   - /post/33610827882/on-sexism-in-tech
   - /post/33610827882
 slug: on-sexism-in-tech

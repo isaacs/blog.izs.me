@@ -1,7 +1,9 @@
 ---
 date: 2009-12-07T18:21:00.000Z
 link_url: 'http://www.flickr.com/photos/isaacschlueter/4165952794/'
-redirects:
+redirect_from:
+  - /post/273432179/minzms-in-the-photo-booth-im-not-referring-to/
+  - /post/273432179/
   - /post/273432179/minzms-in-the-photo-booth-im-not-referring-to
   - /post/273432179
 slug: minzms-in-the-photo-booth-im-not-referring-to

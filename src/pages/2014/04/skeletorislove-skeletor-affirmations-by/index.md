@@ -1,7 +1,9 @@
 ---
 date: 2014-04-22T22:49:45.000Z
 link_url: 'https://www.flickr.com/photos/mlleghoul/13424919075/'
-redirects:
+redirect_from:
+  - /post/83559158383/skeletorislove-skeletor-affirmations-by/
+  - /post/83559158383/
   - /post/83559158383/skeletorislove-skeletor-affirmations-by
   - /post/83559158383
 slug: skeletorislove-skeletor-affirmations-by

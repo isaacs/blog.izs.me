@@ -1,6 +1,8 @@
 ---
 date: 2014-10-15T22:35:21.000Z
-redirects:
+redirect_from:
+  - /post/100110713113/merlin-indefensible-i-dont-know-how/
+  - /post/100110713113/
   - /post/100110713113/merlin-indefensible-i-dont-know-how
   - /post/100110713113
 slug: merlin-indefensible-i-dont-know-how

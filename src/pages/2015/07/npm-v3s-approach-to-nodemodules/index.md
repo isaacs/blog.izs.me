@@ -1,6 +1,8 @@
 ---
 date: 2015-07-15T20:53:15.000Z
-redirects:
+redirect_from:
+  - /post/124181902153/npm-v3s-approach-to-nodemodules/
+  - /post/124181902153/
   - /post/124181902153/npm-v3s-approach-to-nodemodules
   - /post/124181902153
 slug: npm-v3s-approach-to-nodemodules

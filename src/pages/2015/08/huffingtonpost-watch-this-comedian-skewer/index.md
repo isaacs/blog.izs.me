@@ -1,6 +1,8 @@
 ---
 date: 2015-08-08T01:36:38.000Z
-redirects:
+redirect_from:
+  - /post/126138357748/huffingtonpost-watch-this-comedian-skewer/
+  - /post/126138357748/
   - /post/126138357748/huffingtonpost-watch-this-comedian-skewer
   - /post/126138357748
 slug: huffingtonpost-watch-this-comedian-skewer

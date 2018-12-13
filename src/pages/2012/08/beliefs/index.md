@@ -1,6 +1,8 @@
 ---
 date: 2012-08-09T05:52:00.000Z
-redirects:
+redirect_from:
+  - /post/29037233542/beliefs/
+  - /post/29037233542/
   - /post/29037233542/beliefs
   - /post/29037233542
 slug: beliefs

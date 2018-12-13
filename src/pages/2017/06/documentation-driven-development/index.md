@@ -1,6 +1,8 @@
 ---
 date: 2017-06-09T21:31:28.000Z
-redirects:
+redirect_from:
+  - /post/161633971373/documentation-driven-development/
+  - /post/161633971373/
   - /post/161633971373/documentation-driven-development
   - /post/161633971373
 slug: documentation-driven-development

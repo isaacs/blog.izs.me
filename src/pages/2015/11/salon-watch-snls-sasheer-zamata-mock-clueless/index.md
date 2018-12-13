@@ -1,6 +1,8 @@
 ---
 date: 2015-11-10T21:56:28.000Z
-redirects:
+redirect_from:
+  - /post/132958956253/salon-watch-snls-sasheer-zamata-mock-clueless/
+  - /post/132958956253/
   - /post/132958956253/salon-watch-snls-sasheer-zamata-mock-clueless
   - /post/132958956253
 slug: salon-watch-snls-sasheer-zamata-mock-clueless

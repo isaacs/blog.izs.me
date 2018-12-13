@@ -1,6 +1,8 @@
 ---
 date: 2014-09-14T17:35:08.000Z
-redirects:
+redirect_from:
+  - /post/97488316028/rnayablanca-little-miss-sunshine-script-gifs/
+  - /post/97488316028/
   - /post/97488316028/rnayablanca-little-miss-sunshine-script-gifs
   - /post/97488316028
 slug: rnayablanca-little-miss-sunshine-script-gifs

@@ -1,7 +1,9 @@
 ---
 date: 2014-11-30T20:59:10.000Z
 link_url: 'http://www.barbaraleatham.co.uk/img/s1/v5/p1653073263-5.jpg'
-redirects:
+redirect_from:
+  - /post/104009679273/seldo-i-just-have-something-in-my-eye-shut/
+  - /post/104009679273/
   - /post/104009679273/seldo-i-just-have-something-in-my-eye-shut
   - /post/104009679273
 slug: seldo-i-just-have-something-in-my-eye-shut

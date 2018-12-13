@@ -1,6 +1,8 @@
 ---
 date: 2007-10-08T17:00:55.000Z
-redirects:
+redirect_from:
+  - /post/146672308/real-world-advice-for-fledgling-web-developers/
+  - /post/146672308/
   - /post/146672308/real-world-advice-for-fledgling-web-developers
   - /post/146672308
 slug: real-world-advice-for-fledgling-web-developers

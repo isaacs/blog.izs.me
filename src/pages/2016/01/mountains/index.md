@@ -1,6 +1,8 @@
 ---
 date: 2016-01-24T02:29:04.000Z
-redirects:
+redirect_from:
+  - /post/137919395923/mountains/
+  - /post/137919395923/
   - /post/137919395923/mountains
   - /post/137919395923
 slug: mountains

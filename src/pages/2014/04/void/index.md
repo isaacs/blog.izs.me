@@ -1,6 +1,8 @@
 ---
 date: 2014-04-27T18:15:48.000Z
-redirects:
+redirect_from:
+  - /post/84040358303/void/
+  - /post/84040358303/
   - /post/84040358303/void
   - /post/84040358303
 slug: void

@@ -1,6 +1,8 @@
 ---
 date: 2014-10-26T17:22:18.000Z
-redirects:
+redirect_from:
+  - /post/101007816088/child-mom-can-you-tell-me-a-bedtime-story-me/
+  - /post/101007816088/
   - /post/101007816088/child-mom-can-you-tell-me-a-bedtime-story-me
   - /post/101007816088
 slug: child-mom-can-you-tell-me-a-bedtime-story-me

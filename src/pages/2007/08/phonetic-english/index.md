@@ -1,6 +1,8 @@
 ---
 date: 2007-08-05T17:00:38.000Z
-redirects:
+redirect_from:
+  - /post/146671793/phonetic-english/
+  - /post/146671793/
   - /post/146671793/phonetic-english
   - /post/146671793
 slug: phonetic-english

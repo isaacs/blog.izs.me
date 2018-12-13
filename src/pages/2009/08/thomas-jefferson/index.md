@@ -1,6 +1,8 @@
 ---
 date: 2009-08-18T05:34:00.000Z
-redirects:
+redirect_from:
+  - /post/165476684/thomas-jefferson/
+  - /post/165476684/
   - /post/165476684/thomas-jefferson
   - /post/165476684
 slug: thomas-jefferson

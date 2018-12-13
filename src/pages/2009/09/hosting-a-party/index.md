@@ -1,6 +1,8 @@
 ---
 date: 2009-09-24T18:01:04.000Z
-redirects:
+redirect_from:
+  - /post/195943619/hosting-a-party/
+  - /post/195943619/
   - /post/195943619/hosting-a-party
   - /post/195943619
 slug: hosting-a-party

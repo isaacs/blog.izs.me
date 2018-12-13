@@ -1,6 +1,8 @@
 ---
 date: 2017-10-05T18:40:27.000Z
-redirects:
+redirect_from:
+  - /post/166082482693/protect-your-npm-account-with-two-factor/
+  - /post/166082482693/
   - /post/166082482693/protect-your-npm-account-with-two-factor
   - /post/166082482693
 slug: protect-your-npm-account-with-two-factor

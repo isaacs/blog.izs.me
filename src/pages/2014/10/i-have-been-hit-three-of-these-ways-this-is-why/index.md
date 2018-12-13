@@ -1,6 +1,8 @@
 ---
 date: 2014-10-17T14:04:21.000Z
-redirects:
+redirect_from:
+  - /post/100239636903/i-have-been-hit-three-of-these-ways-this-is-why/
+  - /post/100239636903/
   - /post/100239636903/i-have-been-hit-three-of-these-ways-this-is-why
   - /post/100239636903
 slug: i-have-been-hit-three-of-these-ways-this-is-why

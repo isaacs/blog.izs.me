@@ -1,6 +1,8 @@
 ---
 date: 2009-08-03T18:30:11.000Z
-redirects:
+redirect_from:
+  - /post/155044797/dfn/
+  - /post/155044797/
   - /post/155044797/dfn
   - /post/155044797
 slug: dfn

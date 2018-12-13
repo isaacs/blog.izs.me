@@ -1,6 +1,8 @@
 ---
 date: 2017-03-22T22:35:09.000Z
-redirects:
+redirect_from:
+  - /post/158718273983/announcing-free-orgs/
+  - /post/158718273983/
   - /post/158718273983/announcing-free-orgs
   - /post/158718273983
 slug: announcing-free-orgs

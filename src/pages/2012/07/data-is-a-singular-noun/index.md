@@ -2,7 +2,9 @@
 date: 2012-07-23T16:18:12.000Z
 link_publisher: purl.org
 link_url: 'http://purl.org/nxg/note/singular-data'
-redirects:
+redirect_from:
+  - /post/27839438666/data-is-a-singular-noun/
+  - /post/27839438666/
   - /post/27839438666/data-is-a-singular-noun
   - /post/27839438666
 slug: data-is-a-singular-noun

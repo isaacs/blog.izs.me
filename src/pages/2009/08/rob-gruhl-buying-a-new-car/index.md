@@ -1,6 +1,8 @@
 ---
 date: 2009-08-06T04:17:41.000Z
-redirects:
+redirect_from:
+  - /post/156905341/rob-gruhl-buying-a-new-car/
+  - /post/156905341/
   - /post/156905341/rob-gruhl-buying-a-new-car
   - /post/156905341
 slug: rob-gruhl-buying-a-new-car

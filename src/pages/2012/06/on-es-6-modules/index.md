@@ -1,6 +1,8 @@
 ---
 date: 2012-06-26T04:25:00.000Z
-redirects:
+redirect_from:
+  - /post/25906678790/on-es-6-modules/
+  - /post/25906678790/
   - /post/25906678790/on-es-6-modules
   - /post/25906678790
 slug: on-es-6-modules

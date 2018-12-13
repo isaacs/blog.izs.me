@@ -1,6 +1,8 @@
 ---
 date: 2007-12-03T20:10:17.000Z
-redirects:
+redirect_from:
+  - /post/146672492/surgical-team-or-motley-crew-of-adventurers/
+  - /post/146672492/
   - /post/146672492/surgical-team-or-motley-crew-of-adventurers
   - /post/146672492
 slug: surgical-team-or-motley-crew-of-adventurers

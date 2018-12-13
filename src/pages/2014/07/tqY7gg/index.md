@@ -1,6 +1,8 @@
 ---
 date: 2014-07-30T00:34:16.000Z
-redirects:
+redirect_from:
+  - /post/93258660738//
+  - /post/93258660738/
   - /post/93258660738/
   - /post/93258660738
 slug: tqY7gg

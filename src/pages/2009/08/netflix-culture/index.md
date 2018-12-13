@@ -1,6 +1,8 @@
 ---
 date: 2009-08-28T17:02:53.000Z
-redirects:
+redirect_from:
+  - /post/173999202/netflix-culture/
+  - /post/173999202/
   - /post/173999202/netflix-culture
   - /post/173999202
 slug: netflix-culture

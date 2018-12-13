@@ -1,6 +1,8 @@
 ---
 date: 2009-08-12T17:02:46.000Z
-redirects:
+redirect_from:
+  - /post/161378842/on-leadership/
+  - /post/161378842/
   - /post/161378842/on-leadership
   - /post/161378842
 slug: on-leadership

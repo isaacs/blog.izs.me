@@ -1,6 +1,8 @@
 ---
 date: 2015-09-16T20:09:48.000Z
-redirects:
+redirect_from:
+  - /post/129232935178/how-to-apologize/
+  - /post/129232935178/
   - /post/129232935178/how-to-apologize
   - /post/129232935178
 slug: how-to-apologize

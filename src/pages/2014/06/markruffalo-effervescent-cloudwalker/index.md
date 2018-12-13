@@ -1,6 +1,8 @@
 ---
 date: 2014-06-07T04:53:59.000Z
-redirects:
+redirect_from:
+  - /post/88051917973/markruffalo-effervescent-cloudwalker/
+  - /post/88051917973/
   - /post/88051917973/markruffalo-effervescent-cloudwalker
   - /post/88051917973
 slug: markruffalo-effervescent-cloudwalker

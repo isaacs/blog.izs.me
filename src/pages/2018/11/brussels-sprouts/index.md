@@ -1,6 +1,8 @@
 ---
 date: 2018-11-20T01:17:15.000Z
-redirects:
+redirect_from:
+  - /post/180292536993/brussels-sprouts/
+  - /post/180292536993/
   - /post/180292536993/brussels-sprouts
   - /post/180292536993
 slug: brussels-sprouts

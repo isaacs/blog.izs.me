@@ -1,6 +1,8 @@
 ---
 date: 2008-11-10T22:36:59.000Z
-redirects:
+redirect_from:
+  - /post/146672879/my-letter-to-obama/
+  - /post/146672879/
   - /post/146672879/my-letter-to-obama
   - /post/146672879
 slug: my-letter-to-obama

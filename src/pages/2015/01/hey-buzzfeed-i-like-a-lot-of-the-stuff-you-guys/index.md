@@ -1,6 +1,8 @@
 ---
 date: 2015-01-23T16:48:02.000Z
-redirects:
+redirect_from:
+  - /post/108923656283/hey-buzzfeed-i-like-a-lot-of-the-stuff-you-guys/
+  - /post/108923656283/
   - /post/108923656283/hey-buzzfeed-i-like-a-lot-of-the-stuff-you-guys
   - /post/108923656283
 slug: hey-buzzfeed-i-like-a-lot-of-the-stuff-you-guys

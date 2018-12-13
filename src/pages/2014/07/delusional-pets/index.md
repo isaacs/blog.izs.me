@@ -1,6 +1,8 @@
 ---
 date: 2014-07-17T21:24:00.000Z
-redirects:
+redirect_from:
+  - /post/92081259973/delusional-pets/
+  - /post/92081259973/
   - /post/92081259973/delusional-pets
   - /post/92081259973
 slug: delusional-pets

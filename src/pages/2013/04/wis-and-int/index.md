@@ -1,6 +1,8 @@
 ---
 date: 2013-04-01T18:19:00.000Z
-redirects:
+redirect_from:
+  - /post/46863699961/wis-and-int/
+  - /post/46863699961/
   - /post/46863699961/wis-and-int
   - /post/46863699961
 slug: wis-and-int

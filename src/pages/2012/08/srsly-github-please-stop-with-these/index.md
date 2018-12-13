@@ -1,6 +1,8 @@
 ---
 date: 2012-08-13T17:15:00.000Z
-redirects:
+redirect_from:
+  - /post/29344790548/srsly-github-please-stop-with-these/
+  - /post/29344790548/
   - /post/29344790548/srsly-github-please-stop-with-these
   - /post/29344790548
 slug: srsly-github-please-stop-with-these

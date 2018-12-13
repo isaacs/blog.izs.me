@@ -1,6 +1,8 @@
 ---
 date: 2016-01-17T18:46:01.000Z
-redirects:
+redirect_from:
+  - /post/137494028408/nvc-and-oss/
+  - /post/137494028408/
   - /post/137494028408/nvc-and-oss
   - /post/137494028408
 slug: nvc-and-oss

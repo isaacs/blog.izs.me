@@ -1,6 +1,8 @@
 ---
 date: 2012-09-12T15:42:05.000Z
-redirects:
+redirect_from:
+  - /post/31402336837/when-im-introspective-about-the-last-few-years-i/
+  - /post/31402336837/
   - /post/31402336837/when-im-introspective-about-the-last-few-years-i
   - /post/31402336837
 slug: when-im-introspective-about-the-last-few-years-i

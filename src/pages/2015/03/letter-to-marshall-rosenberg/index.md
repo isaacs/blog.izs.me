@@ -1,6 +1,8 @@
 ---
 date: 2015-03-05T22:16:37.000Z
-redirects:
+redirect_from:
+  - /post/112818868228/letter-to-marshall-rosenberg/
+  - /post/112818868228/
   - /post/112818868228/letter-to-marshall-rosenberg
   - /post/112818868228
 slug: letter-to-marshall-rosenberg

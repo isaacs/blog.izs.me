@@ -1,6 +1,8 @@
 ---
 date: 2010-01-20T09:03:00.000Z
-redirects:
+redirect_from:
+  - /post/344073374/shared-flashback/
+  - /post/344073374/
   - /post/344073374/shared-flashback
   - /post/344073374
 slug: shared-flashback

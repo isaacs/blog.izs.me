@@ -1,6 +1,8 @@
 ---
 date: 2016-07-21T23:59:24.000Z
-redirects:
+redirect_from:
+  - /post/147771202278/destinyrush-unarmed-black-man-with-hands-up/
+  - /post/147771202278/
   - /post/147771202278/destinyrush-unarmed-black-man-with-hands-up
   - /post/147771202278
 slug: destinyrush-unarmed-black-man-with-hands-up

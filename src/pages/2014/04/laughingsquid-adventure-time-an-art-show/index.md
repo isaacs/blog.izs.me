@@ -2,7 +2,9 @@
 date: 2014-04-03T22:18:55.000Z
 link_url: >-
   http://laughingsquid.com/adventure-time-an-art-show-inspired-by-cartoon-networks-animated-tv-series-at-gallery1988-west-in-los-angeles/
-redirects:
+redirect_from:
+  - /post/81622098083/laughingsquid-adventure-time-an-art-show/
+  - /post/81622098083/
   - /post/81622098083/laughingsquid-adventure-time-an-art-show
   - /post/81622098083
 slug: laughingsquid-adventure-time-an-art-show

@@ -1,6 +1,8 @@
 ---
 date: 2013-11-06T23:59:50.000Z
-redirects:
+redirect_from:
+  - /post/66229008443/yuireactions-the-rare-striped-izs-spotted-in/
+  - /post/66229008443/
   - /post/66229008443/yuireactions-the-rare-striped-izs-spotted-in
   - /post/66229008443
 slug: yuireactions-the-rare-striped-izs-spotted-in

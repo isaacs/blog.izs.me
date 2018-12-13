@@ -82,7 +82,12 @@ const common = data => ({
     title: data.reblogged_from_title,
     url: data.reblogged_from_url
   },
-  redirects: [ `/post/${data.id}/${data.slug}`, `/post/${data.id}` ],
+  redirect_from: [
+    `/post/${data.id}/${data.slug}/`,
+    `/post/${data.id}/`,
+    `/post/${data.id}/${data.slug}`,
+    `/post/${data.id}`
+  ],
 })
 
 const audio = data => [

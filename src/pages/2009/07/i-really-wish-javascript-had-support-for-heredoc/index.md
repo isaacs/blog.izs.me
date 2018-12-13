@@ -1,6 +1,8 @@
 ---
 date: 2009-07-31T00:10:52.000Z
-redirects:
+redirect_from:
+  - /post/152569734/i-really-wish-javascript-had-support-for-heredoc/
+  - /post/152569734/
   - /post/152569734/i-really-wish-javascript-had-support-for-heredoc
   - /post/152569734
 slug: i-really-wish-javascript-had-support-for-heredoc

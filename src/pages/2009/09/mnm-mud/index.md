@@ -1,7 +1,9 @@
 ---
 date: 2009-09-01T21:24:16.000Z
 link_url: 'http://www.flickr.com/photos/isaacschlueter/3878403050/'
-redirects:
+redirect_from:
+  - /post/177380095/mnm-mud/
+  - /post/177380095/
   - /post/177380095/mnm-mud
   - /post/177380095
 slug: mnm-mud

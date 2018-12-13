@@ -1,6 +1,8 @@
 ---
 date: 2009-08-20T19:45:14.000Z
-redirects:
+redirect_from:
+  - /post/167539936/origami/
+  - /post/167539936/
   - /post/167539936/origami
   - /post/167539936
 slug: origami

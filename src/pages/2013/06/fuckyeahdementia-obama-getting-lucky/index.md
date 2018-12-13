@@ -1,6 +1,8 @@
 ---
 date: 2013-06-25T15:35:20.000Z
-redirects:
+redirect_from:
+  - /post/53846823123/fuckyeahdementia-obama-getting-lucky/
+  - /post/53846823123/
   - /post/53846823123/fuckyeahdementia-obama-getting-lucky
   - /post/53846823123
 slug: fuckyeahdementia-obama-getting-lucky

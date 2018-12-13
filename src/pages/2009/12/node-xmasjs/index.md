@@ -1,7 +1,9 @@
 ---
 date: 2009-12-27T21:47:21.000Z
 link_url: 'http://skitch.com/isaacschlueter/npd4j/node-xmas.js'
-redirects:
+redirect_from:
+  - /post/303248178/node-xmasjs/
+  - /post/303248178/
   - /post/303248178/node-xmasjs
   - /post/303248178
 slug: node-xmasjs

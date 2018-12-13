@@ -1,6 +1,8 @@
 ---
 date: 2009-07-29T07:00:04.000Z
-redirects:
+redirect_from:
+  - /post/151424879/trying-to-get-the-twitteradium-plugin-to-work-so/
+  - /post/151424879/
   - /post/151424879/trying-to-get-the-twitteradium-plugin-to-work-so
   - /post/151424879
 slug: trying-to-get-the-twitteradium-plugin-to-work-so

@@ -1,6 +1,8 @@
 ---
 date: 2012-12-10T19:05:00.000Z
-redirects:
+redirect_from:
+  - /post/37650663670/git-rebase/
+  - /post/37650663670/
   - /post/37650663670/git-rebase
   - /post/37650663670
 slug: git-rebase

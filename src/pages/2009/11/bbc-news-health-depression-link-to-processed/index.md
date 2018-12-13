@@ -2,7 +2,9 @@
 date: 2009-11-03T00:08:22.000Z
 link_publisher: news.bbc.co.uk
 link_url: 'http://news.bbc.co.uk/2/hi/health/8334353.stm'
-redirects:
+redirect_from:
+  - /post/231248696/bbc-news-health-depression-link-to-processed/
+  - /post/231248696/
   - /post/231248696/bbc-news-health-depression-link-to-processed
   - /post/231248696
 slug: bbc-news-health-depression-link-to-processed

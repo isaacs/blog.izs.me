@@ -1,6 +1,8 @@
 ---
 date: 2012-02-05T07:33:55.000Z
-redirects:
+redirect_from:
+  - /post/17081603824/i-really-like-the-view-from-where-i-live/
+  - /post/17081603824/
   - /post/17081603824/i-really-like-the-view-from-where-i-live
   - /post/17081603824
 slug: i-really-like-the-view-from-where-i-live

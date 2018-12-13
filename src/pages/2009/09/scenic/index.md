@@ -1,7 +1,9 @@
 ---
 date: 2009-09-01T21:24:33.000Z
 link_url: 'http://www.flickr.com/photos/isaacschlueter/3878402028/'
-redirects:
+redirect_from:
+  - /post/177380300/scenic/
+  - /post/177380300/
   - /post/177380300/scenic
   - /post/177380300
 slug: scenic

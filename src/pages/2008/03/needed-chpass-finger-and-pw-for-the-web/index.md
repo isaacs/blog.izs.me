@@ -1,6 +1,8 @@
 ---
 date: 2008-03-10T17:00:38.000Z
-redirects:
+redirect_from:
+  - /post/146672596/needed-chpass-finger-and-pw-for-the-web/
+  - /post/146672596/
   - /post/146672596/needed-chpass-finger-and-pw-for-the-web
   - /post/146672596
 slug: needed-chpass-finger-and-pw-for-the-web

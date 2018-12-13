@@ -1,6 +1,8 @@
 ---
 date: 2015-07-07T18:02:00.000Z
-redirects:
+redirect_from:
+  - /post/123475998053/i-am-the-very-model-of-a-modern-package-manager/
+  - /post/123475998053/
   - /post/123475998053/i-am-the-very-model-of-a-modern-package-manager
   - /post/123475998053
 slug: i-am-the-very-model-of-a-modern-package-manager

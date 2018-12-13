@@ -1,6 +1,8 @@
 ---
 date: 2008-09-27T21:35:55.000Z
-redirects:
+redirect_from:
+  - /post/146672834/software-development-meme/
+  - /post/146672834/
   - /post/146672834/software-development-meme
   - /post/146672834
 slug: software-development-meme

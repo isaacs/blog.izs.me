@@ -1,6 +1,8 @@
 ---
 date: 2016-11-09T18:24:03.000Z
-redirects:
+redirect_from:
+  - /post/152958568678/economic-uncertainty/
+  - /post/152958568678/
   - /post/152958568678/economic-uncertainty
   - /post/152958568678
 slug: economic-uncertainty

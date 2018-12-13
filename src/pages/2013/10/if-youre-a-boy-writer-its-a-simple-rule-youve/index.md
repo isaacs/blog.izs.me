@@ -1,6 +1,8 @@
 ---
 date: 2013-10-15T05:46:23.000Z
-redirects:
+redirect_from:
+  - /post/64095106477/if-youre-a-boy-writer-its-a-simple-rule-youve/
+  - /post/64095106477/
   - /post/64095106477/if-youre-a-boy-writer-its-a-simple-rule-youve
   - /post/64095106477
 slug: if-youre-a-boy-writer-its-a-simple-rule-youve

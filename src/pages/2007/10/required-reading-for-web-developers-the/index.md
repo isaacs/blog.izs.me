@@ -1,6 +1,8 @@
 ---
 date: 2007-10-29T17:00:58.000Z
-redirects:
+redirect_from:
+  - /post/146672376/required-reading-for-web-developers-the/
+  - /post/146672376/
   - /post/146672376/required-reading-for-web-developers-the
   - /post/146672376
 slug: required-reading-for-web-developers-the

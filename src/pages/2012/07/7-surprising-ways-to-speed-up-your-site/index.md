@@ -1,6 +1,8 @@
 ---
 date: 2012-07-11T18:10:00.000Z
-redirects:
+redirect_from:
+  - /post/26989258789/7-surprising-ways-to-speed-up-your-site/
+  - /post/26989258789/
   - /post/26989258789/7-surprising-ways-to-speed-up-your-site
   - /post/26989258789
 slug: 7-surprising-ways-to-speed-up-your-site

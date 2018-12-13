@@ -3,7 +3,9 @@ date: 2013-10-21T22:01:00.000Z
 link_publisher: nudityandnerdery.tumblr.com
 link_url: >-
   http://nudityandnerdery.tumblr.com/post/63995327460/see-what-you-need-to-understand-is-that-not-all
-redirects:
+redirect_from:
+  - /post/64715005741/nudity-and-nerdery-on-not-all-guys-are-like/
+  - /post/64715005741/
   - /post/64715005741/nudity-and-nerdery-on-not-all-guys-are-like
   - /post/64715005741
 slug: nudity-and-nerdery-on-not-all-guys-are-like

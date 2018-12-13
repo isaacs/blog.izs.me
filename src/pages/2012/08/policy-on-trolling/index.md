@@ -1,6 +1,8 @@
 ---
 date: 2012-08-23T15:25:00.000Z
-redirects:
+redirect_from:
+  - /post/30036893703/policy-on-trolling/
+  - /post/30036893703/
   - /post/30036893703/policy-on-trolling
   - /post/30036893703
 slug: policy-on-trolling

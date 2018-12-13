@@ -3,7 +3,9 @@ date: 2009-09-15T03:50:19.000Z
 link_publisher: newscientist.com
 link_url: >-
   http://www.newscientist.com/article/mg20327251.100-better-world-legalise-drugs.html
-redirects:
+redirect_from:
+  - /post/188231664/better-world-legalise-drugs-11-september-2009/
+  - /post/188231664/
   - /post/188231664/better-world-legalise-drugs-11-september-2009
   - /post/188231664
 slug: better-world-legalise-drugs-11-september-2009

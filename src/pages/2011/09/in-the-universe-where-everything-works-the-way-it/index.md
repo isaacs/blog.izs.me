@@ -1,6 +1,8 @@
 ---
 date: 2011-09-05T17:22:32.000Z
-redirects:
+redirect_from:
+  - /post/9839460782/in-the-universe-where-everything-works-the-way-it/
+  - /post/9839460782/
   - /post/9839460782/in-the-universe-where-everything-works-the-way-it
   - /post/9839460782
 slug: in-the-universe-where-everything-works-the-way-it

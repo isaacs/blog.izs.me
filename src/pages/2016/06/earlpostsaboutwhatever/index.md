@@ -1,6 +1,8 @@
 ---
 date: 2016-06-23T18:49:20.000Z
-redirects:
+redirect_from:
+  - /post/146366887118/earlpostsaboutwhatever/
+  - /post/146366887118/
   - /post/146366887118/earlpostsaboutwhatever
   - /post/146366887118
 slug: earlpostsaboutwhatever

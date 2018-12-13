@@ -1,6 +1,8 @@
 ---
 date: 2012-04-08T07:02:52.000Z
-redirects:
+redirect_from:
+  - /post/20702924104/merlin-inspecting-the-worlds-most-derp-derp/
+  - /post/20702924104/
   - /post/20702924104/merlin-inspecting-the-worlds-most-derp-derp
   - /post/20702924104
 slug: merlin-inspecting-the-worlds-most-derp-derp

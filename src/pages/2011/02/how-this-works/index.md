@@ -1,6 +1,8 @@
 ---
 date: 2011-02-20T01:54:00.000Z
-redirects:
+redirect_from:
+  - /post/3393190720/how-this-works/
+  - /post/3393190720/
   - /post/3393190720/how-this-works
   - /post/3393190720
 slug: how-this-works

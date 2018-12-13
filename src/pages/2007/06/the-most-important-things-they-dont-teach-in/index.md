@@ -1,6 +1,8 @@
 ---
 date: 2007-06-03T03:27:04.000Z
-redirects:
+redirect_from:
+  - /post/146671374/the-most-important-things-they-dont-teach-in/
+  - /post/146671374/
   - /post/146671374/the-most-important-things-they-dont-teach-in
   - /post/146671374
 slug: the-most-important-things-they-dont-teach-in

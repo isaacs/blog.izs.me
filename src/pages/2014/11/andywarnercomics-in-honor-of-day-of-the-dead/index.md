@@ -1,6 +1,8 @@
 ---
 date: 2014-11-04T16:17:32.000Z
-redirects:
+redirect_from:
+  - /post/101764788988/andywarnercomics-in-honor-of-day-of-the-dead/
+  - /post/101764788988/
   - /post/101764788988/andywarnercomics-in-honor-of-day-of-the-dead
   - /post/101764788988
 slug: andywarnercomics-in-honor-of-day-of-the-dead

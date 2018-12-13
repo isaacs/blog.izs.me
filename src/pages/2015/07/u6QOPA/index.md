@@ -1,6 +1,8 @@
 ---
 date: 2015-07-06T22:45:02.000Z
-redirects:
+redirect_from:
+  - /post/123407175228//
+  - /post/123407175228/
   - /post/123407175228/
   - /post/123407175228
 slug: u6QOPA

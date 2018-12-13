@@ -1,6 +1,8 @@
 ---
 date: 2014-03-14T01:03:48.000Z
-redirects:
+redirect_from:
+  - /post/79510511135/joshuamaysart-illuminated-path-a-fixture-in/
+  - /post/79510511135/
   - /post/79510511135/joshuamaysart-illuminated-path-a-fixture-in
   - /post/79510511135
 slug: joshuamaysart-illuminated-path-a-fixture-in

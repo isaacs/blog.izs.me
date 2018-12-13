@@ -1,6 +1,8 @@
 ---
 date: 2007-07-30T19:40:56.000Z
-redirects:
+redirect_from:
+  - /post/146671666/companies-dont-eat-your-brains/
+  - /post/146671666/
   - /post/146671666/companies-dont-eat-your-brains
   - /post/146671666
 slug: companies-dont-eat-your-brains

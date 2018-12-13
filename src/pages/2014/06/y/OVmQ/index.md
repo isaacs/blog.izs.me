@@ -1,6 +1,8 @@
 ---
 date: 2014-06-20T02:42:44.000Z
-redirects:
+redirect_from:
+  - /post/89321084313//
+  - /post/89321084313/
   - /post/89321084313/
   - /post/89321084313
 slug: y/OVmQ

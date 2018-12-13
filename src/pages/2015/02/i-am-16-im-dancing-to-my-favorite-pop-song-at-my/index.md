@@ -1,6 +1,8 @@
 ---
 date: 2015-02-13T16:10:54.000Z
-redirects:
+redirect_from:
+  - /post/110903654968/i-am-16-im-dancing-to-my-favorite-pop-song-at-my/
+  - /post/110903654968/
   - /post/110903654968/i-am-16-im-dancing-to-my-favorite-pop-song-at-my
   - /post/110903654968
 slug: i-am-16-im-dancing-to-my-favorite-pop-song-at-my

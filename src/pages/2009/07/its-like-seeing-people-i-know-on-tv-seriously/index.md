@@ -1,6 +1,8 @@
 ---
 date: 2009-07-28T20:23:09.000Z
-redirects:
+redirect_from:
+  - /post/151063642/its-like-seeing-people-i-know-on-tv-seriously/
+  - /post/151063642/
   - /post/151063642/its-like-seeing-people-i-know-on-tv-seriously
   - /post/151063642
 slug: its-like-seeing-people-i-know-on-tv-seriously

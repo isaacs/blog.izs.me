@@ -1,6 +1,8 @@
 ---
 date: 2009-08-02T18:29:58.000Z
-redirects:
+redirect_from:
+  - /post/154357980/sharing/
+  - /post/154357980/
   - /post/154357980/sharing
   - /post/154357980
 slug: sharing

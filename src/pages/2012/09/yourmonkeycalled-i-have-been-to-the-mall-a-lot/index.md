@@ -1,6 +1,8 @@
 ---
 date: 2012-09-06T16:01:07.000Z
-redirects:
+redirect_from:
+  - /post/30998286230/yourmonkeycalled-i-have-been-to-the-mall-a-lot/
+  - /post/30998286230/
   - /post/30998286230/yourmonkeycalled-i-have-been-to-the-mall-a-lot
   - /post/30998286230
 slug: yourmonkeycalled-i-have-been-to-the-mall-a-lot

@@ -1,6 +1,8 @@
 ---
 date: 2014-03-22T16:32:58.000Z
-redirects:
+redirect_from:
+  - /post/80370116201/theghostofyourliess-mens-rights-activists/
+  - /post/80370116201/
   - /post/80370116201/theghostofyourliess-mens-rights-activists
   - /post/80370116201
 slug: theghostofyourliess-mens-rights-activists

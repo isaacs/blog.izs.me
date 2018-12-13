@@ -1,6 +1,8 @@
 ---
 date: 2017-03-03T18:01:58.000Z
-redirects:
+redirect_from:
+  - /post/157949402743/2jam4u-micdotcom-sportscaster-dale-hansen/
+  - /post/157949402743/
   - /post/157949402743/2jam4u-micdotcom-sportscaster-dale-hansen
   - /post/157949402743
 slug: 2jam4u-micdotcom-sportscaster-dale-hansen

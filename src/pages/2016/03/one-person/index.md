@@ -1,6 +1,8 @@
 ---
 date: 2016-03-16T05:38:17.000Z
-redirects:
+redirect_from:
+  - /post/141131995198/one-person/
+  - /post/141131995198/
   - /post/141131995198/one-person
   - /post/141131995198
 slug: one-person

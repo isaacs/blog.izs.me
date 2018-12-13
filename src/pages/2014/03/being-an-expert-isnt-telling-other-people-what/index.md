@@ -1,6 +1,8 @@
 ---
 date: 2014-03-22T04:32:18.000Z
-redirects:
+redirect_from:
+  - /post/80329461274/being-an-expert-isnt-telling-other-people-what/
+  - /post/80329461274/
   - /post/80329461274/being-an-expert-isnt-telling-other-people-what
   - /post/80329461274
 slug: being-an-expert-isnt-telling-other-people-what

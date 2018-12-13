@@ -1,6 +1,8 @@
 ---
 date: 2015-02-17T08:12:39.000Z
-redirects:
+redirect_from:
+  - /post/111262914288/hunstantonlies-this-has-fucked-with-my-mind/
+  - /post/111262914288/
   - /post/111262914288/hunstantonlies-this-has-fucked-with-my-mind
   - /post/111262914288
 slug: hunstantonlies-this-has-fucked-with-my-mind

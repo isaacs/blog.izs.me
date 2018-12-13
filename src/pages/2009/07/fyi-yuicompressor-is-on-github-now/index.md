@@ -1,6 +1,8 @@
 ---
 date: 2009-07-23T23:48:32.000Z
-redirects:
+redirect_from:
+  - /post/147864226/fyi-yuicompressor-is-on-github-now/
+  - /post/147864226/
   - /post/147864226/fyi-yuicompressor-is-on-github-now
   - /post/147864226
 slug: fyi-yuicompressor-is-on-github-now

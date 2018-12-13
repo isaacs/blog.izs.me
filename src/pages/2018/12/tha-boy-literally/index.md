@@ -1,6 +1,8 @@
 ---
 date: 2018-12-05T23:18:16.000Z
-redirects:
+redirect_from:
+  - /post/180841118003/tha-boy-literally/
+  - /post/180841118003/
   - /post/180841118003/tha-boy-literally
   - /post/180841118003
 slug: tha-boy-literally

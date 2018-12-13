@@ -1,6 +1,8 @@
 ---
 date: 2014-12-08T18:00:00.000Z
-redirects:
+redirect_from:
+  - /post/104685388058/iojs/
+  - /post/104685388058/
   - /post/104685388058/iojs
   - /post/104685388058
 slug: iojs

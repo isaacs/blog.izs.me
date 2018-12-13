@@ -1,6 +1,8 @@
 ---
 date: 2014-09-26T19:16:32.000Z
-redirects:
+redirect_from:
+  - /post/98485938728/when-izs-is-summoned-to-a-github-issue/
+  - /post/98485938728/
   - /post/98485938728/when-izs-is-summoned-to-a-github-issue
   - /post/98485938728
 slug: when-izs-is-summoned-to-a-github-issue

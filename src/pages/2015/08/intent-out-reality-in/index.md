@@ -1,6 +1,8 @@
 ---
 date: 2015-08-14T00:59:56.000Z
-redirects:
+redirect_from:
+  - /post/126629885733/intent-out-reality-in/
+  - /post/126629885733/
   - /post/126629885733/intent-out-reality-in
   - /post/126629885733
 slug: intent-out-reality-in

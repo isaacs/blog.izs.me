@@ -1,6 +1,8 @@
 ---
 date: 2015-05-29T15:56:43.000Z
-redirects:
+redirect_from:
+  - /post/120192965998/sponsoring-captioning-at-jsconf-2015/
+  - /post/120192965998/
   - /post/120192965998/sponsoring-captioning-at-jsconf-2015
   - /post/120192965998
 slug: sponsoring-captioning-at-jsconf-2015

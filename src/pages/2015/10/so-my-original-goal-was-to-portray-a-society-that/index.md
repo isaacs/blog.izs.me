@@ -1,6 +1,8 @@
 ---
 date: 2015-10-14T04:57:37.000Z
-redirects:
+redirect_from:
+  - /post/131137886083/so-my-original-goal-was-to-portray-a-society-that/
+  - /post/131137886083/
   - /post/131137886083/so-my-original-goal-was-to-portray-a-society-that
   - /post/131137886083
 slug: so-my-original-goal-was-to-portray-a-society-that

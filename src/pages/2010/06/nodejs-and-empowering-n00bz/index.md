@@ -1,6 +1,8 @@
 ---
 date: 2010-06-23T21:59:00.000Z
-redirects:
+redirect_from:
+  - /post/729604080/nodejs-and-empowering-n00bz/
+  - /post/729604080/
   - /post/729604080/nodejs-and-empowering-n00bz
   - /post/729604080
 slug: nodejs-and-empowering-n00bz

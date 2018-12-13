@@ -3,7 +3,9 @@ date: 2009-08-26T23:51:53.000Z
 link_publisher: booksearch.blogspot.com
 link_url: >-
   http://booksearch.blogspot.com/2009/08/download-over-million-public-domain.html
-redirects:
+redirect_from:
+  - /post/172491316/inside-google-books-download-over-a-million/
+  - /post/172491316/
   - /post/172491316/inside-google-books-download-over-a-million
   - /post/172491316
 slug: inside-google-books-download-over-a-million

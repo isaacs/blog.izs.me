@@ -1,6 +1,8 @@
 ---
 date: 2010-05-18T19:53:40.000Z
-redirects:
+redirect_from:
+  - /post/610824567/steps/
+  - /post/610824567/
   - /post/610824567/steps
   - /post/610824567
 slug: steps

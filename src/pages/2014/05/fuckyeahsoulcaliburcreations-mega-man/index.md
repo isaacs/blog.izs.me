@@ -1,6 +1,8 @@
 ---
 date: 2014-05-15T22:02:55.000Z
-redirects:
+redirect_from:
+  - /post/85854861318/fuckyeahsoulcaliburcreations-mega-man/
+  - /post/85854861318/
   - /post/85854861318/fuckyeahsoulcaliburcreations-mega-man
   - /post/85854861318
 slug: fuckyeahsoulcaliburcreations-mega-man

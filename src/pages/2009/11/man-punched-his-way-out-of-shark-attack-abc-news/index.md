@@ -2,7 +2,9 @@
 date: 2009-11-09T19:56:09.000Z
 link_publisher: abc.net.au
 link_url: 'http://www.abc.net.au/news/stories/2009/11/09/2737744.htm?section=justin'
-redirects:
+redirect_from:
+  - /post/238327910/man-punched-his-way-out-of-shark-attack-abc-news/
+  - /post/238327910/
   - /post/238327910/man-punched-his-way-out-of-shark-attack-abc-news
   - /post/238327910
 slug: man-punched-his-way-out-of-shark-attack-abc-news

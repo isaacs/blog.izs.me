@@ -1,6 +1,8 @@
 ---
 date: 2014-08-11T17:20:00.000Z
-redirects:
+redirect_from:
+  - /post/94447377848/i-dont-see-race/
+  - /post/94447377848/
   - /post/94447377848/i-dont-see-race
   - /post/94447377848
 slug: i-dont-see-race

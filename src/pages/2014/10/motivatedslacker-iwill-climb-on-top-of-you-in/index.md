@@ -1,6 +1,8 @@
 ---
 date: 2014-10-07T18:52:00.000Z
-redirects:
+redirect_from:
+  - /post/99419225613/motivatedslacker-iwill-climb-on-top-of-you-in/
+  - /post/99419225613/
   - /post/99419225613/motivatedslacker-iwill-climb-on-top-of-you-in
   - /post/99419225613
 slug: motivatedslacker-iwill-climb-on-top-of-you-in

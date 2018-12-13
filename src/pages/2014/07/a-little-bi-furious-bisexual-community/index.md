@@ -1,6 +1,8 @@
 ---
 date: 2014-07-31T15:46:44.000Z
-redirects:
+redirect_from:
+  - /post/93410651713/a-little-bi-furious-bisexual-community/
+  - /post/93410651713/
   - /post/93410651713/a-little-bi-furious-bisexual-community
   - /post/93410651713
 slug: a-little-bi-furious-bisexual-community

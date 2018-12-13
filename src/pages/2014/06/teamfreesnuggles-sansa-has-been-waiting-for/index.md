@@ -1,6 +1,8 @@
 ---
 date: 2014-06-11T06:52:21.000Z
-redirects:
+redirect_from:
+  - /post/88454095488/teamfreesnuggles-sansa-has-been-waiting-for/
+  - /post/88454095488/
   - /post/88454095488/teamfreesnuggles-sansa-has-been-waiting-for
   - /post/88454095488
 slug: teamfreesnuggles-sansa-has-been-waiting-for

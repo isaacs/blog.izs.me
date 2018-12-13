@@ -1,6 +1,8 @@
 ---
 date: 2014-12-28T18:55:54.000Z
-redirects:
+redirect_from:
+  - /post/106429751578//
+  - /post/106429751578/
   - /post/106429751578/
   - /post/106429751578
 slug: x7UhGg

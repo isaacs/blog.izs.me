@@ -1,6 +1,8 @@
 ---
 date: 2008-07-25T17:35:46.000Z
-redirects:
+redirect_from:
+  - /post/146672761/routers-and-ethics/
+  - /post/146672761/
   - /post/146672761/routers-and-ethics
   - /post/146672761
 slug: routers-and-ethics

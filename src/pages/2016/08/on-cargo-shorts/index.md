@@ -1,6 +1,8 @@
 ---
 date: 2016-08-05T18:21:30.000Z
-redirects:
+redirect_from:
+  - /post/148505193468/on-cargo-shorts/
+  - /post/148505193468/
   - /post/148505193468/on-cargo-shorts
   - /post/148505193468
 slug: on-cargo-shorts

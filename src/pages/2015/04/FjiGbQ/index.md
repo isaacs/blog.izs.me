@@ -1,6 +1,8 @@
 ---
 date: 2015-04-13T23:53:39.000Z
-redirects:
+redirect_from:
+  - /post/116336920173//
+  - /post/116336920173/
   - /post/116336920173/
   - /post/116336920173
 slug: FjiGbQ

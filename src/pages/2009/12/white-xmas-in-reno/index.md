@@ -1,7 +1,9 @@
 ---
 date: 2009-12-24T19:56:25.000Z
 link_url: 'http://skitch.com/isaacschlueter/nc73t/white-xmas-in-reno'
-redirects:
+redirect_from:
+  - /post/298878179/white-xmas-in-reno/
+  - /post/298878179/
   - /post/298878179/white-xmas-in-reno
   - /post/298878179
 slug: white-xmas-in-reno

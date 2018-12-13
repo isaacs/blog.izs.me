@@ -1,6 +1,8 @@
 ---
 date: 2015-07-17T17:43:53.000Z
-redirects:
+redirect_from:
+  - /post/124339476323/the-phonetic-troll-alphabet/
+  - /post/124339476323/
   - /post/124339476323/the-phonetic-troll-alphabet
   - /post/124339476323
 slug: the-phonetic-troll-alphabet

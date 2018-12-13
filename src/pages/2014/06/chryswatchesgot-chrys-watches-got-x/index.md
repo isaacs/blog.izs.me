@@ -1,6 +1,8 @@
 ---
 date: 2014-06-20T03:05:54.000Z
-redirects:
+redirect_from:
+  - /post/89323088718/chryswatchesgot-chrys-watches-got-x/
+  - /post/89323088718/
   - /post/89323088718/chryswatchesgot-chrys-watches-got-x
   - /post/89323088718
 slug: chryswatchesgot-chrys-watches-got-x

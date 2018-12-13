@@ -1,6 +1,8 @@
 ---
 date: 2014-05-18T01:42:49.000Z
-redirects:
+redirect_from:
+  - /post/86062727258/boomerstarkiller67-star-trek-concept-art/
+  - /post/86062727258/
   - /post/86062727258/boomerstarkiller67-star-trek-concept-art
   - /post/86062727258
 slug: boomerstarkiller67-star-trek-concept-art

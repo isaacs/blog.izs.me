@@ -1,6 +1,8 @@
 ---
 date: 2013-04-18T15:45:00.000Z
-redirects:
+redirect_from:
+  - /post/48281998870/unix-philosophy-and-nodejs/
+  - /post/48281998870/
   - /post/48281998870/unix-philosophy-and-nodejs
   - /post/48281998870
 slug: unix-philosophy-and-nodejs

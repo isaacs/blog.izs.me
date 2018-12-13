@@ -1,6 +1,8 @@
 ---
 date: 2014-09-14T20:00:42.000Z
-redirects:
+redirect_from:
+  - /post/97500455948/oatmeal-hey-bro-you-got-the-time-yeah/
+  - /post/97500455948/
   - /post/97500455948/oatmeal-hey-bro-you-got-the-time-yeah
   - /post/97500455948
 slug: oatmeal-hey-bro-you-got-the-time-yeah

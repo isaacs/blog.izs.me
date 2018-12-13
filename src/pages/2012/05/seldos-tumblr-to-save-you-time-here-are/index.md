@@ -3,7 +3,9 @@ date: 2012-05-19T03:47:00.000Z
 link_publisher: seldo.tumblr.com
 link_url: >-
   http://seldo.tumblr.com/post/23277913183/to-save-you-time-here-are-fridays-tech-headlines-in
-redirects:
+redirect_from:
+  - /post/23331036786/seldos-tumblr-to-save-you-time-here-are/
+  - /post/23331036786/
   - /post/23331036786/seldos-tumblr-to-save-you-time-here-are
   - /post/23331036786
 slug: seldos-tumblr-to-save-you-time-here-are

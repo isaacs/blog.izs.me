@@ -1,6 +1,8 @@
 ---
 date: 2009-08-13T17:00:36.000Z
-redirects:
+redirect_from:
+  - /post/162146648/politicians-and-diapers-should-be-changed-often/
+  - /post/162146648/
   - /post/162146648/politicians-and-diapers-should-be-changed-often
   - /post/162146648
 slug: politicians-and-diapers-should-be-changed-often

@@ -1,6 +1,8 @@
 ---
 date: 2014-06-05T16:16:00.000Z
-redirects:
+redirect_from:
+  - /post/87902115343/re-maven-is-like-my-girlfriend/
+  - /post/87902115343/
   - /post/87902115343/re-maven-is-like-my-girlfriend
   - /post/87902115343
 slug: re-maven-is-like-my-girlfriend

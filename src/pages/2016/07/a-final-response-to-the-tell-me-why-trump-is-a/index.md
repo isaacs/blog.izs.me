@@ -3,7 +3,9 @@ date: 2016-07-27T21:46:30.000Z
 link_publisher: reddit.com
 link_url: >-
   https://www.reddit.com/r/EnoughTrumpSpam/comments/4teoxl/a_final_response_to_the_tell_me_why_trump_is_a/?compact=true
-redirects:
+redirect_from:
+  - /post/148066431308/a-final-response-to-the-tell-me-why-trump-is-a/
+  - /post/148066431308/
   - /post/148066431308/a-final-response-to-the-tell-me-why-trump-is-a
   - /post/148066431308
 slug: a-final-response-to-the-tell-me-why-trump-is-a

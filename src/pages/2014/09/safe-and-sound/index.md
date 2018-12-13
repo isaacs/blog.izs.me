@@ -1,6 +1,8 @@
 ---
 date: 2014-09-16T00:38:00.000Z
-redirects:
+redirect_from:
+  - /post/97608305028/safe-and-sound/
+  - /post/97608305028/
   - /post/97608305028/safe-and-sound
   - /post/97608305028
 slug: safe-and-sound

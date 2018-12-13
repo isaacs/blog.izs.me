@@ -1,7 +1,9 @@
 ---
 date: 2012-02-12T20:56:43.000Z
 link_url: 'http://instagr.am/p/G63dr6Mb3w/'
-redirects:
+redirect_from:
+  - /post/17508339747/bikes-on-bart-taken-with-instagram/
+  - /post/17508339747/
   - /post/17508339747/bikes-on-bart-taken-with-instagram
   - /post/17508339747
 slug: bikes-on-bart-taken-with-instagram

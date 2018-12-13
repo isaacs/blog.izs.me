@@ -1,6 +1,8 @@
 ---
 date: 2016-02-02T21:26:01.000Z
-redirects:
+redirect_from:
+  - /post/138563331483/promises-vs-eventual-values/
+  - /post/138563331483/
   - /post/138563331483/promises-vs-eventual-values
   - /post/138563331483
 slug: promises-vs-eventual-values

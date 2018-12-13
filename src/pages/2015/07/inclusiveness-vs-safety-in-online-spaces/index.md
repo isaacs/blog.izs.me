@@ -1,6 +1,8 @@
 ---
 date: 2015-07-13T05:54:48.000Z
-redirects:
+redirect_from:
+  - /post/123957916668/inclusiveness-vs-safety-in-online-spaces/
+  - /post/123957916668/
   - /post/123957916668/inclusiveness-vs-safety-in-online-spaces
   - /post/123957916668
 slug: inclusiveness-vs-safety-in-online-spaces

@@ -1,6 +1,8 @@
 ---
 date: 2013-03-12T17:06:00.000Z
-redirects:
+redirect_from:
+  - /post/45196990126/everyone-has-a-price/
+  - /post/45196990126/
   - /post/45196990126/everyone-has-a-price
   - /post/45196990126
 slug: everyone-has-a-price

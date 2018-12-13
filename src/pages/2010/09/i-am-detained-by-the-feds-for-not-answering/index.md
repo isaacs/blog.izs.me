@@ -3,7 +3,9 @@ date: 2010-09-11T19:27:57.000Z
 link_publisher: knifetricks.blogspot.com
 link_url: >-
   http://knifetricks.blogspot.com/2010/04/i-am-detained-by-feds-for-not-answering.html
-redirects:
+redirect_from:
+  - /post/1104278901/i-am-detained-by-the-feds-for-not-answering/
+  - /post/1104278901/
   - /post/1104278901/i-am-detained-by-the-feds-for-not-answering
   - /post/1104278901
 slug: i-am-detained-by-the-feds-for-not-answering

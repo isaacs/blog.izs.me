@@ -1,6 +1,8 @@
 ---
 date: 2010-03-17T08:22:16.000Z
-redirects:
+redirect_from:
+  - /post/454074851/mozyhomeunlimited-not-for-os-x-server/
+  - /post/454074851/
   - /post/454074851/mozyhomeunlimited-not-for-os-x-server
   - /post/454074851
 slug: mozyhomeunlimited-not-for-os-x-server

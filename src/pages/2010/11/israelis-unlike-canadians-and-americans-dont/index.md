@@ -1,6 +1,8 @@
 ---
 date: 2010-11-15T03:13:31.000Z
-redirects:
+redirect_from:
+  - /post/1578029400/israelis-unlike-canadians-and-americans-dont/
+  - /post/1578029400/
   - /post/1578029400/israelis-unlike-canadians-and-americans-dont
   - /post/1578029400
 slug: israelis-unlike-canadians-and-americans-dont

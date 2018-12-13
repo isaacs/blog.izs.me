@@ -1,6 +1,8 @@
 ---
 date: 2011-08-31T19:23:31.000Z
-redirects:
+redirect_from:
+  - /post/9634944126/new-recruiter-response/
+  - /post/9634944126/
   - /post/9634944126/new-recruiter-response
   - /post/9634944126
 slug: new-recruiter-response

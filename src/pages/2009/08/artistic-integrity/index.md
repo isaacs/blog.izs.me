@@ -1,6 +1,8 @@
 ---
 date: 2009-08-18T17:36:23.000Z
-redirects:
+redirect_from:
+  - /post/165820987/artistic-integrity/
+  - /post/165820987/
   - /post/165820987/artistic-integrity
   - /post/165820987
 slug: artistic-integrity

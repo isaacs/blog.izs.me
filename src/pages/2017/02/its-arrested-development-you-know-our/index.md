@@ -1,6 +1,8 @@
 ---
 date: 2017-02-02T17:40:29.000Z
-redirects:
+redirect_from:
+  - /post/156721319493/its-arrested-development-you-know-our/
+  - /post/156721319493/
   - /post/156721319493/its-arrested-development-you-know-our
   - /post/156721319493
 slug: its-arrested-development-you-know-our

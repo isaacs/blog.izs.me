@@ -1,6 +1,8 @@
 ---
 date: 2009-11-19T19:01:00.000Z
-redirects:
+redirect_from:
+  - /post/249874378/implication-v-causation/
+  - /post/249874378/
   - /post/249874378/implication-v-causation
   - /post/249874378
 slug: implication-v-causation

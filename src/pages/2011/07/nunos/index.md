@@ -1,6 +1,8 @@
 ---
 date: 2011-07-14T00:25:08.000Z
-redirects:
+redirect_from:
+  - /post/7593162547/nunos/
+  - /post/7593162547/
   - /post/7593162547/nunos
   - /post/7593162547
 slug: nunos

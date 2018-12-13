@@ -1,6 +1,8 @@
 ---
 date: 2007-09-04T21:21:05.000Z
-redirects:
+redirect_from:
+  - /post/146672090/squish-it-good-code-compression-for-the-masses/
+  - /post/146672090/
   - /post/146672090/squish-it-good-code-compression-for-the-masses
   - /post/146672090
 slug: squish-it-good-code-compression-for-the-masses

@@ -1,6 +1,8 @@
 ---
 date: 2014-06-11T17:28:00.000Z
-redirects:
+redirect_from:
+  - /post/88487057983/lgt/
+  - /post/88487057983/
   - /post/88487057983/lgt
   - /post/88487057983
 slug: lgt

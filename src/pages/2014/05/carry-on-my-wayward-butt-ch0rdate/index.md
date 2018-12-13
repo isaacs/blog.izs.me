@@ -1,6 +1,8 @@
 ---
 date: 2014-05-05T01:33:50.000Z
-redirects:
+redirect_from:
+  - /post/84780402743/carry-on-my-wayward-butt-ch0rdate/
+  - /post/84780402743/
   - /post/84780402743/carry-on-my-wayward-butt-ch0rdate
   - /post/84780402743
 slug: carry-on-my-wayward-butt-ch0rdate

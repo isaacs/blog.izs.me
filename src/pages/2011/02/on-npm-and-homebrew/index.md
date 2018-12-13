@@ -1,6 +1,8 @@
 ---
 date: 2011-02-14T19:43:01.000Z
-redirects:
+redirect_from:
+  - /post/3295261330/on-npm-and-homebrew/
+  - /post/3295261330/
   - /post/3295261330/on-npm-and-homebrew
   - /post/3295261330
 slug: on-npm-and-homebrew

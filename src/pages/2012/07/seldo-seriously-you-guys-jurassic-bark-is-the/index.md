@@ -1,6 +1,8 @@
 ---
 date: 2012-07-13T16:40:49.000Z
-redirects:
+redirect_from:
+  - /post/27130219758/seldo-seriously-you-guys-jurassic-bark-is-the/
+  - /post/27130219758/
   - /post/27130219758/seldo-seriously-you-guys-jurassic-bark-is-the
   - /post/27130219758
 slug: seldo-seriously-you-guys-jurassic-bark-is-the

@@ -1,6 +1,8 @@
 ---
 date: 2014-08-30T20:03:38.000Z
-redirects:
+redirect_from:
+  - /post/96196076923/seldo-nateswinehart-being-good-to-each-other/
+  - /post/96196076923/
   - /post/96196076923/seldo-nateswinehart-being-good-to-each-other
   - /post/96196076923
 slug: seldo-nateswinehart-being-good-to-each-other

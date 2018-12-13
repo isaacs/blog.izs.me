@@ -1,6 +1,8 @@
 ---
 date: 2012-03-23T16:40:00.000Z
-redirects:
+redirect_from:
+  - /post/19786163075/sexism-words-and-marketing/
+  - /post/19786163075/
   - /post/19786163075/sexism-words-and-marketing
   - /post/19786163075
 slug: sexism-words-and-marketing

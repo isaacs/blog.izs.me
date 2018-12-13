@@ -1,6 +1,8 @@
 ---
 date: 2012-04-30T07:27:27.000Z
-redirects:
+redirect_from:
+  - /post/22112503619/beginner-ease/
+  - /post/22112503619/
   - /post/22112503619/beginner-ease
   - /post/22112503619
 slug: beginner-ease

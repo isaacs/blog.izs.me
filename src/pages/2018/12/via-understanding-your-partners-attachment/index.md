@@ -14,7 +14,9 @@ audio:
   url: >-
     https://api.soundcloud.com/tracks/371862386/stream?client_id=N2eHz8D7GtXSl6fTtcGHdSJiS74xqOUI
 date: 2018-12-12T01:27:14.000Z
-redirects:
+redirect_from:
+  - /post/181032519898/via-understanding-your-partners-attachment/
+  - /post/181032519898/
   - /post/181032519898/via-understanding-your-partners-attachment
   - /post/181032519898
 slug: via-understanding-your-partners-attachment

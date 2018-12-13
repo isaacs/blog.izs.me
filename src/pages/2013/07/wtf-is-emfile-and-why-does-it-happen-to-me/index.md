@@ -1,6 +1,8 @@
 ---
 date: 2013-07-30T00:15:00.000Z
-redirects:
+redirect_from:
+  - /post/56827866110/wtf-is-emfile-and-why-does-it-happen-to-me/
+  - /post/56827866110/
   - /post/56827866110/wtf-is-emfile-and-why-does-it-happen-to-me
   - /post/56827866110
 slug: wtf-is-emfile-and-why-does-it-happen-to-me

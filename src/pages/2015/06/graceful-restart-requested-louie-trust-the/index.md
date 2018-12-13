@@ -1,6 +1,8 @@
 ---
 date: 2015-06-17T05:52:52.000Z
-redirects:
+redirect_from:
+  - /post/121735764388/graceful-restart-requested-louie-trust-the/
+  - /post/121735764388/
   - /post/121735764388/graceful-restart-requested-louie-trust-the
   - /post/121735764388
 slug: graceful-restart-requested-louie-trust-the

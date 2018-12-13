@@ -1,6 +1,8 @@
 ---
 date: 2009-08-15T17:01:40.000Z
-redirects:
+redirect_from:
+  - /post/163600730/programming-communism/
+  - /post/163600730/
   - /post/163600730/programming-communism
   - /post/163600730
 slug: programming-communism

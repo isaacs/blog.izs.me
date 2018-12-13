@@ -1,6 +1,8 @@
 ---
 date: 2017-06-05T18:28:53.000Z
-redirects:
+redirect_from:
+  - /post/161474536103/be-useful/
+  - /post/161474536103/
   - /post/161474536103/be-useful
   - /post/161474536103
 slug: be-useful

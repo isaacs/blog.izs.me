@@ -1,6 +1,8 @@
 ---
 date: 2015-06-20T16:52:55.000Z
-redirects:
+redirect_from:
+  - /post/122009507983/and-we-all-grew-socialjusticeprincesses-get/
+  - /post/122009507983/
   - /post/122009507983/and-we-all-grew-socialjusticeprincesses-get
   - /post/122009507983
 slug: and-we-all-grew-socialjusticeprincesses-get

@@ -1,6 +1,8 @@
 ---
 date: 2018-10-04T20:16:51.000Z
-redirects:
+redirect_from:
+  - /post/178736939028/node-js-foundation/
+  - /post/178736939028/
   - /post/178736939028/node-js-foundation
   - /post/178736939028
 slug: node-js-foundation

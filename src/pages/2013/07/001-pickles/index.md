@@ -1,6 +1,8 @@
 ---
 date: 2013-07-09T04:34:40.000Z
-redirects:
+redirect_from:
+  - /post/54975240330/001-pickles/
+  - /post/54975240330/
   - /post/54975240330/001-pickles
   - /post/54975240330
 slug: 001-pickles

@@ -1,6 +1,8 @@
 ---
 date: 2014-07-31T15:41:39.000Z
-redirects:
+redirect_from:
+  - /post/93410318923/ripelypine-my-favourite-part-of-shakespeare/
+  - /post/93410318923/
   - /post/93410318923/ripelypine-my-favourite-part-of-shakespeare
   - /post/93410318923
 slug: ripelypine-my-favourite-part-of-shakespeare

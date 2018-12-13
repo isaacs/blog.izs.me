@@ -1,6 +1,8 @@
 ---
 date: 2007-11-26T19:13:04.000Z
-redirects:
+redirect_from:
+  - /post/146672467/css-modal-dialog-that-works-right/
+  - /post/146672467/
   - /post/146672467/css-modal-dialog-that-works-right
   - /post/146672467
 slug: css-modal-dialog-that-works-right

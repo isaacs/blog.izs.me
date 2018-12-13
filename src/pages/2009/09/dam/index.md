@@ -1,7 +1,9 @@
 ---
 date: 2009-09-01T21:24:27.000Z
 link_url: 'http://www.flickr.com/photos/isaacschlueter/3877608025/'
-redirects:
+redirect_from:
+  - /post/177380226/dam/
+  - /post/177380226/
   - /post/177380226/dam
   - /post/177380226
 slug: dam

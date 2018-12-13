@@ -1,6 +1,8 @@
 ---
 date: 2011-01-12T00:11:06.000Z
-redirects:
+redirect_from:
+  - /post/2704777513/wrench/
+  - /post/2704777513/
   - /post/2704777513/wrench
   - /post/2704777513
 slug: wrench

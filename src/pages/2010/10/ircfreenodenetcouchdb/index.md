@@ -1,6 +1,8 @@
 ---
 date: 2010-10-22T00:57:22.000Z
-redirects:
+redirect_from:
+  - /post/1369910389/ircfreenodenetcouchdb/
+  - /post/1369910389/
   - /post/1369910389/ircfreenodenetcouchdb
   - /post/1369910389
 slug: ircfreenodenetcouchdb

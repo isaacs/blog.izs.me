@@ -1,6 +1,8 @@
 ---
 date: 2015-10-15T21:21:24.000Z
-redirects:
+redirect_from:
+  - /post/131242128188/micdotcom-watch-bernie-sanders-what-a/
+  - /post/131242128188/
   - /post/131242128188/micdotcom-watch-bernie-sanders-what-a
   - /post/131242128188
 slug: micdotcom-watch-bernie-sanders-what-a

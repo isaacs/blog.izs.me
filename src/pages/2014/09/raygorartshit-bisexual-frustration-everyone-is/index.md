@@ -1,6 +1,8 @@
 ---
 date: 2014-09-14T19:58:04.000Z
-redirects:
+redirect_from:
+  - /post/97500236773/raygorartshit-bisexual-frustration-everyone-is/
+  - /post/97500236773/
   - /post/97500236773/raygorartshit-bisexual-frustration-everyone-is
   - /post/97500236773
 slug: raygorartshit-bisexual-frustration-everyone-is

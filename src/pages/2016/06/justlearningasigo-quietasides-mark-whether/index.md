@@ -1,6 +1,8 @@
 ---
 date: 2016-06-13T22:23:00.000Z
-redirects:
+redirect_from:
+  - /post/145878352723/justlearningasigo-quietasides-mark-whether/
+  - /post/145878352723/
   - /post/145878352723/justlearningasigo-quietasides-mark-whether
   - /post/145878352723
 slug: justlearningasigo-quietasides-mark-whether

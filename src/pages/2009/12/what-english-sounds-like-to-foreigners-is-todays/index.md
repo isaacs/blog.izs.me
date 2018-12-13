@@ -2,7 +2,9 @@
 date: 2009-12-16T06:29:23.000Z
 link_publisher: music.todaysbigthing.com
 link_url: 'http://music.todaysbigthing.com/2009/11/03'
-redirects:
+redirect_from:
+  - /post/285785219/what-english-sounds-like-to-foreigners-is-todays/
+  - /post/285785219/
   - /post/285785219/what-english-sounds-like-to-foreigners-is-todays
   - /post/285785219
 slug: what-english-sounds-like-to-foreigners-is-todays

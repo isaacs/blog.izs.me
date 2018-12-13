@@ -1,6 +1,8 @@
 ---
 date: 2015-04-27T06:19:52.000Z
-redirects:
+redirect_from:
+  - /post/117499210193/queennymeria-needle-was-robb-and-bran-and/
+  - /post/117499210193/
   - /post/117499210193/queennymeria-needle-was-robb-and-bran-and
   - /post/117499210193
 slug: queennymeria-needle-was-robb-and-bran-and

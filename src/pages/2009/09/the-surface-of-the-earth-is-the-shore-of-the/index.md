@@ -1,6 +1,8 @@
 ---
 date: 2009-09-25T21:31:20.000Z
-redirects:
+redirect_from:
+  - /post/196883049/the-surface-of-the-earth-is-the-shore-of-the/
+  - /post/196883049/
   - /post/196883049/the-surface-of-the-earth-is-the-shore-of-the
   - /post/196883049
 slug: the-surface-of-the-earth-is-the-shore-of-the

@@ -1,7 +1,9 @@
 ---
 date: 2010-01-12T02:44:50.000Z
 link_url: 'http://skitch.com/isaacschlueter/nq979/job-descriptions'
-redirects:
+redirect_from:
+  - /post/329752367/job-descriptions/
+  - /post/329752367/
   - /post/329752367/job-descriptions
   - /post/329752367
 slug: job-descriptions

@@ -1,6 +1,8 @@
 ---
 date: 2015-11-22T02:38:01.000Z
-redirects:
+redirect_from:
+  - /post/133695914868/people-get-built-different-we-dont-need-to/
+  - /post/133695914868/
   - /post/133695914868/people-get-built-different-we-dont-need-to
   - /post/133695914868
 slug: people-get-built-different-we-dont-need-to

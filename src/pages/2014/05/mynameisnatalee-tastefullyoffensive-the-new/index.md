@@ -1,6 +1,8 @@
 ---
 date: 2014-05-14T14:17:31.000Z
-redirects:
+redirect_from:
+  - /post/85722095938/mynameisnatalee-tastefullyoffensive-the-new/
+  - /post/85722095938/
   - /post/85722095938/mynameisnatalee-tastefullyoffensive-the-new
   - /post/85722095938
 slug: mynameisnatalee-tastefullyoffensive-the-new

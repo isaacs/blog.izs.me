@@ -1,6 +1,8 @@
 ---
 date: 2016-10-11T07:59:51.000Z
-redirects:
+redirect_from:
+  - /post/151651134033/hello-will-you-be-at-sxsw-austin-tx-at-any-tech/
+  - /post/151651134033/
   - /post/151651134033/hello-will-you-be-at-sxsw-austin-tx-at-any-tech
   - /post/151651134033
 slug: hello-will-you-be-at-sxsw-austin-tx-at-any-tech

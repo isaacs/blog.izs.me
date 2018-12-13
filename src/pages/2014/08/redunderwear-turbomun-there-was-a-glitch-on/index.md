@@ -1,6 +1,8 @@
 ---
 date: 2014-08-05T01:54:43.000Z
-redirects:
+redirect_from:
+  - /post/93831478203/redunderwear-turbomun-there-was-a-glitch-on/
+  - /post/93831478203/
   - /post/93831478203/redunderwear-turbomun-there-was-a-glitch-on
   - /post/93831478203
 slug: redunderwear-turbomun-there-was-a-glitch-on

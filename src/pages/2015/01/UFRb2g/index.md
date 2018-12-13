@@ -1,6 +1,8 @@
 ---
 date: 2015-01-21T08:34:10.000Z
-redirects:
+redirect_from:
+  - /post/108721888218//
+  - /post/108721888218/
   - /post/108721888218/
   - /post/108721888218
 slug: UFRb2g

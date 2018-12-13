@@ -1,6 +1,8 @@
 ---
 date: 2009-07-31T06:14:29.000Z
-redirects:
+redirect_from:
+  - /post/152773868/got-a-flickr-shirt-in-the-mail-today-for-fixing-a/
+  - /post/152773868/
   - /post/152773868/got-a-flickr-shirt-in-the-mail-today-for-fixing-a
   - /post/152773868
 slug: got-a-flickr-shirt-in-the-mail-today-for-fixing-a

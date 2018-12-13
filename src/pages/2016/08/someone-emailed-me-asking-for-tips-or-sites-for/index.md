@@ -1,6 +1,8 @@
 ---
 date: 2016-08-23T23:44:27.000Z
-redirects:
+redirect_from:
+  - /post/149389583198/someone-emailed-me-asking-for-tips-or-sites-for/
+  - /post/149389583198/
   - /post/149389583198/someone-emailed-me-asking-for-tips-or-sites-for
   - /post/149389583198
 slug: someone-emailed-me-asking-for-tips-or-sites-for

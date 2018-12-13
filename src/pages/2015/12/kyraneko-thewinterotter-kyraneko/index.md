@@ -1,6 +1,8 @@
 ---
 date: 2015-12-19T20:28:46.000Z
-redirects:
+redirect_from:
+  - /post/135523945198/kyraneko-thewinterotter-kyraneko/
+  - /post/135523945198/
   - /post/135523945198/kyraneko-thewinterotter-kyraneko
   - /post/135523945198
 slug: kyraneko-thewinterotter-kyraneko

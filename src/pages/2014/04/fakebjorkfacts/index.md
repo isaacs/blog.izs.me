@@ -1,6 +1,8 @@
 ---
 date: 2014-04-27T17:19:38.000Z
-redirects:
+redirect_from:
+  - /post/84035013732/fakebjorkfacts/
+  - /post/84035013732/
   - /post/84035013732/fakebjorkfacts
   - /post/84035013732
 slug: fakebjorkfacts

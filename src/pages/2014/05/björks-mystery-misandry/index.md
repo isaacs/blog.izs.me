@@ -1,6 +1,8 @@
 ---
 date: 2014-05-18T01:49:59.000Z
-redirects:
+redirect_from:
+  - /post/86063273433/björks-mystery-misandry/
+  - /post/86063273433/
   - /post/86063273433/björks-mystery-misandry
   - /post/86063273433
 slug: björks-mystery-misandry

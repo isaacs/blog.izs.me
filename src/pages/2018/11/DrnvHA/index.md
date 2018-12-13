@@ -1,6 +1,8 @@
 ---
 date: 2018-11-30T00:43:18.000Z
-redirects:
+redirect_from:
+  - /post/180635692828//
+  - /post/180635692828/
   - /post/180635692828/
   - /post/180635692828
 slug: DrnvHA

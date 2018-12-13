@@ -1,6 +1,8 @@
 ---
 date: 2013-08-23T23:06:00.000Z
-redirects:
+redirect_from:
+  - /post/59142742143/designing-apis-for-asynchrony/
+  - /post/59142742143/
   - /post/59142742143/designing-apis-for-asynchrony
   - /post/59142742143
 slug: designing-apis-for-asynchrony

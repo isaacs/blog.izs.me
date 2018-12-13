@@ -1,6 +1,8 @@
 ---
 date: 2012-09-26T20:59:36.000Z
-redirects:
+redirect_from:
+  - /post/32348269798/prioritize/
+  - /post/32348269798/
   - /post/32348269798/prioritize
   - /post/32348269798
 slug: prioritize

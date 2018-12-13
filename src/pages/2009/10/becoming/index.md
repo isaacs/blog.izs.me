@@ -1,6 +1,8 @@
 ---
 date: 2009-10-05T01:53:46.000Z
-redirects:
+redirect_from:
+  - /post/204676249/becoming/
+  - /post/204676249/
   - /post/204676249/becoming
   - /post/204676249
 slug: becoming

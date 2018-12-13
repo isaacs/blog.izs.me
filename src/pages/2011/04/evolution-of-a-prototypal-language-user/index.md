@@ -1,6 +1,8 @@
 ---
 date: 2011-04-18T23:28:00.000Z
-redirects:
+redirect_from:
+  - /post/4731036392/evolution-of-a-prototypal-language-user/
+  - /post/4731036392/
   - /post/4731036392/evolution-of-a-prototypal-language-user
   - /post/4731036392
 slug: evolution-of-a-prototypal-language-user

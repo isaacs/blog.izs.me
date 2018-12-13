@@ -1,6 +1,8 @@
 ---
 date: 2014-01-28T00:16:00.000Z
-redirects:
+redirect_from:
+  - /post/74775371969/raquel-vélez-joins-npm-inc/
+  - /post/74775371969/
   - /post/74775371969/raquel-vélez-joins-npm-inc
   - /post/74775371969
 slug: raquel-vélez-joins-npm-inc

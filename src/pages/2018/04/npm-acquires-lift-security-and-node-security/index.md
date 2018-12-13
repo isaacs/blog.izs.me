@@ -1,6 +1,8 @@
 ---
 date: 2018-04-10T16:55:49.000Z
-redirects:
+redirect_from:
+  - /post/172797398293/npm-acquires-lift-security-and-node-security/
+  - /post/172797398293/
   - /post/172797398293/npm-acquires-lift-security-and-node-security
   - /post/172797398293
 slug: npm-acquires-lift-security-and-node-security

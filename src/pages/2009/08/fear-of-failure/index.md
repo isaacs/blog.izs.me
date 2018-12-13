@@ -1,6 +1,8 @@
 ---
 date: 2009-08-10T21:30:00.000Z
-redirects:
+redirect_from:
+  - /post/160046242/fear-of-failure/
+  - /post/160046242/
   - /post/160046242/fear-of-failure
   - /post/160046242
 slug: fear-of-failure

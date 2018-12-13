@@ -1,6 +1,8 @@
 ---
 date: 2016-11-11T22:57:38.000Z
-redirects:
+redirect_from:
+  - /post/153055894963/on-building-bridges/
+  - /post/153055894963/
   - /post/153055894963/on-building-bridges
   - /post/153055894963
 slug: on-building-bridges

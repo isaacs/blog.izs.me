@@ -2,7 +2,9 @@
 date: 2009-08-18T01:07:33.000Z
 link_publisher: ee.ryerson.ca
 link_url: 'http://www.ee.ryerson.ca/~elf/hack/academic.html'
-redirects:
+redirect_from:
+  - /post/165296176/academic-programmers-a-spotters-guide/
+  - /post/165296176/
   - /post/165296176/academic-programmers-a-spotters-guide
   - /post/165296176
 slug: academic-programmers-a-spotters-guide

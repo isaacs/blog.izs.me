@@ -1,7 +1,9 @@
 ---
 date: 2011-10-26T17:37:00.000Z
 link_url: 'http://www.flickr.com/photos/lunchbreath/6275764866/lightbox/'
-redirects:
+redirect_from:
+  - /post/11954460008//
+  - /post/11954460008/
   - /post/11954460008/
   - /post/11954460008
 slug: yIqVaA

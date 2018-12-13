@@ -1,6 +1,8 @@
 ---
 date: 2007-06-11T17:00:16.000Z
-redirects:
+redirect_from:
+  - /post/146671430/memory-leaks-in-microsoft-internet-explorer/
+  - /post/146671430/
   - /post/146671430/memory-leaks-in-microsoft-internet-explorer
   - /post/146671430
 slug: memory-leaks-in-microsoft-internet-explorer

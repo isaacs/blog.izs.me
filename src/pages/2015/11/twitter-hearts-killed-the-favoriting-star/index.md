@@ -1,6 +1,8 @@
 ---
 date: 2015-11-04T23:12:14.000Z
-redirects:
+redirect_from:
+  - /post/132564222438/twitter-hearts-killed-the-favoriting-star/
+  - /post/132564222438/
   - /post/132564222438/twitter-hearts-killed-the-favoriting-star
   - /post/132564222438
 slug: twitter-hearts-killed-the-favoriting-star

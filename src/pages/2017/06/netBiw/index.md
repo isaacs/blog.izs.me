@@ -1,6 +1,8 @@
 ---
 date: 2017-06-08T00:12:47.000Z
-redirects:
+redirect_from:
+  - /post/161563230603//
+  - /post/161563230603/
   - /post/161563230603/
   - /post/161563230603
 slug: netBiw

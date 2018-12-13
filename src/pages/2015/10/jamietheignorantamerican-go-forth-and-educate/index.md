@@ -1,6 +1,8 @@
 ---
 date: 2015-10-28T00:36:45.000Z
-redirects:
+redirect_from:
+  - /post/132050942648/jamietheignorantamerican-go-forth-and-educate/
+  - /post/132050942648/
   - /post/132050942648/jamietheignorantamerican-go-forth-and-educate
   - /post/132050942648
 slug: jamietheignorantamerican-go-forth-and-educate

@@ -1,6 +1,8 @@
 ---
 date: 2017-02-16T01:17:27.000Z
-redirects:
+redirect_from:
+  - /post/157295170418/my-first-npm-publish/
+  - /post/157295170418/
   - /post/157295170418/my-first-npm-publish
   - /post/157295170418
 slug: my-first-npm-publish

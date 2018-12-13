@@ -1,6 +1,8 @@
 ---
 date: 2010-02-10T21:07:00.000Z
-redirects:
+redirect_from:
+  - /post/382391319/4-step-writing-process/
+  - /post/382391319/
   - /post/382391319/4-step-writing-process
   - /post/382391319
 slug: 4-step-writing-process

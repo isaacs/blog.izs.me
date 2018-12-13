@@ -1,6 +1,8 @@
 ---
 date: 2014-03-01T22:17:06.000Z
-redirects:
+redirect_from:
+  - /post/78251395310/siperslue-lol-the-dudes-face-as-he-realizes/
+  - /post/78251395310/
   - /post/78251395310/siperslue-lol-the-dudes-face-as-he-realizes
   - /post/78251395310
 slug: siperslue-lol-the-dudes-face-as-he-realizes

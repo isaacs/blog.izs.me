@@ -1,6 +1,8 @@
 ---
 date: 2010-04-29T04:43:24.000Z
-redirects:
+redirect_from:
+  - /post/557621772/email-confidentiality-footers/
+  - /post/557621772/
   - /post/557621772/email-confidentiality-footers
   - /post/557621772
 slug: email-confidentiality-footers

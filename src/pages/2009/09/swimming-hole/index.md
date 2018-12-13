@@ -1,7 +1,9 @@
 ---
 date: 2009-09-01T21:25:05.000Z
 link_url: 'http://www.flickr.com/photos/isaacschlueter/3877604795/'
-redirects:
+redirect_from:
+  - /post/177380657/swimming-hole/
+  - /post/177380657/
   - /post/177380657/swimming-hole
   - /post/177380657
 slug: swimming-hole

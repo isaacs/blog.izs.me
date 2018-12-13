@@ -1,6 +1,8 @@
 ---
 date: 2012-09-07T18:21:43.000Z
-redirects:
+redirect_from:
+  - /post/31066306648/maxeatinginplaces-max-eating-smores-at-node/
+  - /post/31066306648/
   - /post/31066306648/maxeatinginplaces-max-eating-smores-at-node
   - /post/31066306648
 slug: maxeatinginplaces-max-eating-smores-at-node

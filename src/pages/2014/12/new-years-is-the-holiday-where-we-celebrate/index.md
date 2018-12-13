@@ -1,6 +1,8 @@
 ---
 date: 2014-12-30T01:29:00.000Z
-redirects:
+redirect_from:
+  - /post/106562694923/new-years-is-the-holiday-where-we-celebrate/
+  - /post/106562694923/
   - /post/106562694923/new-years-is-the-holiday-where-we-celebrate
   - /post/106562694923
 slug: new-years-is-the-holiday-where-we-celebrate

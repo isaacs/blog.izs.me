@@ -1,6 +1,8 @@
 ---
 date: 2009-08-19T17:02:44.000Z
-redirects:
+redirect_from:
+  - /post/166615723/loyalty/
+  - /post/166615723/
   - /post/166615723/loyalty
   - /post/166615723
 slug: loyalty

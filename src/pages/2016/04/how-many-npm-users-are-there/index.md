@@ -1,6 +1,8 @@
 ---
 date: 2016-04-27T18:45:14.000Z
-redirects:
+redirect_from:
+  - /post/143491623068/how-many-npm-users-are-there/
+  - /post/143491623068/
   - /post/143491623068/how-many-npm-users-are-there
   - /post/143491623068
 slug: how-many-npm-users-are-there

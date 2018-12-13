@@ -1,6 +1,8 @@
 ---
 date: 2007-05-23T01:16:15.000Z
-redirects:
+redirect_from:
+  - /post/146671344/the-first-entry-in-the-foo-blog/
+  - /post/146671344/
   - /post/146671344/the-first-entry-in-the-foo-blog
   - /post/146671344
 slug: the-first-entry-in-the-foo-blog

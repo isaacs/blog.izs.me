@@ -1,6 +1,8 @@
 ---
 date: 2015-07-03T19:58:04.000Z
-redirects:
+redirect_from:
+  - /post/123139528918/kimchicuddles-how-many-partners-is-enough/
+  - /post/123139528918/
   - /post/123139528918/kimchicuddles-how-many-partners-is-enough
   - /post/123139528918
 slug: kimchicuddles-how-many-partners-is-enough

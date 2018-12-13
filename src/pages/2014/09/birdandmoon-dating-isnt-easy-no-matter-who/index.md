@@ -1,6 +1,8 @@
 ---
 date: 2014-09-14T19:59:16.000Z
-redirects:
+redirect_from:
+  - /post/97500333583/birdandmoon-dating-isnt-easy-no-matter-who/
+  - /post/97500333583/
   - /post/97500333583/birdandmoon-dating-isnt-easy-no-matter-who
   - /post/97500333583
 slug: birdandmoon-dating-isnt-easy-no-matter-who

@@ -1,6 +1,8 @@
 ---
 date: 2013-05-29T00:11:00.000Z
-redirects:
+redirect_from:
+  - /post/51599977551/trying-to-pin-down-isaacs-coding-style/
+  - /post/51599977551/
   - /post/51599977551/trying-to-pin-down-isaacs-coding-style
   - /post/51599977551
 slug: trying-to-pin-down-isaacs-coding-style

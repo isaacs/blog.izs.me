@@ -1,6 +1,8 @@
 ---
 date: 2009-05-05T06:21:15.000Z
-redirects:
+redirect_from:
+  - /post/146672998/foo-hack-40/
+  - /post/146672998/
   - /post/146672998/foo-hack-40
   - /post/146672998
 slug: foo-hack-40

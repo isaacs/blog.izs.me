@@ -1,7 +1,9 @@
 ---
 date: 2009-09-01T21:24:44.000Z
 link_url: 'http://www.flickr.com/photos/isaacschlueter/3877606209/'
-redirects:
+redirect_from:
+  - /post/177380429/backlit/
+  - /post/177380429/
   - /post/177380429/backlit
   - /post/177380429
 slug: backlit

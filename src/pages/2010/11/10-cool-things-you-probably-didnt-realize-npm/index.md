@@ -1,6 +1,8 @@
 ---
 date: 2010-11-25T01:22:00.000Z
-redirects:
+redirect_from:
+  - /post/1675072029/10-cool-things-you-probably-didnt-realize-npm/
+  - /post/1675072029/
   - /post/1675072029/10-cool-things-you-probably-didnt-realize-npm
   - /post/1675072029
 slug: 10-cool-things-you-probably-didnt-realize-npm

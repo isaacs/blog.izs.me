@@ -2,7 +2,9 @@
 date: 2009-08-16T00:50:38.000Z
 link_publisher: seedmagazine.com
 link_url: 'http://seedmagazine.com/content/article/organic_food_isnt_more_nutritious/'
-redirects:
+redirect_from:
+  - /post/163820098/organic-food-isnt-more-nutritious/
+  - /post/163820098/
   - /post/163820098/organic-food-isnt-more-nutritious
   - /post/163820098
 slug: organic-food-isnt-more-nutritious

@@ -1,6 +1,8 @@
 ---
 date: 2013-08-15T14:55:11.000Z
-redirects:
+redirect_from:
+  - /post/58333991967/neil-gaiman-wordsthatfit-sandandglass/
+  - /post/58333991967/
   - /post/58333991967/neil-gaiman-wordsthatfit-sandandglass
   - /post/58333991967
 slug: neil-gaiman-wordsthatfit-sandandglass

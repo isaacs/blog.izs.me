@@ -1,7 +1,9 @@
 ---
 date: 2009-09-13T03:40:14.000Z
 link_url: 'http://www.flickr.com/photos/isaacschlueter/3913889584/'
-redirects:
+redirect_from:
+  - /post/186612353/in-my-house-right-now-sweet-beautiful-and/
+  - /post/186612353/
   - /post/186612353/in-my-house-right-now-sweet-beautiful-and
   - /post/186612353
 slug: in-my-house-right-now-sweet-beautiful-and

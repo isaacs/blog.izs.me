@@ -1,7 +1,9 @@
 ---
 date: 2014-08-02T18:37:56.000Z
 link_url: 'http://m7781.deviantart.com/art/professor-x-hodor-468510578'
-redirects:
+redirect_from:
+  - /post/93607987148/huffposttv-by-m7781-via-deviantart/
+  - /post/93607987148/
   - /post/93607987148/huffposttv-by-m7781-via-deviantart
   - /post/93607987148
 slug: huffposttv-by-m7781-via-deviantart

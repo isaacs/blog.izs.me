@@ -1,6 +1,8 @@
 ---
 date: 2009-08-16T17:00:30.000Z
-redirects:
+redirect_from:
+  - /post/164242145/food-is-an-experience/
+  - /post/164242145/
   - /post/164242145/food-is-an-experience
   - /post/164242145
 slug: food-is-an-experience

@@ -1,6 +1,8 @@
 ---
 date: 2009-08-05T22:02:00.000Z
-redirects:
+redirect_from:
+  - /post/156678086/sierpinski/
+  - /post/156678086/
   - /post/156678086/sierpinski
   - /post/156678086
 slug: sierpinski

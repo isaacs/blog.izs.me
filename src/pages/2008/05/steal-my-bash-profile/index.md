@@ -1,6 +1,8 @@
 ---
 date: 2008-05-07T03:32:22.000Z
-redirects:
+redirect_from:
+  - /post/146672649/steal-my-bash-profile/
+  - /post/146672649/
   - /post/146672649/steal-my-bash-profile
   - /post/146672649
 slug: steal-my-bash-profile

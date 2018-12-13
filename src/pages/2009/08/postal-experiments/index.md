@@ -2,7 +2,9 @@
 date: 2009-08-07T23:53:40.000Z
 link_publisher: improbable.com
 link_url: 'http://improbable.com/airchives/paperair/volume6/v6i4/postal-6-4.html'
-redirects:
+redirect_from:
+  - /post/158217993/postal-experiments/
+  - /post/158217993/
   - /post/158217993/postal-experiments
   - /post/158217993
 slug: postal-experiments

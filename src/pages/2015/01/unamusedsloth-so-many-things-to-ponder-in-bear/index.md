@@ -1,6 +1,8 @@
 ---
 date: 2015-01-23T07:56:37.000Z
-redirects:
+redirect_from:
+  - /post/108901099753/unamusedsloth-so-many-things-to-ponder-in-bear/
+  - /post/108901099753/
   - /post/108901099753/unamusedsloth-so-many-things-to-ponder-in-bear
   - /post/108901099753
 slug: unamusedsloth-so-many-things-to-ponder-in-bear

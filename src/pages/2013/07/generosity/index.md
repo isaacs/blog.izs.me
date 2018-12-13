@@ -2,7 +2,9 @@
 date: 2013-07-01T04:31:11.000Z
 link_publisher: grahamhancock.tumblr.com
 link_url: 'http://grahamhancock.tumblr.com/post/43207829634/generosity'
-redirects:
+redirect_from:
+  - /post/54317941003/generosity/
+  - /post/54317941003/
   - /post/54317941003/generosity
   - /post/54317941003
 slug: generosity

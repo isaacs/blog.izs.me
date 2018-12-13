@@ -1,6 +1,8 @@
 ---
 date: 2009-07-23T06:26:44.000Z
-redirects:
+redirect_from:
+  - /post/147355010/once-again-work-too-late-try-to-squeeze-in-too/
+  - /post/147355010/
   - /post/147355010/once-again-work-too-late-try-to-squeeze-in-too
   - /post/147355010
 slug: once-again-work-too-late-try-to-squeeze-in-too

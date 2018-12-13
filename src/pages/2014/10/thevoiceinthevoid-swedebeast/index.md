@@ -1,6 +1,8 @@
 ---
 date: 2014-10-28T15:15:19.000Z
-redirects:
+redirect_from:
+  - /post/101176529413/thevoiceinthevoid-swedebeast/
+  - /post/101176529413/
   - /post/101176529413/thevoiceinthevoid-swedebeast
   - /post/101176529413
 slug: thevoiceinthevoid-swedebeast

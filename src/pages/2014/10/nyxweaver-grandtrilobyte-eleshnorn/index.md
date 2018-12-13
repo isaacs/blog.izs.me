@@ -1,6 +1,8 @@
 ---
 date: 2014-10-01T18:52:13.000Z
-redirects:
+redirect_from:
+  - /post/98906344018/nyxweaver-grandtrilobyte-eleshnorn/
+  - /post/98906344018/
   - /post/98906344018/nyxweaver-grandtrilobyte-eleshnorn
   - /post/98906344018
 slug: nyxweaver-grandtrilobyte-eleshnorn

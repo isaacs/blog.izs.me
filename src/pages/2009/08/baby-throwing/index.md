@@ -1,6 +1,8 @@
 ---
 date: 2009-08-06T08:40:00.000Z
-redirects:
+redirect_from:
+  - /post/157047907/baby-throwing/
+  - /post/157047907/
   - /post/157047907/baby-throwing
   - /post/157047907
 slug: baby-throwing

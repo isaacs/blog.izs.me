@@ -1,6 +1,8 @@
 ---
 date: 2009-09-17T18:06:00.000Z
-redirects:
+redirect_from:
+  - /post/190346445/run-if-you-are-a-poop/
+  - /post/190346445/
   - /post/190346445/run-if-you-are-a-poop
   - /post/190346445
 slug: run-if-you-are-a-poop

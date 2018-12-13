@@ -1,6 +1,8 @@
 ---
 date: 2015-04-22T03:45:54.000Z
-redirects:
+redirect_from:
+  - /post/117057399388//
+  - /post/117057399388/
   - /post/117057399388/
   - /post/117057399388
 slug: QSoqXA

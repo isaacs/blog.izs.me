@@ -1,6 +1,8 @@
 ---
 date: 2014-08-04T06:14:46.000Z
-redirects:
+redirect_from:
+  - /post/93755582723/kaibii-toronjas-i-just-saw-this-on-facebook/
+  - /post/93755582723/
   - /post/93755582723/kaibii-toronjas-i-just-saw-this-on-facebook
   - /post/93755582723
 slug: kaibii-toronjas-i-just-saw-this-on-facebook

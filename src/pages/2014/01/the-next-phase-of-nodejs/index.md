@@ -1,6 +1,8 @@
 ---
 date: 2014-01-15T17:13:09.000Z
-redirects:
+redirect_from:
+  - /post/73420539709/the-next-phase-of-nodejs/
+  - /post/73420539709/
   - /post/73420539709/the-next-phase-of-nodejs
   - /post/73420539709
 slug: the-next-phase-of-nodejs

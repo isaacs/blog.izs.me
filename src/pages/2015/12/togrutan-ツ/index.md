@@ -1,6 +1,8 @@
 ---
 date: 2015-12-28T00:55:50.000Z
-redirects:
+redirect_from:
+  - /post/136076294713/togrutan-ツ/
+  - /post/136076294713/
   - /post/136076294713/togrutan-ツ
   - /post/136076294713
 slug: togrutan-ツ

@@ -1,6 +1,8 @@
 ---
 date: 2011-08-23T00:10:00.000Z
-redirects:
+redirect_from:
+  - /post/9271369089/youranonnews-use-this-image-in-and-around-bart/
+  - /post/9271369089/
   - /post/9271369089/youranonnews-use-this-image-in-and-around-bart
   - /post/9271369089
 slug: youranonnews-use-this-image-in-and-around-bart

@@ -1,6 +1,8 @@
 ---
 date: 2009-07-25T17:00:11.000Z
-redirects:
+redirect_from:
+  - /post/148963601/television/
+  - /post/148963601/
   - /post/148963601/television
   - /post/148963601
 slug: television

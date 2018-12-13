@@ -1,6 +1,8 @@
 ---
 date: 2014-10-01T18:55:49.000Z
-redirects:
+redirect_from:
+  - /post/98906617543/roses-are-pretty/
+  - /post/98906617543/
   - /post/98906617543/roses-are-pretty
   - /post/98906617543
 slug: roses-are-pretty

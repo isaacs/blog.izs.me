@@ -1,6 +1,8 @@
 ---
 date: 2014-05-28T07:39:15.000Z
-redirects:
+redirect_from:
+  - /post/87084288903/ablogforants-bird-best-loading-gif-ever/
+  - /post/87084288903/
   - /post/87084288903/ablogforants-bird-best-loading-gif-ever
   - /post/87084288903
 slug: ablogforants-bird-best-loading-gif-ever

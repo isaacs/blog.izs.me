@@ -1,7 +1,9 @@
 ---
 date: 2009-09-01T21:25:00.000Z
 link_url: 'http://www.flickr.com/photos/isaacschlueter/3877605153/'
-redirects:
+redirect_from:
+  - /post/177380610/river-people/
+  - /post/177380610/
   - /post/177380610/river-people
   - /post/177380610
 slug: river-people

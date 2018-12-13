@@ -1,6 +1,8 @@
 ---
 date: 2012-10-10T08:49:53.000Z
-redirects:
+redirect_from:
+  - /post/33290169040/via-w3cmemes/
+  - /post/33290169040/
   - /post/33290169040/via-w3cmemes
   - /post/33290169040
 slug: via-w3cmemes

@@ -1,6 +1,8 @@
 ---
 date: 2014-11-18T01:48:00.000Z
-redirects:
+redirect_from:
+  - /post/102921233093/code-of-conduct-thoughts-with-anon-mous/
+  - /post/102921233093/
   - /post/102921233093/code-of-conduct-thoughts-with-anon-mous
   - /post/102921233093
 slug: code-of-conduct-thoughts-with-anon-mous

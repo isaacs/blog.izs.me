@@ -1,6 +1,8 @@
 ---
 date: 2016-07-15T16:20:57.000Z
-redirects:
+redirect_from:
+  - /post/147451253818/among-the-many-hardest-problems-in-computer/
+  - /post/147451253818/
   - /post/147451253818/among-the-many-hardest-problems-in-computer
   - /post/147451253818
 slug: among-the-many-hardest-problems-in-computer

@@ -1,6 +1,8 @@
 ---
 date: 2014-05-11T18:30:40.000Z
-redirects:
+redirect_from:
+  - /post/85442489663/i-made-a-thing-to-help-you-understand-when-you/
+  - /post/85442489663/
   - /post/85442489663/i-made-a-thing-to-help-you-understand-when-you
   - /post/85442489663
 slug: i-made-a-thing-to-help-you-understand-when-you

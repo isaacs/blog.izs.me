@@ -1,6 +1,8 @@
 ---
 date: 2008-12-05T18:00:00.000Z
-redirects:
+redirect_from:
+  - /post/146672941/nerdery/
+  - /post/146672941/
   - /post/146672941/nerdery
   - /post/146672941
 slug: nerdery

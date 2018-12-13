@@ -1,6 +1,8 @@
 ---
 date: 2009-07-29T19:31:14.000Z
-redirects:
+redirect_from:
+  - /post/151758696/re-yhoo-and-msft-its-like-watching-old-people/
+  - /post/151758696/
   - /post/151758696/re-yhoo-and-msft-its-like-watching-old-people
   - /post/151758696
 slug: re-yhoo-and-msft-its-like-watching-old-people

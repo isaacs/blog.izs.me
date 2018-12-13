@@ -1,7 +1,9 @@
 ---
 date: 2014-03-15T18:11:49.000Z
 link_url: 'http://heyfunniest.com/'
-redirects:
+redirect_from:
+  - /post/79672985809/moosestielsaya-this-gif-makes-more-sense-now/
+  - /post/79672985809/
   - /post/79672985809/moosestielsaya-this-gif-makes-more-sense-now
   - /post/79672985809
 slug: moosestielsaya-this-gif-makes-more-sense-now

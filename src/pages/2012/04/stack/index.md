@@ -1,6 +1,8 @@
 ---
 date: 2012-04-08T07:04:00.000Z
-redirects:
+redirect_from:
+  - /post/20702974946/stack/
+  - /post/20702974946/
   - /post/20702974946/stack
   - /post/20702974946
 slug: stack

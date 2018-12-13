@@ -1,6 +1,8 @@
 ---
 date: 2013-05-06T20:44:00.000Z
-redirects:
+redirect_from:
+  - /post/49797044559/curiosity-and-the-practice/
+  - /post/49797044559/
   - /post/49797044559/curiosity-and-the-practice
   - /post/49797044559
 slug: curiosity-and-the-practice

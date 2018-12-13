@@ -1,6 +1,8 @@
 ---
 date: 2010-12-18T00:50:00.000Z
-redirects:
+redirect_from:
+  - /post/2353458699/an-open-letter-to-javascript-leaders-regarding/
+  - /post/2353458699/
   - /post/2353458699/an-open-letter-to-javascript-leaders-regarding
   - /post/2353458699
 slug: an-open-letter-to-javascript-leaders-regarding

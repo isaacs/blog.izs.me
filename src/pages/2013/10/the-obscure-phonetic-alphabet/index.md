@@ -1,6 +1,8 @@
 ---
 date: 2013-10-10T19:00:31.000Z
-redirects:
+redirect_from:
+  - /post/63662167488/the-obscure-phonetic-alphabet/
+  - /post/63662167488/
   - /post/63662167488/the-obscure-phonetic-alphabet
   - /post/63662167488
 slug: the-obscure-phonetic-alphabet

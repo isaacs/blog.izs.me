@@ -1,6 +1,8 @@
 ---
 date: 2012-11-09T23:44:00.000Z
-redirects:
+redirect_from:
+  - /post/35367673340/lokaah-samastaah-sukhino-bhavantu/
+  - /post/35367673340/
   - /post/35367673340/lokaah-samastaah-sukhino-bhavantu
   - /post/35367673340
 slug: lokaah-samastaah-sukhino-bhavantu

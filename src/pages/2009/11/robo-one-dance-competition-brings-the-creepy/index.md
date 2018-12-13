@@ -3,7 +3,9 @@ date: 2009-11-30T22:34:47.000Z
 link_publisher: botjunkie.com
 link_url: >-
   http://www.botjunkie.com/2009/11/30/robo-one-dance-competition-brings-the-creepy/
-redirects:
+redirect_from:
+  - /post/263958457/robo-one-dance-competition-brings-the-creepy/
+  - /post/263958457/
   - /post/263958457/robo-one-dance-competition-brings-the-creepy
   - /post/263958457
 slug: robo-one-dance-competition-brings-the-creepy

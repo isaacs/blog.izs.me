@@ -1,6 +1,8 @@
 ---
 date: 2009-09-02T21:00:19.000Z
-redirects:
+redirect_from:
+  - /post/178213849/coding-style/
+  - /post/178213849/
   - /post/178213849/coding-style
   - /post/178213849
 slug: coding-style

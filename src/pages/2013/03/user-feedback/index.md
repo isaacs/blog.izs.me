@@ -1,6 +1,8 @@
 ---
 date: 2013-03-11T04:56:55.000Z
-redirects:
+redirect_from:
+  - /post/45090961790/user-feedback/
+  - /post/45090961790/
   - /post/45090961790/user-feedback
   - /post/45090961790
 slug: user-feedback

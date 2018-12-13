@@ -1,6 +1,8 @@
 ---
 date: 2009-08-26T17:03:11.000Z
-redirects:
+redirect_from:
+  - /post/172233928/dan-ariely-ted-talk/
+  - /post/172233928/
   - /post/172233928/dan-ariely-ted-talk
   - /post/172233928
 slug: dan-ariely-ted-talk

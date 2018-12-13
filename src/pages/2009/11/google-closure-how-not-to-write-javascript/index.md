@@ -3,7 +3,9 @@ date: 2009-11-13T01:13:45.000Z
 link_publisher: sitepoint.com
 link_url: >-
   http://www.sitepoint.com/blogs/2009/11/12/google-closure-how-not-to-write-javascript/
-redirects:
+redirect_from:
+  - /post/242031635/google-closure-how-not-to-write-javascript/
+  - /post/242031635/
   - /post/242031635/google-closure-how-not-to-write-javascript
   - /post/242031635
 slug: google-closure-how-not-to-write-javascript

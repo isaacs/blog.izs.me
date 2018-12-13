@@ -1,6 +1,8 @@
 ---
 date: 2013-03-27T16:14:58.000Z
-redirects:
+redirect_from:
+  - /post/46426840964/alex-and-william-have-only-known-each-other-for-a/
+  - /post/46426840964/
   - /post/46426840964/alex-and-william-have-only-known-each-other-for-a
   - /post/46426840964
 slug: alex-and-william-have-only-known-each-other-for-a

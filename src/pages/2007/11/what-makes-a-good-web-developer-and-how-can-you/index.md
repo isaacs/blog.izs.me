@@ -1,6 +1,8 @@
 ---
 date: 2007-11-05T18:00:59.000Z
-redirects:
+redirect_from:
+  - /post/146672401/what-makes-a-good-web-developer-and-how-can-you/
+  - /post/146672401/
   - /post/146672401/what-makes-a-good-web-developer-and-how-can-you
   - /post/146672401
 slug: what-makes-a-good-web-developer-and-how-can-you

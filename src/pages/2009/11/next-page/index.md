@@ -1,6 +1,8 @@
 ---
 date: 2009-11-13T07:06:41.000Z
-redirects:
+redirect_from:
+  - /post/242338036/next-page/
+  - /post/242338036/
   - /post/242338036/next-page
   - /post/242338036
 slug: next-page

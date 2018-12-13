@@ -1,6 +1,8 @@
 ---
 date: 2014-04-12T17:49:16.000Z
-redirects:
+redirect_from:
+  - /post/82497005472/merlin-daveshumka-the-slowed-down-vocals/
+  - /post/82497005472/
   - /post/82497005472/merlin-daveshumka-the-slowed-down-vocals
   - /post/82497005472
 slug: merlin-daveshumka-the-slowed-down-vocals

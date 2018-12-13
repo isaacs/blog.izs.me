@@ -1,6 +1,8 @@
 ---
 date: 2014-09-25T02:39:51.000Z
-redirects:
+redirect_from:
+  - /post/98357802708/meadows-mommy-apersnicketylemon/
+  - /post/98357802708/
   - /post/98357802708/meadows-mommy-apersnicketylemon
   - /post/98357802708
 slug: meadows-mommy-apersnicketylemon

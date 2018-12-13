@@ -2,7 +2,9 @@
 date: 2009-10-14T21:10:21.000Z
 link_publisher: lettersofnote.com
 link_url: 'http://www.lettersofnote.com/'
-redirects:
+redirect_from:
+  - /post/213138532/letters-of-note/
+  - /post/213138532/
   - /post/213138532/letters-of-note
   - /post/213138532
 slug: letters-of-note

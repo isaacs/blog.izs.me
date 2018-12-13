@@ -1,6 +1,8 @@
 ---
 date: 2010-11-24T08:16:19.000Z
-redirects:
+redirect_from:
+  - /post/1667723013/linkedin/
+  - /post/1667723013/
   - /post/1667723013/linkedin
   - /post/1667723013
 slug: linkedin

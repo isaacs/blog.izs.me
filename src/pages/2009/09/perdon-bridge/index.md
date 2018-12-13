@@ -1,7 +1,9 @@
 ---
 date: 2009-09-01T21:25:23.000Z
 link_url: 'http://www.flickr.com/photos/isaacschlueter/3878397806/'
-redirects:
+redirect_from:
+  - /post/177380830/perdon-bridge/
+  - /post/177380830/
   - /post/177380830/perdon-bridge
   - /post/177380830
 slug: perdon-bridge

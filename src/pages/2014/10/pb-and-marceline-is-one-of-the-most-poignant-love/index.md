@@ -1,6 +1,8 @@
 ---
 date: 2014-10-08T22:19:00.000Z
-redirects:
+redirect_from:
+  - /post/99517243813/pb-and-marceline-is-one-of-the-most-poignant-love/
+  - /post/99517243813/
   - /post/99517243813/pb-and-marceline-is-one-of-the-most-poignant-love
   - /post/99517243813
 slug: pb-and-marceline-is-one-of-the-most-poignant-love

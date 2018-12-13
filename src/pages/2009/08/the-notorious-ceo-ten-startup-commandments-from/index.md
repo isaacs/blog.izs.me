@@ -3,7 +3,9 @@ date: 2009-08-10T17:02:27.000Z
 link_publisher: themetricsystem.rjmetrics.com
 link_url: >-
   http://themetricsystem.rjmetrics.com/2009/08/10/the-notorious-ceo-ten-startup-commandments-from-biggie-smalls/#comment-1315
-redirects:
+redirect_from:
+  - /post/159901414/the-notorious-ceo-ten-startup-commandments-from/
+  - /post/159901414/
   - /post/159901414/the-notorious-ceo-ten-startup-commandments-from
   - /post/159901414
 slug: the-notorious-ceo-ten-startup-commandments-from

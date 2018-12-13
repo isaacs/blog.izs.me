@@ -1,6 +1,8 @@
 ---
 date: 2009-08-22T17:01:00.000Z
-redirects:
+redirect_from:
+  - /post/169035298/into/
+  - /post/169035298/
   - /post/169035298/into
   - /post/169035298
 slug: into

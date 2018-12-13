@@ -1,6 +1,8 @@
 ---
 date: 2009-09-06T22:03:30.000Z
-redirects:
+redirect_from:
+  - /post/181447236/emoticons/
+  - /post/181447236/
   - /post/181447236/emoticons
   - /post/181447236
 slug: emoticons

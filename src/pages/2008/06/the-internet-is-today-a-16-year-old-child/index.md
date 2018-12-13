@@ -1,6 +1,8 @@
 ---
 date: 2008-06-01T06:28:43.000Z
-redirects:
+redirect_from:
+  - /post/146672674/the-internet-is-today-a-16-year-old-child/
+  - /post/146672674/
   - /post/146672674/the-internet-is-today-a-16-year-old-child
   - /post/146672674
 slug: the-internet-is-today-a-16-year-old-child

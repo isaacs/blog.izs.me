@@ -1,6 +1,8 @@
 ---
 date: 2014-08-22T02:36:53.000Z
-redirects:
+redirect_from:
+  - /post/95424717983/deansdamnation-thespyandthesoldier/
+  - /post/95424717983/
   - /post/95424717983/deansdamnation-thespyandthesoldier
   - /post/95424717983
 slug: deansdamnation-thespyandthesoldier

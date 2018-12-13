@@ -1,6 +1,8 @@
 ---
 date: 2014-04-03T22:11:15.000Z
-redirects:
+redirect_from:
+  - /post/81621583537/vintagegal-metropolis-film-poster-by-werner/
+  - /post/81621583537/
   - /post/81621583537/vintagegal-metropolis-film-poster-by-werner
   - /post/81621583537
 slug: vintagegal-metropolis-film-poster-by-werner

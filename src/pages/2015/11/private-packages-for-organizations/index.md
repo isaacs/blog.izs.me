@@ -1,6 +1,8 @@
 ---
 date: 2015-11-19T19:00:58.000Z
-redirects:
+redirect_from:
+  - /post/133542187178/private-packages-for-organizations/
+  - /post/133542187178/
   - /post/133542187178/private-packages-for-organizations
   - /post/133542187178
 slug: private-packages-for-organizations

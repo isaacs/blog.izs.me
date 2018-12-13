@@ -1,6 +1,8 @@
 ---
 date: 2015-01-01T22:51:00.000Z
-redirects:
+redirect_from:
+  - /post/106836187798/maple-old-fashioned-pecan-pie/
+  - /post/106836187798/
   - /post/106836187798/maple-old-fashioned-pecan-pie
   - /post/106836187798
 slug: maple-old-fashioned-pecan-pie

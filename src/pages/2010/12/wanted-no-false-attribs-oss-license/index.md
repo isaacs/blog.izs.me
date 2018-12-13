@@ -1,6 +1,8 @@
 ---
 date: 2010-12-30T10:31:00.000Z
-redirects:
+redirect_from:
+  - /post/2525864680/wanted-no-false-attribs-oss-license/
+  - /post/2525864680/
   - /post/2525864680/wanted-no-false-attribs-oss-license
   - /post/2525864680
 slug: wanted-no-false-attribs-oss-license

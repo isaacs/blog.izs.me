@@ -1,6 +1,8 @@
 ---
 date: 2015-01-14T06:38:10.000Z
-redirects:
+redirect_from:
+  - /post/108058001293/emmafrosticle-i-hate-this-asshole-but-i-love/
+  - /post/108058001293/
   - /post/108058001293/emmafrosticle-i-hate-this-asshole-but-i-love
   - /post/108058001293
 slug: emmafrosticle-i-hate-this-asshole-but-i-love

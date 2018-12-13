@@ -1,6 +1,8 @@
 ---
 date: 2009-07-31T00:10:52.000Z
-redirects:
+redirect_from:
+  - /post/152569730/please-dont-interrupt-what-im-doing-to-tell-me/
+  - /post/152569730/
   - /post/152569730/please-dont-interrupt-what-im-doing-to-tell-me
   - /post/152569730
 slug: please-dont-interrupt-what-im-doing-to-tell-me

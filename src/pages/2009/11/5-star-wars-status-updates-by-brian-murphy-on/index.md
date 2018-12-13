@@ -2,7 +2,9 @@
 date: 2009-11-24T20:43:51.000Z
 link_publisher: collegehumor.com
 link_url: 'http://www.collegehumor.com/article:1794889'
-redirects:
+redirect_from:
+  - /post/255986454/5-star-wars-status-updates-by-brian-murphy-on/
+  - /post/255986454/
   - /post/255986454/5-star-wars-status-updates-by-brian-murphy-on
   - /post/255986454
 slug: 5-star-wars-status-updates-by-brian-murphy-on

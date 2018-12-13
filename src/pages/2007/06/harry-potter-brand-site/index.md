@@ -1,6 +1,8 @@
 ---
 date: 2007-06-20T19:10:14.000Z
-redirects:
+redirect_from:
+  - /post/146671538/harry-potter-brand-site/
+  - /post/146671538/
   - /post/146671538/harry-potter-brand-site
   - /post/146671538
 slug: harry-potter-brand-site

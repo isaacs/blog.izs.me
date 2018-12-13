@@ -1,6 +1,8 @@
 ---
 date: 2013-12-05T18:53:00.000Z
-redirects:
+redirect_from:
+  - /post/69091089622/the-hazards-of-consensus/
+  - /post/69091089622/
   - /post/69091089622/the-hazards-of-consensus
   - /post/69091089622
 slug: the-hazards-of-consensus

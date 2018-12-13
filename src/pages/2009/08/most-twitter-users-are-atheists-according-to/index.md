@@ -3,7 +3,9 @@ date: 2009-08-31T04:20:00.000Z
 link_publisher: shanecroucher.co.uk
 link_url: >-
   http://shanecroucher.co.uk/2009/08/29/most-twitter-users-are-atheists-according-to-poll/
-redirects:
+redirect_from:
+  - /post/176013628/most-twitter-users-are-atheists-according-to/
+  - /post/176013628/
   - /post/176013628/most-twitter-users-are-atheists-according-to
   - /post/176013628
 slug: most-twitter-users-are-atheists-according-to

@@ -2,7 +2,9 @@
 date: 2009-08-17T22:49:45.000Z
 link_url: >-
   http://skitch.com/isaacschlueter/b5i1f/discover-hostile-towards-exclamation-points
-redirects:
+redirect_from:
+  - /post/165213610/discover-hostile-towards-exclamation-points/
+  - /post/165213610/
   - /post/165213610/discover-hostile-towards-exclamation-points
   - /post/165213610
 slug: discover-hostile-towards-exclamation-points

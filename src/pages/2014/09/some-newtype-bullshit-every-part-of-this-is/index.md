@@ -1,6 +1,8 @@
 ---
 date: 2014-09-14T03:05:02.000Z
-redirects:
+redirect_from:
+  - /post/97439164318/some-newtype-bullshit-every-part-of-this-is/
+  - /post/97439164318/
   - /post/97439164318/some-newtype-bullshit-every-part-of-this-is
   - /post/97439164318
 slug: some-newtype-bullshit-every-part-of-this-is

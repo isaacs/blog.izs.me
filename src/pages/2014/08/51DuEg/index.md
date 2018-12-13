@@ -1,6 +1,8 @@
 ---
 date: 2014-08-07T16:32:51.000Z
-redirects:
+redirect_from:
+  - /post/94075153938//
+  - /post/94075153938/
   - /post/94075153938/
   - /post/94075153938
 slug: 51DuEg

@@ -1,6 +1,8 @@
 ---
 date: 2014-06-01T20:32:48.000Z
-redirects:
+redirect_from:
+  - /post/87525128203/how-to-install-nodejs-and-npm-on-ubuntu-1404/
+  - /post/87525128203/
   - /post/87525128203/how-to-install-nodejs-and-npm-on-ubuntu-1404
   - /post/87525128203
 slug: how-to-install-nodejs-and-npm-on-ubuntu-1404

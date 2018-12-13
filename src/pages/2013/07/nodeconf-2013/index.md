@@ -1,6 +1,8 @@
 ---
 date: 2013-07-06T18:19:55.000Z
-redirects:
+redirect_from:
+  - /post/54766250297/nodeconf-2013/
+  - /post/54766250297/
   - /post/54766250297/nodeconf-2013
   - /post/54766250297
 slug: nodeconf-2013

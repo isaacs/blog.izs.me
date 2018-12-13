@@ -1,6 +1,8 @@
 ---
 date: 2009-08-01T00:10:24.000Z
-redirects:
+redirect_from:
+  - /post/153277240/man-on-the-moon-fallacy-having-done-one-hard/
+  - /post/153277240/
   - /post/153277240/man-on-the-moon-fallacy-having-done-one-hard
   - /post/153277240
 slug: man-on-the-moon-fallacy-having-done-one-hard

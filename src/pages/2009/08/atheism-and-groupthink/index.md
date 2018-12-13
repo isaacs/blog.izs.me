@@ -1,6 +1,8 @@
 ---
 date: 2009-08-17T17:00:52.000Z
-redirects:
+redirect_from:
+  - /post/164992519/atheism-and-groupthink/
+  - /post/164992519/
   - /post/164992519/atheism-and-groupthink
   - /post/164992519
 slug: atheism-and-groupthink

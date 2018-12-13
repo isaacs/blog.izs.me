@@ -2,7 +2,9 @@
 date: 2009-08-24T08:20:13.000Z
 link_publisher: hurl.r09.railsrumble.com
 link_url: 'http://hurl.r09.railsrumble.com/'
-redirects:
+redirect_from:
+  - /post/170302354/hurl/
+  - /post/170302354/
   - /post/170302354/hurl
   - /post/170302354
 slug: hurl

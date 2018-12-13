@@ -1,6 +1,8 @@
 ---
 date: 2008-11-03T18:00:35.000Z
-redirects:
+redirect_from:
+  - /post/146672859/the-haiku-ooo-email/
+  - /post/146672859/
   - /post/146672859/the-haiku-ooo-email
   - /post/146672859
 slug: the-haiku-ooo-email

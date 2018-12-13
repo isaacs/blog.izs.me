@@ -1,6 +1,8 @@
 ---
 date: 2014-09-14T02:57:19.000Z
-redirects:
+redirect_from:
+  - /post/97438588433/to-increase-their-capacity-for-consumption/
+  - /post/97438588433/
   - /post/97438588433/to-increase-their-capacity-for-consumption
   - /post/97438588433
 slug: to-increase-their-capacity-for-consumption

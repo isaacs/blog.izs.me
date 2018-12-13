@@ -1,7 +1,9 @@
 ---
 date: 2014-04-27T17:14:21.000Z
 link_url: 'http://fakebjorkfacts.tumblr.com'
-redirects:
+redirect_from:
+  - /post/84034521117/bjorkswig-fuckers/
+  - /post/84034521117/
   - /post/84034521117/bjorkswig-fuckers
   - /post/84034521117
 slug: bjorkswig-fuckers

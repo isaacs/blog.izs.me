@@ -1,6 +1,8 @@
 ---
 date: 2014-04-27T17:09:57.000Z
-redirects:
+redirect_from:
+  - /post/84034109019/merlin-bridesmaids-meet-megan-yeah-ill/
+  - /post/84034109019/
   - /post/84034109019/merlin-bridesmaids-meet-megan-yeah-ill
   - /post/84034109019
 slug: merlin-bridesmaids-meet-megan-yeah-ill

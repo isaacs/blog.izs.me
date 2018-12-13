@@ -1,6 +1,8 @@
 ---
 date: 2014-07-24T22:00:29.000Z
-redirects:
+redirect_from:
+  - /post/92765928483/magnoliapearl-konistehdump-70sscifiart/
+  - /post/92765928483/
   - /post/92765928483/magnoliapearl-konistehdump-70sscifiart
   - /post/92765928483
 slug: magnoliapearl-konistehdump-70sscifiart

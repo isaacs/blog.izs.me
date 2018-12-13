@@ -1,6 +1,8 @@
 ---
 date: 2010-05-06T04:57:43.000Z
-redirects:
+redirect_from:
+  - /post/575363657/a-public-service/
+  - /post/575363657/
   - /post/575363657/a-public-service
   - /post/575363657
 slug: a-public-service

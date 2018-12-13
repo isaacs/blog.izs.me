@@ -1,6 +1,8 @@
 ---
 date: 2018-12-12T01:22:45.000Z
-redirects:
+redirect_from:
+  - /post/181032414828/gadotsdiana-wonder-woman-2017-dir-patty/
+  - /post/181032414828/
   - /post/181032414828/gadotsdiana-wonder-woman-2017-dir-patty
   - /post/181032414828
 slug: gadotsdiana-wonder-woman-2017-dir-patty

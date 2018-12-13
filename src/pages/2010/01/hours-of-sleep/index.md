@@ -1,6 +1,8 @@
 ---
 date: 2010-01-26T17:26:05.000Z
-redirects:
+redirect_from:
+  - /post/354596596/hours-of-sleep/
+  - /post/354596596/
   - /post/354596596/hours-of-sleep
   - /post/354596596
 slug: hours-of-sleep

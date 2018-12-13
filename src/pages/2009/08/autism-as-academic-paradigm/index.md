@@ -2,7 +2,9 @@
 date: 2009-08-07T04:28:00.000Z
 link_publisher: chronicle.com
 link_url: 'http://chronicle.com/article/Autism-as-Academic-Paradigm/47033/'
-redirects:
+redirect_from:
+  - /post/157663456/autism-as-academic-paradigm/
+  - /post/157663456/
   - /post/157663456/autism-as-academic-paradigm
   - /post/157663456
 slug: autism-as-academic-paradigm

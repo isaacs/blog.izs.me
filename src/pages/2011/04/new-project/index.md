@@ -1,6 +1,8 @@
 ---
 date: 2011-04-16T00:33:40.000Z
-redirects:
+redirect_from:
+  - /post/4645875936/new-project/
+  - /post/4645875936/
   - /post/4645875936/new-project
   - /post/4645875936
 slug: new-project

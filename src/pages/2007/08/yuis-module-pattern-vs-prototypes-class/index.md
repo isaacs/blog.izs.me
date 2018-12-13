@@ -1,6 +1,8 @@
 ---
 date: 2007-08-13T17:47:36.000Z
-redirects:
+redirect_from:
+  - /post/146671880/yuis-module-pattern-vs-prototypes-class/
+  - /post/146671880/
   - /post/146671880/yuis-module-pattern-vs-prototypes-class
   - /post/146671880
 slug: yuis-module-pattern-vs-prototypes-class

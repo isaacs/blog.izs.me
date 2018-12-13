@@ -1,6 +1,8 @@
 ---
 date: 2014-10-08T05:14:13.000Z
-redirects:
+redirect_from:
+  - /post/99465499318/espruen-an-alternate-universe-where-bruce-wayne/
+  - /post/99465499318/
   - /post/99465499318/espruen-an-alternate-universe-where-bruce-wayne
   - /post/99465499318
 slug: espruen-an-alternate-universe-where-bruce-wayne

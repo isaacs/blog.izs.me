@@ -1,6 +1,8 @@
 ---
 date: 2016-01-17T18:41:25.000Z
-redirects:
+redirect_from:
+  - /post/137493744663/hello-there-sadly-the-picture-links-in-this/
+  - /post/137493744663/
   - /post/137493744663/hello-there-sadly-the-picture-links-in-this
   - /post/137493744663
 slug: hello-there-sadly-the-picture-links-in-this

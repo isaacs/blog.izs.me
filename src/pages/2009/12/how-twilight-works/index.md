@@ -2,7 +2,9 @@
 date: 2009-12-01T02:39:04.000Z
 link_publisher: theoatmeal.com
 link_url: 'http://theoatmeal.com/story/twilight'
-redirects:
+redirect_from:
+  - /post/264281541/how-twilight-works/
+  - /post/264281541/
   - /post/264281541/how-twilight-works
   - /post/264281541
 slug: how-twilight-works

@@ -2,7 +2,9 @@
 date: 2009-11-10T01:30:00.000Z
 link_publisher: usatoday.com
 link_url: 'http://www.usatoday.com/printedition/money/20091109/patents09_st.art.htm'
-redirects:
+redirect_from:
+  - /post/238613670/validity-of-software-patents-goes-on-trial-today/
+  - /post/238613670/
   - /post/238613670/validity-of-software-patents-goes-on-trial-today
   - /post/238613670
 slug: validity-of-software-patents-goes-on-trial-today

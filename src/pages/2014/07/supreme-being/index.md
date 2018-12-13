@@ -1,6 +1,8 @@
 ---
 date: 2014-07-18T00:46:55.000Z
-redirects:
+redirect_from:
+  - /post/92097521173/supreme-being/
+  - /post/92097521173/
   - /post/92097521173/supreme-being
   - /post/92097521173
 slug: supreme-being

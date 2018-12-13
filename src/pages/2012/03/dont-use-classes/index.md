@@ -1,6 +1,8 @@
 ---
 date: 2012-03-18T17:40:00.000Z
-redirects:
+redirect_from:
+  - /post/19521376222/dont-use-classes/
+  - /post/19521376222/
   - /post/19521376222/dont-use-classes
   - /post/19521376222
 slug: dont-use-classes

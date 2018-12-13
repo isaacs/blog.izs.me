@@ -1,6 +1,8 @@
 ---
 date: 2010-11-16T15:58:00.000Z
-redirects:
+redirect_from:
+  - /post/1591805056/tsa-success-story/
+  - /post/1591805056/
   - /post/1591805056/tsa-success-story
   - /post/1591805056
 slug: tsa-success-story

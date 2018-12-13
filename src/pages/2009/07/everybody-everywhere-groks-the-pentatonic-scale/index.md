@@ -1,6 +1,8 @@
 ---
 date: 2009-07-31T18:09:17.000Z
-redirects:
+redirect_from:
+  - /post/153778348/everybody-everywhere-groks-the-pentatonic-scale/
+  - /post/153778348/
   - /post/153778348/everybody-everywhere-groks-the-pentatonic-scale
   - /post/153778348
 slug: everybody-everywhere-groks-the-pentatonic-scale

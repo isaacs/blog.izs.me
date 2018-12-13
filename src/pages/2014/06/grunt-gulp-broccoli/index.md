@@ -1,6 +1,8 @@
 ---
 date: 2014-06-08T16:41:05.000Z
-redirects:
+redirect_from:
+  - /post/88184437643/grunt-gulp-broccoli/
+  - /post/88184437643/
   - /post/88184437643/grunt-gulp-broccoli
   - /post/88184437643
 slug: grunt-gulp-broccoli

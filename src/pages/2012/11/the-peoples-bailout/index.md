@@ -2,7 +2,9 @@
 date: 2012-11-09T04:49:17.000Z
 link_publisher: howtosharpenpencils.tumblr.com
 link_url: 'http://howtosharpenpencils.tumblr.com/post/35285338188/the-peoples-bailout'
-redirects:
+redirect_from:
+  - /post/35321669911/the-peoples-bailout/
+  - /post/35321669911/
   - /post/35321669911/the-peoples-bailout
   - /post/35321669911
 slug: the-peoples-bailout

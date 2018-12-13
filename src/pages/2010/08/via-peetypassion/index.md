@@ -1,7 +1,9 @@
 ---
 date: 2010-08-30T16:41:24.000Z
 link_url: 'http://1nation.eu/post/515766683/accurate-representation'
-redirects:
+redirect_from:
+  - /post/1037486431/via-peetypassion/
+  - /post/1037486431/
   - /post/1037486431/via-peetypassion
   - /post/1037486431
 slug: via-peetypassion

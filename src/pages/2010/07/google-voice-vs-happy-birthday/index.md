@@ -1,6 +1,8 @@
 ---
 date: 2010-07-01T23:25:41.000Z
-redirects:
+redirect_from:
+  - /post/759308832/google-voice-vs-happy-birthday/
+  - /post/759308832/
   - /post/759308832/google-voice-vs-happy-birthday
   - /post/759308832
 slug: google-voice-vs-happy-birthday

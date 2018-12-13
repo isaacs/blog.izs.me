@@ -1,6 +1,8 @@
 ---
 date: 2009-08-01T00:24:00.000Z
-redirects:
+redirect_from:
+  - /post/153284018/you-are-a-dream/
+  - /post/153284018/
   - /post/153284018/you-are-a-dream
   - /post/153284018
 slug: you-are-a-dream

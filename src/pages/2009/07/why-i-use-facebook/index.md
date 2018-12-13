@@ -1,7 +1,9 @@
 ---
 date: 2009-07-29T03:48:26.000Z
 link_url: 'http://skitch.com/isaacschlueter/b3mwf/why-i-use-facebook'
-redirects:
+redirect_from:
+  - /post/151318283/why-i-use-facebook/
+  - /post/151318283/
   - /post/151318283/why-i-use-facebook
   - /post/151318283
 slug: why-i-use-facebook
