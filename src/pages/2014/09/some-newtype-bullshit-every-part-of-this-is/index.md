@@ -1,16 +1,5 @@
 ---
 date: 2014-09-14T03:05:02.000Z
-photos:
-  - height: 540
-    url: ./tumblr_nbobdy5ejz1r166qno1_1280.png
-    width: 720
-  - height: 540
-    url: ./tumblr_nbobdy5ejz1r166qno2_1280.png
-    width: 720
-  - height: 540
-    url: ./tumblr_nbobdy5ejz1r166qno3_1280.png
-    width: 720
-photoset_layout: '111'
 redirects:
   - /post/97439164318/some-newtype-bullshit-every-part-of-this-is
   - /post/97439164318
@@ -29,6 +18,17 @@ via:
   url: >-
     http://pixiaq.tumblr.com/post/97435394674/some-newtype-bullshit-every-part-of-this-is
 ---
+<div class="photoset" style="width:100%">
+  <div class="photoset_row photoset_row_1" style="margin:1ex">
+<img src="./tumblr_nbobdy5ejz1r166qno1_1280.png" alt="" style="width:100%">
+  </div>
+  <div class="photoset_row photoset_row_1" style="margin:1ex">
+<img src="./tumblr_nbobdy5ejz1r166qno2_1280.png" alt="" style="width:100%">
+  </div>
+  <div class="photoset_row photoset_row_1" style="margin:1ex">
+<img src="./tumblr_nbobdy5ejz1r166qno3_1280.png" alt="" style="width:100%">
+  </div>
+</div>
 <p><a class="tumblr_blog" href="http://some-newtype-bullshit.tumblr.com/post/97274916000/every-part-of-this-is-wrong">some-newtype-bullshit</a>:</p>
 
 <blockquote>

@@ -1,10 +1,6 @@
 ---
 date: 2009-08-08T20:12:33.000Z
 link_url: 'http://www.flickr.com/photos/merlin/3801577000/'
-photos:
-  - height: 350
-    url: ./34GrgyzUsqw6dag6otYIhUaqo1_500.jpg
-    width: 500
 redirects:
   - /post/158714902/merlin-fuck-fək-vulgar-slang-i-cant
   - /post/158714902
@@ -22,6 +18,11 @@ via:
   url: >-
     http://www.kungfugrippe.com/post/158649660/fuck-fək-vulgar-slang-i-cant-believe-the
 ---
+<div class="photoset" style="width:100%">
+  <div class="photoset_row photoset_row_1" style="margin:1ex">
+<img src="./34GrgyzUsqw6dag6otYIhUaqo1_500.jpg" alt="" style="width:100%">
+  </div>
+</div>
 <p><a href="http://www.kungfugrippe.com/post/158649660/fuck-f-k-vulgar-slang-i-cant-believe-the">merlin</a>:</p>
 
 <blockquote><p><a href="http://www.flickr.com/photos/merlin/3801577000/"><strong>“fuck |fək| vulgar slang”</strong></a></p>

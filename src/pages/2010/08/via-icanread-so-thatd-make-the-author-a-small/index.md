@@ -1,9 +1,5 @@
 ---
 date: 2010-08-25T05:16:00.000Z
-photos:
-  - height: 396
-    url: ./tumblr_l7nseq0v0h1qzr04eo1_640.jpg
-    width: 597
 redirects:
   - /post/1007345170/via-icanread-so-thatd-make-the-author-a-small
   - /post/1007345170
@@ -19,6 +15,11 @@ via:
   title: i can read
   url: 'https://icanread.tumblr.com/post/1003458988'
 ---
+<div class="photoset" style="width:100%">
+  <div class="photoset_row photoset_row_1" style="margin:1ex">
+<img src="./tumblr_l7nseq0v0h1qzr04eo1_640.jpg" alt="" style="width:100%">
+  </div>
+</div>
 <p>(via <a href="http://icanread.tumblr.com/" class="tumblr_blog">icanread</a>)</p>
 
 <p>So that&rsquo;d make the author a small person, yes?</p>

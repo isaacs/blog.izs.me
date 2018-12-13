@@ -1,9 +1,5 @@
 ---
 date: 2013-11-06T23:59:50.000Z
-photos:
-  - height: 200
-    url: ./tumblr_mvv8lgQOWp1sa5gyeo1_400.gif
-    width: 272
 redirects:
   - /post/66229008443/yuireactions-the-rare-striped-izs-spotted-in
   - /post/66229008443
@@ -21,6 +17,11 @@ via:
   url: >-
     http://yuireactions.tumblr.com/post/66227603940/the-rare-striped-izs-spotted-in-the-wild-at
 ---
+<div class="photoset" style="width:100%">
+  <div class="photoset_row photoset_row_1" style="margin:1ex">
+<img src="./tumblr_mvv8lgQOWp1sa5gyeo1_400.gif" alt="" style="width:100%">
+  </div>
+</div>
 <p><a href="http://yuireactions.tumblr.com/post/66227603940/the-rare-striped-izs-spotted-in-the-wild-at" class="tumblr_blog">yuireactions</a>:</p>
 
 <blockquote><p>the rare striped @izs, spotted in the wild at #yuiconf</p></blockquote>

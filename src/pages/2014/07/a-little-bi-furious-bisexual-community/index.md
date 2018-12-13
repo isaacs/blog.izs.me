@@ -1,25 +1,5 @@
 ---
 date: 2014-07-31T15:46:44.000Z
-photos:
-  - height: 300
-    url: ./tumblr_mquhrlDC7F1qlxhw8o1_250.gif
-    width: 245
-  - height: 300
-    url: ./tumblr_mquhrlDC7F1qlxhw8o2_250.gif
-    width: 245
-  - height: 300
-    url: ./tumblr_mquhrlDC7F1qlxhw8o3_250.gif
-    width: 245
-  - height: 300
-    url: ./tumblr_mquhrlDC7F1qlxhw8o4_250.gif
-    width: 245
-  - height: 300
-    url: ./tumblr_mquhrlDC7F1qlxhw8o5_250.gif
-    width: 245
-  - height: 300
-    url: ./tumblr_mquhrlDC7F1qlxhw8o6_250.gif
-    width: 245
-photoset_layout: '222'
 redirects:
   - /post/93410651713/a-little-bi-furious-bisexual-community
   - /post/93410651713
@@ -37,6 +17,20 @@ via:
   url: >-
     http://bugchat.tumblr.com/post/93407388755/a-little-bi-furious-bisexual-community
 ---
+<div class="photoset" style="width:100%">
+  <div class="photoset_row photoset_row_2" style="margin:1ex">
+<img src="./tumblr_mquhrlDC7F1qlxhw8o1_250.gif" alt="" style="width:100%">
+<img src="./tumblr_mquhrlDC7F1qlxhw8o2_250.gif" alt="" style="width:100%">
+  </div>
+  <div class="photoset_row photoset_row_2" style="margin:1ex">
+<img src="./tumblr_mquhrlDC7F1qlxhw8o3_250.gif" alt="" style="width:100%">
+<img src="./tumblr_mquhrlDC7F1qlxhw8o4_250.gif" alt="" style="width:100%">
+  </div>
+  <div class="photoset_row photoset_row_2" style="margin:1ex">
+<img src="./tumblr_mquhrlDC7F1qlxhw8o5_250.gif" alt="" style="width:100%">
+<img src="./tumblr_mquhrlDC7F1qlxhw8o6_250.gif" alt="" style="width:100%">
+  </div>
+</div>
 <p><a href="http://a-little-bi-furious.tumblr.com/post/93387615961/bisexual-community-ihaventfinishedyet" class="tumblr_blog">a-little-bi-furious</a>:</p>
 
 <blockquote><p><a class="tumblr_blog" href="http://bisexual-community.tumblr.com/post/92208469327/ihaventfinishedyet-note-the-real-piper-of">bisexual-community</a>:</p>

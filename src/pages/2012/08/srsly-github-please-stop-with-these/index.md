@@ -1,9 +1,5 @@
 ---
 date: 2012-08-13T17:15:00.000Z
-photos:
-  - height: 361
-    url: ./tumblr_m8pelgHEhh1qzjzo9o1_540.png
-    width: 513
 redirects:
   - /post/29344790548/srsly-github-please-stop-with-these
   - /post/29344790548
@@ -11,6 +7,11 @@ slug: srsly-github-please-stop-with-these
 tumblrid: 29344790548
 type: photo
 ---
+<div class="photoset" style="width:100%">
+  <div class="photoset_row photoset_row_1" style="margin:1ex">
+<img src="./tumblr_m8pelgHEhh1qzjzo9o1_540.png" alt="" style="width:100%">
+  </div>
+</div>
 <p>Srsly, github.  Please stop with these.</p>
 
 <p>There is no way to filter these messages except via the title.</p>

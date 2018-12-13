@@ -1,10 +1,6 @@
 ---
 date: 2014-03-10T01:18:00.000Z
 link_url: 'http://dovga.net/video/5334/koshka-i-osminog'
-photos:
-  - height: 200
-    url: ./tumblr_n1rsed96kE1s96utdo1_250.gif
-    width: 250
 redirects:
   - /post/79117728429/valkyriesvagina-oh-god-what-have-i-done
   - /post/79117728429
@@ -21,6 +17,11 @@ via:
   url: >-
     http://pixiaq.tumblr.com/post/79010849410/valkyriesvagina-oh-god-what-have-i-done
 ---
+<div class="photoset" style="width:100%">
+  <div class="photoset_row photoset_row_1" style="margin:1ex">
+<img src="./tumblr_n1rsed96kE1s96utdo1_250.gif" alt="" style="width:100%">
+  </div>
+</div>
 <p><a class="tumblr_blog" href="http://valkyriesvagina.tumblr.com/post/78836866283/oh-god-what-have-i-done">valkyriesvagina</a>:</p>
 
 <blockquote>

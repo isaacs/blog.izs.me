@@ -1,9 +1,5 @@
 ---
 date: 2018-12-05T23:18:16.000Z
-photos:
-  - height: 960
-    url: ./tumblr_pj76cpZ62g1qeiz5bo1_1280.png
-    width: 1280
 redirects:
   - /post/180841118003/tha-boy-literally
   - /post/180841118003
@@ -19,6 +15,11 @@ via:
   title: Seldo's Tumblr
   url: 'https://seldo.tumblr.com/post/180836627990/tha-boy-literally'
 ---
+<div class="photoset" style="width:100%">
+  <div class="photoset_row photoset_row_1" style="margin:1ex">
+<img src="./tumblr_pj76cpZ62g1qeiz5bo1_1280.png" alt="" style="width:100%">
+  </div>
+</div>
 <p><a href="http://tha-boy.tumblr.com/post/180808766969/literally" class="tumblr_blog">tha-boy</a>:</p>
 
 <blockquote><p>literally</p></blockquote>

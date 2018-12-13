@@ -1,42 +1,23 @@
 ---
 date: 2012-03-18T17:40:00.000Z
-html5: true
-permalink: 'https://www.youtube.com/watch?v=o9pEzgHorH0'
-player:
-  - embed_code: >-
-      <iframe width="250" height="187"  id="youtube_iframe"
-      src="https://www.youtube.com/embed/o9pEzgHorH0?feature=oembed&amp;enablejsapi=1&amp;origin=https://safe.txmblr.com&amp;wmode=opaque"
-      frameborder="0" allow="accelerometer; autoplay; encrypted-media;
-      gyroscope; picture-in-picture" allowfullscreen></iframe>
-    width: 250
-  - embed_code: >-
-      <iframe width="400" height="300"  id="youtube_iframe"
-      src="https://www.youtube.com/embed/o9pEzgHorH0?feature=oembed&amp;enablejsapi=1&amp;origin=https://safe.txmblr.com&amp;wmode=opaque"
-      frameborder="0" allow="accelerometer; autoplay; encrypted-media;
-      gyroscope; picture-in-picture" allowfullscreen></iframe>
-    width: 400
-  - embed_code: >-
-      <iframe width="500" height="375"  id="youtube_iframe"
-      src="https://www.youtube.com/embed/o9pEzgHorH0?feature=oembed&amp;enablejsapi=1&amp;origin=https://safe.txmblr.com&amp;wmode=opaque"
-      frameborder="0" allow="accelerometer; autoplay; encrypted-media;
-      gyroscope; picture-in-picture" allowfullscreen></iframe>
-    width: 500
 redirects:
   - /post/19521376222/dont-use-classes
   - /post/19521376222
 slug: dont-use-classes
-thumbnail:
-  height: 360
-  url: 'https://i.ytimg.com/vi/o9pEzgHorH0/hqdefault.jpg'
-  width: 480
 tumblrid: 19521376222
 type: video
 video:
-  youtube:
-    height: 344
-    video_id: o9pEzgHorH0
-    width: 459
-video_type: youtube
+  embed: >-
+    <iframe width="500" height="375"  id="youtube_iframe"
+    src="https://www.youtube.com/embed/o9pEzgHorH0?feature=oembed&amp;enablejsapi=1&amp;origin=https://safe.txmblr.com&amp;wmode=opaque"
+    frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope;
+    picture-in-picture" allowfullscreen></iframe>
+  permalink: 'https://www.youtube.com/watch?v=o9pEzgHorH0'
+  thumbnail:
+    height: 360
+    url: 'https://i.ytimg.com/vi/o9pEzgHorH0/hqdefault.jpg'
+    width: 480
+  type: youtube
 ---
 <p>Watch this video.  I really like a lot of what he has to say.  Two main comments:</p>
 

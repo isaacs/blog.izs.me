@@ -1,10 +1,6 @@
 ---
 date: 2014-11-30T20:59:10.000Z
 link_url: 'http://www.barbaraleatham.co.uk/img/s1/v5/p1653073263-5.jpg'
-photos:
-  - height: 850
-    url: ./tumblr_nf6wrvR8wX1rjom6ho1_640.jpg
-    width: 568
 redirects:
   - /post/104009679273/seldo-i-just-have-something-in-my-eye-shut
   - /post/104009679273
@@ -22,6 +18,11 @@ via:
   url: >-
     https://seldo.tumblr.com/post/103902480430/i-just-have-something-in-my-eye-shut-up
 ---
+<div class="photoset" style="width:100%">
+  <div class="photoset_row photoset_row_1" style="margin:1ex">
+<img src="./tumblr_nf6wrvR8wX1rjom6ho1_640.jpg" alt="" style="width:100%">
+  </div>
+</div>
 <p><a href="http://seldo.tumblr.com/post/103902480430/i-just-have-something-in-my-eye-shut-up" class="tumblr_blog">seldo</a>:</p>
 
 <blockquote><p>I just have something in my eye. Shut up.</p>

@@ -1,10 +1,6 @@
 ---
 date: 2009-12-07T18:21:00.000Z
 link_url: 'http://www.flickr.com/photos/isaacschlueter/4165952794/'
-photos:
-  - height: 1920
-    url: ./tumblr_kuaoby3qWC1qzjzo9o1_r1_1280.png
-    width: 396
 redirects:
   - /post/273432179/minzms-in-the-photo-booth-im-not-referring-to
   - /post/273432179
@@ -12,6 +8,11 @@ slug: minzms-in-the-photo-booth-im-not-referring-to
 tumblrid: 273432179
 type: photo
 ---
+<div class="photoset" style="width:100%">
+  <div class="photoset_row photoset_row_1" style="margin:1ex">
+<img src="./tumblr_kuaoby3qWC1qzjzo9o1_r1_1280.png" alt="" style="width:100%">
+  </div>
+</div>
 <h2>MiNzMs in the Photo Booth</h2>
 
 <p>I&rsquo;m not referring to the OS X app here, or some fancy iPhone program that takes old-timey crappy photos, but an actual real-live physical photobooth.</p>

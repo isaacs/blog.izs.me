@@ -1,10 +1,6 @@
 ---
 date: 2014-04-22T22:49:45.000Z
 link_url: 'https://www.flickr.com/photos/mlleghoul/13424919075/'
-photos:
-  - height: 520
-    url: ./tumblr_n31nsmS6Hr1s46h7vo1_1280.jpg
-    width: 703
 redirects:
   - /post/83559158383/skeletorislove-skeletor-affirmations-by
   - /post/83559158383
@@ -22,6 +18,11 @@ via:
   url: >-
     http://skeletorislove.tumblr.com/post/80773504786/skeletor-affirmations-by-ghoulnextdoor-the
 ---
+<div class="photoset" style="width:100%">
+  <div class="photoset_row photoset_row_1" style="margin:1ex">
+<img src="./tumblr_n31nsmS6Hr1s46h7vo1_1280.jpg" alt="" style="width:100%">
+  </div>
+</div>
 <p><a href="http://skeletorislove.tumblr.com/post/80773504786/skeletor-affirmations-by-ghoulnextdoor-the" class="tumblr_blog">skeletorislove</a>:</p>
 
 <blockquote><p>Skeletor Affirmations (by <a href="https://www.flickr.com/photos/mlleghoul/13424919075/">ghoulnextdoor</a>)</p>

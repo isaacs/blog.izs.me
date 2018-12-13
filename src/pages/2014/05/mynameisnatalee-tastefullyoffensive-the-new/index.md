@@ -1,16 +1,5 @@
 ---
 date: 2014-05-14T14:17:31.000Z
-photos:
-  - height: 851
-    url: ./tumblr_n5jbi8THih1qewacoo1_1280.jpg
-    width: 1280
-  - height: 456
-    url: ./tumblr_n5jbi8THih1qewacoo2_540.jpg
-    width: 518
-  - height: 344
-    url: ./tumblr_n5jbi8THih1qewacoo3_540.jpg
-    width: 518
-photoset_layout: '111'
 redirects:
   - /post/85722095938/mynameisnatalee-tastefullyoffensive-the-new
   - /post/85722095938
@@ -28,6 +17,17 @@ via:
   url: >-
     http://least-virginy-virgin-ever.tumblr.com/post/85695562758/mynameisnatalee-tastefullyoffensive-the-new
 ---
+<div class="photoset" style="width:100%">
+  <div class="photoset_row photoset_row_1" style="margin:1ex">
+<img src="./tumblr_n5jbi8THih1qewacoo1_1280.jpg" alt="" style="width:100%">
+  </div>
+  <div class="photoset_row photoset_row_1" style="margin:1ex">
+<img src="./tumblr_n5jbi8THih1qewacoo2_540.jpg" alt="" style="width:100%">
+  </div>
+  <div class="photoset_row photoset_row_1" style="margin:1ex">
+<img src="./tumblr_n5jbi8THih1qewacoo3_540.jpg" alt="" style="width:100%">
+  </div>
+</div>
 <p><a class="tumblr_blog" href="http://mynameisnatalee.tumblr.com/post/85670903257/tastefullyoffensive-the-new-batman-logo">mynameisnatalee</a>:</p>
 <blockquote>
 <p><a class="tumblr_blog" href="http://tumblr.tastefullyoffensive.com/post/85664842393/the-new-batman-logo-zacksnyder-drbrevin">tastefullyoffensive</a>:</p>

@@ -1,22 +1,5 @@
 ---
 date: 2014-04-27T17:09:57.000Z
-html5: false
-player:
-  - embed_code: >-
-      <iframe width="250" height="141"
-      src="http://www.youtube.com/embed/6eTaP3vBUqg?feature=oembed"
-      frameborder="0" allowfullscreen></iframe>
-    width: 250
-  - embed_code: >-
-      <iframe width="400" height="225"
-      src="http://www.youtube.com/embed/6eTaP3vBUqg?feature=oembed"
-      frameborder="0" allowfullscreen></iframe>
-    width: 400
-  - embed_code: >-
-      <iframe width="500" height="281"
-      src="http://www.youtube.com/embed/6eTaP3vBUqg?feature=oembed"
-      frameborder="0" allowfullscreen></iframe>
-    width: 500
 redirects:
   - /post/84034109019/merlin-bridesmaids-meet-megan-yeah-ill
   - /post/84034109019
@@ -26,10 +9,6 @@ source:
   title: kung fu grippe
   url: >-
     http://www.kungfugrippe.com/post/83942866578/bridesmaids-meet-megan-yeah-ill-say-it
-thumbnail:
-  height: 0
-  url: ''
-  width: 0
 tumblrid: 84034109019
 type: video
 via:
@@ -37,7 +16,12 @@ via:
   title: kung fu grippe
   url: >-
     http://www.kungfugrippe.com/post/83942866578/bridesmaids-meet-megan-yeah-ill-say-it
-video_type: unknown
+video:
+  embed: >-
+    <iframe width="500" height="281"
+    src="http://www.youtube.com/embed/6eTaP3vBUqg?feature=oembed"
+    frameborder="0" allowfullscreen></iframe>
+  type: unknown
 ---
 <p><a href="http://www.kungfugrippe.com/post/83942866578/bridesmaids-meet-megan-yeah-ill-say-it" class="tumblr_blog">merlin</a>:</p>
 

@@ -2,10 +2,6 @@
 date: 2014-08-22T00:11:17.000Z
 link_url: >-
   http://www.gofundme.com/mvc.php?route=contact/form&pid=500_When_should_I_report_a_campaign
-photos:
-  - height: 426
-    url: ./tumblr_nao80iqcuW1qzytyoo1_640.png
-    width: 638
 redirects:
   - /post/95413503783/kateceratops-people-are-giving-wilson-money-to
   - /post/95413503783
@@ -23,6 +19,11 @@ via:
   url: >-
     http://kateceratops.tumblr.com/post/95390791380/people-are-giving-wilson-money-to-thank-him-for
 ---
+<div class="photoset" style="width:100%">
+  <div class="photoset_row photoset_row_1" style="margin:1ex">
+<img src="./tumblr_nao80iqcuW1qzytyoo1_640.png" alt="" style="width:100%">
+  </div>
+</div>
 <p><a href="http://kateceratops.tumblr.com/post/95390791380/people-are-giving-wilson-money-to-thank-him-for" class="tumblr_blog">kateceratops</a>:</p>
 
 <blockquote><p>People are giving Wilson money to thank him for killing an unarmed black teenager. Please report this to GoFundMe, as it violates their Terms of Service and they get 5% of the tens of thousands of dollars being donated. <a href="http://www.gofundme.com/mvc.php?route=contact/form&amp;pid=500_When_should_I_report_a_campaign">Click to report.</a></p>

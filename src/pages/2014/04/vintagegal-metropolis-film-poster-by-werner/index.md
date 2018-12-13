@@ -1,9 +1,5 @@
 ---
 date: 2014-04-03T22:11:15.000Z
-photos:
-  - height: 748
-    url: ./tumblr_n2qr9p1Baj1qa70eyo1_500.jpg
-    width: 500
 redirects:
   - /post/81621583537/vintagegal-metropolis-film-poster-by-werner
   - /post/81621583537
@@ -21,6 +17,11 @@ via:
   url: >-
     http://www.kungfugrippe.com/post/81490602404/vintagegal-metropolis-film-poster-by-werner
 ---
+<div class="photoset" style="width:100%">
+  <div class="photoset_row photoset_row_1" style="margin:1ex">
+<img src="./tumblr_n2qr9p1Baj1qa70eyo1_500.jpg" alt="" style="width:100%">
+  </div>
+</div>
 <p><a class="tumblr_blog" href="http://vintagegal.tumblr.com/post/80203276130">vintagegal</a>:</p>
 
 <blockquote>

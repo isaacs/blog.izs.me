@@ -1,42 +1,23 @@
 ---
 date: 2014-09-16T00:38:00.000Z
-html5: true
-permalink: 'https://www.youtube.com/watch?v=47dtFZ8CFo8'
-player:
-  - embed_code: >-
-      <iframe width="250" height="141"  id="youtube_iframe"
-      src="https://www.youtube.com/embed/47dtFZ8CFo8?feature=oembed&amp;enablejsapi=1&amp;origin=https://safe.txmblr.com&amp;wmode=opaque"
-      frameborder="0" allow="accelerometer; autoplay; encrypted-media;
-      gyroscope; picture-in-picture" allowfullscreen></iframe>
-    width: 250
-  - embed_code: >-
-      <iframe width="400" height="225"  id="youtube_iframe"
-      src="https://www.youtube.com/embed/47dtFZ8CFo8?feature=oembed&amp;enablejsapi=1&amp;origin=https://safe.txmblr.com&amp;wmode=opaque"
-      frameborder="0" allow="accelerometer; autoplay; encrypted-media;
-      gyroscope; picture-in-picture" allowfullscreen></iframe>
-    width: 400
-  - embed_code: >-
-      <iframe width="500" height="281"  id="youtube_iframe"
-      src="https://www.youtube.com/embed/47dtFZ8CFo8?feature=oembed&amp;enablejsapi=1&amp;origin=https://safe.txmblr.com&amp;wmode=opaque"
-      frameborder="0" allow="accelerometer; autoplay; encrypted-media;
-      gyroscope; picture-in-picture" allowfullscreen></iframe>
-    width: 500
 redirects:
   - /post/97608305028/safe-and-sound
   - /post/97608305028
 slug: safe-and-sound
-thumbnail:
-  height: 360
-  url: 'https://i.ytimg.com/vi/47dtFZ8CFo8/hqdefault.jpg'
-  width: 480
 tumblrid: 97608305028
 type: video
 video:
-  youtube:
-    height: 304
-    video_id: 47dtFZ8CFo8
-    width: 540
-video_type: youtube
+  embed: >-
+    <iframe width="500" height="281"  id="youtube_iframe"
+    src="https://www.youtube.com/embed/47dtFZ8CFo8?feature=oembed&amp;enablejsapi=1&amp;origin=https://safe.txmblr.com&amp;wmode=opaque"
+    frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope;
+    picture-in-picture" allowfullscreen></iframe>
+  permalink: 'https://www.youtube.com/watch?v=47dtFZ8CFo8'
+  thumbnail:
+    height: 360
+    url: 'https://i.ytimg.com/vi/47dtFZ8CFo8/hqdefault.jpg'
+    width: 480
+  type: youtube
 ---
 <p>Capital Cities - Safe And Sound (Official Video)</p>
 

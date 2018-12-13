@@ -1,10 +1,6 @@
 ---
 date: 2009-08-18T03:38:51.000Z
 link_url: 'http://www.informationisbeautiful.net/visualizations/the-billion-dollar-gram/'
-photos:
-  - height: 1417
-    url: ./tumblr_kojs2lr4Wg1qzt3x8o1_1280.gif
-    width: 962
 redirects:
   - /post/165398768/benw-the-billion-dollar-gram-information-is
   - /post/165398768
@@ -20,6 +16,11 @@ via:
   title: Ben Ward's Scattered Mind
   url: 'http://benw.tumblr.com/post/165291215'
 ---
+<div class="photoset" style="width:100%">
+  <div class="photoset_row photoset_row_1" style="margin:1ex">
+<img src="./tumblr_kojs2lr4Wg1qzt3x8o1_1280.gif" alt="" style="width:100%">
+  </div>
+</div>
 <p><a href="http://blog.benward.me/post/165291215">benw</a>:</p>
 
 <blockquote><a href="http://www.informationisbeautiful.net/visualizations/the-billion-dollar-gram/">The Billion Dollar Gram | Information Is Beautiful</a></blockquote>

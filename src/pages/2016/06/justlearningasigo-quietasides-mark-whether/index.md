@@ -1,28 +1,5 @@
 ---
 date: 2016-06-13T22:23:00.000Z
-photos:
-  - height: 305
-    url: ./tumblr_o8oygwcAG21tpi2auo2_540.gif
-    width: 540
-  - height: 305
-    url: ./tumblr_o8oygwcAG21tpi2auo1_540.gif
-    width: 540
-  - height: 305
-    url: ./tumblr_o8oygwcAG21tpi2auo5_540.gif
-    width: 540
-  - height: 305
-    url: ./tumblr_o8oygwcAG21tpi2auo6_540.gif
-    width: 540
-  - height: 305
-    url: ./tumblr_o8oygwcAG21tpi2auo3_540.gif
-    width: 540
-  - height: 305
-    url: ./tumblr_o8oygwcAG21tpi2auo7_540.gif
-    width: 540
-  - height: 305
-    url: ./tumblr_o8oygwcAG21tpi2auo4_540.gif
-    width: 540
-photoset_layout: '1111111'
 redirects:
   - /post/145878352723/justlearningasigo-quietasides-mark-whether
   - /post/145878352723
@@ -40,6 +17,29 @@ via:
   url: >-
     http://hottiesexzone.tumblr.com/post/145875435329/justlearningasigo-quietasides-mark-whether
 ---
+<div class="photoset" style="width:100%">
+  <div class="photoset_row photoset_row_1" style="margin:1ex">
+<img src="./tumblr_o8oygwcAG21tpi2auo2_540.gif" alt="" style="width:100%">
+  </div>
+  <div class="photoset_row photoset_row_1" style="margin:1ex">
+<img src="./tumblr_o8oygwcAG21tpi2auo1_540.gif" alt="" style="width:100%">
+  </div>
+  <div class="photoset_row photoset_row_1" style="margin:1ex">
+<img src="./tumblr_o8oygwcAG21tpi2auo5_540.gif" alt="" style="width:100%">
+  </div>
+  <div class="photoset_row photoset_row_1" style="margin:1ex">
+<img src="./tumblr_o8oygwcAG21tpi2auo6_540.gif" alt="" style="width:100%">
+  </div>
+  <div class="photoset_row photoset_row_1" style="margin:1ex">
+<img src="./tumblr_o8oygwcAG21tpi2auo3_540.gif" alt="" style="width:100%">
+  </div>
+  <div class="photoset_row photoset_row_1" style="margin:1ex">
+<img src="./tumblr_o8oygwcAG21tpi2auo7_540.gif" alt="" style="width:100%">
+  </div>
+  <div class="photoset_row photoset_row_1" style="margin:1ex">
+<img src="./tumblr_o8oygwcAG21tpi2auo4_540.gif" alt="" style="width:100%">
+  </div>
+</div>
 <p><a class="tumblr_blog" href="http://justlearningasigo.tumblr.com/post/145866769702">justlearningasigo</a>:</p>
 <blockquote>
 <p><a class="tumblr_blog" href="http://quietasides.tumblr.com/post/145840950971">quietasides</a>:</p>

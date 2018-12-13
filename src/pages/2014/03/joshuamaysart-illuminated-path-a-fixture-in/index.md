@@ -1,9 +1,5 @@
 ---
 date: 2014-03-14T01:03:48.000Z
-photos:
-  - height: 540
-    url: ./tumblr_mzve7rfVHC1rca24oo1_1280.jpg
-    width: 960
 redirects:
   - /post/79510511135/joshuamaysart-illuminated-path-a-fixture-in
   - /post/79510511135
@@ -19,6 +15,11 @@ via:
   title: Joshua Mays
   url: 'http://joshuamaysart.tumblr.com/post/74302410599/illuminated-path'
 ---
+<div class="photoset" style="width:100%">
+  <div class="photoset_row photoset_row_1" style="margin:1ex">
+<img src="./tumblr_mzve7rfVHC1rca24oo1_1280.jpg" alt="" style="width:100%">
+  </div>
+</div>
 <p><a href="http://joshuamaysart.tumblr.com/post/74302410599/illuminated-path" class="tumblr_blog">joshuamaysart</a>:</p>
 
 <blockquote><p>Illuminated Path</p></blockquote>

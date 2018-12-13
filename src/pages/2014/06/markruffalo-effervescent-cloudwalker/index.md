@@ -1,9 +1,5 @@
 ---
 date: 2014-06-07T04:53:59.000Z
-photos:
-  - height: 220
-    url: ./tumblr_mfc1lwNaUX1qbyxr0o1_400.gif
-    width: 300
 redirects:
   - /post/88051917973/markruffalo-effervescent-cloudwalker
   - /post/88051917973
@@ -20,6 +16,11 @@ via:
   url: >-
     http://markruffalo.tumblr.com/post/87970086810/effervescent-cloudwalker-hashtagpropaganja
 ---
+<div class="photoset" style="width:100%">
+  <div class="photoset_row photoset_row_1" style="margin:1ex">
+<img src="./tumblr_mfc1lwNaUX1qbyxr0o1_400.gif" alt="" style="width:100%">
+  </div>
+</div>
 <p><a href="http://markruffalo.tumblr.com/post/87970086810/effervescent-cloudwalker-hashtagpropaganja" class="tumblr_blog">markruffalo</a>:</p>
 
 <blockquote><p><a href="http://effervescent-cloudwalker.tumblr.com/post/78076503839/hashtagpropaganja-thekhoolhaus-perspective" class="tumblr_blog">effervescent-cloudwalker</a>:</p>

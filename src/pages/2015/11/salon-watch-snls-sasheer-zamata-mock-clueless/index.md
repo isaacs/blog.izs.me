@@ -1,31 +1,5 @@
 ---
 date: 2015-11-10T21:56:28.000Z
-photos:
-  - height: 269
-    url: ./tumblr_nwoe528ixQ1qgsazuo6_500.gif
-    width: 486
-  - height: 269
-    url: ./tumblr_nwoe528ixQ1qgsazuo5_500.gif
-    width: 486
-  - height: 269
-    url: ./tumblr_nwoe528ixQ1qgsazuo1_500.gif
-    width: 486
-  - height: 264
-    url: ./tumblr_nwoe528ixQ1qgsazuo4_500.gif
-    width: 481
-  - height: 264
-    url: ./tumblr_nwoe528ixQ1qgsazuo8_500.gif
-    width: 481
-  - height: 261
-    url: ./tumblr_nwoe528ixQ1qgsazuo7_500.gif
-    width: 476
-  - height: 261
-    url: ./tumblr_nwoe528ixQ1qgsazuo3_500.gif
-    width: 476
-  - height: 261
-    url: ./tumblr_nwoe528ixQ1qgsazuo2_500.gif
-    width: 476
-photoset_layout: '11111111'
 redirects:
   - /post/132958956253/salon-watch-snls-sasheer-zamata-mock-clueless
   - /post/132958956253
@@ -43,6 +17,32 @@ via:
   url: >-
     https://seldo.tumblr.com/post/131834741695/salon-watch-snls-sasheer-zamata-mock-clueless
 ---
+<div class="photoset" style="width:100%">
+  <div class="photoset_row photoset_row_1" style="margin:1ex">
+<img src="./tumblr_nwoe528ixQ1qgsazuo6_500.gif" alt="" style="width:100%">
+  </div>
+  <div class="photoset_row photoset_row_1" style="margin:1ex">
+<img src="./tumblr_nwoe528ixQ1qgsazuo5_500.gif" alt="" style="width:100%">
+  </div>
+  <div class="photoset_row photoset_row_1" style="margin:1ex">
+<img src="./tumblr_nwoe528ixQ1qgsazuo1_500.gif" alt="" style="width:100%">
+  </div>
+  <div class="photoset_row photoset_row_1" style="margin:1ex">
+<img src="./tumblr_nwoe528ixQ1qgsazuo4_500.gif" alt="" style="width:100%">
+  </div>
+  <div class="photoset_row photoset_row_1" style="margin:1ex">
+<img src="./tumblr_nwoe528ixQ1qgsazuo8_500.gif" alt="" style="width:100%">
+  </div>
+  <div class="photoset_row photoset_row_1" style="margin:1ex">
+<img src="./tumblr_nwoe528ixQ1qgsazuo7_500.gif" alt="" style="width:100%">
+  </div>
+  <div class="photoset_row photoset_row_1" style="margin:1ex">
+<img src="./tumblr_nwoe528ixQ1qgsazuo3_500.gif" alt="" style="width:100%">
+  </div>
+  <div class="photoset_row photoset_row_1" style="margin:1ex">
+<img src="./tumblr_nwoe528ixQ1qgsazuo2_500.gif" alt="" style="width:100%">
+  </div>
+</div>
 <p><a class="tumblr_blog" href="http://salon.tumblr.com/post/131748187807">salon</a>:</p>
 
 <blockquote>

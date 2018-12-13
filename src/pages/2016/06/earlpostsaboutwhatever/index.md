@@ -1,13 +1,5 @@
 ---
 date: 2016-06-23T18:49:20.000Z
-photos:
-  - height: 1280
-    url: ./tumblr_o7v4h11XWU1r5a4ujo1_1280.jpg
-    width: 720
-  - height: 720
-    url: ./tumblr_o7v4h11XWU1r5a4ujo2_1280.jpg
-    width: 1280
-photoset_layout: '11'
 redirects:
   - /post/146366887118/earlpostsaboutwhatever
   - /post/146366887118
@@ -15,6 +7,14 @@ slug: earlpostsaboutwhatever
 tumblrid: 146366887118
 type: photo
 ---
+<div class="photoset" style="width:100%">
+  <div class="photoset_row photoset_row_1" style="margin:1ex">
+<img src="./tumblr_o7v4h11XWU1r5a4ujo1_1280.jpg" alt="" style="width:100%">
+  </div>
+  <div class="photoset_row photoset_row_1" style="margin:1ex">
+<img src="./tumblr_o7v4h11XWU1r5a4ujo2_1280.jpg" alt="" style="width:100%">
+  </div>
+</div>
 <p><a class="tumblr_blog" href="http://earlpostsaboutwhatever.tumblr.com/post/146199902504">earlpostsaboutwhatever</a>:</p>
 
 <blockquote>

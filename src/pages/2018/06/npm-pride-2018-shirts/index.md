@@ -28,15 +28,11 @@ via:
 <p>Are we missing a design? <a href="mailto:%20marketing@npmjs.com">Reach out and let us know</a>!</p>
 
 <table style="max-width: 100%; border: none; border-collapse: collapse; padding: 0;"><tbody><tr><td style="width: 33%;"><a href="https://teespring.com/pride-npm-2018#pid=395&amp;cid=6625&amp;sid=front"><figure class="tmblr-full" data-orig-height="560" data-orig-width="470" data-orig-src="./pride-2018.jpg"><img style="max-height: 200px;" src="https://66.media.tumblr.com/2d52927a799baa145d870a0c8d1fef83/tumblr_inline_p9nhrrr3aq1ukt7ok_540.jpg" alt="image" data-orig-height="560" data-orig-width="470" data-orig-src="./pride-2018.jpg"/></figure></a></td>
-
 <td style="width: 33%;"><a href="https://teespring.com/npm-ace-pride-2018#pid=2&amp;cid=566&amp;sid=front"><figure class="tmblr-full" data-orig-height="560" data-orig-width="470" data-orig-src="./pride-2018-ace.jpg"><img style="max-height: 220px;" src="https://66.media.tumblr.com/251cf1d787a6a0ab1671f7913e2c1119/tumblr_inline_p9nhrsNbQJ1ukt7ok_540.jpg" alt="image" data-orig-height="560" data-orig-width="470" data-orig-src="./pride-2018-ace.jpg"/></figure></a></td>
-
 <td style="width: 34%;"><a href="https://teespring.com/npm-labrys-pride-2018#pid=395&amp;cid=6622&amp;sid=front"><figure class="tmblr-full" data-orig-height="560" data-orig-width="470" data-orig-src="./pride-2018-labrys.jpg"><img style="max-height: 200px;" src="https://66.media.tumblr.com/2dbe9f428882882da86fc50d81bc4979/tumblr_inline_p9nhrs01Tr1ukt7ok_540.jpg" alt="image" data-orig-height="560" data-orig-width="470" data-orig-src="./pride-2018-labrys.jpg"/></figure></a></td>
 </tr><tr><td>
 <a href="https://teespring.com/npm-pride-lesbian-2018#pid=395&amp;cid=6625&amp;sid=front"><figure class="tmblr-full" data-orig-height="560" data-orig-width="470" data-orig-src="./pride-2018-lesbian.jpg"><img style="max-height: 200px;" src="https://66.media.tumblr.com/a59e362037cf980d82b33c89c4f70b8d/tumblr_inline_p9nhrt4a3X1ukt7ok_540.jpg" alt="image" data-orig-height="560" data-orig-width="470" data-orig-src="./pride-2018-lesbian.jpg"/></figure></a> </td>
-
 <td><a href="https://teespring.com/npm-trans-pride-2018#pid=2&amp;cid=569&amp;sid=front"><figure class="tmblr-full" data-orig-height="560" data-orig-width="470" data-orig-src="./pride-2018-trans.jpg"><img style="max-height: 220px;" src="https://66.media.tumblr.com/b1d5a829e704d45c45f004e560cc2230/tumblr_inline_p9nhruFCNY1ukt7ok_540.jpg" alt="image" data-orig-height="560" data-orig-width="470" data-orig-src="./pride-2018-trans.jpg"/></figure></a></td>
-
 <td><a href="https://teespring.com/npm-aro-pride-2018#pid=2&amp;cid=573&amp;sid=front"><figure class="tmblr-full" data-orig-height="560" data-orig-width="470" data-orig-src="./pride-2018-aro.jpg"><img style="max-height: 220px;" src="https://66.media.tumblr.com/e26737eb1424e272c9c4db80a3b836b9/tumblr_inline_p9nhrucj4t1ukt7ok_540.jpg" alt="image" data-orig-height="560" data-orig-width="470" data-orig-src="./pride-2018-aro.jpg"/></figure></a></td>
             
             </tr><tr><td>

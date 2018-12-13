@@ -1,9 +1,5 @@
 ---
 date: 2012-07-13T16:40:49.000Z
-photos:
-  - height: 422
-    url: ./tumblr_m70y03Si8g1qzvoypo1_640.jpg
-    width: 625
 redirects:
   - /post/27130219758/seldo-seriously-you-guys-jurassic-bark-is-the
   - /post/27130219758
@@ -21,6 +17,11 @@ via:
   url: >-
     https://seldo.tumblr.com/post/27029720593/seriously-you-guys-jurassic-bark-is-the-one
 ---
+<div class="photoset" style="width:100%">
+  <div class="photoset_row photoset_row_1" style="margin:1ex">
+<img src="./tumblr_m70y03Si8g1qzvoypo1_640.jpg" alt="" style="width:100%">
+  </div>
+</div>
 <p><a href="http://seldo.tumblr.com/post/27029720593/seriously-you-guys-jurassic-bark-is-the-one" class="tumblr_blog">seldo</a>:</p>
 
 <blockquote><p>Seriously you guys, Jurassic Bark is the one episode of Futurama I can’t re-watch. It’s the saddest thing ever committed to video.</p>

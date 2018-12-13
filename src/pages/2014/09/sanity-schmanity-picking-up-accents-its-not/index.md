@@ -1,9 +1,5 @@
 ---
 date: 2014-09-25T03:48:59.000Z
-photos:
-  - height: 129
-    url: ./tumblr_ncb5uyMGwx1samgkeo1_r1_500.jpg
-    width: 441
 redirects:
   - /post/98363087308/sanity-schmanity-picking-up-accents-its-not
   - /post/98363087308
@@ -21,6 +17,11 @@ via:
   url: >-
     http://sanity-schmanity.tumblr.com/post/98345738643/picking-up-accents-its-not-weird-have-you
 ---
+<div class="photoset" style="width:100%">
+  <div class="photoset_row photoset_row_1" style="margin:1ex">
+<img src="./tumblr_ncb5uyMGwx1samgkeo1_r1_500.jpg" alt="" style="width:100%">
+  </div>
+</div>
 <p><a href="http://sanity-schmanity.tumblr.com/post/98345738643/picking-up-accents-its-not-weird-have-you" class="tumblr_blog">sanity-schmanity</a>:</p>
 
 <blockquote><div class="post_title"><strong>Picking up accents: it’s not weird.</strong></div>

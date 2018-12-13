@@ -1,10 +1,6 @@
 ---
 date: 2014-08-02T18:37:56.000Z
 link_url: 'http://m7781.deviantart.com/art/professor-x-hodor-468510578'
-photos:
-  - height: 977
-    url: ./tumblr_n9n8fkjuCF1qe9t4zo1_1280.jpg
-    width: 612
 redirects:
   - /post/93607987148/huffposttv-by-m7781-via-deviantart
   - /post/93607987148
@@ -22,6 +18,11 @@ via:
   url: >-
     https://wilwheaton.tumblr.com/post/93544545292/huffposttv-by-m7781-via-deviantart
 ---
+<div class="photoset" style="width:100%">
+  <div class="photoset_row photoset_row_1" style="margin:1ex">
+<img src="./tumblr_n9n8fkjuCF1qe9t4zo1_1280.jpg" alt="" style="width:100%">
+  </div>
+</div>
 <p><a href="http://huffposttv.tumblr.com/post/93522585046/by-m7781-via-deviantart" class="tumblr_blog">huffposttv</a>:</p>
 
 <blockquote><p>By <a href="http://m7781.deviantart.com/art/professor-x-hodor-468510578">M7781 via DeviantArt </a></p></blockquote>

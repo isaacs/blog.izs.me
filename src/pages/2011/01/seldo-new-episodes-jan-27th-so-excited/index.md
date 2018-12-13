@@ -1,10 +1,6 @@
 ---
 date: 2011-01-20T07:40:37.000Z
 link_url: 'http://fxnetworks.com'
-photos:
-  - height: 418
-    url: ./tumblr_lf8fe07qLO1qasgkoo1_500.jpg
-    width: 472
 redirects:
   - /post/2839477869/seldo-new-episodes-jan-27th-so-excited
   - /post/2839477869
@@ -21,6 +17,11 @@ via:
   title: Seldo's Tumblr
   url: 'https://seldo.tumblr.com/post/2815138406/new-episodes-jan-27th-so-excited'
 ---
+<div class="photoset" style="width:100%">
+  <div class="photoset_row photoset_row_1" style="margin:1ex">
+<img src="./tumblr_lf8fe07qLO1qasgkoo1_500.jpg" alt="" style="width:100%">
+  </div>
+</div>
 <p><a href="http://seldo.tumblr.com/post/2815138406/new-episodes-jan-27th-so-excited" class="tumblr_blog">seldo</a>:</p>
 
 <blockquote><p>NEW EPISODES JAN 27TH SO EXCITED</p></blockquote>
