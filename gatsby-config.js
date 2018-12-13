@@ -1,6 +1,10 @@
 module.exports = {
   siteMetadata: {
-    title: `Pandas Eating Lots`,
+    title: `blog.izs.me`,
+    description: `Writing and Stuff from Isaac Z. Schlueter`,
+    name: `izs`,
+    title: `blog.izs.me`,
+    url: `http://blog.izs.me/`,
   },
   plugins: [
     {
