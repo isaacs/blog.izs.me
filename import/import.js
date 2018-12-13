@@ -88,16 +88,15 @@ const common = data => ({
 const audio = data => [
   {
     ...common(data),
-    album_art: data.album_art,
     audio: {
+      album_art: data.album_art,
       source_url: data.audio_source_url,
       type: data.audio_type,
       url: data.audio_url,
+      embed: data.embed,
+      plays: data.plays,
+      track_name: data.track_name,
     },
-    embed: data.embed,
-    player: data.player,
-    plays: data.plays,
-    track_name: data.track_name,
   },
   data.caption
 ]
@@ -106,42 +105,32 @@ const bq = string => `> ${string.split('\n').join('\n> ')}`
 
 // video is definitely gonna require some fancy reacty stuff
 const video = data => {
-  let d
-  switch (data.video_type) {
-    case 'youtube': d = videoYouTube(data) ; break
-    case 'tumblr': d = videoTumblr(data) ; break
-    // these just rely on the player html
-    case 'vimeo': case 'instagram': case 'unknown': d = {} ; break
-    default: throw new TypeError(`Unknown video type: ${data.video_type}`)
-  }
-
   return [
     {
       ...common(data),
-      ...d,
-      video_type: data.video_type,
-      thumbnail: {
-        height: data.thumbnail_height,
-        width: data.thumbnail_width,
-        url: data.thumbnail_url
+      video: {
+        // the main thing that counts here is the embed code
+        // Tumblr does some fancy stuff with video embedding
+        // sometimes, but I don't think I'm going to actually
+        // write out that metadata, so screw it.  Just pick a
+        // size when writing the post, and go with that.
+        // Don't even really need the thumbnail bit.
+        type: data.video_type,
+        thumbnail: data.thumbnail_url ? {
+          height: data.thumbnail_height,
+          width: data.thumbnail_width,
+          url: data.thumbnail_url
+        } : undefined,
+        embed: data.player.sort((a, b) => {
+          return a.width - b.width
+        }).pop().embed_code,
+        permalink: data.permalink_url,
+        url: data.video_url,
       },
-      player: data.player,
-      html5: data.html5_capable,
-      permalink: data.permalink_url
     },
     data.caption
   ]
 }
-
-const videoYouTube = data => ({
-  video: data.video,
-})
-
-const videoTumblr = data => ({
-  video_url: data.video_url,
-})
-
-
 
 const quote = data => [
   common(data),
@@ -177,20 +166,61 @@ const chat = data => [
   } | ${line.phrase} |`).join('\n')
 ]
 
+const photosetHtml = (layout, photos) => {
+  // no layout specified when it's just a single photo, or in some cases
+  // where it's just a series of photos with 1 in each row.
+  // Act as if.
+  if (!layout) {
+    layout = new Array(photos.length + 1).join('1')
+  }
+
+  let html = '<div class="photoset" style="width:100%">\n'
+
+  // tumblr's photo_layout is a list of numbers of how many photos
+  // to put on each row.  make into a real number list.
+  layout = Array.from(layout).map(n => +n)
+
+  // XXX need to make this better somehow.
+  let p = 0
+  for (let row = 0; row < layout.length; row++) {
+    const rowCount = layout[row]
+    html += `  <div class="photoset_row photoset_row_${rowCount}" `
+    // html += `style="width:100%;margin:0;padding:0;"`
+    html += `style="margin:1ex"`
+    html += `>`
+    html += '\n'
+    const w = Math.floor(99.5 / rowCount)
+    for (let c = 0; c < rowCount; c++) {
+      const photo = photos[p++]
+      // html += `<img src=${photo.url} alt="${photo.alt || ''}" style="width:${w}%">`
+      //html += `    <span class="photo" `
+      //html += `style="display:inline-block;width:${w}%;margin:0;padding:0;">`
+      //html += `<img src="${photo.url}" alt="${photo.alt || ''}" style="margin:0;padding:0">`
+      //html += `</span>`
+      html += `<img src="${photo.url}" alt="${photo.alt || ''}" style="width:100%">`
+      html += '\n'
+    }
+    html += `  </div>` + '\n'
+  }
+
+  html += `</div>` + '\n'
+  return html
+}
+
 const photo = data => [
   {
     ...common(data),
-    // I don't much care about all the alt size stuff
     link_url: data.link_url,
-    photoset_layout: data.photoset_layout,
-    photos: data.photos.map(p => ({
-      alt: p.caption || undefined,
-      height: p.original_size.height,
-      width: p.original_size.width,
-      url: p.original_size.url
-    }))
   },
-  data.caption
+
+  // I don't much care about all the alt size stuff, since
+  // remark-images does a better job anyway. Just plop into markdown
+  photosetHtml(data.photoset_layout, data.photos.map(p => ({
+    alt: p.caption || undefined,
+    height: p.original_size.height,
+    width: p.original_size.width,
+    url: p.original_size.url
+  }))) + data.caption
 ]
 
 const text = data => [ common(data), data.body ]
@@ -217,15 +247,16 @@ const mediaify = ([ front, content ], postdir) => {
       newContent = newContent.replace(urlexpr, `./${f}`)
     }
 
-    if (front.type === 'photo') {
-      front.photos = front.photos.map(p => {
-        if (urlexpr.test(p.url)) {
-          p.url = `./${f}`
-          found = true
-        }
-        return p
-      })
-    } else if (front.type === 'audio') {
+    // if (front.type === 'photo') {
+    //   front.photos = front.photos.map(p => {
+    //     if (urlexpr.test(p.url)) {
+    //       p.url = `./${f}`
+    //       found = true
+    //     }
+    //     return p
+    //   })
+    // } else 
+    if (front.type === 'audio') {
       if (urlexpr.test(front.audio.source_url)) {
         front.audio.source_url =
           front.audio.source_url.replace(urlexpr, `./${f}`)
@@ -235,10 +266,10 @@ const mediaify = ([ front, content ], postdir) => {
         front.audio.url = front.audio.url.replace(urlexpr, `./${f}`)
         found = true
       }
-    } else if (front.type === 'video') {
-      if (urlexpr.test(front.thumbnail.url)) {
-        front.thumbnail.url =
-          front.thumbnail.url.replace(urlexpr, `./${f}`)
+    } else if (front.type === 'video' && front.video.thumbnail) {
+      if (urlexpr.test(front.video.thumbnail.url)) {
+        front.video.thumbnail.url =
+          front.video.thumbnail.url.replace(urlexpr, `./${f}`)
         found = true
       }
     }
