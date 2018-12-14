@@ -1,5 +1,7 @@
 ---
 date: 2014-06-07T04:53:59.000Z
+photos:
+  - ./tumblr_mfc1lwNaUX1qbyxr0o1_400.gif
 redirect_from:
   - /post/88051917973/markruffalo-effervescent-cloudwalker/
   - /post/88051917973/

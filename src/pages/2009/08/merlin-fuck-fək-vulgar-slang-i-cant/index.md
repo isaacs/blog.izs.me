@@ -1,6 +1,8 @@
 ---
 date: 2009-08-08T20:12:33.000Z
 link_url: 'http://www.flickr.com/photos/merlin/3801577000/'
+photos:
+  - ./34GrgyzUsqw6dag6otYIhUaqo1_500.jpg
 redirect_from:
   - /post/158714902/merlin-fuck-fək-vulgar-slang-i-cant/
   - /post/158714902/

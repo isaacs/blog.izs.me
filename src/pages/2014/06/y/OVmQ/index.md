@@ -1,5 +1,14 @@
 ---
 date: 2014-06-20T02:42:44.000Z
+photos:
+  - ./tumblr_n7anz1FMKw1s4pi7to1_1280.png
+  - ./tumblr_n7anz1FMKw1s4pi7to3_1280.png
+  - ./tumblr_n7anz1FMKw1s4pi7to2_1280.png
+  - ./tumblr_n7anz1FMKw1s4pi7to5_1280.png
+  - ./tumblr_n7anz1FMKw1s4pi7to8_1280.png
+  - ./tumblr_n7anz1FMKw1s4pi7to4_1280.png
+  - ./tumblr_n7anz1FMKw1s4pi7to6_1280.png
+  - ./tumblr_n7anz1FMKw1s4pi7to7_1280.png
 redirect_from:
   - /post/89321084313//
   - /post/89321084313/

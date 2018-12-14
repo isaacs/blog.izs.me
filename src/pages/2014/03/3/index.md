@@ -1,5 +1,7 @@
 ---
 date: 2014-03-02T21:17:05.000Z
+photos:
+  - ./tumblr_mocvmfMHd41rca24oo1_1280.jpg
 redirect_from:
   - /post/78359805413/3/
   - /post/78359805413/

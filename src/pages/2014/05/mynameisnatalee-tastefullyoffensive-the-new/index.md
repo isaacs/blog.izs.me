@@ -1,5 +1,9 @@
 ---
 date: 2014-05-14T14:17:31.000Z
+photos:
+  - ./tumblr_n5jbi8THih1qewacoo1_1280.jpg
+  - ./tumblr_n5jbi8THih1qewacoo2_540.jpg
+  - ./tumblr_n5jbi8THih1qewacoo3_540.jpg
 redirect_from:
   - /post/85722095938/mynameisnatalee-tastefullyoffensive-the-new/
   - /post/85722095938/

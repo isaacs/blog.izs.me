@@ -1,5 +1,16 @@
 ---
 date: 2015-01-14T06:38:10.000Z
+photos:
+  - ./tumblr_nh6l0btbJQ1r86ysgo1_1280.jpg
+  - ./tumblr_nh6l0btbJQ1r86ysgo10_1280.jpg
+  - ./tumblr_nh6l0btbJQ1r86ysgo6_1280.jpg
+  - ./tumblr_nh6l0btbJQ1r86ysgo7_1280.jpg
+  - ./tumblr_nh6l0btbJQ1r86ysgo2_1280.jpg
+  - ./tumblr_nh6l0btbJQ1r86ysgo3_1280.jpg
+  - ./tumblr_nh6l0btbJQ1r86ysgo9_1280.jpg
+  - ./tumblr_nh6l0btbJQ1r86ysgo8_1280.jpg
+  - ./tumblr_nh6l0btbJQ1r86ysgo4_1280.jpg
+  - ./tumblr_nh6l0btbJQ1r86ysgo5_1280.jpg
 redirect_from:
   - /post/108058001293/emmafrosticle-i-hate-this-asshole-but-i-love/
   - /post/108058001293/

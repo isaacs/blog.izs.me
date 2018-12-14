@@ -1,6 +1,8 @@
 ---
 date: 2014-03-10T01:18:00.000Z
 link_url: 'http://dovga.net/video/5334/koshka-i-osminog'
+photos:
+  - ./tumblr_n1rsed96kE1s96utdo1_250.gif
 redirect_from:
   - /post/79117728429/valkyriesvagina-oh-god-what-have-i-done/
   - /post/79117728429/

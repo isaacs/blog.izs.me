@@ -1,5 +1,7 @@
 ---
 date: 2014-09-14T20:00:42.000Z
+photos:
+  - ./tumblr_nbngg7jtPa1qet9hvo1_400.gif
 redirect_from:
   - /post/97500455948/oatmeal-hey-bro-you-got-the-time-yeah/
   - /post/97500455948/

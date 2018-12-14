@@ -1,5 +1,16 @@
 ---
 date: 2015-10-28T00:36:45.000Z
+photos:
+  - ./tumblr_myuv88qhMw1rqscijo2_1280.png
+  - ./tumblr_myuv88qhMw1rqscijo3_1280.png
+  - ./tumblr_myuv88qhMw1rqscijo4_1280.png
+  - ./tumblr_myuv88qhMw1rqscijo5_r2_1280.png
+  - ./tumblr_myuv88qhMw1rqscijo6_1280.png
+  - ./tumblr_myuv88qhMw1rqscijo7_1280.png
+  - ./tumblr_myuv88qhMw1rqscijo8_1280.png
+  - ./tumblr_myuv88qhMw1rqscijo9_1280.png
+  - ./tumblr_myuv88qhMw1rqscijo1_r2_1280.png
+  - ./tumblr_myuv88qhMw1rqscijo10_r2_1280.png
 redirect_from:
   - /post/132050942648/jamietheignorantamerican-go-forth-and-educate/
   - /post/132050942648/

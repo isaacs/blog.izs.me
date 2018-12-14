@@ -1,5 +1,8 @@
 ---
 date: 2014-05-18T01:49:59.000Z
+photos:
+  - ./tumblr_n5qaanf6SG1sklw3bo1_500.jpg
+  - ./tumblr_n5qaanf6SG1sklw3bo2_r2_500.gif
 redirect_from:
   - /post/86063273433/björks-mystery-misandry/
   - /post/86063273433/

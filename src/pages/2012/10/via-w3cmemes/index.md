@@ -1,5 +1,7 @@
 ---
 date: 2012-10-10T08:49:53.000Z
+photos:
+  - ./tumblr_m5pvh7Wc4s1rvsbh9o1_640.jpg
 redirect_from:
   - /post/33290169040/via-w3cmemes/
   - /post/33290169040/

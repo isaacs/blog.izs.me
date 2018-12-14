@@ -1,5 +1,16 @@
 ---
 date: 2015-06-20T16:52:55.000Z
+photos:
+  - ./tumblr_nh7mmc54vB1szhpk3o10_1280.jpg
+  - ./tumblr_nh7mmc54vB1szhpk3o9_1280.jpg
+  - ./tumblr_nh7mmc54vB1szhpk3o8_1280.jpg
+  - ./tumblr_nh7mmc54vB1szhpk3o7_1280.jpg
+  - ./tumblr_nh7mmc54vB1szhpk3o6_1280.jpg
+  - ./tumblr_nh7mmc54vB1szhpk3o5_1280.jpg
+  - ./tumblr_nh7mmc54vB1szhpk3o4_1280.jpg
+  - ./tumblr_nh7mmc54vB1szhpk3o3_1280.jpg
+  - ./tumblr_nh7mmc54vB1szhpk3o2_1280.jpg
+  - ./tumblr_nh7mmc54vB1szhpk3o1_1280.jpg
 redirect_from:
   - /post/122009507983/and-we-all-grew-socialjusticeprincesses-get/
   - /post/122009507983/

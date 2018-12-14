@@ -1,5 +1,11 @@
 ---
 date: 2015-08-08T01:36:38.000Z
+photos:
+  - ./tumblr_nsqa719UDp1qb6v6ro1_500.gif
+  - ./tumblr_nsqa719UDp1qb6v6ro2_500.gif
+  - ./tumblr_nsqa719UDp1qb6v6ro3_500.gif
+  - ./tumblr_nsqa719UDp1qb6v6ro4_500.gif
+  - ./tumblr_nsqa719UDp1qb6v6ro5_500.gif
 redirect_from:
   - /post/126138357748/huffingtonpost-watch-this-comedian-skewer/
   - /post/126138357748/

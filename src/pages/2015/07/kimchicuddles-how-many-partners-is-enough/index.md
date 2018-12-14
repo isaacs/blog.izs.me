@@ -1,5 +1,7 @@
 ---
 date: 2015-07-03T19:58:04.000Z
+photos:
+  - ./tumblr_nqvdi4jeaj1spe4pno1_1280.jpg
 redirect_from:
   - /post/123139528918/kimchicuddles-how-many-partners-is-enough/
   - /post/123139528918/

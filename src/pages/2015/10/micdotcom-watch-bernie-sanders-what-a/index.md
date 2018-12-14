@@ -1,5 +1,13 @@
 ---
 date: 2015-10-15T21:21:24.000Z
+photos:
+  - ./tumblr_nw7qfxKxJa1r83d7lo1_540.jpg
+  - - ./tumblr_nw7qfxKxJa1r83d7lo2_400.gif
+    - ./tumblr_nw7qfxKxJa1r83d7lo3_400.gif
+  - - ./tumblr_nw7qfxKxJa1r83d7lo4_400.gif
+    - ./tumblr_nw7qfxKxJa1r83d7lo5_400.gif
+  - - ./tumblr_nw7qfxKxJa1r83d7lo6_400.gif
+    - ./tumblr_nw7qfxKxJa1r83d7lo7_400.gif
 redirect_from:
   - /post/131242128188/micdotcom-watch-bernie-sanders-what-a/
   - /post/131242128188/

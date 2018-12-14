@@ -2,6 +2,8 @@
 date: 2015-04-20T22:26:33.000Z
 link_url: >-
   http://images5.fanpop.com/image/photos/25000000/Taylor-Yearbook-Pictures-taylor-swift-25019405-501-385.jpg
+photos:
+  - ./tumblr_m2sppokPLb1qau338o1_540.jpg
 redirect_from:
   - /post/116946128418/this-is-a-picture-of-my-friend-becky-she-used-to/
   - /post/116946128418/

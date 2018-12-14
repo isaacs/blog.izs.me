@@ -1,5 +1,7 @@
 ---
 date: 2011-08-23T00:10:00.000Z
+photos:
+  - ./tumblr_lpvwgcUpE91qjkzz8o1_1280.jpg
 redirect_from:
   - /post/9271369089/youranonnews-use-this-image-in-and-around-bart/
   - /post/9271369089/

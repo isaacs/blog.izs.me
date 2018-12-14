@@ -1,5 +1,7 @@
 ---
 date: 2014-07-24T22:00:29.000Z
+photos:
+  - ./tumblr_n71h91crDd1sndzdgo1_500.jpg
 redirect_from:
   - /post/92765928483/magnoliapearl-konistehdump-70sscifiart/
   - /post/92765928483/

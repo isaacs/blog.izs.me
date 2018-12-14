@@ -1,5 +1,7 @@
 ---
 date: 2014-09-25T03:48:59.000Z
+photos:
+  - ./tumblr_ncb5uyMGwx1samgkeo1_r1_500.jpg
 redirect_from:
   - /post/98363087308/sanity-schmanity-picking-up-accents-its-not/
   - /post/98363087308/

@@ -1,5 +1,16 @@
 ---
 date: 2014-08-30T20:03:38.000Z
+photos:
+  - ./tumblr_nb0v26skQe1qbwp2bo1_500.jpg
+  - ./tumblr_nb0v26skQe1qbwp2bo2_500.jpg
+  - ./tumblr_nb0v26skQe1qbwp2bo3_500.jpg
+  - ./tumblr_nb0v26skQe1qbwp2bo4_500.jpg
+  - ./tumblr_nb0v26skQe1qbwp2bo5_500.jpg
+  - ./tumblr_nb0v26skQe1qbwp2bo6_500.jpg
+  - ./tumblr_nb0v26skQe1qbwp2bo7_500.jpg
+  - ./tumblr_nb0v26skQe1qbwp2bo8_500.jpg
+  - ./tumblr_nb0v26skQe1qbwp2bo9_500.jpg
+  - ./tumblr_nb0v26skQe1qbwp2bo10_500.jpg
 redirect_from:
   - /post/96196076923/seldo-nateswinehart-being-good-to-each-other/
   - /post/96196076923/

@@ -1,5 +1,7 @@
 ---
 date: 2017-10-31T21:29:13.000Z
+photos:
+  - ./tumblr_oi2z5307mT1vbwf2ko1_1280.png
 redirect_from:
   - /post/166992459873/webcomicname-reblog-if-you-are-the-offspring-of/
   - /post/166992459873/

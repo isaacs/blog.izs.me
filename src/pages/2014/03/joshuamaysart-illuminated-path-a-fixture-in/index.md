@@ -1,5 +1,7 @@
 ---
 date: 2014-03-14T01:03:48.000Z
+photos:
+  - ./tumblr_mzve7rfVHC1rca24oo1_1280.jpg
 redirect_from:
   - /post/79510511135/joshuamaysart-illuminated-path-a-fixture-in/
   - /post/79510511135/

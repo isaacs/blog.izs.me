@@ -1,5 +1,14 @@
 ---
 date: 2015-02-17T08:12:39.000Z
+photos:
+  - ./tumblr_nan3cur9pD1qb5gkjo1_400.gif
+  - ./tumblr_nan3cur9pD1qb5gkjo2_400.gif
+  - ./tumblr_nan3cur9pD1qb5gkjo3_400.gif
+  - ./tumblr_nan3cur9pD1qb5gkjo4_400.gif
+  - ./tumblr_nan3cur9pD1qb5gkjo5_400.gif
+  - ./tumblr_nan3cur9pD1qb5gkjo7_400.gif
+  - ./tumblr_nan3cur9pD1qb5gkjo8_400.gif
+  - ./tumblr_nan3cur9pD1qb5gkjo6_400.gif
 redirect_from:
   - /post/111262914288/hunstantonlies-this-has-fucked-with-my-mind/
   - /post/111262914288/

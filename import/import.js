@@ -212,10 +212,40 @@ const photosetHtml = (layout, photos) => {
   return html
 }
 
+const photolist = data => {
+  if (data.photos.length === 1) {
+    const p = data.photos[0]
+    return [
+      `${p.original_size.url} ${p.caption}`.trim()
+    ]
+  }
+
+  // each entry in the array is a row in the photoset
+  // each row can be either a single photo, or a list of photos
+  const layout = data.photoset_layout.split('').map(n => +n)
+  const ret = []
+  let i = 0
+  layout.forEach(rowCount => {
+    if (rowCount === 1) {
+      const p = data.photos[i++]
+      ret.push(`${p.original_size.url} ${p.caption}`.trim())
+    } else {
+      const row = []
+      ret.push(row)
+      while (rowCount --> 0) {
+        const p = data.photos[i++]
+        row.push(`${p.original_size.url} ${p.caption}`.trim())
+      }
+    }
+  })
+  return ret
+}
+
 const photo = data => [
   {
     ...common(data),
     link_url: data.link_url,
+    photos: photolist(data),
   },
 
   // I don't much care about all the alt size stuff, since
@@ -252,16 +282,19 @@ const mediaify = ([ front, content ], postdir) => {
       newContent = newContent.replace(urlexpr, `./${f}`)
     }
 
-    // if (front.type === 'photo') {
-    //   front.photos = front.photos.map(p => {
-    //     if (urlexpr.test(p.url)) {
-    //       p.url = `./${f}`
-    //       found = true
-    //     }
-    //     return p
-    //   })
-    // } else 
-    if (front.type === 'audio') {
+    if (front.type === 'photo') {
+      front.photos = front.photos.map(function replace (p) {
+        if (typeof p === 'string') {
+          if (urlexpr.test(p)) {
+            p = p.replace(urlexpr, `./${f}`)
+            found = true
+          }
+        } else if (Array.isArray(p)) {
+          p = p.map(p => replace(p))
+        }
+        return p
+      })
+    } else if (front.type === 'audio') {
       if (urlexpr.test(front.audio.source_url)) {
         front.audio.source_url =
           front.audio.source_url.replace(urlexpr, `./${f}`)

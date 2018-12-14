@@ -1,5 +1,9 @@
 ---
 date: 2014-09-14T03:05:02.000Z
+photos:
+  - ./tumblr_nbobdy5ejz1r166qno1_1280.png
+  - ./tumblr_nbobdy5ejz1r166qno2_1280.png
+  - ./tumblr_nbobdy5ejz1r166qno3_1280.png
 redirect_from:
   - /post/97439164318/some-newtype-bullshit-every-part-of-this-is/
   - /post/97439164318/

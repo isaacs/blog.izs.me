@@ -1,5 +1,12 @@
 ---
 date: 2014-10-08T05:14:13.000Z
+photos:
+  - ./tumblr_mqf2cweQmb1rwu8gjo2_500.gif
+  - - ./tumblr_mqf2cweQmb1rwu8gjo4_500.gif
+    - ./tumblr_mqf2cweQmb1rwu8gjo5_500.gif
+  - - ./tumblr_mqf2cweQmb1rwu8gjo3_500.gif
+    - ./tumblr_mqf2cweQmb1rwu8gjo6_500.gif
+  - ./tumblr_mqf2cweQmb1rwu8gjo1_500.jpg
 redirect_from:
   - /post/99465499318/espruen-an-alternate-universe-where-bruce-wayne/
   - /post/99465499318/

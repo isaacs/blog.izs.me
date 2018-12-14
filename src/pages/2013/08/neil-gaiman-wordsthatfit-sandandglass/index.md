@@ -1,5 +1,16 @@
 ---
 date: 2013-08-15T14:55:11.000Z
+photos:
+  - - ./tumblr_mri97c8Cpy1qc8jh0o1_250.gif
+    - ./tumblr_mri97c8Cpy1qc8jh0o2_250.gif
+  - - ./tumblr_mri97c8Cpy1qc8jh0o3_250.gif
+    - ./tumblr_mri97c8Cpy1qc8jh0o4_250.gif
+  - - ./tumblr_mri97c8Cpy1qc8jh0o5_250.gif
+    - ./tumblr_mri97c8Cpy1qc8jh0o6_250.gif
+  - - ./tumblr_mri97c8Cpy1qc8jh0o7_250.gif
+    - ./tumblr_mri97c8Cpy1qc8jh0o8_250.gif
+  - - ./tumblr_mri97c8Cpy1qc8jh0o9_250.gif
+    - ./tumblr_mri97c8Cpy1qc8jh0o10_250.gif
 redirect_from:
   - /post/58333991967/neil-gaiman-wordsthatfit-sandandglass/
   - /post/58333991967/

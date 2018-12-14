@@ -1,5 +1,10 @@
 ---
 date: 2013-11-06T15:45:12.000Z
+photos:
+  - - ./tumblr_molif0VaH71r8voglo2_400.gif
+    - ./tumblr_molif0VaH71r8voglo3_400.gif
+  - ./tumblr_molif0VaH71r8voglo1_400.gif
+  - ./tumblr_molif0VaH71r8voglo4_400.gif
 redirect_from:
   - /post/66190056028/taranamgabata-did-u-know-theres-this-small/
   - /post/66190056028/

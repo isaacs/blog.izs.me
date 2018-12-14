@@ -1,5 +1,13 @@
 ---
 date: 2016-06-13T22:23:00.000Z
+photos:
+  - ./tumblr_o8oygwcAG21tpi2auo2_540.gif
+  - ./tumblr_o8oygwcAG21tpi2auo1_540.gif
+  - ./tumblr_o8oygwcAG21tpi2auo5_540.gif
+  - ./tumblr_o8oygwcAG21tpi2auo6_540.gif
+  - ./tumblr_o8oygwcAG21tpi2auo3_540.gif
+  - ./tumblr_o8oygwcAG21tpi2auo7_540.gif
+  - ./tumblr_o8oygwcAG21tpi2auo4_540.gif
 redirect_from:
   - /post/145878352723/justlearningasigo-quietasides-mark-whether/
   - /post/145878352723/

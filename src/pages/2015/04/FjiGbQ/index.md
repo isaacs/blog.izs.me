@@ -1,5 +1,7 @@
 ---
 date: 2015-04-13T23:53:39.000Z
+photos:
+  - ./tumblr_nchsbbT9qg1r7s0w2o1_500.gif
 redirect_from:
   - /post/116336920173//
   - /post/116336920173/

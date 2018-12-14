@@ -1,5 +1,7 @@
 ---
 date: 2014-09-25T02:39:51.000Z
+photos:
+  - ./tumblr_n79zxkdx4G1tsx2o3o1_540.png
 redirect_from:
   - /post/98357802708/meadows-mommy-apersnicketylemon/
   - /post/98357802708/

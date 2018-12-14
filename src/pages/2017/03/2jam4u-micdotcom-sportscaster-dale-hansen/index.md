@@ -1,5 +1,16 @@
 ---
 date: 2017-03-03T18:01:58.000Z
+photos:
+  - ./tumblr_om7491RyYv1r83d7lo1_500.gif
+  - ./tumblr_om7491RyYv1r83d7lo2_500.gif
+  - ./tumblr_om7491RyYv1r83d7lo3_500.gif
+  - ./tumblr_om7491RyYv1r83d7lo4_500.gif
+  - ./tumblr_om7491RyYv1r83d7lo5_500.gif
+  - ./tumblr_om7491RyYv1r83d7lo6_500.gif
+  - ./tumblr_om7491RyYv1r83d7lo7_500.gif
+  - ./tumblr_om7491RyYv1r83d7lo8_500.gif
+  - ./tumblr_om7491RyYv1r83d7lo9_500.gif
+  - ./tumblr_om7491RyYv1r83d7lo10_500.gif
 redirect_from:
   - /post/157949402743/2jam4u-micdotcom-sportscaster-dale-hansen/
   - /post/157949402743/

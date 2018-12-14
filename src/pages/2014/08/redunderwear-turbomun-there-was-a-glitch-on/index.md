@@ -1,5 +1,7 @@
 ---
 date: 2014-08-05T01:54:43.000Z
+photos:
+  - ./tumblr_n2lxpi3mP51ry3m3ho1_1280.jpg
 redirect_from:
   - /post/93831478203/redunderwear-turbomun-there-was-a-glitch-on/
   - /post/93831478203/

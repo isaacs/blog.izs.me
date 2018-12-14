@@ -2,6 +2,8 @@
 date: 2014-08-22T00:11:17.000Z
 link_url: >-
   http://www.gofundme.com/mvc.php?route=contact/form&pid=500_When_should_I_report_a_campaign
+photos:
+  - ./tumblr_nao80iqcuW1qzytyoo1_640.png
 redirect_from:
   - /post/95413503783/kateceratops-people-are-giving-wilson-money-to/
   - /post/95413503783/

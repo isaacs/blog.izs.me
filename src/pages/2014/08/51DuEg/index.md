@@ -1,5 +1,14 @@
 ---
 date: 2014-08-07T16:32:51.000Z
+photos:
+  - ./tumblr_mqoq64QdX51sydk9zo1_250.gif
+  - ./tumblr_mqoq64QdX51sydk9zo2_250.gif
+  - ./tumblr_mqoq64QdX51sydk9zo3_250.gif
+  - ./tumblr_mqoq64QdX51sydk9zo4_250.gif
+  - ./tumblr_mqoq64QdX51sydk9zo5_250.gif
+  - ./tumblr_mqoq64QdX51sydk9zo6_250.gif
+  - ./tumblr_mqoq64QdX51sydk9zo7_250.gif
+  - ./tumblr_mqoq64QdX51sydk9zo8_250.gif
 redirect_from:
   - /post/94075153938//
   - /post/94075153938/

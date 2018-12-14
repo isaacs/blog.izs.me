@@ -1,5 +1,15 @@
 ---
 date: 2016-07-21T23:59:24.000Z
+photos:
+  - ./tumblr_oanlevrNfz1ubeokqo7_640.png
+  - - ./tumblr_oanlevrNfz1ubeokqo1_250.gif
+    - ./tumblr_oanlevrNfz1ubeokqo2_250.gif
+  - ./tumblr_oanlevrNfz1ubeokqo3_500.gif
+  - ./tumblr_oanlevrNfz1ubeokqo4_500.gif
+  - ./tumblr_oanlevrNfz1ubeokqo5_500.gif
+  - ./tumblr_oanlevrNfz1ubeokqo6_640.png
+  - ./tumblr_oanlevrNfz1ubeokqo9_640.png
+  - ./tumblr_oanlevrNfz1ubeokqo8_640.png
 redirect_from:
   - /post/147771202278/destinyrush-unarmed-black-man-with-hands-up/
   - /post/147771202278/

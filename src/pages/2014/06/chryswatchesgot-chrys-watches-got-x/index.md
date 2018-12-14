@@ -1,5 +1,13 @@
 ---
 date: 2014-06-20T03:05:54.000Z
+photos:
+  - ./tumblr_n7fyooobXP1tco6epo1_1280.jpg
+  - ./tumblr_n7fyooobXP1tco6epo2_1280.jpg
+  - ./tumblr_n7fyooobXP1tco6epo3_1280.jpg
+  - ./tumblr_n7fyooobXP1tco6epo5_1280.jpg
+  - ./tumblr_n7fyooobXP1tco6epo6_1280.jpg
+  - ./tumblr_n7fyooobXP1tco6epo4_1280.jpg
+  - ./tumblr_n7fyooobXP1tco6epo7_1280.jpg
 redirect_from:
   - /post/89323088718/chryswatchesgot-chrys-watches-got-x/
   - /post/89323088718/

@@ -1,5 +1,7 @@
 ---
 date: 2014-09-14T19:58:04.000Z
+photos:
+  - ./tumblr_naqak0LQCU1sh41a5o1_1280.png
 redirect_from:
   - /post/97500236773/raygorartshit-bisexual-frustration-everyone-is/
   - /post/97500236773/

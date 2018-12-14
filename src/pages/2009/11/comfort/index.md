@@ -1,5 +1,7 @@
 ---
 date: 2009-11-24T22:29:52.000Z
+photos:
+  - ./tumblr_ktmx5sckPe1qzjzo9o1_1280.jpg
 redirect_from:
   - /post/256093424/comfort/
   - /post/256093424/

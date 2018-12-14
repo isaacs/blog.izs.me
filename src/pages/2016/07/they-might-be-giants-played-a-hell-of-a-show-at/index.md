@@ -1,6 +1,8 @@
 ---
 date: 2016-07-23T07:31:12.000Z
 link_url: 'https://www.instagram.com/p/BIMhhOjA4Eg/'
+photos:
+  - ./tumblr_oarbk0DSY91qzjzo9o1_1280.jpg
 redirect_from:
   - /post/147836326983/they-might-be-giants-played-a-hell-of-a-show-at/
   - /post/147836326983/

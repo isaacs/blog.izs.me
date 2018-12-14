@@ -1,5 +1,14 @@
 ---
 date: 2014-05-18T01:42:49.000Z
+photos:
+  - ./tumblr_n4ib7pyfwJ1sqf5tdo1_540.jpg
+  - ./tumblr_n4ib7pyfwJ1sqf5tdo2_640.jpg
+  - ./tumblr_n4ib7pyfwJ1sqf5tdo3_640.jpg
+  - ./tumblr_n4ib7pyfwJ1sqf5tdo4_1280.jpg
+  - ./tumblr_n4ib7pyfwJ1sqf5tdo5_1280.jpg
+  - ./tumblr_n4ib7pyfwJ1sqf5tdo6_640.jpg
+  - ./tumblr_n4ib7pyfwJ1sqf5tdo7_1280.jpg
+  - ./tumblr_n4ib7pyfwJ1sqf5tdo8_400.jpg
 redirect_from:
   - /post/86062727258/boomerstarkiller67-star-trek-concept-art/
   - /post/86062727258/

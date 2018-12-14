@@ -1,5 +1,7 @@
 ---
 date: 2018-12-05T23:18:16.000Z
+photos:
+  - ./tumblr_pj76cpZ62g1qeiz5bo1_1280.png
 redirect_from:
   - /post/180841118003/tha-boy-literally/
   - /post/180841118003/

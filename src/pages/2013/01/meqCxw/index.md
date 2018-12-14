@@ -1,5 +1,7 @@
 ---
 date: 2013-01-23T00:51:58.000Z
+photos:
+  - ./tumblr_mf58fowewh1qhqj20o1_500.gif
 redirect_from:
   - /post/41236988615//
   - /post/41236988615/

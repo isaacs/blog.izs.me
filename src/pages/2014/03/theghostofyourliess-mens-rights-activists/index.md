@@ -1,5 +1,7 @@
 ---
 date: 2014-03-22T16:32:58.000Z
+photos:
+  - ./tumblr_m9xswdkTVR1qho7avo1_500.gif
 redirect_from:
   - /post/80370116201/theghostofyourliess-mens-rights-activists/
   - /post/80370116201/

@@ -1,5 +1,14 @@
 ---
 date: 2014-10-28T15:15:19.000Z
+photos:
+  - ./tumblr_mlq9bmlrds1s1kou9o1_540.jpg
+  - ./tumblr_mlq9bmlrds1s1kou9o2_540.png
+  - ./tumblr_mlq9bmlrds1s1kou9o3_540.png
+  - ./tumblr_mlq9bmlrds1s1kou9o4_540.png
+  - ./tumblr_mlq9bmlrds1s1kou9o5_540.png
+  - ./tumblr_mlq9bmlrds1s1kou9o6_540.png
+  - ./tumblr_mlq9bmlrds1s1kou9o7_540.png
+  - ./tumblr_mlq9bmlrds1s1kou9o8_540.png
 redirect_from:
   - /post/101176529413/thevoiceinthevoid-swedebeast/
   - /post/101176529413/

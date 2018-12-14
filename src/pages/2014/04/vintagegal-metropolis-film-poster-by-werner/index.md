@@ -1,5 +1,7 @@
 ---
 date: 2014-04-03T22:11:15.000Z
+photos:
+  - ./tumblr_n2qr9p1Baj1qa70eyo1_500.jpg
 redirect_from:
   - /post/81621583537/vintagegal-metropolis-film-poster-by-werner/
   - /post/81621583537/

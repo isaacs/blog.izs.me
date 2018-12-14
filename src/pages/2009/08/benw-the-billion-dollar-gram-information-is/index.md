@@ -1,6 +1,8 @@
 ---
 date: 2009-08-18T03:38:51.000Z
 link_url: 'http://www.informationisbeautiful.net/visualizations/the-billion-dollar-gram/'
+photos:
+  - ./tumblr_kojs2lr4Wg1qzt3x8o1_1280.gif
 redirect_from:
   - /post/165398768/benw-the-billion-dollar-gram-information-is/
   - /post/165398768/

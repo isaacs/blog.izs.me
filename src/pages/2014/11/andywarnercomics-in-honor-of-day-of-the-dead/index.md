@@ -1,5 +1,10 @@
 ---
 date: 2014-11-04T16:17:32.000Z
+photos:
+  - ./tumblr_nefokl7H7N1rmd8gpo1_1280.png
+  - ./tumblr_nefokl7H7N1rmd8gpo2_1280.png
+  - ./tumblr_nefokl7H7N1rmd8gpo3_1280.png
+  - ./tumblr_nefokl7H7N1rmd8gpo4_1280.png
 redirect_from:
   - /post/101764788988/andywarnercomics-in-honor-of-day-of-the-dead/
   - /post/101764788988/

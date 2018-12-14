@@ -1,5 +1,12 @@
 ---
 date: 2014-08-22T02:36:53.000Z
+photos:
+  - - ./tumblr_m3amawYJr21rsjqu1o1_r1_250.gif
+    - ./tumblr_m3amawYJr21rsjqu1o2_r1_250.gif
+  - - ./tumblr_m3amawYJr21rsjqu1o9_r1_250.gif
+    - ./tumblr_m3amawYJr21rsjqu1o8_r1_250.gif
+  - - ./tumblr_m3amawYJr21rsjqu1o7_r1_250.gif
+    - ./tumblr_m3amawYJr21rsjqu1o10_r1_250.gif
 redirect_from:
   - /post/95424717983/deansdamnation-thespyandthesoldier/
   - /post/95424717983/

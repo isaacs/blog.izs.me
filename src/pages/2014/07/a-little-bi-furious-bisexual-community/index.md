@@ -1,5 +1,12 @@
 ---
 date: 2014-07-31T15:46:44.000Z
+photos:
+  - - ./tumblr_mquhrlDC7F1qlxhw8o1_250.gif
+    - ./tumblr_mquhrlDC7F1qlxhw8o2_250.gif
+  - - ./tumblr_mquhrlDC7F1qlxhw8o3_250.gif
+    - ./tumblr_mquhrlDC7F1qlxhw8o4_250.gif
+  - - ./tumblr_mquhrlDC7F1qlxhw8o5_250.gif
+    - ./tumblr_mquhrlDC7F1qlxhw8o6_250.gif
 redirect_from:
   - /post/93410651713/a-little-bi-furious-bisexual-community/
   - /post/93410651713/

@@ -1,5 +1,8 @@
 ---
 date: 2016-06-23T18:49:20.000Z
+photos:
+  - ./tumblr_o7v4h11XWU1r5a4ujo1_1280.jpg
+  - ./tumblr_o7v4h11XWU1r5a4ujo2_1280.jpg
 redirect_from:
   - /post/146366887118/earlpostsaboutwhatever/
   - /post/146366887118/

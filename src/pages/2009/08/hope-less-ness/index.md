@@ -1,6 +1,8 @@
 ---
 date: 2009-08-07T02:51:00.000Z
 link_url: 'http://www.flickr.com/photos/dinosonic/3294134826/in/photostream/'
+photos:
+  - ./U3GjlGEojqtv7jq1qhrlZRpBo1_500.jpg
 redirect_from:
   - /post/157602152/hope-less-ness/
   - /post/157602152/

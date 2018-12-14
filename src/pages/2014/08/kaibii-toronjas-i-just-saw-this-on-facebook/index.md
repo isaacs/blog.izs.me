@@ -1,5 +1,7 @@
 ---
 date: 2014-08-04T06:14:46.000Z
+photos:
+  - ./tumblr_n9mb35YgyE1qfolwro1_500.jpg
 redirect_from:
   - /post/93755582723/kaibii-toronjas-i-just-saw-this-on-facebook/
   - /post/93755582723/
