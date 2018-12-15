@@ -80,10 +80,10 @@ module.exports = async ({ getNode, markdownNode, markdownAST }, pluginOptions) =
         const rowHeight = row.map(photo =>
           photo.meta.height * imgWidth/photo.meta.width).sort()[0]
 
-        console.error('h=%j w=%j', rowHeight, imgWidth, row)
-
+        // XXX there's a cleaner way to do this with border collapse and
+        // 10px border widths.  Also would ensure white borders, like tumblr.
         return `
-        <tr><td><table cellpadding=0 cellspacing=0 border=0><tr>${
+        <tr><td style="padding:0 5px"><table cellpadding=0 cellspacing=0 border=0><tr>${
           row.map(p =>
             `<td><div class="photo"
               style="width:${imgWidth}px; height:${rowHeight}px; margin:5px; overflow:hidden"
