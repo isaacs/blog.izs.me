@@ -1,10 +1,10 @@
 ---
 date: 2014-11-04T16:17:32.000Z
 photos:
-  - ./tumblr_nefokl7H7N1rmd8gpo1_1280.png
-  - ./tumblr_nefokl7H7N1rmd8gpo2_1280.png
-  - ./tumblr_nefokl7H7N1rmd8gpo3_1280.png
-  - ./tumblr_nefokl7H7N1rmd8gpo4_1280.png
+  - - ./tumblr_nefokl7H7N1rmd8gpo1_1280.png
+  - - ./tumblr_nefokl7H7N1rmd8gpo2_1280.png
+  - - ./tumblr_nefokl7H7N1rmd8gpo3_1280.png
+  - - ./tumblr_nefokl7H7N1rmd8gpo4_1280.png
 redirect_from:
   - /post/101764788988/andywarnercomics-in-honor-of-day-of-the-dead/
   - /post/101764788988/
@@ -24,20 +24,6 @@ via:
   url: >-
     http://pixiaq.tumblr.com/post/101733187309/andywarnercomics-in-honor-of-day-of-the-dead
 ---
-<div class="photoset" style="width:100%">
-  <div class="photoset_row photoset_row_1" style="margin:1ex">
-<img src="./tumblr_nefokl7H7N1rmd8gpo1_1280.png" alt="" style="width:100%">
-  </div>
-  <div class="photoset_row photoset_row_1" style="margin:1ex">
-<img src="./tumblr_nefokl7H7N1rmd8gpo2_1280.png" alt="" style="width:100%">
-  </div>
-  <div class="photoset_row photoset_row_1" style="margin:1ex">
-<img src="./tumblr_nefokl7H7N1rmd8gpo3_1280.png" alt="" style="width:100%">
-  </div>
-  <div class="photoset_row photoset_row_1" style="margin:1ex">
-<img src="./tumblr_nefokl7H7N1rmd8gpo4_1280.png" alt="" style="width:100%">
-  </div>
-</div>
 <p><a class="tumblr_blog" href="http://andywarnercomics.tumblr.com/post/101623276094/in-honor-of-day-of-the-dead-heres-a-repost-of-my">andywarnercomics</a>:</p>
 <blockquote>
 <p>In honor of Day of the Dead, here’s a repost of my comic about the San Francisco Columbarium and the man who spent 26 years restoring it.</p>

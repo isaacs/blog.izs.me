@@ -1,7 +1,7 @@
 ---
 date: 2011-08-23T00:10:00.000Z
 photos:
-  - ./tumblr_lpvwgcUpE91qjkzz8o1_1280.jpg
+  - - ./tumblr_lpvwgcUpE91qjkzz8o1_1280.jpg
 redirect_from:
   - /post/9271369089/youranonnews-use-this-image-in-and-around-bart/
   - /post/9271369089/
@@ -21,11 +21,6 @@ via:
   url: >-
     http://youranonnews.tumblr.com/post/8877530155/use-this-image-in-and-around-bart-stations-to-let
 ---
-<div class="photoset" style="width:100%">
-  <div class="photoset_row photoset_row_1" style="margin:1ex">
-<img src="./tumblr_lpvwgcUpE91qjkzz8o1_1280.jpg" alt="" style="width:100%">
-  </div>
-</div>
 <p><a href="http://youranonnews.tumblr.com/post/8877530155" class="tumblr_blog">youranonnews</a>:</p>
 
 <blockquote><p>Use this image in and around BART stations to let people know about the protest.</p></blockquote>

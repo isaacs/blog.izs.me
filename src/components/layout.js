@@ -15,7 +15,7 @@ export default ({ children }) => (
     }
     render={data => (
   <div style={{
-      width: "800px",
+      width: "700px",
       margin: "auto",
     }}>
     <Link to={`/`}>

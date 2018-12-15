@@ -1,16 +1,16 @@
 ---
 date: 2015-10-28T00:36:45.000Z
 photos:
-  - ./tumblr_myuv88qhMw1rqscijo2_1280.png
-  - ./tumblr_myuv88qhMw1rqscijo3_1280.png
-  - ./tumblr_myuv88qhMw1rqscijo4_1280.png
-  - ./tumblr_myuv88qhMw1rqscijo5_r2_1280.png
-  - ./tumblr_myuv88qhMw1rqscijo6_1280.png
-  - ./tumblr_myuv88qhMw1rqscijo7_1280.png
-  - ./tumblr_myuv88qhMw1rqscijo8_1280.png
-  - ./tumblr_myuv88qhMw1rqscijo9_1280.png
-  - ./tumblr_myuv88qhMw1rqscijo1_r2_1280.png
-  - ./tumblr_myuv88qhMw1rqscijo10_r2_1280.png
+  - - ./tumblr_myuv88qhMw1rqscijo2_1280.png
+  - - ./tumblr_myuv88qhMw1rqscijo3_1280.png
+  - - ./tumblr_myuv88qhMw1rqscijo4_1280.png
+  - - ./tumblr_myuv88qhMw1rqscijo5_r2_1280.png
+  - - ./tumblr_myuv88qhMw1rqscijo6_1280.png
+  - - ./tumblr_myuv88qhMw1rqscijo7_1280.png
+  - - ./tumblr_myuv88qhMw1rqscijo8_1280.png
+  - - ./tumblr_myuv88qhMw1rqscijo9_1280.png
+  - - ./tumblr_myuv88qhMw1rqscijo1_r2_1280.png
+  - - ./tumblr_myuv88qhMw1rqscijo10_r2_1280.png
 redirect_from:
   - /post/132050942648/jamietheignorantamerican-go-forth-and-educate/
   - /post/132050942648/
@@ -30,38 +30,6 @@ via:
   url: >-
     https://j-popsicles.tumblr.com/post/72154890106/go-forth-and-educate-yourselves
 ---
-<div class="photoset" style="width:100%">
-  <div class="photoset_row photoset_row_1" style="margin:1ex">
-<img src="./tumblr_myuv88qhMw1rqscijo2_1280.png" alt="" style="width:100%">
-  </div>
-  <div class="photoset_row photoset_row_1" style="margin:1ex">
-<img src="./tumblr_myuv88qhMw1rqscijo3_1280.png" alt="" style="width:100%">
-  </div>
-  <div class="photoset_row photoset_row_1" style="margin:1ex">
-<img src="./tumblr_myuv88qhMw1rqscijo4_1280.png" alt="" style="width:100%">
-  </div>
-  <div class="photoset_row photoset_row_1" style="margin:1ex">
-<img src="./tumblr_myuv88qhMw1rqscijo5_r2_1280.png" alt="" style="width:100%">
-  </div>
-  <div class="photoset_row photoset_row_1" style="margin:1ex">
-<img src="./tumblr_myuv88qhMw1rqscijo6_1280.png" alt="" style="width:100%">
-  </div>
-  <div class="photoset_row photoset_row_1" style="margin:1ex">
-<img src="./tumblr_myuv88qhMw1rqscijo7_1280.png" alt="" style="width:100%">
-  </div>
-  <div class="photoset_row photoset_row_1" style="margin:1ex">
-<img src="./tumblr_myuv88qhMw1rqscijo8_1280.png" alt="" style="width:100%">
-  </div>
-  <div class="photoset_row photoset_row_1" style="margin:1ex">
-<img src="./tumblr_myuv88qhMw1rqscijo9_1280.png" alt="" style="width:100%">
-  </div>
-  <div class="photoset_row photoset_row_1" style="margin:1ex">
-<img src="./tumblr_myuv88qhMw1rqscijo1_r2_1280.png" alt="" style="width:100%">
-  </div>
-  <div class="photoset_row photoset_row_1" style="margin:1ex">
-<img src="./tumblr_myuv88qhMw1rqscijo10_r2_1280.png" alt="" style="width:100%">
-  </div>
-</div>
 <p><a class="tumblr_blog" href="http://jamietheignorantamerican.tumblr.com/post/72154890106">jamietheignorantamerican</a>:</p>
 
 <blockquote>

@@ -1,7 +1,7 @@
 ---
 date: 2014-03-22T16:32:58.000Z
 photos:
-  - ./tumblr_m9xswdkTVR1qho7avo1_500.gif
+  - - ./tumblr_m9xswdkTVR1qho7avo1_500.gif
 redirect_from:
   - /post/80370116201/theghostofyourliess-mens-rights-activists/
   - /post/80370116201/
@@ -20,11 +20,6 @@ via:
   url: >-
     http://negativitysandwiches.com/post/80310163298/theghostofyourliess-mens-rights-activists
 ---
-<div class="photoset" style="width:100%">
-  <div class="photoset_row photoset_row_1" style="margin:1ex">
-<img src="./tumblr_m9xswdkTVR1qho7avo1_500.gif" alt="" style="width:100%">
-  </div>
-</div>
 <p><a class="tumblr_blog" href="http://theghostofyourliess.tumblr.com/post/46274373034/mens-rights-activists">theghostofyourliess</a>:</p>
 
 <blockquote>

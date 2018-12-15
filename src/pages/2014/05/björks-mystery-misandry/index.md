@@ -1,8 +1,8 @@
 ---
 date: 2014-05-18T01:49:59.000Z
 photos:
-  - ./tumblr_n5qaanf6SG1sklw3bo1_500.jpg
-  - ./tumblr_n5qaanf6SG1sklw3bo2_r2_500.gif
+  - - ./tumblr_n5qaanf6SG1sklw3bo1_500.jpg
+  - - ./tumblr_n5qaanf6SG1sklw3bo2_r2_500.gif
 redirect_from:
   - /post/86063273433/björks-mystery-misandry/
   - /post/86063273433/
@@ -20,12 +20,4 @@ via:
   title: WELCOME TO DEEZ NUTS
   url: 'https://www.tumblr.com/blog/private_72331410?86050531726'
 ---
-<div class="photoset" style="width:100%">
-  <div class="photoset_row photoset_row_1" style="margin:1ex">
-<img src="./tumblr_n5qaanf6SG1sklw3bo1_500.jpg" alt="" style="width:100%">
-  </div>
-  <div class="photoset_row photoset_row_1" style="margin:1ex">
-<img src="./tumblr_n5qaanf6SG1sklw3bo2_r2_500.gif" alt="" style="width:100%">
-  </div>
-</div>
 <p>Björk&rsquo;s mystery misandry. ❤️</p>

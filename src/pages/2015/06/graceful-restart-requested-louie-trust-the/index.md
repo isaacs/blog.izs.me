@@ -1,8 +1,8 @@
 ---
 date: 2015-06-17T05:52:52.000Z
 photos:
-  - ./tumblr_nnipvsZPX31tvh0f2o1_250.gif
-  - ./tumblr_nnipvsZPX31tvh0f2o2_250.gif
+  - - ./tumblr_nnipvsZPX31tvh0f2o1_250.gif
+  - - ./tumblr_nnipvsZPX31tvh0f2o2_250.gif
 redirect_from:
   - /post/121735764388/graceful-restart-requested-louie-trust-the/
   - /post/121735764388/
@@ -20,14 +20,6 @@ via:
   title: Graceful Restart Requested
   url: 'http://graceful-restart-requested.tumblr.com/post/117600767083/louie'
 ---
-<div class="photoset" style="width:100%">
-  <div class="photoset_row photoset_row_1" style="margin:1ex">
-<img src="./tumblr_nnipvsZPX31tvh0f2o1_250.gif" alt="" style="width:100%">
-  </div>
-  <div class="photoset_row photoset_row_1" style="margin:1ex">
-<img src="./tumblr_nnipvsZPX31tvh0f2o2_250.gif" alt="" style="width:100%">
-  </div>
-</div>
 <p><a href="http://graceful-restart-requested.tumblr.com/post/117600767083/louie" class="tumblr_blog">graceful-restart-requested</a>:</p>
 
 <blockquote><p>Louie.</p></blockquote>

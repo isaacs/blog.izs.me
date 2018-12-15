@@ -1,7 +1,7 @@
 ---
 date: 2009-11-24T22:29:52.000Z
 photos:
-  - ./tumblr_ktmx5sckPe1qzjzo9o1_1280.jpg
+  - - ./tumblr_ktmx5sckPe1qzjzo9o1_1280.jpg
 redirect_from:
   - /post/256093424/comfort/
   - /post/256093424/
@@ -15,11 +15,6 @@ tags:
 tumblrid: 256093424
 type: photo
 ---
-<div class="photoset" style="width:100%">
-  <div class="photoset_row photoset_row_1" style="margin:1ex">
-<img src="./tumblr_ktmx5sckPe1qzjzo9o1_1280.jpg" alt="" style="width:100%">
-  </div>
-</div>
 <p>Just a carpet, and the sun.  That&rsquo;s all he needs.</p>
 
 <p>If only I could ever be anywhere near this comfortable.</p>

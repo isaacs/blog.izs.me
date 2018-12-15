@@ -2,7 +2,7 @@
 date: 2012-01-03T00:46:08.000Z
 link_url: 'http://tumblr.com/follow/samueloser'
 photos:
-  - ./tumblr_lx5brpApFT1qfb6qxo1_540.jpg
+  - - ./tumblr_lx5brpApFT1qfb6qxo1_540.jpg
 redirect_from:
   - /post/15212505704/aredridel-or-you-know-we-could-go-own-our-own/
   - /post/15212505704/
@@ -21,11 +21,6 @@ via:
   title: 'All confirmation bias, all the time'
   url: 'http://aredridel.tumblr.com/post/15201371401'
 ---
-<div class="photoset" style="width:100%">
-  <div class="photoset_row photoset_row_1" style="margin:1ex">
-<img src="./tumblr_lx5brpApFT1qfb6qxo1_540.jpg" alt="" style="width:100%">
-  </div>
-</div>
 <p><a href="http://aredridel.tumblr.com/post/15201371401/or-you-know-we-could-go-own-our-own" class="tumblr_blog">aredridel</a>:</p>
 
 <blockquote><p>Or, you know, we could go own our own infrastructure. Start your own blog, folks. Find a local company who hosts sites or get your own virtual server. Get help setting it up or learn how yourself. And then there are no limits save the actual resources you’re using.</p>

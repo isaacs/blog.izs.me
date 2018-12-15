@@ -1,16 +1,16 @@
 ---
 date: 2017-03-03T18:01:58.000Z
 photos:
-  - ./tumblr_om7491RyYv1r83d7lo1_500.gif
-  - ./tumblr_om7491RyYv1r83d7lo2_500.gif
-  - ./tumblr_om7491RyYv1r83d7lo3_500.gif
-  - ./tumblr_om7491RyYv1r83d7lo4_500.gif
-  - ./tumblr_om7491RyYv1r83d7lo5_500.gif
-  - ./tumblr_om7491RyYv1r83d7lo6_500.gif
-  - ./tumblr_om7491RyYv1r83d7lo7_500.gif
-  - ./tumblr_om7491RyYv1r83d7lo8_500.gif
-  - ./tumblr_om7491RyYv1r83d7lo9_500.gif
-  - ./tumblr_om7491RyYv1r83d7lo10_500.gif
+  - - ./tumblr_om7491RyYv1r83d7lo1_500.gif
+  - - ./tumblr_om7491RyYv1r83d7lo2_500.gif
+  - - ./tumblr_om7491RyYv1r83d7lo3_500.gif
+  - - ./tumblr_om7491RyYv1r83d7lo4_500.gif
+  - - ./tumblr_om7491RyYv1r83d7lo5_500.gif
+  - - ./tumblr_om7491RyYv1r83d7lo6_500.gif
+  - - ./tumblr_om7491RyYv1r83d7lo7_500.gif
+  - - ./tumblr_om7491RyYv1r83d7lo8_500.gif
+  - - ./tumblr_om7491RyYv1r83d7lo9_500.gif
+  - - ./tumblr_om7491RyYv1r83d7lo10_500.gif
 redirect_from:
   - /post/157949402743/2jam4u-micdotcom-sportscaster-dale-hansen/
   - /post/157949402743/
@@ -30,38 +30,6 @@ via:
   url: >-
     https://seldo.tumblr.com/post/157942543990/2jam4u-micdotcom-sportscaster-dale-hansen
 ---
-<div class="photoset" style="width:100%">
-  <div class="photoset_row photoset_row_1" style="margin:1ex">
-<img src="./tumblr_om7491RyYv1r83d7lo1_500.gif" alt="" style="width:100%">
-  </div>
-  <div class="photoset_row photoset_row_1" style="margin:1ex">
-<img src="./tumblr_om7491RyYv1r83d7lo2_500.gif" alt="" style="width:100%">
-  </div>
-  <div class="photoset_row photoset_row_1" style="margin:1ex">
-<img src="./tumblr_om7491RyYv1r83d7lo3_500.gif" alt="" style="width:100%">
-  </div>
-  <div class="photoset_row photoset_row_1" style="margin:1ex">
-<img src="./tumblr_om7491RyYv1r83d7lo4_500.gif" alt="" style="width:100%">
-  </div>
-  <div class="photoset_row photoset_row_1" style="margin:1ex">
-<img src="./tumblr_om7491RyYv1r83d7lo5_500.gif" alt="" style="width:100%">
-  </div>
-  <div class="photoset_row photoset_row_1" style="margin:1ex">
-<img src="./tumblr_om7491RyYv1r83d7lo6_500.gif" alt="" style="width:100%">
-  </div>
-  <div class="photoset_row photoset_row_1" style="margin:1ex">
-<img src="./tumblr_om7491RyYv1r83d7lo7_500.gif" alt="" style="width:100%">
-  </div>
-  <div class="photoset_row photoset_row_1" style="margin:1ex">
-<img src="./tumblr_om7491RyYv1r83d7lo8_500.gif" alt="" style="width:100%">
-  </div>
-  <div class="photoset_row photoset_row_1" style="margin:1ex">
-<img src="./tumblr_om7491RyYv1r83d7lo9_500.gif" alt="" style="width:100%">
-  </div>
-  <div class="photoset_row photoset_row_1" style="margin:1ex">
-<img src="./tumblr_om7491RyYv1r83d7lo10_500.gif" alt="" style="width:100%">
-  </div>
-</div>
 <p><a href="http://2jam4u.tumblr.com/post/157927658432/micdotcomsportscaster-dale-hansen-defends-student" class="tumblr_blog">2jam4u</a>:</p>
 
 <blockquote>

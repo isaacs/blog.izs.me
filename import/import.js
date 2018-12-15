@@ -215,9 +215,9 @@ const photosetHtml = (layout, photos) => {
 const photolist = data => {
   if (data.photos.length === 1) {
     const p = data.photos[0]
-    return [
+    return [[
       `${p.original_size.url} ${p.caption}`.trim()
-    ]
+    ]]
   }
 
   // each entry in the array is a row in the photoset
@@ -228,7 +228,7 @@ const photolist = data => {
   layout.forEach(rowCount => {
     if (rowCount === 1) {
       const p = data.photos[i++]
-      ret.push(`${p.original_size.url} ${p.caption}`.trim())
+      ret.push([ `${p.original_size.url} ${p.caption}`.trim() ])
     } else {
       const row = []
       ret.push(row)
@@ -247,15 +247,7 @@ const photo = data => [
     link_url: data.link_url,
     photos: photolist(data),
   },
-
-  // I don't much care about all the alt size stuff, since
-  // remark-images does a better job anyway. Just plop into markdown
-  photosetHtml(data.photoset_layout, data.photos.map(p => ({
-    alt: p.caption || undefined,
-    height: p.original_size.height,
-    width: p.original_size.width,
-    url: p.original_size.url
-  }))) + data.caption
+  data.caption
 ]
 
 const text = data => [ common(data), data.body ]
@@ -283,17 +275,13 @@ const mediaify = ([ front, content ], postdir) => {
     }
 
     if (front.type === 'photo') {
-      front.photos = front.photos.map(function replace (p) {
-        if (typeof p === 'string') {
-          if (urlexpr.test(p)) {
-            p = p.replace(urlexpr, `./${f}`)
-            found = true
-          }
-        } else if (Array.isArray(p)) {
-          p = p.map(p => replace(p))
+      front.photos = front.photos.map(row => row.map(p => {
+        if (urlexpr.test(p)) {
+          p = p.replace(urlexpr, `./${f}`)
+          found = true
         }
         return p
-      })
+      }))
     } else if (front.type === 'audio') {
       if (urlexpr.test(front.audio.source_url)) {
         front.audio.source_url =

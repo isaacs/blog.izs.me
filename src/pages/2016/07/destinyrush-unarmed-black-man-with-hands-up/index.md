@@ -1,15 +1,15 @@
 ---
 date: 2016-07-21T23:59:24.000Z
 photos:
-  - ./tumblr_oanlevrNfz1ubeokqo7_640.png
+  - - ./tumblr_oanlevrNfz1ubeokqo7_640.png
   - - ./tumblr_oanlevrNfz1ubeokqo1_250.gif
     - ./tumblr_oanlevrNfz1ubeokqo2_250.gif
-  - ./tumblr_oanlevrNfz1ubeokqo3_500.gif
-  - ./tumblr_oanlevrNfz1ubeokqo4_500.gif
-  - ./tumblr_oanlevrNfz1ubeokqo5_500.gif
-  - ./tumblr_oanlevrNfz1ubeokqo6_640.png
-  - ./tumblr_oanlevrNfz1ubeokqo9_640.png
-  - ./tumblr_oanlevrNfz1ubeokqo8_640.png
+  - - ./tumblr_oanlevrNfz1ubeokqo3_500.gif
+  - - ./tumblr_oanlevrNfz1ubeokqo4_500.gif
+  - - ./tumblr_oanlevrNfz1ubeokqo5_500.gif
+  - - ./tumblr_oanlevrNfz1ubeokqo6_640.png
+  - - ./tumblr_oanlevrNfz1ubeokqo9_640.png
+  - - ./tumblr_oanlevrNfz1ubeokqo8_640.png
 redirect_from:
   - /post/147771202278/destinyrush-unarmed-black-man-with-hands-up/
   - /post/147771202278/
@@ -29,33 +29,6 @@ via:
   url: >-
     http://alayne-stonecoldfox.tumblr.com/post/147756405434/destinyrush-unarmed-black-man-with-hands-up
 ---
-<div class="photoset" style="width:100%">
-  <div class="photoset_row photoset_row_1" style="margin:1ex">
-<img src="./tumblr_oanlevrNfz1ubeokqo7_640.png" alt="" style="width:100%">
-  </div>
-  <div class="photoset_row photoset_row_2" style="margin:1ex">
-<img src="./tumblr_oanlevrNfz1ubeokqo1_250.gif" alt="" style="width:100%">
-<img src="./tumblr_oanlevrNfz1ubeokqo2_250.gif" alt="" style="width:100%">
-  </div>
-  <div class="photoset_row photoset_row_1" style="margin:1ex">
-<img src="./tumblr_oanlevrNfz1ubeokqo3_500.gif" alt="" style="width:100%">
-  </div>
-  <div class="photoset_row photoset_row_1" style="margin:1ex">
-<img src="./tumblr_oanlevrNfz1ubeokqo4_500.gif" alt="" style="width:100%">
-  </div>
-  <div class="photoset_row photoset_row_1" style="margin:1ex">
-<img src="./tumblr_oanlevrNfz1ubeokqo5_500.gif" alt="" style="width:100%">
-  </div>
-  <div class="photoset_row photoset_row_1" style="margin:1ex">
-<img src="./tumblr_oanlevrNfz1ubeokqo6_640.png" alt="" style="width:100%">
-  </div>
-  <div class="photoset_row photoset_row_1" style="margin:1ex">
-<img src="./tumblr_oanlevrNfz1ubeokqo9_640.png" alt="" style="width:100%">
-  </div>
-  <div class="photoset_row photoset_row_1" style="margin:1ex">
-<img src="./tumblr_oanlevrNfz1ubeokqo8_640.png" alt="" style="width:100%">
-  </div>
-</div>
 <p><a class="tumblr_blog" href="http://destinyrush.tumblr.com/post/147738460183">destinyrush</a>:</p>
 
 <blockquote>

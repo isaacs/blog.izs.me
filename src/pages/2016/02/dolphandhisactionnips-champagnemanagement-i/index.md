@@ -1,7 +1,7 @@
 ---
 date: 2016-02-21T03:52:46.000Z
 photos:
-  - ./tumblr_nge24xdDz51re0c97o1_500.gif
+  - - ./tumblr_nge24xdDz51re0c97o1_500.gif
 redirect_from:
   - /post/139700175273/dolphandhisactionnips-champagnemanagement-i/
   - /post/139700175273/
@@ -20,11 +20,6 @@ via:
   url: >-
     http://dolphandhisactionnips.tumblr.com/post/104989270359/champagnemanagement-i-may-reblog-this-every-day
 ---
-<div class="photoset" style="width:100%">
-  <div class="photoset_row photoset_row_1" style="margin:1ex">
-<img src="./tumblr_nge24xdDz51re0c97o1_500.gif" alt="" style="width:100%">
-  </div>
-</div>
 <p><a class="tumblr_blog" href="http://dolphandhisactionnips.tumblr.com/post/104989270359">dolphandhisactionnips</a>:</p>
 
 <blockquote>

@@ -1,14 +1,14 @@
 ---
 date: 2015-11-10T21:56:28.000Z
 photos:
-  - ./tumblr_nwoe528ixQ1qgsazuo6_500.gif
-  - ./tumblr_nwoe528ixQ1qgsazuo5_500.gif
-  - ./tumblr_nwoe528ixQ1qgsazuo1_500.gif
-  - ./tumblr_nwoe528ixQ1qgsazuo4_500.gif
-  - ./tumblr_nwoe528ixQ1qgsazuo8_500.gif
-  - ./tumblr_nwoe528ixQ1qgsazuo7_500.gif
-  - ./tumblr_nwoe528ixQ1qgsazuo3_500.gif
-  - ./tumblr_nwoe528ixQ1qgsazuo2_500.gif
+  - - ./tumblr_nwoe528ixQ1qgsazuo6_500.gif
+  - - ./tumblr_nwoe528ixQ1qgsazuo5_500.gif
+  - - ./tumblr_nwoe528ixQ1qgsazuo1_500.gif
+  - - ./tumblr_nwoe528ixQ1qgsazuo4_500.gif
+  - - ./tumblr_nwoe528ixQ1qgsazuo8_500.gif
+  - - ./tumblr_nwoe528ixQ1qgsazuo7_500.gif
+  - - ./tumblr_nwoe528ixQ1qgsazuo3_500.gif
+  - - ./tumblr_nwoe528ixQ1qgsazuo2_500.gif
 redirect_from:
   - /post/132958956253/salon-watch-snls-sasheer-zamata-mock-clueless/
   - /post/132958956253/
@@ -28,32 +28,6 @@ via:
   url: >-
     https://seldo.tumblr.com/post/131834741695/salon-watch-snls-sasheer-zamata-mock-clueless
 ---
-<div class="photoset" style="width:100%">
-  <div class="photoset_row photoset_row_1" style="margin:1ex">
-<img src="./tumblr_nwoe528ixQ1qgsazuo6_500.gif" alt="" style="width:100%">
-  </div>
-  <div class="photoset_row photoset_row_1" style="margin:1ex">
-<img src="./tumblr_nwoe528ixQ1qgsazuo5_500.gif" alt="" style="width:100%">
-  </div>
-  <div class="photoset_row photoset_row_1" style="margin:1ex">
-<img src="./tumblr_nwoe528ixQ1qgsazuo1_500.gif" alt="" style="width:100%">
-  </div>
-  <div class="photoset_row photoset_row_1" style="margin:1ex">
-<img src="./tumblr_nwoe528ixQ1qgsazuo4_500.gif" alt="" style="width:100%">
-  </div>
-  <div class="photoset_row photoset_row_1" style="margin:1ex">
-<img src="./tumblr_nwoe528ixQ1qgsazuo8_500.gif" alt="" style="width:100%">
-  </div>
-  <div class="photoset_row photoset_row_1" style="margin:1ex">
-<img src="./tumblr_nwoe528ixQ1qgsazuo7_500.gif" alt="" style="width:100%">
-  </div>
-  <div class="photoset_row photoset_row_1" style="margin:1ex">
-<img src="./tumblr_nwoe528ixQ1qgsazuo3_500.gif" alt="" style="width:100%">
-  </div>
-  <div class="photoset_row photoset_row_1" style="margin:1ex">
-<img src="./tumblr_nwoe528ixQ1qgsazuo2_500.gif" alt="" style="width:100%">
-  </div>
-</div>
 <p><a class="tumblr_blog" href="http://salon.tumblr.com/post/131748187807">salon</a>:</p>
 
 <blockquote>

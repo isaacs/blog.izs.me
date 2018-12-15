@@ -1,7 +1,7 @@
 ---
 date: 2012-10-10T08:49:53.000Z
 photos:
-  - ./tumblr_m5pvh7Wc4s1rvsbh9o1_640.jpg
+  - - ./tumblr_m5pvh7Wc4s1rvsbh9o1_640.jpg
 redirect_from:
   - /post/33290169040/via-w3cmemes/
   - /post/33290169040/
@@ -21,9 +21,4 @@ via:
   url: >-
     http://w3cmemes.tumblr.com/post/25228936127/learning-how-to-write-good-test-assertions-at
 ---
-<div class="photoset" style="width:100%">
-  <div class="photoset_row photoset_row_1" style="margin:1ex">
-<img src="./tumblr_m5pvh7Wc4s1rvsbh9o1_640.jpg" alt="" style="width:100%">
-  </div>
-</div>
 <p>via <a href="http://w3cmemes.tumblr.com/post/25228936127/learning-how-to-write-good-test-assertions-at" class="tumblr_blog">w3cmemes</a></p>

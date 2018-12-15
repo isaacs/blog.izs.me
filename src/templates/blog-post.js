@@ -2,17 +2,21 @@ import React from "react"
 import { graphql } from "gatsby"
 import Layout from "../components/layout"
 
-import Video from "../components/video.js"
+import Media from "../components/media.js"
 
 export default ({ data }) => {
   const post = data.markdownRemark
   const front = post.frontmatter
+  // XXX via and source links
+  // Link posts
   return (
     <Layout>
-      <h1>{front.title}</h1>
+      { (front.title) ? (<h1>{front.title}</h1>) : '' }
       <pre>xxx {JSON.stringify(post, null, 2)}</pre>
       { front.type === 'video'
-        ? <Video {...front.video} />
+        ? <Media {...front.video} />
+        : front.type === 'audio'
+        ? <Media {...front.audio} />
         : '' }
       <div dangerouslySetInnerHTML={{ __html: post.html }} />
     </Layout>
@@ -39,6 +43,19 @@ export const query = graphql`
           type
           url
           embed
+        }
+
+        # wont actually need this here once the plugin is doing its thing
+        photos
+
+        audio {
+          album_art
+          embed
+          plays
+          source_url
+          track_name
+          type
+          url
         }
 
         # link posts

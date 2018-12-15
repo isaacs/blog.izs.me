@@ -1,7 +1,7 @@
 ---
 date: 2014-09-25T02:39:51.000Z
 photos:
-  - ./tumblr_n79zxkdx4G1tsx2o3o1_540.png
+  - - ./tumblr_n79zxkdx4G1tsx2o3o1_540.png
 redirect_from:
   - /post/98357802708/meadows-mommy-apersnicketylemon/
   - /post/98357802708/
@@ -21,11 +21,6 @@ via:
   url: >-
     http://girlslovesextoo-deactivated2018.tumblr.com/post/98251009910/meadows-mommy-apersnicketylemon
 ---
-<div class="photoset" style="width:100%">
-  <div class="photoset_row photoset_row_1" style="margin:1ex">
-<img src="./tumblr_n79zxkdx4G1tsx2o3o1_540.png" alt="" style="width:100%">
-  </div>
-</div>
 <p><a href="http://meadows-mommy.tumblr.com/post/97575694451/apersnicketylemon-revolutioninabox-a" class="tumblr_blog">meadows-mommy</a>:</p>
 
 <blockquote><p><a class="tumblr_blog" href="http://apersnicketylemon.tumblr.com/post/88987989827/revolutioninabox-a-pro-life-group-in-lansing">apersnicketylemon</a>:</p>

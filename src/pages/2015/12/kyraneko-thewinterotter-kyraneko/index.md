@@ -1,7 +1,7 @@
 ---
 date: 2015-12-19T20:28:46.000Z
 photos:
-  - ./tumblr_nf1v3tJgR51tm6fj3o1_640.jpg
+  - - ./tumblr_nf1v3tJgR51tm6fj3o1_640.jpg
 redirect_from:
   - /post/135523945198/kyraneko-thewinterotter-kyraneko/
   - /post/135523945198/
@@ -21,11 +21,6 @@ via:
   url: >-
     http://kyraneko.tumblr.com/post/112294447196/whatnursejack-thewinterotter-kyraneko
 ---
-<div class="photoset" style="width:100%">
-  <div class="photoset_row photoset_row_1" style="margin:1ex">
-<img src="./tumblr_nf1v3tJgR51tm6fj3o1_640.jpg" alt="" style="width:100%">
-  </div>
-</div>
 <p><a class="tumblr_blog" href="http://kyraneko.tumblr.com/post/112294447196">kyraneko</a>:</p>
 
 <blockquote>

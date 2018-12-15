@@ -1,16 +1,16 @@
 ---
 date: 2014-08-30T20:03:38.000Z
 photos:
-  - ./tumblr_nb0v26skQe1qbwp2bo1_500.jpg
-  - ./tumblr_nb0v26skQe1qbwp2bo2_500.jpg
-  - ./tumblr_nb0v26skQe1qbwp2bo3_500.jpg
-  - ./tumblr_nb0v26skQe1qbwp2bo4_500.jpg
-  - ./tumblr_nb0v26skQe1qbwp2bo5_500.jpg
-  - ./tumblr_nb0v26skQe1qbwp2bo6_500.jpg
-  - ./tumblr_nb0v26skQe1qbwp2bo7_500.jpg
-  - ./tumblr_nb0v26skQe1qbwp2bo8_500.jpg
-  - ./tumblr_nb0v26skQe1qbwp2bo9_500.jpg
-  - ./tumblr_nb0v26skQe1qbwp2bo10_500.jpg
+  - - ./tumblr_nb0v26skQe1qbwp2bo1_500.jpg
+  - - ./tumblr_nb0v26skQe1qbwp2bo2_500.jpg
+  - - ./tumblr_nb0v26skQe1qbwp2bo3_500.jpg
+  - - ./tumblr_nb0v26skQe1qbwp2bo4_500.jpg
+  - - ./tumblr_nb0v26skQe1qbwp2bo5_500.jpg
+  - - ./tumblr_nb0v26skQe1qbwp2bo6_500.jpg
+  - - ./tumblr_nb0v26skQe1qbwp2bo7_500.jpg
+  - - ./tumblr_nb0v26skQe1qbwp2bo8_500.jpg
+  - - ./tumblr_nb0v26skQe1qbwp2bo9_500.jpg
+  - - ./tumblr_nb0v26skQe1qbwp2bo10_500.jpg
 redirect_from:
   - /post/96196076923/seldo-nateswinehart-being-good-to-each-other/
   - /post/96196076923/
@@ -30,38 +30,6 @@ via:
   url: >-
     https://seldo.tumblr.com/post/96182166715/nateswinehart-being-good-to-each-other-is-so
 ---
-<div class="photoset" style="width:100%">
-  <div class="photoset_row photoset_row_1" style="margin:1ex">
-<img src="./tumblr_nb0v26skQe1qbwp2bo1_500.jpg" alt="" style="width:100%">
-  </div>
-  <div class="photoset_row photoset_row_1" style="margin:1ex">
-<img src="./tumblr_nb0v26skQe1qbwp2bo2_500.jpg" alt="" style="width:100%">
-  </div>
-  <div class="photoset_row photoset_row_1" style="margin:1ex">
-<img src="./tumblr_nb0v26skQe1qbwp2bo3_500.jpg" alt="" style="width:100%">
-  </div>
-  <div class="photoset_row photoset_row_1" style="margin:1ex">
-<img src="./tumblr_nb0v26skQe1qbwp2bo4_500.jpg" alt="" style="width:100%">
-  </div>
-  <div class="photoset_row photoset_row_1" style="margin:1ex">
-<img src="./tumblr_nb0v26skQe1qbwp2bo5_500.jpg" alt="" style="width:100%">
-  </div>
-  <div class="photoset_row photoset_row_1" style="margin:1ex">
-<img src="./tumblr_nb0v26skQe1qbwp2bo6_500.jpg" alt="" style="width:100%">
-  </div>
-  <div class="photoset_row photoset_row_1" style="margin:1ex">
-<img src="./tumblr_nb0v26skQe1qbwp2bo7_500.jpg" alt="" style="width:100%">
-  </div>
-  <div class="photoset_row photoset_row_1" style="margin:1ex">
-<img src="./tumblr_nb0v26skQe1qbwp2bo8_500.jpg" alt="" style="width:100%">
-  </div>
-  <div class="photoset_row photoset_row_1" style="margin:1ex">
-<img src="./tumblr_nb0v26skQe1qbwp2bo9_500.jpg" alt="" style="width:100%">
-  </div>
-  <div class="photoset_row photoset_row_1" style="margin:1ex">
-<img src="./tumblr_nb0v26skQe1qbwp2bo10_500.jpg" alt="" style="width:100%">
-  </div>
-</div>
 <p><a href="http://seldo.tumblr.com/post/96182166715/nateswinehart-being-good-to-each-other-is-so" class="tumblr_blog">seldo</a>:</p>
 
 <blockquote><p><a class="tumblr_blog" href="http://nateswinehart.tumblr.com/post/96003256367/being-good-to-each-other-is-so-important-guys">nateswinehart</a>:</p>

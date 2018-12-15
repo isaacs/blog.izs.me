@@ -1,7 +1,7 @@
 ---
 date: 2014-10-07T18:52:00.000Z
 photos:
-  - ./tumblr_mjvvy69rQK1qg2ql3o1_1280.jpg
+  - - ./tumblr_mjvvy69rQK1qg2ql3o1_1280.jpg
 redirect_from:
   - /post/99419225613/motivatedslacker-iwill-climb-on-top-of-you-in/
   - /post/99419225613/
@@ -20,11 +20,6 @@ via:
   url: >-
     http://motivatedslacker.tumblr.com/post/45755108362/iwill-climb-on-top-of-you-in-the-night-and-settle
 ---
-<div class="photoset" style="width:100%">
-  <div class="photoset_row photoset_row_1" style="margin:1ex">
-<img src="./tumblr_mjvvy69rQK1qg2ql3o1_1280.jpg" alt="" style="width:100%">
-  </div>
-</div>
 <p><a href="http://motivatedslacker.tumblr.com/post/45755108362/iwill-climb-on-top-of-you-in-the-night-and-settle" class="tumblr_blog">motivatedslacker</a>:</p>
 
 <blockquote><p>&ldquo;iwill climb on top of you in the night and settle like a tiny rain cloud&rdquo;</p></blockquote>

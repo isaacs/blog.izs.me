@@ -28,24 +28,6 @@ via:
   url: >-
     http://alayne-stonecoldfox.tumblr.com/post/117498050279/queennymeria-needle-was-robb-and-bran-and-rickon
 ---
-<div class="photoset" style="width:100%">
-  <div class="photoset_row photoset_row_2" style="margin:1ex">
-<img src="./tumblr_nne9p4631Z1qi2twuo6_250.gif" alt="" style="width:100%">
-<img src="./tumblr_nne9p4631Z1qi2twuo3_250.gif" alt="" style="width:100%">
-  </div>
-  <div class="photoset_row photoset_row_2" style="margin:1ex">
-<img src="./tumblr_nne9p4631Z1qi2twuo7_250.gif" alt="" style="width:100%">
-<img src="./tumblr_nne9p4631Z1qi2twuo1_250.gif" alt="" style="width:100%">
-  </div>
-  <div class="photoset_row photoset_row_2" style="margin:1ex">
-<img src="./tumblr_nne9p4631Z1qi2twuo5_250.gif" alt="" style="width:100%">
-<img src="./tumblr_nne9p4631Z1qi2twuo4_250.gif" alt="" style="width:100%">
-  </div>
-  <div class="photoset_row photoset_row_2" style="margin:1ex">
-<img src="./tumblr_nne9p4631Z1qi2twuo8_250.gif" alt="" style="width:100%">
-<img src="./tumblr_nne9p4631Z1qi2twuo2_250.gif" alt="" style="width:100%">
-  </div>
-</div>
 <p><a class="tumblr_blog" href="http://queennymeria.tumblr.com/post/117480314421">queennymeria</a>:</p>
 
 <blockquote><div><small>Needle was Robb and Bran and Rickon, her mother and her father, even Sansa. Needle was Winterfell’s grey walls, and the laughter of its people. Needle was the summer snows, Old Nan’s stories, the heart tree with its red leaves and scary face, the warm earthy smell of the glass gardens, the sound of the north wind rattling the shutters of her room. Needle was Jon Snow’s smile. </small></div></blockquote>
