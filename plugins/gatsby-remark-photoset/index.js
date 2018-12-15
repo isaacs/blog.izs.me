@@ -1,7 +1,5 @@
 const sharp = require('sharp')
 const path = require('path')
-const visitWithParents = require(`unist-util-visit-parents`)
-
 
 module.exports = async ({ getNode, markdownNode, markdownAST }, pluginOptions) => {
   const photos = markdownNode.frontmatter.photos
@@ -21,7 +19,6 @@ module.exports = async ({ getNode, markdownNode, markdownAST }, pluginOptions) =
     // and height truncated via css overflow:hidden
     //
     // total content width is 700px.  Overridable with an option.
-    // console.error(markdownNode.frontmatter, markdownNode.frontmatter.photos)
     const parentNode = getNode(markdownNode.parent)
 
     // this won't work unless it's a markdown file
@@ -47,7 +44,6 @@ module.exports = async ({ getNode, markdownNode, markdownAST }, pluginOptions) =
       }
     }
 
-    // console.error(set)
 
     if (set.length === 1 && set[0].length === 1) {
       // just one photo, simple img tag will suffice
@@ -65,6 +61,11 @@ module.exports = async ({ getNode, markdownNode, markdownAST }, pluginOptions) =
         value: imgTag
       })
     } else {
+      const tableStyle = `style="border-collapse:collapse"`
+      const tableProps = `${tableStyle} cellpadding=0 cellspacing=0`
+      const table = `<table ${tableProps}>`
+      const rowcell = `<td style="border:solid #fff; border-width:10px 0">`
+      const colcell = `<td style="border:solid #fff; border-width:0 10px">`
       const rows = set.map(row => {
         const rowLen = row.length
 
@@ -79,21 +80,18 @@ module.exports = async ({ getNode, markdownNode, markdownAST }, pluginOptions) =
         // scale each to that width, then take the smallest height
         const rowHeight = row.map(photo =>
           photo.meta.height * imgWidth/photo.meta.width).sort()[0]
+        const div = `<div class="photo"
+          style="width:${imgWidth}px; height:${rowHeight}px; overflow:hidden">`
+        const img = p =>
+          `<img src="${p.url}" alt="${p.alt}" style="width:100%">`
 
-        // XXX there's a cleaner way to do this with border collapse and
-        // 10px border widths.  Also would ensure white borders, like tumblr.
-        return `
-        <tr><td style="padding:0 5px"><table cellpadding=0 cellspacing=0 border=0><tr>${
-          row.map(p =>
-            `<td><div class="photo"
-              style="width:${imgWidth}px; height:${rowHeight}px; margin:5px; overflow:hidden"
-              ><img src="${p.url}" alt="${p.alt}" style="width:100%"
-              ></div></td>`).join('\n')
+        return `<tr>${rowcell}${table}<tr>${
+          row.map(p => `${colcell}${div}${img(p)}</div></td>`).join('\n')
         }</tr></table></td></tr>`
       }).join('\n')
       markdownAST.children.unshift({
         type: `html`,
-        value: `<table cellpadding=0 cellspacing=0 border=0>${rows}</table>`
+        value: `${table}${rows}</table>`
       })
     }
   }

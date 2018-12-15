@@ -18,12 +18,17 @@ module.exports = {
       resolve: `gatsby-transformer-remark`,
       options: {
         plugins: [
-          `gatsby-remark-photoset`,
+          {
+            resolve:`gatsby-remark-photoset`,
+            options: {
+              maxWidth: 700,
+            }
+          },
           `gatsby-remark-copy-linked-files`,
           {
             resolve: `gatsby-remark-images`,
             options: {
-              maxWidth: 700
+              maxWidth: 700,
             }
           }
         ],
