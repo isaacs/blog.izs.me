@@ -3,6 +3,7 @@ import { graphql } from "gatsby"
 import Layout from "../components/layout"
 
 import Media from "../components/media.js"
+import yaml from "js-yaml"
 
 export default ({ data }) => {
   const post = data.markdownRemark
@@ -11,14 +12,18 @@ export default ({ data }) => {
   // Link posts
   return (
     <Layout>
-      { (front.title) ? (<h1>{front.title}</h1>) : '' }
-      <pre>xxx {JSON.stringify(post, null, 2)}</pre>
-      { front.type === 'video'
-        ? <Media {...front.video} />
-        : front.type === 'audio'
-        ? <Media {...front.audio} />
-        : '' }
-      <div dangerouslySetInnerHTML={{ __html: post.html }} />
+      <div class="post {front.type || ''}">
+        { (front.title) ? (<h1>{front.title}</h1>) : '' }
+        <pre style={{ overflow:"auto", width:"100%" }}>{
+          yaml.dump(front)
+        }</pre>
+        { front.type === 'video'
+          ? <Media {...front.video} />
+          : front.type === 'audio'
+          ? <Media {...front.audio} />
+          : '' }
+        <div dangerouslySetInnerHTML={{ __html: post.html }} />
+      </div>
     </Layout>
   )
 }
