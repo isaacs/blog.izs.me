@@ -2,17 +2,20 @@ import React from "react"
 import { graphql } from "gatsby"
 import Layout from "../components/layout"
 import Taglist from '../components/taglist.js'
+import Title from '../components/title.js'
 
 import yaml from "js-yaml"
 
 export default ({ data }) => {
   const post = data.markdownRemark
   const front = post.frontmatter
-  // XXX Link posts
   return (
     <Layout>
       <div class={`post ${front.type}`}>
-        { (front.title) ? (<h1>{front.title}</h1>) : '' }
+        <Title
+          title={front.title}
+          link_url={front.link_url}
+          link_publisher={front.link_publisher} />
         <pre style={{ margin:0, overflow:"auto", width:"100%" }}>{
           yaml.dump(front)
         }</pre>
