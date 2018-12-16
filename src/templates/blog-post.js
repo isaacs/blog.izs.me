@@ -2,7 +2,6 @@ import React from "react"
 import { graphql } from "gatsby"
 import Layout from "../components/layout"
 
-import Media from "../components/media.js"
 import yaml from "js-yaml"
 
 export default ({ data }) => {
@@ -12,16 +11,11 @@ export default ({ data }) => {
   // Link posts
   return (
     <Layout>
-      <div class="post {front.type || ''}">
+      <div class={`post ${front.type}`}>
         { (front.title) ? (<h1>{front.title}</h1>) : '' }
-        <pre style={{ overflow:"auto", width:"100%" }}>{
+        <pre style={{ margin:0, overflow:"auto", width:"100%" }}>{
           yaml.dump(front)
         }</pre>
-        { front.type === 'video'
-          ? <Media {...front.video} />
-          : front.type === 'audio'
-          ? <Media {...front.audio} />
-          : '' }
         <div dangerouslySetInnerHTML={{ __html: post.html }} />
       </div>
     </Layout>
