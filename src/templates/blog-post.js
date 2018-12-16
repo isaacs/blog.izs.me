@@ -1,5 +1,5 @@
 import React from "react"
-import { graphql, Link } from "gatsby"
+import { graphql } from "gatsby"
 import Layout from "../components/layout"
 import Taglist from '../components/taglist.js'
 
@@ -8,8 +8,7 @@ import yaml from "js-yaml"
 export default ({ data }) => {
   const post = data.markdownRemark
   const front = post.frontmatter
-  // XXX via and source links
-  // Link posts
+  // XXX Link posts
   return (
     <Layout>
       <div class={`post ${front.type}`}>

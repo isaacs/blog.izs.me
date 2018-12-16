@@ -3,11 +3,11 @@ import { Link, graphql } from "gatsby"
 import { css } from "@emotion/core"
 import Layout from "../components/layout"
 
-export default ({ data }) => (
+export default ({ data, pageContext }) => (
   <Layout>
     <div>
       <h1>
-        blog.izs.me
+        blog.izs.me - { pageContext.tag }
       </h1>
       <h4>{data.allMarkdownRemark.totalCount} Posts</h4>
       {data.allMarkdownRemark.edges.map(({ node }) => (
@@ -38,9 +38,13 @@ export default ({ data }) => (
   </Layout>
 )
 
+
 export const query = graphql`
-  query {
-    allMarkdownRemark(sort: { fields: [frontmatter___date], order: DESC }) {
+  query($tag: String!) {
+    allMarkdownRemark(
+      filter:{frontmatter:{tags:{in:[$tag]}}},
+      sort:{fields:[frontmatter___date], order:DESC}
+    ) {
       totalCount
       edges {
         node {
@@ -58,4 +62,3 @@ export const query = graphql`
     }
   }
 `
-
