@@ -6,10 +6,6 @@ redirect_from:
   - /post/54975240330/001-pickles
   - /post/54975240330
 slug: 001-pickles
-source:
-  name: mr-pi
-  title: mr. π
-  url: 'http://mr-pi.tumblr.com/post/54975095803/001-pickles'
 title: 001 Pickles
 tumblrid: 54975240330
 type: text

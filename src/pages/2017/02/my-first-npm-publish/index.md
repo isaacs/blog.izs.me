@@ -6,10 +6,6 @@ redirect_from:
   - /post/157295170418/my-first-npm-publish
   - /post/157295170418
 slug: my-first-npm-publish
-source:
-  name: npmjs
-  title: The npm Blog
-  url: 'https://blog.npmjs.org/post/157288221340/my-first-npm-publish'
 title: My First npm Publish
 tumblrid: 157295170418
 type: text

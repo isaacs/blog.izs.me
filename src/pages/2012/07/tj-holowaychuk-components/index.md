@@ -8,10 +8,6 @@ redirect_from:
   - /post/27987129912/tj-holowaychuk-components
   - /post/27987129912
 slug: tj-holowaychuk-components
-source:
-  name: tjholowaychuk-blog
-  title: TJ Holowaychuk
-  url: 'http://tjholowaychuk-blog.tumblr.com/post/27984551477/components'
 title: 'TJ Holowaychuk: Components'
 tumblrid: 27987129912
 type: link

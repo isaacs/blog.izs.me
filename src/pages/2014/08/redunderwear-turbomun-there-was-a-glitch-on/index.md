@@ -9,8 +9,7 @@ redirect_from:
   - /post/93831478203
 slug: redunderwear-turbomun-there-was-a-glitch-on
 source:
-  name: turbomun
-  title: Gay and warlike
+  title: turbomun
   url: >-
     http://turbomun.tumblr.com/post/79924021480/there-was-a-glitch-on-my-phone-when-i-scrolled
 tumblrid: 93831478203

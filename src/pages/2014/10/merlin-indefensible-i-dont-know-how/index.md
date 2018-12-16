@@ -7,8 +7,7 @@ redirect_from:
   - /post/100110713113
 slug: merlin-indefensible-i-dont-know-how
 source:
-  name: indefensible
-  title: Who needs a unifying theme anyway?
+  title: indefensible
   url: >-
     http://indefensible.tumblr.com/post/273605615/i-dont-know-how-anybody-with-a-remotely-high
 tumblrid: 100110713113

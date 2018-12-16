@@ -6,11 +6,6 @@ redirect_from:
   - /post/2061428668/a-three-day-old-human-embryo-is-a-collection-of
   - /post/2061428668
 slug: a-three-day-old-human-embryo-is-a-collection-of
-source:
-  name: creatowdqwdqqdqown
-  title: Hang in there
-  url: >-
-    https://creatowdqwdqqdqown.tumblr.com/post/2058313731/a-three-day-old-human-embryo-is-a-collection-of
 tumblrid: 2061428668
 type: quote
 via:

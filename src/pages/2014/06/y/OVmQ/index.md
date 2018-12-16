@@ -15,10 +15,6 @@ redirect_from:
   - /post/89321084313/
   - /post/89321084313
 slug: y/OVmQ
-source:
-  name: ventai-deactivated20150703
-  title: asshole parking
-  url: 'http://ventai-deactivated20150703.tumblr.com/post/89025011755'
 tumblrid: 89321084313
 type: photo
 via:

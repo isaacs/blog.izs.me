@@ -14,8 +14,7 @@ redirect_from:
   - /post/95424717983
 slug: deansdamnation-thespyandthesoldier
 source:
-  name: gameofsnow
-  title: winter is coming
+  title: gameofsnow
   url: 'http://gameofsnow.tumblr.com/post/22121242121/gpoy-arya'
 tumblrid: 95424717983
 type: photo

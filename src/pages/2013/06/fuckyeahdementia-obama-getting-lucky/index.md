@@ -7,9 +7,8 @@ redirect_from:
   - /post/53846823123
 slug: fuckyeahdementia-obama-getting-lucky
 source:
-  name: fuckyeahdementia
-  title: FUCK YEAH DEMENTIA!!1!
-  url: 'http://fuckyeahdementia.com/post/53774820760/obama-getting-lucky'
+  title: youtu.be
+  url: 'http://youtu.be/A6PEboTpcfI'
 tumblrid: 53846823123
 type: video
 via:

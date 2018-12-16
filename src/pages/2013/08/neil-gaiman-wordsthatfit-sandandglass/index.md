@@ -18,8 +18,7 @@ redirect_from:
   - /post/58333991967
 slug: neil-gaiman-wordsthatfit-sandandglass
 source:
-  name: sandandglass
-  title: Sand & Glass
+  title: sandandglass
   url: >-
     http://sandandglass.tumblr.com/post/58218206040/jessica-williams-proposes-applying-new-yorks-stop
 tumblrid: 58333991967

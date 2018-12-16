@@ -6,10 +6,6 @@ redirect_from:
   - /post/162097141938/that-scrape-tho-recommended
   - /post/162097141938
 slug: that-scrape-tho-recommended
-source:
-  name: stimman3000
-  title: "\U0001F3F3️‍\U0001F308\U0001F3F3️‍\U0001F308\U0001F3F3️‍\U0001F308"
-  url: 'https://stimman3000.tumblr.com/post/162088383044'
 tumblrid: 162097141938
 type: video
 via:

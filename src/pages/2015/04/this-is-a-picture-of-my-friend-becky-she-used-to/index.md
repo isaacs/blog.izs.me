@@ -10,10 +10,6 @@ redirect_from:
   - /post/116946128418/this-is-a-picture-of-my-friend-becky-she-used-to
   - /post/116946128418
 slug: this-is-a-picture-of-my-friend-becky-she-used-to
-source:
-  name: yallarebrutalizingme-deactivate
-  title: 'TW: Laughter! :)'
-  url: 'http://yallarebrutalizingme-deactivate.tumblr.com/post/21450647059'
 tumblrid: 116946128418
 type: photo
 via:

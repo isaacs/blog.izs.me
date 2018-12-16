@@ -6,11 +6,6 @@ redirect_from:
   - /post/172797398293/npm-acquires-lift-security-and-node-security
   - /post/172797398293
 slug: npm-acquires-lift-security-and-node-security
-source:
-  name: npmjs
-  title: The npm Blog
-  url: >-
-    https://blog.npmjs.org/post/172793182214/npm-acquires-lift-security-and-node-security
 title: npm Acquires ^Lift Security and Node Security Platform
 tumblrid: 172797398293
 type: text

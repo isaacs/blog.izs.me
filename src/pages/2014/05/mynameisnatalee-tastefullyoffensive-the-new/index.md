@@ -11,10 +11,9 @@ redirect_from:
   - /post/85722095938
 slug: mynameisnatalee-tastefullyoffensive-the-new
 source:
-  name: tastefullyoffensive
-  title: Tastefully Offensive on Tumblr
+  title: tastefullyoffensive
   url: >-
-    http://tumblr.tastefullyoffensive.com/post/85664842393/the-new-batman-logo-zacksnyderhappyharrytoons
+    http://tastefullyoffensive.tumblr.com/post/85664842393/the-new-batman-logo-zacksnyderhappyharrytoons
 tumblrid: 85722095938
 type: photo
 via:

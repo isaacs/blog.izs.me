@@ -9,11 +9,6 @@ redirect_from:
   - /post/23331036786/seldos-tumblr-to-save-you-time-here-are
   - /post/23331036786
 slug: seldos-tumblr-to-save-you-time-here-are
-source:
-  name: seldo
-  title: Seldo's Tumblr
-  url: >-
-    https://seldo.tumblr.com/post/23277913183/to-save-you-time-here-are-fridays-tech-headlines
 title: >-
   Seldo's Tumblr: To save you time, here are Friday's tech headlines in roughly
   chronological order

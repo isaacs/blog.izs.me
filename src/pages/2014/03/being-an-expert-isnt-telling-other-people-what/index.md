@@ -7,10 +7,8 @@ redirect_from:
   - /post/80329461274
 slug: being-an-expert-isnt-telling-other-people-what
 source:
-  name: merlin
-  title: kung fu grippe
-  url: >-
-    http://www.kungfugrippe.com/post/80092523111/being-an-expert-isnt-telling-other-people-what
+  title: blog.codinghorror.com
+  url: 'http://blog.codinghorror.com/are-you-an-expert/'
 tumblrid: 80329461274
 type: quote
 via:

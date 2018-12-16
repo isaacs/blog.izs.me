@@ -7,8 +7,7 @@ redirect_from:
   - /post/93755939888
 slug: politicallyincorrectwalrus-i-love-the-term
 source:
-  name: politicallyincorrectwalrus
-  title: 'to the window, to the walrus'
+  title: politicallyincorrectwalrus
   url: >-
     http://politicallyincorrectwalrus.tumblr.com/post/90627871675/i-love-the-term-partners-are-we-dating-are-we
 tumblrid: 93755939888

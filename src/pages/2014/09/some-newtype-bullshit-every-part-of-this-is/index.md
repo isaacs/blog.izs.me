@@ -11,8 +11,7 @@ redirect_from:
   - /post/97439164318
 slug: some-newtype-bullshit-every-part-of-this-is
 source:
-  name: mastaroshi78
-  title: The Laughing Place
+  title: mastaroshi78
   url: 'http://mastaroshi78.tumblr.com/post/97123118760'
 tags:
   - batmilk

@@ -10,9 +10,8 @@ redirect_from:
   - /post/79117728429
 slug: valkyriesvagina-oh-god-what-have-i-done
 source:
-  name: gifcraft
-  title: GifCraft
-  url: 'http://gifcraft.tumblr.com/post/78256075627'
+  title: dovga.net
+  url: 'http://dovga.net/video/5334/koshka-i-osminog'
 tumblrid: 79117728429
 type: photo
 via:

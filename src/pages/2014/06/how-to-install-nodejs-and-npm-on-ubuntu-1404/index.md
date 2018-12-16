@@ -6,11 +6,6 @@ redirect_from:
   - /post/87525128203/how-to-install-nodejs-and-npm-on-ubuntu-1404
   - /post/87525128203
 slug: how-to-install-nodejs-and-npm-on-ubuntu-1404
-source:
-  name: seldo
-  title: Seldo's Tumblr
-  url: >-
-    https://seldo.tumblr.com/post/87521719450/how-to-install-nodejs-and-npm-on-ubuntu-1404
 title: How to install node.js and npm on ubuntu 14.04
 tumblrid: 87525128203
 type: text

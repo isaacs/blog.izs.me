@@ -8,10 +8,6 @@ redirect_from:
   - /post/1007345170/via-icanread-so-thatd-make-the-author-a-small
   - /post/1007345170
 slug: via-icanread-so-thatd-make-the-author-a-small
-source:
-  name: icanread
-  title: i can read
-  url: 'https://icanread.tumblr.com/post/1003458988'
 tumblrid: 1007345170
 type: photo
 via:

@@ -18,10 +18,8 @@ redirect_from:
   - /post/157949402743
 slug: 2jam4u-micdotcom-sportscaster-dale-hansen
 source:
-  name: micdotcom
-  title: Mic
-  url: >-
-    https://micdotcom.tumblr.com/post/157911359898/sportscaster-dale-hansen-defends-student-wrestler
+  title: bit.ly
+  url: 'https://bit.ly/2mxnMXL'
 tumblrid: 157949402743
 type: photo
 via:

@@ -8,10 +8,6 @@ redirect_from:
   - /post/139684200003/probertson-inside-out
   - /post/139684200003
 slug: probertson-inside-out
-source:
-  name: probertson
-  title: Paul Robertson
-  url: 'http://probertson.tumblr.com/post/128836103074/inside-out'
 tumblrid: 139684200003
 type: photo
 via:

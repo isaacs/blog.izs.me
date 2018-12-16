@@ -10,10 +10,8 @@ redirect_from:
   - /post/2839477869
 slug: seldo-new-episodes-jan-27th-so-excited
 source:
-  name: jtbritto-deactivated20140822
-  title: Just random thoughts and shit
-  url: >-
-    http://jtbritto-deactivated20140822.tumblr.com/post/2813988145/what-was-that-you-said
+  title: fxnetworks.com
+  url: 'http://fxnetworks.com'
 tumblrid: 2839477869
 type: photo
 via:

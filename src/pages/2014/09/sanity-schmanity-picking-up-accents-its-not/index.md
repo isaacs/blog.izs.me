@@ -8,11 +8,6 @@ redirect_from:
   - /post/98363087308/sanity-schmanity-picking-up-accents-its-not
   - /post/98363087308
 slug: sanity-schmanity-picking-up-accents-its-not
-source:
-  name: sanity-schmanity
-  title: What's Life Without A Little Existentialism?
-  url: >-
-    http://sanity-schmanity.tumblr.com/post/98345738643/picking-up-accents-its-not-weird-have-you
 tumblrid: 98363087308
 type: photo
 via:

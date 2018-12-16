@@ -9,9 +9,8 @@ redirect_from:
   - /post/139700175273
 slug: dolphandhisactionnips-champagnemanagement-i
 source:
-  name: champagnemanagement
-  title: Champagne Management
-  url: 'http://champagnemanagement.com/post/104875297721'
+  title: champagnemanagement.com
+  url: 'http://champagnemanagement.com/'
 tumblrid: 139700175273
 type: photo
 via:

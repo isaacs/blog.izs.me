@@ -9,8 +9,7 @@ redirect_from:
   - /post/180841118003
 slug: tha-boy-literally
 source:
-  name: breastforce
-  title: titty committee
+  title: breastforce
   url: 'http://breastforce.tumblr.com/post/180782144730'
 tumblrid: 180841118003
 type: photo

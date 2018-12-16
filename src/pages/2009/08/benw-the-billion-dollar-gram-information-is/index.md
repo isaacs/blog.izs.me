@@ -10,9 +10,9 @@ redirect_from:
   - /post/165398768
 slug: benw-the-billion-dollar-gram-information-is
 source:
-  name: benw
-  title: Ben Ward's Scattered Mind
-  url: 'http://benw.tumblr.com/post/165291215'
+  title: informationisbeautiful.net
+  url: >-
+    http://www.informationisbeautiful.net/visualizations/the-billion-dollar-gram/
 tumblrid: 165398768
 type: photo
 via:

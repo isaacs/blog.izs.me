@@ -9,11 +9,6 @@ redirect_from:
   - /post/93607987148/huffposttv-by-m7781-via-deviantart
   - /post/93607987148
 slug: huffposttv-by-m7781-via-deviantart
-source:
-  name: huffpostentertainment
-  title: HuffPost Entertainment
-  url: >-
-    http://huffpostentertainment.tumblr.com/post/93522585046/by-m7781-via-deviantart
 tumblrid: 93607987148
 type: photo
 via:

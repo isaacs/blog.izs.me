@@ -10,9 +10,8 @@ redirect_from:
   - /post/84034521117
 slug: bjorkswig-fuckers
 source:
-  name: ''
-  title: WELCOME TO DEEZ NUTS
-  url: 'https://www.tumblr.com/blog/private_72331410?33744682978'
+  title: fakebjorkfacts
+  url: 'http://fakebjorkfacts.tumblr.com'
 tumblrid: 84034521117
 type: photo
 via:

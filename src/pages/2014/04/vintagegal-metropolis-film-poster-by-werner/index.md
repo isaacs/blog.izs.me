@@ -9,10 +9,8 @@ redirect_from:
   - /post/81621583537
 slug: vintagegal-metropolis-film-poster-by-werner
 source:
-  name: vintagegal
-  title: ''
-  url: >-
-    http://vintagegal.tumblr.com/post/80203276130/metropolis-film-poster-by-werner-graul-1927
+  title: vintagegal
+  url: 'http://vintagegal.tumblr.com'
 tumblrid: 81621583537
 type: photo
 via:

@@ -18,8 +18,7 @@ redirect_from:
   - /post/108058001293
 slug: emmafrosticle-i-hate-this-asshole-but-i-love
 source:
-  name: alayne-stonecoldfox
-  title: All the spice you'll need
+  title: alayne-stonecoldfox
   url: >-
     http://alayne-stonecoldfox.tumblr.com/post/106215659809/i-hate-this-asshole-but-i-love-this-asshole
 tumblrid: 108058001293

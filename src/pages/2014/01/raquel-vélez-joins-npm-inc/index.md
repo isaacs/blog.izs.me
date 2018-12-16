@@ -6,10 +6,6 @@ redirect_from:
   - /post/74775371969/raquel-vélez-joins-npm-inc
   - /post/74775371969
 slug: raquel-vélez-joins-npm-inc
-source:
-  name: npmjs
-  title: The npm Blog
-  url: 'https://blog.npmjs.org/post/74774825040/raquel-vélez'
 title: 'Raquel Vélez Joins npm, Inc.'
 tumblrid: 74775371969
 type: text

@@ -8,10 +8,6 @@ redirect_from:
   - /post/47720012568/the-internet-is-eating-me-to-a-fishstick-dying
   - /post/47720012568
 slug: the-internet-is-eating-me-to-a-fishstick-dying
-source:
-  name: jimmymarks
-  title: Your Tumblr Friend!
-  url: 'http://jimmymarks.tumblr.com/post/47709399840/to-a-fishstick-dying-young'
 title: 'The Internet is Eating Me: To A Fishstick Dying Young'
 tumblrid: 47720012568
 type: link

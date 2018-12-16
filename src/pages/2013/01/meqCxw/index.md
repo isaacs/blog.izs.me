@@ -9,8 +9,7 @@ redirect_from:
   - /post/41236988615
 slug: meqCxw
 source:
-  name: himeshhh-blog
-  title: everyday is déjà vu.
+  title: himeshhh-blog
   url: 'http://himeshhh-blog.tumblr.com/post/38093555267/hahaha'
 tumblrid: 41236988615
 type: photo

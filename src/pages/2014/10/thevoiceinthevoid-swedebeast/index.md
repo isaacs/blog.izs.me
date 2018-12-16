@@ -16,8 +16,7 @@ redirect_from:
   - /post/101176529413
 slug: thevoiceinthevoid-swedebeast
 source:
-  name: drrestless
-  title: Dr.Restless' Beautiful World
+  title: drrestless
   url: >-
     https://drrestless.tumblr.com/post/48720224626/milo-manara-storia-dellumanità
 tumblrid: 101176529413

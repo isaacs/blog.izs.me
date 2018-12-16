@@ -9,8 +9,7 @@ redirect_from:
   - /post/116336920173
 slug: FjiGbQ
 source:
-  name: allanhawkins
-  title: '23'
+  title: allanhawkins
   url: 'http://allanhawkins.tumblr.com/post/98447553338'
 tumblrid: 116336920173
 type: photo

@@ -15,8 +15,7 @@ redirect_from:
   - /post/145878352723
 slug: justlearningasigo-quietasides-mark-whether
 source:
-  name: quietasides
-  title: fireproof on repeat
+  title: quietasides
   url: >-
     https://quietasides.tumblr.com/post/145840950971/mark-whether-im-gay-or-not-has-no-reflection
 tumblrid: 145878352723

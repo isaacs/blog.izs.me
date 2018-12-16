@@ -18,8 +18,7 @@ redirect_from:
   - /post/96196076923
 slug: seldo-nateswinehart-being-good-to-each-other
 source:
-  name: nateswinehart
-  title: Naterade
+  title: nateswinehart
   url: >-
     http://nateswinehart.tumblr.com/post/96003256367/being-good-to-each-other-is-so-important-guys
 tumblrid: 96196076923

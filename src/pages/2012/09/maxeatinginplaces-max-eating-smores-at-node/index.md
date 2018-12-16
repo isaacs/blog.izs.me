@@ -8,11 +8,6 @@ redirect_from:
   - /post/31066306648/maxeatinginplaces-max-eating-smores-at-node
   - /post/31066306648
 slug: maxeatinginplaces-max-eating-smores-at-node
-source:
-  name: maxeatinginplaces
-  title: Max Eating In Places
-  url: >-
-    http://maxeatinginplaces.tumblr.com/post/30998235598/max-eating-smores-at-node-summer-camp
 tumblrid: 31066306648
 type: photo
 via:

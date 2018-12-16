@@ -11,8 +11,7 @@ redirect_from:
   - /post/106429751578
 slug: x7UhGg
 source:
-  name: nintendette
-  title: Gruckello
+  title: nintendette
   url: 'http://nintendette.tumblr.com/post/91114462807'
 tumblrid: 106429751578
 type: photo

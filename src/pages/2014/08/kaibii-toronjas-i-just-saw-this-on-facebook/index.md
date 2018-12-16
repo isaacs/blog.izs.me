@@ -9,7 +9,6 @@ redirect_from:
   - /post/93755582723
 slug: kaibii-toronjas-i-just-saw-this-on-facebook
 source:
-  name: toronjas
   title: toronjas
   url: >-
     http://toronjas.tumblr.com/post/93482328680/i-just-saw-this-on-facebook-o-m-g

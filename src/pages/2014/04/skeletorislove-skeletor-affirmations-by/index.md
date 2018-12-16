@@ -10,10 +10,8 @@ redirect_from:
   - /post/83559158383
 slug: skeletorislove-skeletor-affirmations-by
 source:
-  name: skeletorislove
-  title: 'Heal Yourself, Skeletor'
-  url: >-
-    http://skeletorislove.tumblr.com/post/80773504786/skeletor-affirmations-by-ghoulnextdoor-the
+  title: Flickr / mlleghoul
+  url: 'https://www.flickr.com/photos/mlleghoul/13424919075/'
 tumblrid: 83559158383
 type: photo
 via:

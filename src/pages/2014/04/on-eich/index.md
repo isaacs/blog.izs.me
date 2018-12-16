@@ -6,10 +6,6 @@ redirect_from:
   - /post/81634971400/on-eich
   - /post/81634971400
 slug: on-eich
-source:
-  name: vowelboy
-  title: on the search for consonant girl.
-  url: 'http://vowelboy.tumblr.com/post/81633637492/on-eich'
 title: On Eich.
 tumblrid: 81634971400
 type: text

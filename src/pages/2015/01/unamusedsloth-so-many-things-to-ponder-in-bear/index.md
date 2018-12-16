@@ -17,11 +17,6 @@ redirect_from:
   - /post/108901099753/unamusedsloth-so-many-things-to-ponder-in-bear
   - /post/108901099753
 slug: unamusedsloth-so-many-things-to-ponder-in-bear
-source:
-  name: unamusedsloth
-  title: Superior Distraction For The Bored.
-  url: >-
-    http://unamusedsloth.tumblr.com/post/84081781310/so-many-things-to-ponder-in-bear-life
 tumblrid: 108901099753
 type: photo
 via:

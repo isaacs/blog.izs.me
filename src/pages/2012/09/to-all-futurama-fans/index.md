@@ -6,10 +6,6 @@ redirect_from:
   - /post/31592591638/to-all-futurama-fans
   - /post/31592591638
 slug: to-all-futurama-fans
-source:
-  name: theload
-  title: TheLOAD
-  url: 'http://theload.tumblr.com/post/28747692141/to-all-futurama-fans'
 title: To all Futurama fans.
 tumblrid: 31592591638
 type: text

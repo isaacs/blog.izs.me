@@ -6,11 +6,6 @@ redirect_from:
   - /post/31402336837/when-im-introspective-about-the-last-few-years-i
   - /post/31402336837
 slug: when-im-introspective-about-the-last-few-years-i
-source:
-  name: tobie
-  title: Tobie Langel
-  url: >-
-    http://tobie.tumblr.com/post/31366970040/when-im-introspective-about-the-last-few-years-i
 tumblrid: 31402336837
 type: quote
 via:

@@ -10,10 +10,6 @@ redirect_from:
   - /post/117057399388/
   - /post/117057399388
 slug: QSoqXA
-source:
-  name: dovsherman
-  title: Dov Sherman has a Tumblr
-  url: 'http://dovsherman.tumblr.com/post/101397818154'
 tumblrid: 117057399388
 type: photo
 via:

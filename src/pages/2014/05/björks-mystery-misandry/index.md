@@ -10,8 +10,7 @@ redirect_from:
   - /post/86063273433
 slug: björks-mystery-misandry
 source:
-  name: serialson
-  title: Welcome to my jungle
+  title: serialson
   url: 'http://serialson.tumblr.com/post/86021753296'
 tumblrid: 86063273433
 type: photo

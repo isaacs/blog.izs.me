@@ -15,10 +15,9 @@ redirect_from:
   - /post/131242128188
 slug: micdotcom-watch-bernie-sanders-what-a
 source:
-  name: micdotcom
-  title: Mic
+  title: mic.com
   url: >-
-    https://micdotcom.tumblr.com/post/131154905020/watch-bernie-sanders-what-a-mensch
+    http://mic.com/articles/126737/after-the-debate-bernie-sanders-helped-save-msnbc-s-andrea-mitchell-from-a-reporter-crush?utm_source=policymicTBLR&utm_medium=main&utm_campaign=social
 tumblrid: 131242128188
 type: photo
 via:

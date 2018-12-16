@@ -8,10 +8,6 @@ redirect_from:
   - /post/85854861318/fuckyeahsoulcaliburcreations-mega-man
   - /post/85854861318
 slug: fuckyeahsoulcaliburcreations-mega-man
-source:
-  name: fuckyeahsoulcaliburcreations
-  title: 'Fuck Yeah, Soul Calibur Creations!'
-  url: 'http://fuckyeahsoulcaliburcreations.tumblr.com/post/85853374764/mega-man'
 tumblrid: 85854861318
 type: photo
 via:

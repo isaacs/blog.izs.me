@@ -6,11 +6,6 @@ redirect_from:
   - /post/108923656283/hey-buzzfeed-i-like-a-lot-of-the-stuff-you-guys
   - /post/108923656283
 slug: hey-buzzfeed-i-like-a-lot-of-the-stuff-you-guys
-source:
-  name: buzzfeed
-  title: Official Tumblr of BuzzFeed dot com (the website)
-  url: >-
-    https://buzzfeed.tumblr.com/post/108874060812/hey-buzzfeed-i-like-a-lot-of-the-stuff-you-guys
 tumblrid: 108923656283
 type: answer
 via:

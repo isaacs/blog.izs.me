@@ -7,8 +7,7 @@ redirect_from:
   - /post/80327603251
 slug: shevathegun-callmekitto-seraphatonin-um
 source:
-  name: seraphatonin
-  title: heroic blogging
+  title: seraphatonin
   url: >-
     http://seraphatonin.tumblr.com/post/79918002262/um-starfires-powers-are-fueled-by-the-sun-thats
 tumblrid: 80327603251

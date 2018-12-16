@@ -10,8 +10,7 @@ redirect_from:
   - /post/89323651263
 slug: for-roeat40-all-of-my-favorite-pro-choice
 source:
-  name: stfuconservatives
-  title: 'STFU, Conservatives'
+  title: stfuconservatives
   url: 'http://stfuconservatives.tumblr.com/post/41219876133'
 title: 'For #RoeAt40, all of my favorite pro-choice resources'
 tumblrid: 89323651263

@@ -7,10 +7,9 @@ redirect_from:
   - /post/1578029400
 slug: israelis-unlike-canadians-and-americans-dont
 source:
-  name: isnottv
-  title: isnot.tv
+  title: thestar.com
   url: >-
-    http://isnottv.tumblr.com/post/1576880791/israelis-unlike-canadians-and-americans-dont
+    http://www.thestar.com/news/world/article/744199---israelification-high-security-little-bother
 tumblrid: 1578029400
 type: quote
 via:

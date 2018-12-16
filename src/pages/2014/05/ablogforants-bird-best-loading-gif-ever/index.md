@@ -9,8 +9,7 @@ redirect_from:
   - /post/87084288903
 slug: ablogforants-bird-best-loading-gif-ever
 source:
-  name: ablogforants
-  title: 'small posts, big nerd'
+  title: ablogforants
   url: 'http://ablogforants.tumblr.com/post/86169721503/birt'
 tumblrid: 87084288903
 type: photo

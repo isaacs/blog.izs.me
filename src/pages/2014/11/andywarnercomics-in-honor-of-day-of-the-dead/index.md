@@ -12,8 +12,7 @@ redirect_from:
   - /post/101764788988
 slug: andywarnercomics-in-honor-of-day-of-the-dead
 source:
-  name: andywarnercomics
-  title: Andy Warner
+  title: andywarnercomics
   url: >-
     https://andywarnercomics.tumblr.com/post/101623276094/in-honor-of-day-of-the-dead-heres-a-repost-of-my
 tumblrid: 101764788988

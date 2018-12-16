@@ -10,8 +10,7 @@ redirect_from:
   - /post/104009679273
 slug: seldo-i-just-have-something-in-my-eye-shut
 source:
-  name: peek-a-dillo
-  title: A rose by any other name...
+  title: peek-a-dillo
   url: >-
     http://peek-a-dillo.tumblr.com/post/102877526548/reddit-user-hemeyou-was-left-overwhelmed-by
 tumblrid: 104009679273

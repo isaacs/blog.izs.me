@@ -6,10 +6,6 @@ redirect_from:
   - /post/47632399651/on-chasing-the-right-zero
   - /post/47632399651
 slug: on-chasing-the-right-zero
-source:
-  name: merlin
-  title: kung fu grippe
-  url: 'http://www.kungfugrippe.com/post/47631308074/chasing-the-right-zero'
 title: On Chasing the Right "Zero"
 tumblrid: 47632399651
 type: text

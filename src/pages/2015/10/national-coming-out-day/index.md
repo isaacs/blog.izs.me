@@ -6,10 +6,6 @@ redirect_from:
   - /post/130951414298/national-coming-out-day
   - /post/130951414298
 slug: national-coming-out-day
-source:
-  name: amaditalks
-  title: Amadi Talks
-  url: 'http://amaditalks.tumblr.com/post/130945796468/national-coming-out-day'
 title: National Coming Out Day
 tumblrid: 130951414298
 type: text

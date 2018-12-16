@@ -12,10 +12,9 @@ redirect_from:
   - /post/84780402743
 slug: carry-on-my-wayward-butt-ch0rdate
 source:
-  name: sizvideos
-  title: 'Staff Picks by Siz: Stuff Worth Sharing'
+  title: sizvideos
   url: >-
-    http://sizvideos.com/post/83605294526/who-needs-traffic-lights-not-the-drivers-in
+    http://sizvideos.tumblr.com/post/83605294526/who-needs-traffic-lights-not-the-drivers-in
 tumblrid: 84780402743
 type: photo
 via:

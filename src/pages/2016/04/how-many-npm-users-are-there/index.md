@@ -6,10 +6,6 @@ redirect_from:
   - /post/143491623068/how-many-npm-users-are-there
   - /post/143491623068
 slug: how-many-npm-users-are-there
-source:
-  name: npmjs
-  title: The npm Blog
-  url: 'https://blog.npmjs.org/post/143451680695/how-many-npm-users-are-there'
 title: how many npm users are there?
 tumblrid: 143491623068
 type: text

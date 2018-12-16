@@ -8,10 +8,6 @@ redirect_from:
   - /post/136076294713/togrutan-ツ
   - /post/136076294713
 slug: togrutan-ツ
-source:
-  name: togrutan
-  title: art things
-  url: 'http://togrutan.tumblr.com/post/135540730114/ツ'
 tumblrid: 136076294713
 type: photo
 via:

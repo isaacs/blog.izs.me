@@ -6,11 +6,6 @@ redirect_from:
   - /post/101007816088/child-mom-can-you-tell-me-a-bedtime-story-me
   - /post/101007816088
 slug: child-mom-can-you-tell-me-a-bedtime-story-me
-source:
-  name: sadie-monster
-  title: 'act a fool, girl'
-  url: >-
-    http://sadie-monster.tumblr.com/post/100456479603/child-mom-can-you-tell-me-a-bedtime-story-me
 tumblrid: 101007816088
 type: chat
 via:

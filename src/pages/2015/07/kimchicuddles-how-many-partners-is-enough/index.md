@@ -8,11 +8,6 @@ redirect_from:
   - /post/123139528918/kimchicuddles-how-many-partners-is-enough
   - /post/123139528918
 slug: kimchicuddles-how-many-partners-is-enough
-source:
-  name: kimchicuddles
-  title: KIMCHI CUDDLES
-  url: >-
-    http://kimchicuddles.com/post/123041603900/how-many-partners-is-enough-support-kimchi-get
 tumblrid: 123139528918
 type: photo
 via:

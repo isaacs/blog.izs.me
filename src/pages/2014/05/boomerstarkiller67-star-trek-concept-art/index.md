@@ -16,8 +16,7 @@ redirect_from:
   - /post/86062727258
 slug: boomerstarkiller67-star-trek-concept-art
 source:
-  name: atomic-chronoscaph
-  title: ATOMIC CHRONOSCAPH
+  title: atomic-chronoscaph
   url: >-
     https://atomic-chronoscaph.tumblr.com/post/83662000683/star-trek-concept-art-enterprise-interior-sets
 tumblrid: 86062727258

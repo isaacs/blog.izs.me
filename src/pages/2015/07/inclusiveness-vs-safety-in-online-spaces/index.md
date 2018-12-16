@@ -6,11 +6,6 @@ redirect_from:
   - /post/123957916668/inclusiveness-vs-safety-in-online-spaces
   - /post/123957916668
 slug: inclusiveness-vs-safety-in-online-spaces
-source:
-  name: seldo
-  title: Seldo's Tumblr
-  url: >-
-    https://seldo.tumblr.com/post/123946065740/inclusiveness-vs-safety-in-online-spaces
 title: Inclusiveness vs. safety in online spaces
 tumblrid: 123957916668
 type: text

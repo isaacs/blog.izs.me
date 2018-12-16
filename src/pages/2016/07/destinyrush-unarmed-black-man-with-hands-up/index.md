@@ -16,11 +16,6 @@ redirect_from:
   - /post/147771202278/destinyrush-unarmed-black-man-with-hands-up
   - /post/147771202278
 slug: destinyrush-unarmed-black-man-with-hands-up
-source:
-  name: destinyrush
-  title: ms terry
-  url: >-
-    https://destinyrush.tumblr.com/post/147738460183/unarmed-black-man-with-hands-up-shot-by-police
 tumblrid: 147771202278
 type: photo
 via:

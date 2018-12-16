@@ -13,8 +13,7 @@ redirect_from:
   - /post/181032414828
 slug: gadotsdiana-wonder-woman-2017-dir-patty
 source:
-  name: thomaholland
-  title: ''
+  title: thomaholland
   url: >-
     https://thomaholland.tumblr.com/post/161369949970/wonder-woman-2017-dir-patty-jenkins
 tumblrid: 181032414828

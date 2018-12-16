@@ -8,10 +8,6 @@ redirect_from:
   - /post/100239636903/i-have-been-hit-three-of-these-ways-this-is-why
   - /post/100239636903
 slug: i-have-been-hit-three-of-these-ways-this-is-why
-source:
-  name: childrenofberlin
-  title: NeverNeverSchland
-  url: 'https://childrenofberlin.tumblr.com/post/100217587502'
 tumblrid: 100239636903
 type: photo
 via:

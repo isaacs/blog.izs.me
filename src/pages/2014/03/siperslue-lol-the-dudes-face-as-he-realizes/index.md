@@ -9,8 +9,7 @@ redirect_from:
   - /post/78251395310
 slug: siperslue-lol-the-dudes-face-as-he-realizes
 source:
-  name: siperslue
-  title: 'Gin, Lore, and Kensington Gore'
+  title: siperslue
   url: >-
     http://siperslue.tumblr.com/post/72832029013/lol-the-dudes-face-as-he-realizes-he-is-no-match
 tumblrid: 78251395310

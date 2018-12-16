@@ -16,8 +16,7 @@ redirect_from:
   - /post/94075153938
 slug: 51DuEg
 source:
-  name: masterfulsarcasm
-  title: 'masterfulsarcasm [07/2013 - 04/2017]'
+  title: masterfulsarcasm
   url: 'http://masterfulsarcasm.tumblr.com/post/56763305311/ryan-gosling-is-awesome'
 tumblrid: 94075153938
 type: photo

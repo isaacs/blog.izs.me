@@ -6,11 +6,6 @@ redirect_from:
   - /post/166082482693/protect-your-npm-account-with-two-factor
   - /post/166082482693
 slug: protect-your-npm-account-with-two-factor
-source:
-  name: npmjs
-  title: The npm Blog
-  url: >-
-    https://blog.npmjs.org/post/166039777883/protect-your-npm-account-with-two-factor
 title: Protect your npm account with two-factor authentication and read-only tokens
 tumblrid: 166082482693
 type: text

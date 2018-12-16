@@ -6,10 +6,6 @@ redirect_from:
   - /post/158718273983/announcing-free-orgs
   - /post/158718273983
 slug: announcing-free-orgs
-source:
-  name: npmjs
-  title: The npm Blog
-  url: 'https://blog.npmjs.org/post/158718200065/announcing-free-orgs'
 title: announcing free Orgs
 tumblrid: 158718273983
 type: text

@@ -8,10 +8,6 @@ redirect_from:
   - /post/79510511135/joshuamaysart-illuminated-path-a-fixture-in
   - /post/79510511135
 slug: joshuamaysart-illuminated-path-a-fixture-in
-source:
-  name: joshuamaysart
-  title: Joshua Mays
-  url: 'http://joshuamaysart.tumblr.com/post/74302410599/illuminated-path'
 tumblrid: 79510511135
 type: photo
 via:

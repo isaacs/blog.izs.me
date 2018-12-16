@@ -16,10 +16,9 @@ redirect_from:
   - /post/132958956253
 slug: salon-watch-snls-sasheer-zamata-mock-clueless
 source:
-  name: salon
-  title: Salon
+  title: salon.com
   url: >-
-    http://salon.tumblr.com/post/131748187807/watch-snls-sasheer-zamata-mock-clueless
+    http://www.salon.com/2015/10/22/snls_sasheer_zamata_mocks_clueless_white_dude_privilege_in_painfully_hilarious_video/?utm_source=Tumblr&utm_medium=Tumblr%20Share&utm_campaign=Tumblr
 tumblrid: 132958956253
 type: photo
 via:

@@ -14,10 +14,8 @@ redirect_from:
   - /post/99465499318
 slug: espruen-an-alternate-universe-where-bruce-wayne
 source:
-  name: espruen
-  title: Thatonekid
-  url: >-
-    http://espruen.tumblr.com/post/56289516787/an-alternate-universe-where-bruce-wayne-died
+  title: espruen
+  url: 'http://espruen.tumblr.com'
 tumblrid: 99465499318
 type: photo
 via:

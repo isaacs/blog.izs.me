@@ -6,10 +6,6 @@ redirect_from:
   - /post/93258660738/
   - /post/93258660738
 slug: tqY7gg
-source:
-  name: ministryofgifs
-  title: The Ministry of GIFs
-  url: 'http://ministryofgifs.org/post/92859858147'
 title: '#'
 tumblrid: 93258660738
 type: text

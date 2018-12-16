@@ -9,11 +9,6 @@ redirect_from:
   - /post/1037486431/via-peetypassion
   - /post/1037486431
 slug: via-peetypassion
-source:
-  name: 1nationeu-deactivated20170807
-  title: 1Nation.eu
-  url: >-
-    http://1nationeu-deactivated20170807.tumblr.com/post/515766683/accurate-representation
 tumblrid: 1037486431
 type: photo
 via:

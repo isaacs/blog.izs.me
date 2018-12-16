@@ -11,10 +11,9 @@ redirect_from:
   - /post/81622098083
 slug: laughingsquid-adventure-time-an-art-show
 source:
-  name: laughingsquid
-  title: Laughing Squid Links
+  title: Laughing Squid
   url: >-
-    https://laughingsquid.tumblr.com/post/81321624284/adventure-time-an-art-show-inspired-by-cartoon
+    http://laughingsquid.com/adventure-time-an-art-show-inspired-by-cartoon-networks-animated-tv-series-at-gallery1988-west-in-los-angeles/
 tumblrid: 81622098083
 type: photo
 via:

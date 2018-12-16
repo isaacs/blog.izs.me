@@ -6,10 +6,6 @@ redirect_from:
   - /post/56825769839/nodemodules
   - /post/56825769839
 slug: nodemodules
-source:
-  name: nodejsreactions
-  title: Node.js Reactions
-  url: 'https://nodejsreactions.tumblr.com/post/56791389899/nodemodules'
 title: node_modules
 tumblrid: 56825769839
 type: text

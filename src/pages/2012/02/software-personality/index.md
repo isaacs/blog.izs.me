@@ -9,11 +9,6 @@ redirect_from:
   - /post/17171534031/software-personality
   - /post/17171534031
 slug: software-personality
-source:
-  name: fetchnotes
-  title: Fetchworthy Notes
-  url: >-
-    http://fetchnotes.tumblr.com/post/17155558880/what-happens-when-you-swear-at-your-users
 title: Software Personality
 tumblrid: 17171534031
 type: link

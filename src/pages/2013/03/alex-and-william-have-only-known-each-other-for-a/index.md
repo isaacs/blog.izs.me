@@ -7,10 +7,8 @@ redirect_from:
   - /post/46426840964
 slug: alex-and-william-have-only-known-each-other-for-a
 source:
-  name: seldo
-  title: Seldo's Tumblr
-  url: >-
-    https://seldo.tumblr.com/post/46426322458/alex-and-william-have-only-known-each-other-for-a
+  title: mcsweeneys.net
+  url: 'http://www.mcsweeneys.net/articles/arguments-against-gay-marriage'
 tumblrid: 46426840964
 type: quote
 via:

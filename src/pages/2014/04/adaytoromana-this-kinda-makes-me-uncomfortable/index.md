@@ -7,8 +7,7 @@ redirect_from:
   - /post/84034333846
 slug: adaytoromana-this-kinda-makes-me-uncomfortable
 source:
-  name: fuks
-  title: 'HTTP://'
+  title: fuks
   url: 'http://fuks.tumblr.com/post/77107170050/eatin-tha-pussy-like'
 tumblrid: 84034333846
 type: video

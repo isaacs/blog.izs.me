@@ -6,11 +6,6 @@ redirect_from:
   - /post/72990767417/a-member-of-our-community-is-missing-help-find
   - /post/72990767417
 slug: a-member-of-our-community-is-missing-help-find
-source:
-  name: nodejsreactions
-  title: Node.js Reactions
-  url: >-
-    https://nodejsreactions.tumblr.com/post/72596728510/a-member-of-our-community-is-missing-help-find
 title: 'A member of our community is missing, help find him'
 tumblrid: 72990767417
 type: text

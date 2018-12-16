@@ -9,8 +9,7 @@ redirect_from:
   - /post/97500333583
 slug: birdandmoon-dating-isnt-easy-no-matter-who
 source:
-  name: birdandmoon
-  title: birdandmoon.com
+  title: birdandmoon
   url: >-
     http://birdandmoon.tumblr.com/post/96165973070/dating-isnt-easy-no-matter-who-you-are-this-is
 tumblrid: 97500333583

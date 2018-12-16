@@ -1,6 +1,7 @@
 import React from "react"
-import { graphql } from "gatsby"
+import { graphql, Link } from "gatsby"
 import Layout from "../components/layout"
+import Taglist from '../components/taglist.js'
 
 import yaml from "js-yaml"
 
@@ -17,6 +18,14 @@ export default ({ data }) => {
           yaml.dump(front)
         }</pre>
         <div dangerouslySetInnerHTML={{ __html: post.html }} />
+        { front.source ? (
+          <p class="source">Source: <a href={front.source.url}>{
+          front.source.title }</a></p> ) : '' }
+        { front.via ? (
+          <p class="via">Via: <a href={front.via.url}>{
+          front.via.title || front.via.name }</a></p> ) : '' }
+        { front.tags ? ( <Taglist tags={front.tags} /> ) : '' }
+
       </div>
     </Layout>
   )
@@ -60,6 +69,16 @@ export const query = graphql`
         # link posts
         link_url
         link_publisher
+
+        source {
+          title
+          url
+        }
+        via {
+          name
+          title
+          url
+        }
       }
     }
   }

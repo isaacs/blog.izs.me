@@ -10,9 +10,8 @@ redirect_from:
   - /post/11954460008
 slug: yIqVaA
 source:
-  name: curvedwhite
-  title: Curved White
-  url: 'http://curvedwhite.tumblr.com/post/11954403256'
+  title: Flickr / lunchbreath
+  url: 'http://www.flickr.com/photos/lunchbreath/6275764866/lightbox/'
 tumblrid: 11954460008
 type: photo
 via:

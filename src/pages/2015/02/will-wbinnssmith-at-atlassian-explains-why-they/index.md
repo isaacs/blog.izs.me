@@ -9,11 +9,6 @@ redirect_from:
   - /post/111263379638/will-wbinnssmith-at-atlassian-explains-why-they
   - /post/111263379638
 slug: will-wbinnssmith-at-atlassian-explains-why-they
-source:
-  name: seldo
-  title: Seldo's Tumblr
-  url: >-
-    https://seldo.tumblr.com/post/111251950175/will-wbinnssmith-at-atlassian-explains-why-they
 title: >-
   Will (@wbinnssmith) at Atlassian explains why they use npm for front-end
   packaging

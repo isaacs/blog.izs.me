@@ -7,10 +7,9 @@ redirect_from:
   - /post/131137886083
 slug: so-my-original-goal-was-to-portray-a-society-that
 source:
-  name: existentialcrisisfactory
-  title: Existential Crisis Factory
+  title: tor.com
   url: >-
-    http://existentialcrisisfactory.tumblr.com/post/100529693193/so-my-original-goal-was-to-portray-a-society-that
+    http://www.tor.com/blogs/2014/10/sleeps-with-monsters-ann-leckie-answers-eight-questions?utm_source=exacttarget&utm_medium=-na&utm_term=tordotcom&utm_content=-na_readblog_BlogPost&utm_campaign=Tor.comBookCoverage
 tumblrid: 131137886083
 type: quote
 via:

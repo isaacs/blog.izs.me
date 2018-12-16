@@ -10,8 +10,7 @@ redirect_from:
   - /post/79672985809
 slug: moosestielsaya-this-gif-makes-more-sense-now
 source:
-  name: heyfunniest
-  title: Collection of funniest posts.
+  title: heyfunniest
   url: 'http://heyfunniest.tumblr.com/post/76810749616'
 tumblrid: 79672985809
 type: photo

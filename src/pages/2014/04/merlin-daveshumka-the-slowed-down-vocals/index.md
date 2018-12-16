@@ -7,8 +7,7 @@ redirect_from:
   - /post/82497005472
 slug: merlin-daveshumka-the-slowed-down-vocals
 source:
-  name: daveshumka
-  title: Dave Shumka
+  title: daveshumka
   url: >-
     http://daveshumka.tumblr.com/post/82397553901/the-slowed-down-vocals-from-band-on-the-run-over
 tumblrid: 82497005472

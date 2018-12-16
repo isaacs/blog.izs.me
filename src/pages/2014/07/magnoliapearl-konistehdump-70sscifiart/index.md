@@ -9,8 +9,7 @@ redirect_from:
   - /post/92765928483
 slug: magnoliapearl-konistehdump-70sscifiart
 source:
-  name: 70sscifiart
-  title: 70s Sci-Fi Art
+  title: 70sscifiart
   url: 'http://70sscifiart.tumblr.com/post/91274379207/almost-there'
 tumblrid: 92765928483
 type: photo

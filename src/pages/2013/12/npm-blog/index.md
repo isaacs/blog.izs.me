@@ -6,10 +6,6 @@ redirect_from:
   - /post/71260208958/npm-blog
   - /post/71260208958
 slug: npm-blog
-source:
-  name: npmjs
-  title: The npm Blog
-  url: 'https://blog.npmjs.org/post/71260064706/blog'
 title: npm Blog!
 tumblrid: 71260208958
 type: text

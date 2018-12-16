@@ -9,8 +9,7 @@ redirect_from:
   - /post/97500236773
 slug: raygorartshit-bisexual-frustration-everyone-is
 source:
-  name: raygorartshit
-  title: Raygor's Super Professional Art Blog
+  title: raygorartshit
   url: >-
     http://raygorartshit.tumblr.com/post/95491797525/bisexual-frustration-everyone-is-hot-and-im
 tumblrid: 97500236773

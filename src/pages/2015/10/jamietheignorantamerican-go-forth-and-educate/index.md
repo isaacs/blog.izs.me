@@ -17,11 +17,6 @@ redirect_from:
   - /post/132050942648/jamietheignorantamerican-go-forth-and-educate
   - /post/132050942648
 slug: jamietheignorantamerican-go-forth-and-educate
-source:
-  name: j-popsicles
-  title: J-Popsicles
-  url: >-
-    https://j-popsicles.tumblr.com/post/72154890106/go-forth-and-educate-yourselves
 tumblrid: 132050942648
 type: photo
 via:

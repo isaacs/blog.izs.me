@@ -8,10 +8,6 @@ redirect_from:
   - /post/54317941003/generosity
   - /post/54317941003
 slug: generosity
-source:
-  name: grahamhancock
-  title: Graham Hancock
-  url: 'https://grahamhancock.tumblr.com/post/43207829634/generosity'
 title: Generosity
 tumblrid: 54317941003
 type: link

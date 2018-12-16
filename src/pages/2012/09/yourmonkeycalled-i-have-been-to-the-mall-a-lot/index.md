@@ -9,10 +9,9 @@ redirect_from:
   - /post/30998286230
 slug: yourmonkeycalled-i-have-been-to-the-mall-a-lot
 source:
-  name: yourmonkeycalled
-  title: your monkey called
+  title: yourmonkeycalled
   url: >-
-    http://yourmonkeycalled.com/post/30947674856/i-have-been-to-the-mall-a-lot-lately
+    http://yourmonkeycalled.tumblr.com/post/30947674856/i-have-been-to-the-mall-a-lot-lately
 tumblrid: 30998286230
 type: photo
 via:

@@ -8,11 +8,6 @@ redirect_from:
   - /post/9271369089/youranonnews-use-this-image-in-and-around-bart
   - /post/9271369089
 slug: youranonnews-use-this-image-in-and-around-bart
-source:
-  name: youranonnews
-  title: Your Anon News
-  url: >-
-    http://youranonnews.tumblr.com/post/8877530155/use-this-image-in-and-around-bart-stations-to-let
 tumblrid: 9271369089
 type: photo
 via:

@@ -6,11 +6,6 @@ redirect_from:
   - /post/138599220888/the-corollary-of-constant-change-is-ignorance
   - /post/138599220888
 slug: the-corollary-of-constant-change-is-ignorance
-source:
-  name: jennschiffer
-  title: negativity sandwiches
-  url: >-
-    http://negativitysandwiches.com/post/138499772525/the-corollary-of-constant-change-is-ignorance
 tumblrid: 138599220888
 type: quote
 via:

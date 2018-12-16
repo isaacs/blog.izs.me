@@ -9,11 +9,6 @@ redirect_from:
   - /post/81605040893/sleep-deprivation-destroys-us-especially-at
   - /post/81605040893
 slug: sleep-deprivation-destroys-us-especially-at
-source:
-  name: seldo
-  title: Seldo's Tumblr
-  url: >-
-    https://seldo.tumblr.com/post/81553767829/sleep-deprivation-destroys-us-especially-at
 title: 'Sleep deprivation destroys us, especially at startups'
 tumblrid: 81605040893
 type: link

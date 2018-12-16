@@ -9,10 +9,6 @@ redirect_from:
   - /post/1104278901/i-am-detained-by-the-feds-for-not-answering
   - /post/1104278901
 slug: i-am-detained-by-the-feds-for-not-answering
-source:
-  name: aredridel
-  title: 'All confirmation bias, all the time'
-  url: 'http://aredridel.tumblr.com/post/1103632034'
 title: I Am Detained By The Feds For Not Answering Questions
 tumblrid: 1104278901
 type: link

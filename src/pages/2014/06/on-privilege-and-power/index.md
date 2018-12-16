@@ -6,10 +6,6 @@ redirect_from:
   - /post/89771698318/on-privilege-and-power
   - /post/89771698318
 slug: on-privilege-and-power
-source:
-  name: seldo
-  title: Seldo's Tumblr
-  url: 'https://seldo.tumblr.com/post/89771181045/on-privilege-and-power'
 title: On privilege and power
 tumblrid: 89771698318
 type: text

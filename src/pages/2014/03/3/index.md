@@ -8,10 +8,6 @@ redirect_from:
   - /post/78359805413/3
   - /post/78359805413
 slug: '3'
-source:
-  name: joshuamaysart
-  title: Joshua Mays
-  url: 'http://joshuamaysart.tumblr.com/post/52905400104'
 tumblrid: 78359805413
 type: photo
 via:

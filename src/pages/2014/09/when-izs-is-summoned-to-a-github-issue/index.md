@@ -6,11 +6,6 @@ redirect_from:
   - /post/98485938728/when-izs-is-summoned-to-a-github-issue
   - /post/98485938728
 slug: when-izs-is-summoned-to-a-github-issue
-source:
-  name: nodejsreactions
-  title: Node.js Reactions
-  url: >-
-    https://nodejsreactions.tumblr.com/post/98475772803/when-izs-is-summoned-to-a-github-issue
 title: When @izs is summoned to a GitHub issue bikeshedding npm features
 tumblrid: 98485938728
 type: text

@@ -7,8 +7,7 @@ redirect_from:
   - /post/148505193468
 slug: on-cargo-shorts
 source:
-  name: shanenickerson
-  title: Shane Nickerson
+  title: shanenickerson
   url: 'http://shanenickerson.tumblr.com/post/127561589129/on-cargo-shorts'
 title: on cargo shorts
 tumblrid: 148505193468

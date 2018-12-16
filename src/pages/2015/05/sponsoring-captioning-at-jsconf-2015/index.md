@@ -6,11 +6,6 @@ redirect_from:
   - /post/120192965998/sponsoring-captioning-at-jsconf-2015
   - /post/120192965998
 slug: sponsoring-captioning-at-jsconf-2015
-source:
-  name: npmjs
-  title: The npm Blog
-  url: >-
-    https://blog.npmjs.org/post/120056493625/sponsoring-captioning-at-jsconf-2015
 title: Sponsoring Captioning at JSConf 2015
 tumblrid: 120192965998
 type: text

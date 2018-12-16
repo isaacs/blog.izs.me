@@ -7,8 +7,7 @@ redirect_from:
   - /post/144542823298
 slug: jonboniver-listen-strange-naked-women-emerging
 source:
-  name: jonboniver
-  title: human debris
+  title: jonboniver
   url: >-
     http://jonboniver.tumblr.com/post/144440880821/listen-strange-naked-women-emerging-from-fires-is
 tumblrid: 144542823298

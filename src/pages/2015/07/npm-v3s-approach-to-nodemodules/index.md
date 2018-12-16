@@ -6,11 +6,6 @@ redirect_from:
   - /post/124181902153/npm-v3s-approach-to-nodemodules
   - /post/124181902153
 slug: npm-v3s-approach-to-nodemodules
-source:
-  name: nodejsreactions
-  title: Node.js Reactions
-  url: >-
-    https://nodejsreactions.tumblr.com/post/124163734223/npm-v3s-approach-to-nodemodules
 title: npm v3′s approach to node_modules
 tumblrid: 124181902153
 type: text

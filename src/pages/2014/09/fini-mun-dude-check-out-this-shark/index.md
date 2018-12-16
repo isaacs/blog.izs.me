@@ -9,9 +9,8 @@ redirect_from:
   - /post/97891545073
 slug: fini-mun-dude-check-out-this-shark
 source:
-  name: shalamakingfaces
-  title: Shala Making Faces
-  url: 'http://shalamakingfaces.tumblr.com/post/97023346985'
+  title: shalamakingfaces
+  url: 'http://shalamakingfaces.tumblr.com'
 tumblrid: 97891545073
 type: photo
 via:

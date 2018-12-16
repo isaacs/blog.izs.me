@@ -14,10 +14,6 @@ redirect_from:
   - /post/89323088718/chryswatchesgot-chrys-watches-got-x
   - /post/89323088718
 slug: chryswatchesgot-chrys-watches-got-x
-source:
-  name: chryswatchesgot
-  title: Chrys Watches Game of Thrones
-  url: 'http://chryswatchesgot.tumblr.com/post/89310769191/chrys-watches-got-x'
 tumblrid: 89323088718
 type: photo
 via:

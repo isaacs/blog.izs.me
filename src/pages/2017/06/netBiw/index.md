@@ -13,8 +13,7 @@ redirect_from:
   - /post/161563230603
 slug: netBiw
 source:
-  name: gorbachops
-  title: Reblogging for a Better Future
+  title: gorbachops
   url: 'https://gorbachops.tumblr.com/post/142497635024'
 tumblrid: 161563230603
 type: photo

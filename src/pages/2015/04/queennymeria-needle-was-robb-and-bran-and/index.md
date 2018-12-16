@@ -16,8 +16,7 @@ redirect_from:
   - /post/117499210193
 slug: queennymeria-needle-was-robb-and-bran-and
 source:
-  name: queennymeria
-  title: see the fire in your eyes
+  title: queennymeria
   url: >-
     http://queennymeria.tumblr.com/post/117480314421/needle-was-robb-and-bran-and-rickon-her-mother
 tumblrid: 117499210193

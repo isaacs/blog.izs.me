@@ -6,10 +6,6 @@ redirect_from:
   - /post/88184437643/grunt-gulp-broccoli
   - /post/88184437643
 slug: grunt-gulp-broccoli
-source:
-  name: nodejsreactions
-  title: Node.js Reactions
-  url: 'https://nodejsreactions.tumblr.com/post/82300463325/grunt-gulp-broccoli'
 title: 'Grunt, Gulp, Broccoli'
 tumblrid: 88184437643
 type: text

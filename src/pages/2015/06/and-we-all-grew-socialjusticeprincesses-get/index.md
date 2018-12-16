@@ -18,8 +18,7 @@ redirect_from:
   - /post/122009507983
 slug: and-we-all-grew-socialjusticeprincesses-get
 source:
-  name: hoovesandheartbeats
-  title: Tales of a Vet Student
+  title: hoovesandheartbeats
   url: >-
     http://hoovesandheartbeats.tumblr.com/post/106259877425/source-credit-maki-naro-part-two
 tumblrid: 122009507983

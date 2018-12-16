@@ -6,10 +6,6 @@ redirect_from:
   - /post/84040358303/void
   - /post/84040358303
 slug: void
-source:
-  name: probertson
-  title: Paul Robertson
-  url: 'http://probertson.tumblr.com/post/83661041853/void'
 title: Void
 tumblrid: 84040358303
 type: text

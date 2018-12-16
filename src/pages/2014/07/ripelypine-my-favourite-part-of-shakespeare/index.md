@@ -7,8 +7,7 @@ redirect_from:
   - /post/93410318923
 slug: ripelypine-my-favourite-part-of-shakespeare
 source:
-  name: ripelypine-moved
-  title: T.R.E.A.M
+  title: ripelypine-moved
   url: >-
     http://ripelypine-moved.tumblr.com/post/75847972464/my-favourite-part-of-shakespeare-plays-is-the
 tumblrid: 93410318923

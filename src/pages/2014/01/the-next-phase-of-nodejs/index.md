@@ -6,10 +6,6 @@ redirect_from:
   - /post/73420539709/the-next-phase-of-nodejs
   - /post/73420539709
 slug: the-next-phase-of-nodejs
-source:
-  name: npmjs
-  title: The npm Blog
-  url: 'https://blog.npmjs.org/post/73419729585/the-next-phase-of-nodejs'
 title: The Next Phase of Node.js
 tumblrid: 73420539709
 type: text

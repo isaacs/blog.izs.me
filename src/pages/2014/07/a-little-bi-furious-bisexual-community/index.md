@@ -14,8 +14,7 @@ redirect_from:
   - /post/93410651713
 slug: a-little-bi-furious-bisexual-community
 source:
-  name: katielittlekinrit
-  title: Less Sarcasm. More Focus.
+  title: katielittlekinrit
   url: >-
     http://katielittlekinrit.tumblr.com/post/57052392427/orange-is-the-new-black-sexuality
 tumblrid: 93410651713

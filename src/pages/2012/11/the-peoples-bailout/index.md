@@ -8,10 +8,6 @@ redirect_from:
   - /post/35321669911/the-peoples-bailout
   - /post/35321669911
 slug: the-peoples-bailout
-source:
-  name: howtosharpenpencils
-  title: THIS IS DAVID REES
-  url: 'http://howtosharpenpencils.tumblr.com/post/35285338188/the-peoples-bailout'
 title: The People's Bailout
 tumblrid: 35321669911
 type: link

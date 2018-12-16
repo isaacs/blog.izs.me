@@ -8,11 +8,6 @@ redirect_from:
   - /post/20702924104/merlin-inspecting-the-worlds-most-derp-derp
   - /post/20702924104
 slug: merlin-inspecting-the-worlds-most-derp-derp
-source:
-  name: merlin
-  title: kung fu grippe
-  url: >-
-    http://www.kungfugrippe.com/post/20689226702/inspecting-the-worlds-most-derp-derp-subway-map
 tumblrid: 20702924104
 type: photo
 via:

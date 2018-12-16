@@ -6,6 +6,9 @@ redirect_from:
   - /post/97608305028/safe-and-sound
   - /post/97608305028
 slug: safe-and-sound
+source:
+  title: youtube.com
+  url: 'https://www.youtube.com/watch?v=47dtFZ8CFo8'
 tumblrid: 97608305028
 type: video
 video:

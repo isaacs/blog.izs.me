@@ -8,11 +8,6 @@ redirect_from:
   - /post/66229008443/yuireactions-the-rare-striped-izs-spotted-in
   - /post/66229008443
 slug: yuireactions-the-rare-striped-izs-spotted-in
-source:
-  name: yuireactions
-  title: YUI Library Reactions
-  url: >-
-    http://yuireactions.tumblr.com/post/66227603940/the-rare-striped-izs-spotted-in-the-wild-at
 tumblrid: 66229008443
 type: photo
 via:

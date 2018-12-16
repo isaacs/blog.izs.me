@@ -63,6 +63,13 @@ const sluggo = n => Buffer.from([
   (n>>24)%256, (n>>16)%256, (n>>8)%256, n%256
 ]).toString('base64').replace(/=+$/, '')
 
+const unredirect = u => {
+  const p = url.parse(u || '', { parseQueryString: true })
+  return (p.hostname === 't.umblr.com' &&
+      p.pathname === '/redirect' &&
+      p.query.z) ? p.query.z : u
+}
+
 // XXX do something interesting with trail and reblog stuff
 const common = data => ({
   type: data.type,
@@ -73,9 +80,8 @@ const common = data => ({
   tumblrid: data.id,
   tags: data.tags,
   source: {
-    title: data.reblogged_root_title,
-    name: data.reblogged_root_name,
-    url: data.reblogged_root_url,
+    title: data.source_title,
+    url: unredirect(data.source_url)
   },
   via: {
     name: data.reblogged_from_name,

@@ -8,10 +8,6 @@ redirect_from:
   - /post/96396274158/why-im-not-a-gamer
   - /post/96396274158
 slug: why-im-not-a-gamer
-source:
-  name: pattheflip
-  title: The Way of Patrick Miller
-  url: 'http://pattheflip.tumblr.com/post/96390223113/why-im-not-a-gamer'
 title: Why I'm not a "gamer"
 tumblrid: 96396274158
 type: link

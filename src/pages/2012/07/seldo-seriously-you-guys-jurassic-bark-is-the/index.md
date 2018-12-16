@@ -9,10 +9,9 @@ redirect_from:
   - /post/27130219758
 slug: seldo-seriously-you-guys-jurassic-bark-is-the
 source:
-  name: atsween
-  title: i am your canadian boyfriend
+  title: atsween
   url: >-
-    http://iamyourcanadianboyfriend.com/post/27018698800/a-tv-show-finishes-and-my-wife-turns-to-me-and
+    http://atsween.tumblr.com/post/27018698800/a-tv-show-finishes-and-my-wife-turns-to-me-and
 tumblrid: 27130219758
 type: photo
 via:

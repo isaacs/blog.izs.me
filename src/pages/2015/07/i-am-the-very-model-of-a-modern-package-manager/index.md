@@ -6,11 +6,6 @@ redirect_from:
   - /post/123475998053/i-am-the-very-model-of-a-modern-package-manager
   - /post/123475998053
 slug: i-am-the-very-model-of-a-modern-package-manager
-source:
-  name: npmjs
-  title: The npm Blog
-  url: >-
-    https://blog.npmjs.org/post/123473871255/i-am-the-very-model-of-a-modern-package-manager
 title: I Am The Very Model Of A Modern Package Manager
 tumblrid: 123475998053
 type: text

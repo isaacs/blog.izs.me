@@ -8,11 +8,6 @@ redirect_from:
   - /post/33290169040/via-w3cmemes
   - /post/33290169040
 slug: via-w3cmemes
-source:
-  name: w3cmemes
-  title: W3C Memes
-  url: >-
-    http://w3cmemes.tumblr.com/post/25228936127/learning-how-to-write-good-test-assertions-at
 tumblrid: 33290169040
 type: photo
 via:

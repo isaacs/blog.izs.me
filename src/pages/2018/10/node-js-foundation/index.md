@@ -6,10 +6,6 @@ redirect_from:
   - /post/178736939028/node-js-foundation
   - /post/178736939028
 slug: node-js-foundation
-source:
-  name: npmjs
-  title: The npm Blog
-  url: 'https://blog.npmjs.org/post/178734613655/node-js-foundation'
 title: Node + JS Foundation
 tumblrid: 178736939028
 type: text

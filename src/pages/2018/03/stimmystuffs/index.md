@@ -6,11 +6,6 @@ redirect_from:
   - /post/172351458918/stimmystuffs
   - /post/172351458918
 slug: stimmystuffs
-source:
-  name: stimman3000
-  title: "\U0001F3F3️‍\U0001F308\U0001F3F3️‍\U0001F308\U0001F3F3️‍\U0001F308"
-  url: >-
-    https://stimman3000.tumblr.com/post/172331282729/httpswwwinstagramcompbgiyxohox7taken-by-t
 tumblrid: 172351458918
 type: video
 via:

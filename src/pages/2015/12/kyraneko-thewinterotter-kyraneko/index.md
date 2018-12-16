@@ -8,11 +8,6 @@ redirect_from:
   - /post/135523945198/kyraneko-thewinterotter-kyraneko
   - /post/135523945198
 slug: kyraneko-thewinterotter-kyraneko
-source:
-  name: sdrgiobhjkfdlbjreiug-deactivate
-  title: "\U0001F441‍\U0001F5E8"
-  url: >-
-    http://sdrgiobhjkfdlbjreiug-deactivate.tumblr.com/post/102639487994/i-hate-that-i-laughed-at-this
 tumblrid: 135523945198
 type: photo
 via:

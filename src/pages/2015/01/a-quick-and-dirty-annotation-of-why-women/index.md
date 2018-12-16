@@ -9,11 +9,6 @@ redirect_from:
   - /post/108305167618/a-quick-and-dirty-annotation-of-why-women
   - /post/108305167618
 slug: a-quick-and-dirty-annotation-of-why-women
-source:
-  name: jennschiffer
-  title: negativity sandwiches
-  url: >-
-    http://negativitysandwiches.com/post/108299473795/a-quick-and-dirty-annotation-of-why-women
 title: A quick and dirty annotation of "Why Women Shouldn't Code"
 tumblrid: 108305167618
 type: link

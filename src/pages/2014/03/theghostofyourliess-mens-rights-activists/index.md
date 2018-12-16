@@ -9,8 +9,7 @@ redirect_from:
   - /post/80370116201
 slug: theghostofyourliess-mens-rights-activists
 source:
-  name: youll-never-get-me-alive-blog
-  title: The Come Back Kid
+  title: youll-never-get-me-alive-blog
   url: 'http://youll-never-get-me-alive-blog.tumblr.com/post/31010131531'
 tumblrid: 80370116201
 type: photo

@@ -16,10 +16,8 @@ redirect_from:
   - /post/156721319493
 slug: its-arrested-development-you-know-our
 source:
-  name: its-arrested-development
-  title: 'I love you all, Marta.'
-  url: >-
-    http://its-arrested-development.tumblr.com/post/49872289984/you-know-our-familys-really-messed-up-i-know
+  title: its-arrested-development
+  url: 'http://its-arrested-development.tumblr.com'
 tumblrid: 156721319493
 type: photo
 via:

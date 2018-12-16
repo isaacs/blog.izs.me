@@ -6,10 +6,6 @@ redirect_from:
   - /post/133542187178/private-packages-for-organizations
   - /post/133542187178
 slug: private-packages-for-organizations
-source:
-  name: npmjs
-  title: The npm Blog
-  url: 'https://blog.npmjs.org/post/133542170540/private-packages-for-organizations'
 title: Private Packages for Organizations
 tumblrid: 133542187178
 type: text

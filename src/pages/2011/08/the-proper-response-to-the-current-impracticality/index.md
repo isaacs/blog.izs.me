@@ -6,11 +6,6 @@ redirect_from:
   - /post/9552484379/the-proper-response-to-the-current-impracticality
   - /post/9552484379
 slug: the-proper-response-to-the-current-impracticality
-source:
-  name: hack-the-planet
-  title: 'Hack the Planet, Tumblr Edition'
-  url: >-
-    http://blog.felter.org/post/9511132205/the-proper-response-to-the-current-impracticality
 tumblrid: 9552484379
 type: quote
 via:

@@ -6,10 +6,6 @@ redirect_from:
   - /post/161474536103/be-useful
   - /post/161474536103
 slug: be-useful
-source:
-  name: seldo
-  title: Seldo's Tumblr
-  url: 'https://seldo.tumblr.com/post/161335444560/be-useful'
 title: Be useful
 tumblrid: 161474536103
 type: text

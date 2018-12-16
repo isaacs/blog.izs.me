@@ -10,11 +10,6 @@ redirect_from:
   - /post/88454095488/teamfreesnuggles-sansa-has-been-waiting-for
   - /post/88454095488
 slug: teamfreesnuggles-sansa-has-been-waiting-for
-source:
-  name: galangrants
-  title: the message. is subtle.
-  url: >-
-    http://galangrants.tumblr.com/post/87554437167/sansa-has-been-waiting-for-this-day-for-four-god
 tumblrid: 88454095488
 type: photo
 via:

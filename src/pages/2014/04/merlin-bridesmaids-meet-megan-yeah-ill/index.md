@@ -7,10 +7,8 @@ redirect_from:
   - /post/84034109019
 slug: merlin-bridesmaids-meet-megan-yeah-ill
 source:
-  name: merlin
-  title: kung fu grippe
-  url: >-
-    http://www.kungfugrippe.com/post/83942866578/bridesmaids-meet-megan-yeah-ill-say-it
+  title: m.youtube.com
+  url: 'http://m.youtube.com/watch?v=6eTaP3vBUqg'
 tumblrid: 84034109019
 type: video
 via:

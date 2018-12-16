@@ -8,11 +8,6 @@ redirect_from:
   - /post/166992459873/webcomicname-reblog-if-you-are-the-offspring-of
   - /post/166992459873
 slug: webcomicname-reblog-if-you-are-the-offspring-of
-source:
-  name: webcomicname
-  title: webcomic name
-  url: >-
-    http://webcomicname.com/post/154380587284/reblog-if-you-are-the-offspring-of-older-humans
 tumblrid: 166992459873
 type: photo
 via:

@@ -25,10 +25,8 @@ redirect_from:
   - /post/97488316028
 slug: rnayablanca-little-miss-sunshine-script-gifs
 source:
-  name: rnayablanca-blog
-  title: 'we watched it all night, we grew up in spite of it'
-  url: >-
-    http://rnayablanca-blog.tumblr.com/post/33543847927/little-miss-sunshine-script-gifs-dwaynes
+  title: mayablanca
+  url: 'http://mayablanca.tumblr.com'
 tumblrid: 97488316028
 type: photo
 via:

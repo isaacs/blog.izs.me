@@ -7,8 +7,7 @@ redirect_from:
   - /post/110903654968
 slug: i-am-16-im-dancing-to-my-favorite-pop-song-at-my
 source:
-  name: a-laa-mode
-  title: beautiful chaos
+  title: a-laa-mode
   url: >-
     http://a-laa-mode.tumblr.com/post/110508242170/i-am-16-im-dancing-to-my-favorite-pop-song-at-my
 tumblrid: 110903654968

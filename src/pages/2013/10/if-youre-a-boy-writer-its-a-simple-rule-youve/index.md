@@ -7,8 +7,7 @@ redirect_from:
   - /post/64095106477
 slug: if-youre-a-boy-writer-its-a-simple-rule-youve
 source:
-  name: ofgrammatology
-  title: ''
+  title: ofgrammatology
   url: >-
     http://ofgrammatology.tumblr.com/post/62134937653/if-youre-a-boy-writer-its-a-simple-rule-youve
 tumblrid: 64095106477

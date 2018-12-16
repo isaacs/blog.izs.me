@@ -12,8 +12,7 @@ redirect_from:
   - /post/66190056028
 slug: taranamgabata-did-u-know-theres-this-small
 source:
-  name: taranamgabata
-  title: 'well, anyway...'
+  title: taranamgabata
   url: >-
     http://taranamgabata.tumblr.com/post/53281999466/did-u-know-theres-this-small-rural-town-in-japan
 tumblrid: 66190056028

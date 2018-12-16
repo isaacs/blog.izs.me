@@ -6,11 +6,6 @@ redirect_from:
   - /post/122427352733/greenatlas-you-dont-say-media-double
   - /post/122427352733
 slug: greenatlas-you-dont-say-media-double
-source:
-  name: greenatlas
-  title: everGreen
-  url: >-
-    https://greenatlas.tumblr.com/post/122119329555/you-dont-say-media-double-standards-about-black
 tumblrid: 122427352733
 type: video
 via:

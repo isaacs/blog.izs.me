@@ -9,11 +9,6 @@ redirect_from:
   - /post/15212505704/aredridel-or-you-know-we-could-go-own-our-own
   - /post/15212505704
 slug: aredridel-or-you-know-we-could-go-own-our-own
-source:
-  name: samueloser-deactivated20120222
-  title: get in loser
-  url: >-
-    http://samueloser-deactivated20120222.tumblr.com/post/15152527217/remember-back-when-tumblr-didnt-have-all-these
 tumblrid: 15212505704
 type: photo
 via:

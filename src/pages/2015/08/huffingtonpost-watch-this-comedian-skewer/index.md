@@ -12,11 +12,6 @@ redirect_from:
   - /post/126138357748/huffingtonpost-watch-this-comedian-skewer
   - /post/126138357748
 slug: huffingtonpost-watch-this-comedian-skewer
-source:
-  name: huffpost
-  title: HuffPost
-  url: >-
-    http://huffpost.tumblr.com/post/126132469464/watch-this-comedian-skewer-anti-abortion
 tumblrid: 126138357748
 type: photo
 via:

@@ -8,11 +8,6 @@ redirect_from:
   - /post/98357802708/meadows-mommy-apersnicketylemon
   - /post/98357802708
 slug: meadows-mommy-apersnicketylemon
-source:
-  name: revolutioninabox-deactivated201
-  title: The Search for Truth
-  url: >-
-    http://revolutioninabox-deactivated201.tumblr.com/post/88980009365/a-pro-life-group-in-lansing-michigan-says-fetal
 tumblrid: 98357802708
 type: photo
 via:

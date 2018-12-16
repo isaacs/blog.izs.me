@@ -10,10 +10,8 @@ redirect_from:
   - /post/158714902
 slug: merlin-fuck-fək-vulgar-slang-i-cant
 source:
-  name: merlin
-  title: kung fu grippe
-  url: >-
-    http://www.kungfugrippe.com/post/158649660/fuck-fək-vulgar-slang-i-cant-believe-the
+  title: Flickr / merlin
+  url: 'http://www.flickr.com/photos/merlin/3801577000/'
 tumblrid: 158714902
 type: photo
 via:

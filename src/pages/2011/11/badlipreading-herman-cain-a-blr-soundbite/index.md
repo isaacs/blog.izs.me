@@ -6,10 +6,6 @@ redirect_from:
   - /post/12961214402/badlipreading-herman-cain-a-blr-soundbite
   - /post/12961214402
 slug: badlipreading-herman-cain-a-blr-soundbite
-source:
-  name: badlipreading
-  title: Bad Lip Reading
-  url: 'http://badlipreading.tumblr.com/post/12047299166'
 tumblrid: 12961214402
 type: video
 via:

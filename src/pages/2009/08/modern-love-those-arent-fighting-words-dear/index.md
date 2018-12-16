@@ -8,11 +8,6 @@ redirect_from:
   - /post/157547804/modern-love-those-arent-fighting-words-dear
   - /post/157547804
 slug: modern-love-those-arent-fighting-words-dear
-source:
-  name: thiswillnotbeonthetest
-  title: ms
-  url: >-
-    http://thiswillnotbeonthetest.tumblr.com/post/155451855/modern-love-those-arent-fighting-words-dear
 title: 'Modern Love: Those Aren’t Fighting Words, Dear'
 tumblrid: 157547804
 type: link

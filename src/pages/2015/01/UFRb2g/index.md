@@ -14,8 +14,7 @@ redirect_from:
   - /post/108721888218
 slug: UFRb2g
 source:
-  name: clevahgal
-  title: Setting new records for the jeopardy friendly
+  title: clevahgal
   url: 'http://clevahgal.tumblr.com/post/105059658803/aziz-ansari-is-a-feminist-x'
 tumblrid: 108721888218
 type: photo
