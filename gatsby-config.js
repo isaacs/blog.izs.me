@@ -30,7 +30,19 @@ module.exports = {
             options: {
               maxWidth: 700,
             }
-          }
+          },
+          {
+            resolve: `gatsby-remark-prismjs`,
+            options: {
+              classPrefix: "language-",
+              // This lets you set up language aliases.  For example,
+              // setting this to '{ sh: "bash" }' will let you use
+              // the language "sh" which will highlight using the
+              // bash highlighter.
+              aliases: { js: "javascript", md: "markdown" },
+              showLineNumbers: false,
+            },
+          },
         ],
       },
     },
