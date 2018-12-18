@@ -1,49 +1,27 @@
 import React from "react"
-import { Link, graphql } from "gatsby"
-import { css } from "@emotion/core"
+import { graphql } from "gatsby"
 import Layout from "../components/layout"
+import Post from '../components/post.js'
+import PagNav from '../components/pagnav.js'
 
 export default ({ data, pageContext }) => (
   <Layout>
     <div>
       <h1>
-        blog.izs.me - { pageContext.tag }
+        blog.izs.me - {pageContext.tag}
       </h1>
       <h4>{data.allMarkdownRemark.totalCount} Posts</h4>
       {data.allMarkdownRemark.edges.map(({ node }) => (
-        <div key={node.id}>
-          <Link
-            to={node.fields.slug}
-            css={css`
-              text-decoration: none;
-              color: inherit;
-            `}
-          >
-            <h3
-            >
-              {node.frontmatter.title}{" "}
-              <span
-                css={css`
-                  color: #bbb;
-                `}
-              >
-                — {node.frontmatter.date}
-              </span>
-            </h3>
-            <p>{node.excerpt}</p>
-          </Link>
-        </div>
+        <Post front={node.frontmatter} slug={node.fields.slug}>
+          <div dangerouslySetInnerHTML={{ __html: node.html }} />
+        </Post>
       ))}
     </div>
-    <div>
-      { pageContext.previousPagePath ? (
-        <Link to={pageContext.previousPagePath}>Previous</Link>
-      ) : '' }
-      { pageContext.nextPagePath ? (
-        <Link to={pageContext.nextPagePath}>Next</Link>
-      ) : '' }
-    </div>
+    <PagNav
+      newer={pageContext.previousPagePath}
+      older={pageContext.nextPagePath} />
   </Layout>
+
 )
 
 
@@ -58,15 +36,34 @@ export const query = graphql`
       totalCount
       edges {
         node {
+          html
           id
-          frontmatter {
-            title
-            date(formatString: "YYYY-MM-DD")
-          }
           fields {
             slug
           }
-          excerpt
+          frontmatter {
+            # common fields
+            title # optional!
+            type # text, link, photo, chat, answer, quote, video, audio
+            date(formatString: "YYYY-MM-DD")
+            slug # just the texty bit of the slug, not the gatsby "slug"
+            tumblrid
+            tags
+            redirect_from # map from the tumblr urls
+
+            link_url
+            link_publisher
+
+            source {
+              title
+              url
+            }
+            via {
+              name
+              title
+              url
+            }
+          }
         }
       }
     }
