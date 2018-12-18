@@ -35,15 +35,21 @@ export default ({ data, pageContext }) => (
         </div>
       ))}
     </div>
+    <div>
+      <Link to={pageContext.previousPagePath}>Previous</Link>
+      <Link to={pageContext.nextPagePath}>Next</Link>
+    </div>
   </Layout>
 )
 
 
 export const query = graphql`
-  query($tag: String!) {
+  query($tag: String!, $skip: Int!, $limit: Int!) {
     allMarkdownRemark(
-      filter:{frontmatter:{tags:{in:[$tag]}}},
-      sort:{fields:[frontmatter___date], order:DESC}
+      filter: { frontmatter: { tags: { in: [$tag] } } },
+      sort: { fields: [frontmatter___date], order: DESC },
+      skip: $skip,
+      limit: $limit
     ) {
       totalCount
       edges {

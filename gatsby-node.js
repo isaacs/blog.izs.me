@@ -1,6 +1,7 @@
 const { createFilePath } = require(`gatsby-source-filesystem`)
 const path = require(`path`)
 const _ = require('lodash')
+const { paginate, createPagePerItem } = require(`gatsby-awesome-pagination`)
 
 exports.onCreateNode = ({ node, getNode, actions }) => {
   const { createNodeField } = actions
@@ -28,52 +29,71 @@ exports.onCreateNode = ({ node, getNode, actions }) => {
 
 exports.createPages = ({ graphql, actions }) => {
   const { createPage } = actions
-  const seenTags = new Set()
-  return new Promise((resolve, reject) => {
-    graphql(`
-      {
-        allMarkdownRemark {
-          edges {
-            node {
-              fields {
-                slug
-              }
-              frontmatter {
-                tags
-              }
+  const taggedPosts = new Map()
+  return graphql(`
+    {
+      allMarkdownRemark {
+        edges {
+          node {
+            fields {
+              slug
+            }
+            frontmatter {
+              tags
             }
           }
         }
       }
-    `).then(result => {
-      result.data.allMarkdownRemark.edges.forEach(({ node }) => {
-        if (node.frontmatter.tags) {
-          node.frontmatter.tags.forEach(tag => {
-            if (seenTags.has(tag))
-              return
-            seenTags.add(tag)
-            createPage({
-              path: `/tagged/${_.kebabCase(tag)}`,
-              component: require.resolve(`./src/templates/tagged.js`),
-              context: {
-                tag: tag
-              }
-            })
-          })
-        }
-        createPage({
-          path: node.fields.slug,
-          component: require.resolve(`./src/templates/blog-post.js`),
-          context: {
-            // Data passed to context is available
-            // in page queries as GraphQL variables.
-            slug: node.fields.slug,
-          },
+    }
+  `).then(result => {
+    if (result.errors) {
+      result.errors.forEach(e => console.error(e.toString()))
+      return Promise.reject(result.errors)
+    }
+    const pageTemplate = require.resolve(`./src/templates/page.js`)
+    const taggedTemplate = require.resolve(`./src/templates/tagged.js`)
+
+    // paginated like /, /page/2, /page/3, ...
+    paginate({
+      createPage,
+      items: result.data.allMarkdownRemark.edges,
+      itemsPerPage: 10, // TODO: pull from gatsby-config.js
+      pathPrefix: ({ pageNumber }) => pageNumber ? '/page' : '/',
+      component: pageTemplate,
+    })
+
+    const nodes = []
+    result.data.allMarkdownRemark.edges.forEach((edge) => {
+      const { node } = edge
+      edge.context = { slug: node.fields.slug }
+      if (node.frontmatter.tags) {
+        node.frontmatter.tags.forEach(tag => {
+          if (!taggedPosts.has(tag))
+            taggedPosts.set(tag, [])
+
+          taggedPosts.get(tag).push(node)
         })
+      }
+    })
+
+    createPagePerItem({
+      createPage,
+      component: path.resolve('./src/templates/blog-post.js'),
+      items: result.data.allMarkdownRemark.edges,
+      itemToPath: 'node.fields.slug',
+      itemToId: 'node.id',
+    })
+
+    taggedPosts.forEach((posts, tag) => {
+      const kt = `/tagged/${_.kebabCase(tag)}`
+      paginate({
+        createPage,
+        items: posts,
+        itemsPerPage: 10, // TODO: pull from gatsby-config.js
+        pathPrefix: ({ pageNumber }) => pageNumber ? `${kt}/page` : kt,
+        component: taggedTemplate,
+        context: { tag }
       })
-      resolve()
     })
   })
 }
-
-

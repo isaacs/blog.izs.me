@@ -1,12 +1,12 @@
 import React from "react"
-import { graphql } from "gatsby"
+import { graphql, Link } from "gatsby"
 import Layout from "../components/layout"
 import Taglist from '../components/taglist.js'
 import Title from '../components/title.js'
 
 import yaml from "js-yaml"
 
-export default ({ data }) => {
+export default ({ data, pageContext }) => {
   const post = data.markdownRemark
   const front = post.frontmatter
   return (
@@ -28,6 +28,11 @@ export default ({ data }) => {
           front.via.title || front.via.name }</a></p> ) : '' }
         { front.tags ? ( <Taglist tags={front.tags} /> ) : '' }
 
+      </div>
+      <div>
+        {/* previousPageLink and nextPageLink were added by the plugin */ }
+        <Link to={pageContext.previousPagePath}>Previous</Link>
+        <Link to={pageContext.nextPagePath}>Next</Link>
       </div>
     </Layout>
   )

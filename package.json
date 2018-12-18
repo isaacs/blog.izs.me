@@ -7,6 +7,7 @@
     "emotion": "^10.0.4",
     "emotion-server": "^10.0.4",
     "gatsby": "^2.0.66",
+    "gatsby-awesome-pagination": "^0.3.3",
     "gatsby-plugin-emotion": "^3.0.1",
     "gatsby-plugin-meta-redirect": "^1.1.1",
     "gatsby-plugin-sharp": "^2.0.15",

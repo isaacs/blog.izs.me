@@ -1,9 +1,10 @@
 import React from "react"
-import { Link, graphql } from "gatsby"
-import { css } from "@emotion/core"
-import Layout from "../components/layout"
 
-export default ({ data }) => (
+import { graphql, Link } from "gatsby"
+import Layout from "../components/layout"
+import { css } from "@emotion/core"
+
+export default ({ data, pathContext }) => (
   <Layout>
     <div>
       <h1>
@@ -19,15 +20,11 @@ export default ({ data }) => (
               color: inherit;
             `}
           >
-            <h3
-            >
+            <h3>
               {node.frontmatter.title}{" "}
-              <span
-                css={css`
-                  color: #bbb;
-                `}
-              >
-                — {node.frontmatter.date}
+              <span css={css`
+                color: #bbb;
+              `} > — {node.frontmatter.date}
               </span>
             </h3>
             <p>{node.excerpt}</p>
@@ -35,12 +32,20 @@ export default ({ data }) => (
         </div>
       ))}
     </div>
+    <div>
+      <Link to={pathContext.previousPagePath}>Previous</Link>
+      <Link to={pathContext.nextPagePath}>Next</Link>
+    </div>
   </Layout>
 )
 
 export const query = graphql`
-  query {
-    allMarkdownRemark(sort: { fields: [frontmatter___date], order: DESC }) {
+  query ($skip: Int!, $limit: Int!) {
+    allMarkdownRemark(
+      sort: { fields: [frontmatter___date], order: DESC },
+      skip: $skip,
+      limit: $limit
+    ) {
       totalCount
       edges {
         node {
@@ -58,4 +63,3 @@ export const query = graphql`
     }
   }
 `
-
