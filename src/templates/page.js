@@ -4,7 +4,7 @@ import { graphql, Link } from "gatsby"
 import Layout from "../components/layout"
 import { css } from "@emotion/core"
 
-export default ({ data, pathContext }) => (
+export default ({ data, pageContext }) => (
   <Layout>
     <div>
       <h1>
@@ -33,8 +33,12 @@ export default ({ data, pathContext }) => (
       ))}
     </div>
     <div>
-      <Link to={pathContext.previousPagePath}>Previous</Link>
-      <Link to={pathContext.nextPagePath}>Next</Link>
+      { pageContext.previousPagePath ? (
+        <Link to={pageContext.previousPagePath}>Previous</Link>
+      ) : '' }
+      { pageContext.nextPagePath ? (
+        <Link to={pageContext.nextPagePath}>Next</Link>
+      ) : '' }
     </div>
   </Layout>
 )

@@ -30,9 +30,12 @@ export default ({ data, pageContext }) => {
 
       </div>
       <div>
-        {/* previousPageLink and nextPageLink were added by the plugin */ }
-        <Link to={pageContext.previousPagePath}>Previous</Link>
-        <Link to={pageContext.nextPagePath}>Next</Link>
+        { pageContext.previousPagePath ? (
+          <Link to={pageContext.previousPagePath}>Newer</Link>
+        ) : '' }
+        { pageContext.nextPagePath ? (
+          <Link to={pageContext.nextPagePath}>Older</Link>
+        ) : '' }
       </div>
     </Layout>
   )

@@ -36,8 +36,12 @@ export default ({ data, pageContext }) => (
       ))}
     </div>
     <div>
-      <Link to={pageContext.previousPagePath}>Previous</Link>
-      <Link to={pageContext.nextPagePath}>Next</Link>
+      { pageContext.previousPagePath ? (
+        <Link to={pageContext.previousPagePath}>Previous</Link>
+      ) : '' }
+      { pageContext.nextPagePath ? (
+        <Link to={pageContext.nextPagePath}>Next</Link>
+      ) : '' }
     </div>
   </Layout>
 )
