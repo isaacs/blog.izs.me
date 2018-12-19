@@ -77,6 +77,8 @@ const photoSet = (set, width)  => {
     // scale each to that width, then take the smallest height
     const rowHeight = row.map(photo =>
       photo.meta.height * imgWidth/photo.meta.width).sort()[0]
+    // TODO: this doesn't work for /2014/10/thevoiceinthevoid-swedebeast
+    // for some reason.
     const div = `<div class="photo"
       style="width:${imgWidth}px; height:${rowHeight}px; overflow:hidden">`
     const img = p =>
