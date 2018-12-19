@@ -5,7 +5,14 @@ module.exports = {
     name: `izs`,
     title: `blog.izs.me`,
     url: `http://blog.izs.me/`,
-    postsPerPage: 5
+    postsPerPage: 5,
+    headerLinks: [
+      ['https://twitter.com/izs', '@izs'],
+      ['https://github.com/isaacs', 'gh:isaacs'],
+      ['https://keybase.io/isaacs', 'kb:isaacs'],
+      ['http://izs.me', 'resume'],
+      //TODO ['/ask', 'ask'],
+    ]
   },
   plugins: [
     {

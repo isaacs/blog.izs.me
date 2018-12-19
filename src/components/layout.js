@@ -10,6 +10,13 @@ export default ({ headerText, older, newer, children }) => (
         site {
           siteMetadata {
             title
+            description
+            headerLinks
+          }
+        }
+        sitePlugin (name:{eq:"gatsby-remark-photoset"}) {
+          pluginOptions {
+            maxWidth
           }
         }
       }
@@ -20,6 +27,9 @@ export default ({ headerText, older, newer, children }) => (
       <Header headerText={
         data.site.siteMetadata.title +
         (headerText ? ` - ${headerText}` : '') }
+        width={data.sitePlugin.pluginOptions.maxWidth}
+        description={data.site.siteMetadata.description}
+        headerLinks={data.site.siteMetadata.headerLinks}
         />
       <div id="content">
         {children}
