@@ -1,9 +1,9 @@
 import React from "react"
-import { StaticQuery, Link, graphql } from "gatsby"
-import Helmet from 'react-helmet';
+import { StaticQuery, graphql } from "gatsby"
+import Header from './header.js'
+import PagNav from './pagnav.js'
 
-
-export default ({ children }) => (
+export default ({ headerText, older, newer, children }) => (
   <StaticQuery
     query={graphql`
       query {
@@ -16,36 +16,17 @@ export default ({ children }) => (
     `
     }
     render={data => (
-    <div>
-      <Helmet>
-        <style>{`
-          body {
-            background: #444
-          }
-          #content {
-            width: 700px;
-            margin: 0 auto
-          }
-          .post {
-            background: #fff;
-            border-radius: 4px;
-            overflow: hidden;
-          }
-          .post .caption {
-            padding: 2em;
-          }
-        `}</style>
-      </Helmet>
-      {// XXX header goes here
-      }
+    <div id="wrapper">
+      <Header headerText={
+        data.site.siteMetadata.title +
+        (headerText ? ` - ${headerText}` : '') }
+        />
       <div id="content">
-        <Link to={`/`}>
-          <h3>
-            {data.site.siteMetadata.title}
-          </h3>
-        </Link>
         {children}
       </div>
+      <PagNav
+        newer={newer}
+        older={older} />
     </div>
     )}
   />

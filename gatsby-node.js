@@ -2,6 +2,7 @@ const { createFilePath } = require(`gatsby-source-filesystem`)
 const path = require(`path`)
 const _ = require('lodash')
 const { paginate, createPagePerItem } = require(`gatsby-awesome-pagination`)
+const config = require('./gatsby-config.js')
 
 exports.onCreateNode = ({ node, getNode, actions }) => {
   const { createNodeField } = actions
@@ -59,7 +60,7 @@ exports.createPages = ({ graphql, actions }) => {
     paginate({
       createPage,
       items: result.data.allMarkdownRemark.edges,
-      itemsPerPage: 10, // TODO: pull from gatsby-config.js
+      itemsPerPage: config.siteMetadata.postsPerPage,
       pathPrefix: ({ pageNumber }) => pageNumber ? '/page' : '/',
       component: pageTemplate,
     })
@@ -91,7 +92,7 @@ exports.createPages = ({ graphql, actions }) => {
       paginate({
         createPage,
         items: posts,
-        itemsPerPage: 10, // TODO: pull from gatsby-config.js
+        itemsPerPage: config.siteMetadata.postsPerPage,
         pathPrefix: ({ pageNumber }) => pageNumber ? `${kt}/page` : kt,
         component: taggedTemplate,
         context: { tag }

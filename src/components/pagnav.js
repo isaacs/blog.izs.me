@@ -3,12 +3,12 @@ import { Link } from "gatsby"
 
 export default ({older, newer}) => {
   if (older || newer) return (
-    <div>
+    <div id="pagnav">
       { newer ? (
-        <Link to={newer}>Newer</Link>
+        <Link class="newer" to={newer}>Newer</Link>
       ) : '' }
       { older ? (
-        <Link to={older}>Older</Link>
+        <Link class="older" to={older}>Older</Link>
       ) : '' }
     </div>
   )

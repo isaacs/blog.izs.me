@@ -5,6 +5,7 @@ module.exports = {
     name: `izs`,
     title: `blog.izs.me`,
     url: `http://blog.izs.me/`,
+    postsPerPage: 5
   },
   plugins: [
     {

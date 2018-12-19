@@ -2,24 +2,16 @@ import React from "react"
 import { graphql } from "gatsby"
 import Layout from "../components/layout"
 import Post from '../components/post.js'
-import PagNav from '../components/pagnav.js'
 
 export default ({ data, pageContext }) => (
-  <Layout>
-    <div>
-      <h1>
-        blog.izs.me
-      </h1>
-      <h4>{data.allMarkdownRemark.totalCount} Posts</h4>
-      {data.allMarkdownRemark.edges.map(({ node }) => (
-        <Post front={node.frontmatter} slug={node.fields.slug}>
-          <div dangerouslySetInnerHTML={{ __html: node.html }} />
-        </Post>
-      ))}
-    </div>
-    <PagNav
-      newer={pageContext.previousPagePath}
-      older={pageContext.nextPagePath} />
+  <Layout
+    newer={pageContext.previousPagePath}
+    older={pageContext.nextPagePath} >
+    {data.allMarkdownRemark.edges.map(({ node }) => (
+      <Post front={node.frontmatter} slug={node.fields.slug}>
+        <div dangerouslySetInnerHTML={{ __html: node.html }} />
+      </Post>
+    ))}
   </Layout>
 )
 
