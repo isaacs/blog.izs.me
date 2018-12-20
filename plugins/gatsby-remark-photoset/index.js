@@ -75,12 +75,12 @@ const photoSet = (set, width)  => {
     // n: (700 - 10 - 10n)/n
     const imgWidth = (width - 10 - 10 * rowLen) / rowLen
     // scale each to that width, then take the smallest height
-    const rowHeight = row.map(photo =>
-      photo.meta.height * imgWidth/photo.meta.width).sort()[0]
+    const rowHeight = rowLen === 1 ? 'auto' : (Math.floor(row.map(photo =>
+      photo.meta.height * imgWidth/photo.meta.width).sort()[0]) + 'px')
     // TODO: this doesn't work for /2014/10/thevoiceinthevoid-swedebeast
     // for some reason.
     const div = `<div class="photo"
-      style="width:${imgWidth}px; height:${rowHeight}px; overflow:hidden">`
+      style="width:${imgWidth}px; height:${rowHeight}; overflow:hidden">`
     const img = p =>
       `<img src="${p.url}" alt="${p.alt}" style="width:100%">`
 

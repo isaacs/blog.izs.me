@@ -17,9 +17,12 @@ export default ({headerText, width, description, headerLinks}) => (<div id="head
       }
       a#coverimage {
         background: url(${background}) center center;
-        background-size: 100% auto;
+        background-size: cover;
         width: 100%;
+        /* responsiveify this */
+        /* height should be no more than about half of width */
         height: 350px;
+        max-height: 22em;
         display:block;
       }
       a#avatar {
@@ -35,7 +38,8 @@ export default ({headerText, width, description, headerLinks}) => (<div id="head
       #header {
         font-family: "Helvetica Neue", HelveticaNeue, Arial, sans-serif;
         color: #fb4c16;
-        width: ${width}px;
+        width: 100%;
+        max-width: ${width}px;
         margin: auto;
         text-align:center;
       }
@@ -82,6 +86,7 @@ export default ({headerText, width, description, headerLinks}) => (<div id="head
       }
 
       #content {
+        width:100%;
         max-width: ${width}px;
         margin: 0 auto
       }
