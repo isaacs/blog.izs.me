@@ -4,11 +4,11 @@ import Helmet from 'react-helmet'
 import background from './background.jpg'
 import avatar from './avatar.jpg'
 
-export default ({headerText, width, description, headerLinks}) => (<div id="head">
+export default ({head, subhead, width, description, headerLinks}) => (<div id="head">
   <Helmet>
     <link rel="stylesheet"
       href="https://assets.tumblr.com/fonts/gibson/stylesheet.css?v=3" />
-    <title>{headerText}</title>
+    <title>{head + (subhead ? ` - ${subhead}` : '')}</title>
     <style>{`
       body {
         background: #444;
@@ -54,7 +54,7 @@ export default ({headerText, width, description, headerLinks}) => (<div id="head
         font-weight: normal;
         text-decoration: none;
       }
-      #header h1 {
+      #header h1, #header h2 {
         margin: 0;
         padding:0;
         font-weight:normal;
@@ -118,7 +118,7 @@ export default ({headerText, width, description, headerLinks}) => (<div id="head
   <Link to={'/'} id="coverimage" />
   <Link to={'/'} id="avatar" />
   <div id="header">
-    <h1><Link to={'/'}>{headerText}</Link></h1>
+    <h1><Link to={'/'}>{head}</Link></h1>
     <p style={{color: 'rgba(251, 76, 22, 0.7)' }}>{description}</p>
     {headerLinks ? (
       <ul>
@@ -127,6 +127,7 @@ export default ({headerText, width, description, headerLinks}) => (<div id="head
         ))}
       </ul>
     ) : ''}
+    { subhead ? (<h2>{subhead}</h2>) : '' }
 
   </div>
 

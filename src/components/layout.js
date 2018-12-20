@@ -24,9 +24,8 @@ export default ({ headerText, older, newer, children }) => (
     }
     render={data => (
     <div id="wrapper">
-      <Header headerText={
-        data.site.siteMetadata.title +
-        (headerText ? ` - ${headerText}` : '') }
+      <Header head={data.site.siteMetadata.title}
+        subhead={headerText}
         width={data.sitePlugin.pluginOptions.maxWidth}
         description={data.site.siteMetadata.description}
         headerLinks={data.site.siteMetadata.headerLinks}
