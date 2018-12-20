@@ -5,7 +5,7 @@ import background from './background.jpg'
 import avatar from './avatar.jpg'
 
 export default ({head, subhead, width, description, headerLinks}) => (<div id="head">
-  <Helmet>
+  <Helmet defer={false}>
     <link rel="stylesheet"
       href="https://assets.tumblr.com/fonts/gibson/stylesheet.css?v=3" />
     <title>{head + (subhead ? ` - ${subhead}` : '')}</title>
