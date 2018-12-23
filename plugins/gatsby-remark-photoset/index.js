@@ -82,7 +82,9 @@ const photoSet = (set, width)  => {
     const div = `<div class="photo"
       style="width:${imgWidth}px; height:${rowHeight}; overflow:hidden">`
     const img = p =>
-      `<img src="${p.url}" alt="${p.alt}" style="width:100%">`
+      `<img width=${imgWidth}
+        src="${p.url}" alt="${p.alt}"
+        style="width:100%;display:inline-block;vertical-align:middle">`
 
     return `<tr>${rowcell}${table}<tr>${
       row.map(p => `${colcell}${div}${img(p)}</div></td>`).join('\n')
@@ -135,7 +137,7 @@ module.exports = async ({ getNode, markdownNode, markdownAST }, pluginOptions) =
   if (html) {
     markdownAST.children.unshift({
       type: `html`,
-      value: `${html}`
+      value: `<div class="media">${html}</div>`
     })
   }
 }

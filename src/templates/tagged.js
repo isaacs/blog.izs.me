@@ -9,9 +9,8 @@ export default ({ data, pageContext }) => (
       newer={pageContext.previousPagePath}
       older={pageContext.nextPagePath} >
     {data.allMarkdownRemark.edges.map(({ node }) => (
-      <Post front={node.frontmatter} slug={node.fields.slug}>
-        <div dangerouslySetInnerHTML={{ __html: node.html }} />
-      </Post>
+      <Post front={node.frontmatter} slug={node.fields.slug}
+        html={node.html} />
     ))}
   </Layout>
 )

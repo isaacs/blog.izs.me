@@ -9,9 +9,8 @@ export default ({ data, pageContext }) => {
   const front = post.frontmatter
   return (
     <Layout>
-      <Post slug={post.fields.slug} front={front}>
-        <div dangerouslySetInnerHTML={{ __html: post.html }} />
-      </Post>
+      <Post slug={post.fields.slug} front={front}
+        html={post.html} />
 
       <PagNav
         older={pageContext.nextPagePath}
