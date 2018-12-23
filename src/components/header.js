@@ -6,12 +6,11 @@ import avatar from './avatar.jpg'
 
 export default ({head, subhead, width, description, headerLinks}) => (<div id="head">
   <Helmet defer={false}>
-    <link re="stylesheet"
-      href="http://static.tumblr.com/vr9xgox/PuGmmhqcs/normalize.css" />
     <link rel="stylesheet"
       href="https://assets.tumblr.com/fonts/gibson/stylesheet.css?v=3" />
     <title>{head + (subhead ? ` - ${subhead}` : '')}</title>
     <style>{`
+
 /*! normalize.css v1.1.0 | MIT License | git.io/normalize */
 article,
 aside,
@@ -445,7 +444,6 @@ table {
         padding-left:18px;
       }
 
-
     `}</style>
   </Helmet>
 
@@ -457,7 +455,11 @@ table {
     {headerLinks ? (
       <ul>
         {headerLinks.map(([url,name]) => (
-          <li><a href={url}>{name}</a></li>
+          <li>{
+            (/^https?:\/\//).test(url) ? (
+              <a href={url}>{name}</a>
+            ) : (<Link to={url}>{name}</Link>)
+          }</li>
         ))}
       </ul>
     ) : ''}

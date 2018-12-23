@@ -10,8 +10,8 @@ module.exports = {
       ['https://twitter.com/izs', '@izs'],
       ['https://github.com/isaacs', 'gh:isaacs'],
       ['https://keybase.io/isaacs', 'kb:isaacs'],
-      ['http://izs.me', 'resume'],
-      //TODO ['/ask', 'ask'],
+      ['https://izs.me', 'resume'],
+      ['/ask', 'ask'],
     ]
   },
   plugins: [
