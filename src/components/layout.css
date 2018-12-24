@@ -11,6 +11,8 @@ blockquote {
   border-left: 3px solid #eee;
   margin-left: 0;
   padding-left: 20px;
+  box-sizing: border-box;
+  width: 100%;
 }
 #content {
   max-width:95%;
