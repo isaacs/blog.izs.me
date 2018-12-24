@@ -77,10 +77,10 @@ const photoSet = (set, width)  => {
     // scale each to that width, then take the smallest height
     const rowHeight = rowLen === 1 ? 'auto' : (Math.floor(row.map(photo =>
       photo.meta.height * imgWidth/photo.meta.width).sort()[0]) + 'px')
-    // TODO: this doesn't work for /2014/10/thevoiceinthevoid-swedebeast
-    // for some reason.
     const div = `<div class="photo"
       style="width:${imgWidth}px; height:${rowHeight}; overflow:hidden">`
+
+    // XXX this middle vertical alignment isn't working for some reason
     const img = p =>
       `<img width=${imgWidth}
         src="${p.url}" alt="${p.alt}"

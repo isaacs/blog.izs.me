@@ -4,6 +4,7 @@ import Via from '../components/via.js'
 import Title from '../components/title.js'
 import Taglist from '../components/taglist.js'
 // import yaml from "js-yaml"
+import './post.css'
 
 export default ({ slug, front, html }) => (
   <div class={`post ${front.type}`}>

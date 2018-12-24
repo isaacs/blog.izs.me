@@ -1,0 +1,19 @@
+/* Copyright Isaac Z. Schlueter
+ * All rights reserved
+ */
+
+body {
+  background: #444;
+  padding:0;
+  margin:0;
+}
+blockquote {
+  border-left: 3px solid #eee;
+  margin-left: 0;
+  padding-left: 20px;
+}
+#content {
+  max-width:95%;
+  width: 700px;
+  margin: 0 auto;
+}

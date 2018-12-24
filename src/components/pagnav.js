@@ -1,5 +1,6 @@
 import React from "react"
 import { Link } from "gatsby"
+import './pagnav.css'
 
 export default ({older, newer}) => {
   if (older || newer) return (
