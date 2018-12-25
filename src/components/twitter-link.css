@@ -10,4 +10,5 @@
   background:url('./Twitter_Logo_WhiteOnImage.svg');
   background-size: cover;
   overflow:hidden;
+  background-color:#666;
 }
