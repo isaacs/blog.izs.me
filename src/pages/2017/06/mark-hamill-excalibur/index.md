@@ -11,7 +11,9 @@ redirect_from:
   - /post/161563230603/
   - /post/161563230603/
   - /post/161563230603
-slug: netBiw
+  - /2017/06/netBiw
+  - /2017/06/netBiw/
+slug: mark-hamill-excalibur
 source:
   title: gorbachops
   url: 'https://gorbachops.tumblr.com/post/142497635024'

@@ -10,11 +10,11 @@ photos:
   - - ./tumblr_pize06g1tp1qzjzo9o7_640.jpg
   - - ./tumblr_pize06g1tp1qzjzo9o8_540.gif
 redirect_from:
-  - /post/180635692828//
-  - /post/180635692828/
   - /post/180635692828/
   - /post/180635692828
-slug: DrnvHA
+  - /2018/11/DrnvHA/
+  - /2018/11/DrnvHA
+slug: images-that-make-me-feel-some-kind-of-way
 tags:
   - trips
   - motion
