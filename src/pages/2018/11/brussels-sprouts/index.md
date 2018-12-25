@@ -51,10 +51,6 @@ type: text
 
 <p>They taste like sweet popcorn.  I&rsquo;m serious.  The crunchy bottom tends to soften pretty quickly, so sooner you eat them, the better, but this is usually not a problem.  (And they&rsquo;re still good when they&rsquo;re not super crispy, just a little less amazing.)</p>
 
-<p><a href="https://www.instagram.com/p/BNNyJEPBgaARk6amN5RdVPJ620rcw0WP6ZL8oU0/"></a></p>
+<p><a href="https://www.instagram.com/p/BNNyJEPBgaARk6amN5RdVPJ620rcw0WP6ZL8oU0/"><img src="./15099334_1515029755179276_953561633966260224_n.jpg"></a></p>
 
-<figure class="tmblr-full" data-orig-height="1080" data-orig-width="1080" data-orig-src="./15099334_1515029755179276_953561633966260224_n.jpg"><img src="https://66.media.tumblr.com/75a21dadc79fde11f7aaf793477173e1/tumblr_inline_pigx82kxH01qzgxun_540.jpg" data-orig-height="1080" data-orig-width="1080" data-orig-src="./15099334_1515029755179276_953561633966260224_n.jpg"/></figure>
-
-<p><a href="https://www.instagram.com/p/BUhLqsBAfNZTtC8n78LO-sz7evoNcMUneVe66Q0/v"></a></p>
-
-<figure class="tmblr-full" data-orig-height="1080" data-orig-width="1080" data-orig-src="./18645619_1909008672722154_2098837199138062336_n.jpg"><img src="https://66.media.tumblr.com/94b1526a89d9ef49960b6ef06907efd6/tumblr_inline_pigx83uonZ1qzgxun_540.jpg" data-orig-height="1080" data-orig-width="1080" data-orig-src="./18645619_1909008672722154_2098837199138062336_n.jpg"/></figure>
+<p><a href="https://www.instagram.com/p/BUhLqsBAfNZTtC8n78LO-sz7evoNcMUneVe66Q0/"><img src="./18645619_1909008672722154_2098837199138062336_n.jpg"></a></p>
