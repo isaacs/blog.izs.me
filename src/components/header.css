@@ -2,12 +2,27 @@ a#coverimage {
   background: url('./background.jpg') center center;
   background-size: cover;
   width: 100%;
-  /* XXX: responsiveify this */
-  /* height should be no more than about half of width */
   height: 350px;
   max-height: 22em;
   display:block;
 }
+@media (max-width: 600px) { a#coverimage {
+  height: 300px;
+}}
+@media (max-width: 500px) { a#coverimage {
+  height: 250px;
+}}
+@media (max-width: 400px) {
+  a#coverimage { height: 200px }
+  #header { font-size:90% }
+}
+@media (max-width: 300px) { a#coverimage {
+  height: 150px;
+}}
+@media (max-width: 200px) { a#coverimage {
+  height: 100px;
+}}
+
 a#avatar {
   background: url('./avatar.jpg') #444;
   height:106px;
