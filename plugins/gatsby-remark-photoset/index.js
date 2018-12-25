@@ -156,9 +156,10 @@ const media = ({ markdownNode, markdownAST, width }, embedHTML) => {
   const $ = cheerio.load(embedHTML)
   // try to set the width of the iframe/obj/embed the max width, and
   // scale up the height to match, if that's also set.
-  const object = mediaWidth($('object'), width)
-  const iframe = mediaWidth($('iframe'), width)
-  const embed = mediaWidth($('embed'), width)
+  mediaWidth($('object'), width)
+  mediaWidth($('iframe'), width)
+  mediaWidth($('embed'), width)
+  mediaWidth($('video'), width)
   return $('body').html()
 }
 
