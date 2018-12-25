@@ -12,7 +12,8 @@ module.exports = {
       ['https://keybase.io/isaacs', 'kb:isaacs'],
       ['https://izs.me', 'resume'],
       ['/ask', 'ask'],
-    ]
+    ],
+    twitter: `izs`,
   },
   plugins: [
     {
