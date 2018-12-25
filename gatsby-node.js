@@ -31,6 +31,7 @@ exports.onCreateNode = ({ node, getNode, actions }) => {
 exports.createPages = ({ graphql, actions }) => {
   const { createPage } = actions
   const taggedPosts = new Map()
+  const archive = {}
   return graphql(`
     {
       allMarkdownRemark(
@@ -42,6 +43,7 @@ exports.createPages = ({ graphql, actions }) => {
               slug
             }
             frontmatter {
+              date(formatString: "YYYY/MM")
               tags
             }
           }
@@ -53,8 +55,10 @@ exports.createPages = ({ graphql, actions }) => {
       result.errors.forEach(e => console.error(e.toString()))
       return Promise.reject(result.errors)
     }
+    const archiveTemplate = require.resolve(`./src/templates/archive.js`)
     const pageTemplate = require.resolve(`./src/templates/page.js`)
     const taggedTemplate = require.resolve(`./src/templates/tagged.js`)
+    const postTemplate = require.resolve(`./src/templates/blog-post.js`)
 
     // paginated like /, /page/2, /page/3, ...
     paginate({
@@ -69,6 +73,13 @@ exports.createPages = ({ graphql, actions }) => {
     result.data.allMarkdownRemark.edges.forEach((edge) => {
       const { node } = edge
       edge.context = { slug: node.fields.slug }
+      if (node.frontmatter.date) {
+        const [y, m] = node.frontmatter.date.split('/')
+        archive[y] = archive[y] || {}
+        archive[y][m] = archive[y][m] || []
+        archive[y][m].push(node.fields.slug)
+      }
+
       if (node.frontmatter.tags) {
         node.frontmatter.tags.forEach(tag => {
           if (!taggedPosts.has(tag))
@@ -79,9 +90,17 @@ exports.createPages = ({ graphql, actions }) => {
       }
     })
 
+    createPage({
+      path: '/archive',
+      component: archiveTemplate,
+      context: {
+        archive
+      }
+    })
+
     createPagePerItem({
       createPage,
-      component: path.resolve('./src/templates/blog-post.js'),
+      component: postTemplate,
       items: result.data.allMarkdownRemark.edges,
       itemToPath: 'node.fields.slug',
       itemToId: 'node.id',

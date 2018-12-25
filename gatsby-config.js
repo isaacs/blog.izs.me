@@ -8,9 +8,10 @@ module.exports = {
     postsPerPage: 5,
     headerLinks: [
       ['https://twitter.com/izs', '@izs'],
-      ['https://github.com/isaacs', 'gh:isaacs'],
-      ['https://keybase.io/isaacs', 'kb:isaacs'],
+      ['https://github.com/isaacs', 'gh'],
+      ['https://keybase.io/isaacs', 'kb'],
       ['https://izs.me', 'resume'],
+      ['/archive', 'archive'],
       ['/ask', 'ask'],
     ],
     twitter: `izs`,
