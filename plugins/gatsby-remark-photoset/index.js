@@ -7,17 +7,18 @@ const photos = async ({ markdownNode, markdownAST, dir, width }) => {
   // 2. figure out the appropriate width of each item in the row
   // 3. figure out the appropriate height of the row
   //
-  // maybe go ahead and do this with tables because fuckit?
-  // prepend the markup into the body, and let remark-images do the rest!
+  // Use tables because they are still the best layout approach by any
+  // reasaonable metric and all the FUD about them is laughable bullshit.
+  // Prepend the markup into the body, and let remark-images do the rest.
   //
-  // Set the height and width of overflow-auto photoset_photo containers
+  // Set the height and width of overflow-auto photo containers
   // Width is total content width / row item count
-  // then scale each row item's effective height down equivalently to width
+  // then scale each row item's effective height down equivalently
   // Height of row is shortest resulting image height
   // Then the images are set to width:100%,
   // and height truncated via css overflow:hidden
   //
-  // total content width is 700px.  Overridable with an option.
+  // total content width is 700px by default, or maxHeight option.
 
   // turn list of 'url alt' into {url,alt}
   const set = []
@@ -52,17 +53,25 @@ const singlePhoto = set => {
     alt="${photo.alt}"
     height="${meta.height}"
     width="${meta.width}"
-    style="max-width:100%">
+    style="max-width:100%;width:100%;">
   `
   return imgTag
 }
 
 const photoSet = (set, width)  => {
-  const tableStyle = `style="border-collapse:collapse"`
-  const tableProps = `${tableStyle} cellpadding=0 cellspacing=0`
+  // XXX if you have a lot of these on a page, it'll get repetitive
+  // figure out a way to shove it into a single per-page style?
+  const styles = {
+    '.photosettable':'border-collapse:collapse',
+    '.photosettable .rowcell,.photosettable .colcell':'border:solid #fff',
+    '.photosettable .rowcell':'border-width:10px 0',
+    '.photosettable .colcell':'border-width:0 10px',
+  }
+  const tableClass = `class="photosettable"`
+  const tableProps = `${tableClass} cellpadding=0 cellspacing=0`
   const table = `<table ${tableProps}>`
-  const rowcell = `<td style="border:solid #fff; border-width:10px 0">`
-  const colcell = `<td style="border:solid #fff; border-width:0 10px">`
+  const rowcell = `<td class="rowcell">`
+  const colcell = `<td class="colcell">`
   const rows = set.map(row => {
     const rowLen = row.length
 
@@ -77,21 +86,71 @@ const photoSet = (set, width)  => {
     // scale each to that width, then take the smallest height
     const rowHeight = rowLen === 1 ? 'auto' : (Math.floor(row.map(photo =>
       photo.meta.height * imgWidth/photo.meta.width).sort()[0]) + 'px')
-    const div = `<div class="photo"
-      style="width:${imgWidth}px; height:${rowHeight}; overflow:hidden">`
+    const div = `<div class="photo w-${imgWidth} h-${rowHeight}">`
+    styles[`.photosettable .photo`] = `max-width:100%;overflow:hidden`
+    styles[`.photosettable .w-${imgWidth}`] = `width:${imgWidth}px`
+    styles[`.photosettable .h-${rowHeight}`] = `height:${rowHeight}`
 
     // XXX this middle vertical alignment isn't working for some reason
+    // it still lines everything up at the top.
     const img = p =>
       `<img width=${imgWidth}
-        src="${p.url}" alt="${p.alt}"
-        style="width:100%;display:inline-block;vertical-align:middle">`
+        class="w-${imgWidth}"
+        src="${p.url}" alt="${p.alt}">`
+
+    styles[`.photosettable img`] =
+      `width:100%;display:inline-block;vertical-align:middle`
 
     return `<tr>${rowcell}${table}<tr>${
       row.map(p => `${colcell}${div}${img(p)}</div></td>`).join('\n')
     }</tr></table></td></tr>`
   }).join('\n')
-  return `${table}${rows}</table>`
+  return `${table}${rows}</table>${toCss(styles, width)}`
 }
+
+// "Tables? Oh noh! But what abuot responsiev!???!?"  lol.
+// Undo everything and make it a simple single-column of full-width
+// images.  Otherwise, it cuts off and obscures the content at small
+// sizes.  Preserving the row/col layout at small widths requires
+// some zoom hacks that are complicated and tend to not look good
+// anyway.
+const resets = {
+  [([
+    '.photosettable',
+    '.photosettable tbody',
+    '.photosettable tr',
+    '.photosettable td',
+    '.photosettable .photo',
+    '.photosettable img'
+  ]).join(',')]: {
+    display:'block',
+    width:'100%',
+    height:'auto',
+    'box-sizing':'border-box',
+    border:0
+  },
+  '.photosettable td.colcell': {
+    border:'10px solid #fff',
+    'border-bottom':0
+  },
+  '.photosettable': {
+    'border-bottom': '10px solid #fff'
+  },
+  '.photosettable .photosettable': {
+    border: 0
+  }
+}
+
+const toCss = (styles, width) => `<style>${
+  Object.keys(styles).map(sel => `${sel}{${styles[sel]}}`).join('')
+}@media (max-width: ${parseInt(width)+50}px) {${
+  Object.keys(resets).map(sel =>
+    `${sel}{${
+      Object.keys(resets[sel]).map(k =>
+        `${k}:${resets[sel][k]}!important`).join(';')
+    }}`).join('')
+}}
+</style>`
 
 const media = ({ markdownNode, markdownAST, width }, embedHTML) => {
   const $ = cheerio.load(embedHTML)
