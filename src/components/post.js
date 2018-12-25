@@ -7,7 +7,7 @@ import Taglist from '../components/taglist.js'
 import './post.css'
 
 export default ({ slug, front, html }) => (
-  <div class={`post ${front.type}`}>
+  <div class={`post ${front.type}`} id={front.slug}>
     <Title
       title={front.title}
       slug={slug}
