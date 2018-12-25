@@ -48,6 +48,7 @@
 
 .post .date {
   margin: 0;
+  line-height:20px;
 }
 
 .post .meta ul {

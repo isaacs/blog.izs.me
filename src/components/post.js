@@ -1,10 +1,11 @@
 import React from 'react'
 import { Link } from 'gatsby'
-import Via from '../components/via.js'
-import Title from '../components/title.js'
-import Taglist from '../components/taglist.js'
+import Via from './via.js'
+import Title from './title.js'
+import Taglist from './taglist.js'
 // import yaml from "js-yaml"
 import './post.css'
+import Twitter from './twitter-link.js'
 
 export default ({ slug, front, html }) => (
   <div class={`post ${front.type}`} id={front.slug}>
@@ -27,10 +28,12 @@ export default ({ slug, front, html }) => (
       <Via type="Via" {...front.via} />
       <Via type="Source" {...front.source} />
       <Taglist tags={front.tags} />
-      <p class="date"><Link to={slug}>
-        {new Date(front.date).toISOString().slice(0,10)}
-      </Link></p>
+      <p class="date">
+        <Link to={slug}>
+          {new Date(front.date).toISOString().slice(0,10)}
+        </Link>
+        <Twitter title={front.title} slug={front.slug} />
+      </p>
     </div>
-    {/* XXX: tweet this post, permalink, etc. */}
   </div>
 )
