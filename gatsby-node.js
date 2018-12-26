@@ -90,13 +90,16 @@ exports.createPages = ({ graphql, actions }) => {
       }
     })
 
-    createPage({
-      path: '/archive',
-      component: archiveTemplate,
-      context: {
-        archive
-      }
-    })
+    if (config.siteMetadata.archivePage) {
+      createPage({
+        path: `/${config.siteMetadata.archivePage.slug}`,
+        component: archiveTemplate,
+        context: {
+          archive,
+          ...config.siteMetadata.archivePage,
+        }
+      })
+    }
 
     createPagePerItem({
       createPage,

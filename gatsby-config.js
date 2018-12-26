@@ -15,6 +15,10 @@ module.exports = {
       ['/ask', 'ask'],
     ],
     twitter: `izs`,
+    archivePage: {
+      slug: 'archive',
+      title: 'Archive'
+    }
   },
   plugins: [
     {
