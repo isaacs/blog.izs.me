@@ -22,6 +22,21 @@ export default ({ headerText, older, newer, children }) => (
             maxWidth
           }
         }
+        allMarkdownRemark(
+          sort: { fields: [frontmatter___title] },
+          filter:{frontmatter:{date:{eq:null}}}
+        ) {
+          edges {
+            node {
+              fields {
+                slug
+              }
+              frontmatter {
+                slug
+              }
+            }
+          }
+        }
       }
     `
     }
@@ -36,7 +51,10 @@ export default ({ headerText, older, newer, children }) => (
       <Header head={data.site.siteMetadata.title}
         subhead={headerText}
         description={data.site.siteMetadata.description}
-        headerLinks={data.site.siteMetadata.headerLinks}
+        headerLinks={data.site.siteMetadata.headerLinks.concat(
+          data.allMarkdownRemark.edges.map(edge =>
+            [edge.node.fields.slug, edge.node.frontmatter.slug])
+        )}
         />
       <div id="content">
         {children}

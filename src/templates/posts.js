@@ -5,9 +5,8 @@ import Post from '../components/post.js'
 
 export default ({ data, pageContext }) => (
   <Layout
-      headerText={pageContext.tag}
-      newer={pageContext.previousPagePath}
-      older={pageContext.nextPagePath} >
+    newer={pageContext.previousPagePath}
+    older={pageContext.nextPagePath} >
     {data.allMarkdownRemark.edges.map(({ node }) => (
       <Post front={node.frontmatter} slug={node.fields.slug}
         html={node.html} />
@@ -15,14 +14,13 @@ export default ({ data, pageContext }) => (
   </Layout>
 )
 
-
 export const query = graphql`
-  query($tag: String!, $skip: Int!, $limit: Int!) {
+  query ($skip: Int!, $limit: Int!) {
     allMarkdownRemark(
-      filter: { frontmatter: { tags: { in: [$tag] }, date: { ne: null } } },
       sort: { fields: [frontmatter___date], order: DESC },
       skip: $skip,
       limit: $limit,
+      filter:{frontmatter:{date:{ne:null}}}
     ) {
       totalCount
       edges {

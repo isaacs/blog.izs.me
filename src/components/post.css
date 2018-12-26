@@ -50,6 +50,9 @@
   margin: 0;
   line-height:20px;
 }
+.post .date span {
+  margin-right:1ex;
+}
 
 .post .meta ul {
   list-style:none;

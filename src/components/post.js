@@ -29,9 +29,11 @@ export default ({ slug, front, html }) => (
       <Via type="Source" {...front.source} />
       <Taglist tags={front.tags} />
       <p class="date">
+        {front.date ? (
         <Link to={slug}>
-          {new Date(front.date).toISOString().slice(0,10)}
+          <span>{new Date(front.date).toISOString().slice(0,10)}</span>
         </Link>
+        ) : ''}
         <Twitter title={front.title} slug={front.slug} />
       </p>
     </div>

@@ -36,6 +36,7 @@ exports.createPages = ({ graphql, actions }) => {
     {
       allMarkdownRemark(
         sort: { fields: [frontmatter___date], order: DESC }
+        filter:{frontmatter:{date:{ne:null}}}
       ) {
         edges {
           node {
@@ -50,13 +51,15 @@ exports.createPages = ({ graphql, actions }) => {
         }
       }
     }
+
   `).then(result => {
+
     if (result.errors) {
       result.errors.forEach(e => console.error(e.toString()))
       return Promise.reject(result.errors)
     }
     const archiveTemplate = require.resolve(`./src/templates/archive.js`)
-    const pageTemplate = require.resolve(`./src/templates/page.js`)
+    const postsTemplate = require.resolve(`./src/templates/posts.js`)
     const taggedTemplate = require.resolve(`./src/templates/tagged.js`)
     const postTemplate = require.resolve(`./src/templates/blog-post.js`)
 
@@ -66,7 +69,7 @@ exports.createPages = ({ graphql, actions }) => {
       items: result.data.allMarkdownRemark.edges,
       itemsPerPage: config.siteMetadata.postsPerPage,
       pathPrefix: ({ pageNumber }) => pageNumber ? '/page' : '/',
-      component: pageTemplate,
+      component: postsTemplate,
     })
 
     const nodes = []
@@ -118,6 +121,38 @@ exports.createPages = ({ graphql, actions }) => {
         pathPrefix: ({ pageNumber }) => pageNumber ? `${kt}/page` : kt,
         component: taggedTemplate,
         context: { tag }
+      })
+    })
+  }).then(() => graphql(`
+    {
+      allMarkdownRemark(
+        sort: { fields: [frontmatter___title] },
+        filter:{frontmatter:{date:{eq:null}}}
+      ) {
+        edges {
+          node {
+            fields {
+              slug
+            }
+          }
+        }
+      }
+    }
+  `))
+  .then(result => {
+    const pageTemplate = require.resolve(`./src/templates/page.js`)
+    if (result.errors) {
+      result.errors.forEach(e => console.error(e.toString()))
+      return Promise.reject(result.errors)
+    }
+    result.data.allMarkdownRemark.edges.forEach(edge => {
+      const node = edge.node
+      createPage({
+        path: node.fields.slug,
+        component: pageTemplate,
+        context: {
+          slug: node.fields.slug
+        }
       })
     })
   })
