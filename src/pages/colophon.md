@@ -8,7 +8,9 @@ This is the blog of Isaac Z. Schlueter.
 It is staticly generated using [Gatsby](https://www.gatsbyjs.org/),
 and fronted by Cloudflare CDN.
 
-It was [imported] from in its previous home on Tumblr, and uses a
+It was
+[imported](https://github.com/isaacs/blog.izs.me/tree/master/import)
+from in its previous home on Tumblr, and uses a
 [plugin](https://github.com/isaacs/blog.izs.me/tree/master/plugins/gatsby-remark-photoset)
 that makes it possible to do a lot of tumblr-ish media things using
 markdown frontmatter yaml.
