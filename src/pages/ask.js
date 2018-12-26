@@ -1,12 +1,15 @@
 import React from "react"
 import Layout from "../components/layout"
+import Post from '../components/post.js'
 
 export default () => (
   <Layout>
-    <div class="post">
-      <h1>Ask me whatever</h1>
-      <div class="postbody">
-      <form action="https://formspree.io/i@izs.me" method="POST">
+    <Post slug="/ask" front={{
+      type:'page',
+      slug:'ask',
+      title:'Ask me whatever'
+    }} html={
+      `<form action="https://formspree.io/i@izs.me" method="POST">
         <div>
           <label>from:
             <input placeholder="me@domain.com" name="from" type="email" />
@@ -18,8 +21,8 @@ export default () => (
         </div>
         <input type="submit" value="send it" />
       </form>
-      </div>
 
-    </div>
+      <p>Whatever you post here gets emailed to me.  Please be nice.</p>
+      `} />
   </Layout>
 )
