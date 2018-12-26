@@ -33,7 +33,7 @@
     "start": "gatsby develop",
     "build": "gatsby build",
     "serve": "gatsby serve",
-    "deploy": "npm run build && rsync -r public/* 104.236.139.144:/var/www/blog.izs.me"
+    "deploy": "npm run build && rsync -r --delete public/* 104.236.139.144:/var/www/blog.izs.me"
   },
   "repository": {
     "type": "git",
