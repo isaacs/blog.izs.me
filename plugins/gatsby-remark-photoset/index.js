@@ -83,23 +83,46 @@ const photoSet = (set, width)  => {
     // 3: (700 - 10 - 10 - 10 - 10)/3 = 220
     // n: (700 - 10 - 10n)/n
     const imgWidth = (width - 10 - 10 * rowLen) / rowLen
+    // get the scaled height of each photo
+    row.forEach(photo => {
+      photo.scaleHeight = Math.floor(
+        photo.meta.height * imgWidth/photo.meta.width
+      )
+    })
+    const rowHeightNum = row.map(p => p.scaleHeight).sort()[0]
     // scale each to that width, then take the smallest height
-    const rowHeight = rowLen === 1 ? 'auto' : (Math.floor(row.map(photo =>
-      photo.meta.height * imgWidth/photo.meta.width).sort()[0]) + 'px')
+    const rowHeight = rowLen === 1 ? 'auto' : (rowHeightNum + 'px')
+
     const div = `<div class="photo w-${imgWidth} h-${rowHeight}">`
     styles[`.photosettable .photo`] = `max-width:100%;overflow:hidden`
     styles[`.photosettable .w-${imgWidth}`] = `width:${imgWidth}px`
     styles[`.photosettable .h-${rowHeight}`] = `height:${rowHeight}`
 
-    // XXX this middle vertical alignment isn't working for some reason
-    // it still lines everything up at the top.
-    const img = p =>
-      `<img width=${imgWidth}
+    // If an image's scaled height H is larger than the rowHeight R,
+    // then make it pos:rel, top:R/2, margin-top:-(H/2)
+    // Do so with another wrapping div, so that it doesn't mess with the
+    // gatsby-remark-image stuff which does funky positioning on the
+    // image itself.
+    const img = p => {
+      const ret = `<img width=${imgWidth}
         class="w-${imgWidth}"
+        data-p='${JSON.stringify(p)}'
         src="${p.url}" alt="${p.alt}">`
 
-    styles[`.photosettable img`] =
-      `width:100%;display:inline-block;vertical-align:middle`
+      if (p.scaleHeight <= rowHeightNum)
+        return ret
+
+      const cls = `c-${rowHeightNum}-${p.scaleHeight}`
+      styles[`.photosettable .${cls}`] = [
+        `position:relative`,
+        `height:${rowHeight}`,
+        `top:${Math.floor(rowHeightNum/2)}px`,
+        `margin-top:${-1*Math.floor(p.scaleHeight / 2)}px`,
+      ].join(';')
+      return `<div class="ctr ${cls}">${ret}</div>`
+    }
+
+    styles[`.photosettable img`] = `width:100%`
 
     return `<tr>${rowcell}${table}<tr>${
       row.map(p => `${colcell}${div}${img(p)}</div></td>`).join('\n')
@@ -121,13 +144,16 @@ const resets = {
     '.photosettable tr',
     '.photosettable td',
     '.photosettable .photo',
+    '.photosettable .ctr',
     '.photosettable img'
   ]).join(',')]: {
     display:'block',
     width:'100%',
     height:'auto',
+    margin:0,
     'box-sizing':'border-box',
-    border:0
+    border:0,
+    position:'static'
   },
   '.photosettable td.colcell': {
     border:'10px solid #fff',
