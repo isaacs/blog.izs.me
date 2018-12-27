@@ -11,8 +11,10 @@ export default ({ location }) => (
     }} html={
     `<div style="text-align:center;font-size:2em;padding:2em">
       i looked but its not there
-    </div>`}
+    </div>
+    `}
     tweetText={'@izs 404 ' + location.href}
     />
+    <pre>{JSON.stringify(location, 0, 2)}</pre>
   </Layout>
 )
