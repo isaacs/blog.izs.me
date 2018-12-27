@@ -1,7 +1,7 @@
 ---
 title: Porting to Gatsby
 slug: porting-to-gatsby
-date: Wed Dec 26 15:44:03 PST 2018
+date: 2018-12-27T00:06:04.146Z
 tags:
   - colophon
   - about
@@ -90,8 +90,8 @@ around, apparently.
 
 The template and CSS I built from scratch using my existing tumblr
 blog as a visual design.  I went down a weird rabbit hole for a while
-because I didn't realize you were supposed to just `import
-'./foo.css'` in a component in order to pull in the CSS.  I was using
+because I didn't realize you were supposed to just `import './foo.css'`
+in a component in order to pull in the CSS.  I was using
 Helmet to stuff a `<style>` tag in the header, and always getting a
 flash of unstyled content.
 
