@@ -4,7 +4,7 @@ import url from 'url'
 import './twitter-link.css'
 import querystring from 'querystring'
 
-export default ({ title, slug }) => (
+export default ({ title, slug, text }) => (
   <StaticQuery
     query={graphql`
       query {
@@ -21,7 +21,7 @@ export default ({ title, slug }) => (
       <span class="tweet"><a href={
           'https://twitter.com/intent/tweet?' +
           querystring.encode({
-            text: `${
+            text: text || `${
               title ? `"${title}", ` : ''
             }by @${
               data.site.siteMetadata.twitter

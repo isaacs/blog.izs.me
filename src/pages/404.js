@@ -1,14 +1,19 @@
 import React from "react"
 import Layout from "../components/layout"
+import Post from '../components/post.js'
 
-export default () => (
-  <Layout headerText="not found">
-    <div class="post" style={{
-      textAlign: 'center',
-      fontSize:'2em',
-      padding:'2em'
-    }}>
+export default ({ location }) => (
+  <Layout>
+    <pre>{JSON.stringify(location)}</pre>
+    <Post slug={location.pathname} front={{
+      type: 'page',
+      slug: '404',
+      title: 'not found'
+    }} html={
+    `<div style="text-align:center;font-size:2em;padding:2em">
       i looked but its not there
-    </div>
+    </div>`}
+    tweetText={'@izs 404 ' + location.href}
+    />
   </Layout>
 )
