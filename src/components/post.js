@@ -7,7 +7,7 @@ import Taglist from './taglist.js'
 import './post.css'
 import Twitter from './twitter-link.js'
 
-export default ({ slug, front, html, tweetText, tweetUrl }) => (
+export default ({ slug, front, html }) => (
   <div class={`post ${front.type}`} id={front.slug}>
     <Title
       title={front.title}
@@ -34,7 +34,7 @@ export default ({ slug, front, html, tweetText, tweetUrl }) => (
           <span>{new Date(front.date).toISOString().slice(0,10)}</span>
         </Link>
         ) : ''}
-        <Twitter title={front.title} slug={slug} text={tweetText} link={tweetUrl} />
+        <Twitter title={front.title} slug={slug} />
       </p>
     </div>
   </div>
