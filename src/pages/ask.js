@@ -9,10 +9,10 @@ export default () => (
       slug:'ask',
       title:'Ask me whatever'
     }} html={
-      `<form action="https://formspree.io/i@izs.me" method="POST">
+      `<form action="https://formspree.io/i@izs.me" method="POST" netlify>
         <div>
           <label>from:
-            <input placeholder="me@domain.com" name="from" type="email" />
+            <input required placeholder="me@domain.com" name="from" type="email" />
           </label>
         </div>
         <div>
