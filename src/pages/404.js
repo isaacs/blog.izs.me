@@ -24,13 +24,6 @@ export default ({ location }) => (
         </div>
         <input type="submit" value="send it" />
       </form>
-      <div class="meta">
-        <span class="tweet"><a href={
-          'https://twitter.com/intent/tweet?text=@izs 404 ' +
-          location.href.replace(/&/g, '&amp;').replace(/"/g, '&quot') +
-          '&source=blog.izs.me&related=blog.izs.me'
-        }>tweet about it</a></span>
-      </div>
     </div>
   </Layout>
 )
