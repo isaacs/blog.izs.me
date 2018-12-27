@@ -4,7 +4,6 @@ import Post from '../components/post.js'
 
 export default ({ location }) => (
   <Layout>
-    <pre>{JSON.stringify(location)}</pre>
     <Post slug={location.pathname} front={{
       type: 'page',
       slug: '404',
