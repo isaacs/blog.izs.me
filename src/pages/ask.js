@@ -9,7 +9,8 @@ export default () => (
       slug:'ask',
       title:'Ask me whatever'
     }} html={
-      `<form name="AMA" method="POST" netlify>
+      `<form name="AMA" method="POST" data-netlify="true" data-netlify-honeypot="bot-field" netlify>
+        <input type="hidden" name="form-name" value="AMA" />
         <div>
           <label>from:
             <input required placeholder="me@domain.com" name="from" type="email" />
