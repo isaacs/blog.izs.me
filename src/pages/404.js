@@ -7,7 +7,7 @@ export default ({ location }) => (
   <Layout>
     <div class="post">
       <h1>not found</h1>
-      <form name="404 report" method="POST" netlify>
+      <form name="404-report" method="POST" netlify>
         <div>
           <label>from:
             <input placeholder="me@domain.com" name="from" type="email" required />
