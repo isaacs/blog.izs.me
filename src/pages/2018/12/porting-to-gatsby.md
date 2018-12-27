@@ -33,15 +33,15 @@ My initial impressions so far:
   handling was a bit of a confusing learning curve.  (Gatsby and
   Graphql make this both better and worse in different ways.)  JSX is
   an itchy sweater that I resent wearing.  It's not _hard_ to use, in
-  fact, it's pretty easy, but the ceremony feels excessive, and for
-  example switching between `{xyz}` in JSX and `${xyz}` in template
-  strings is annoying.
+  fact, it's pretty easy, but the ceremony feels excessive, and
+  switching between `{xyz}` in JSX and `${xyz}` in template strings is
+  annoying.
 
 - **Gatsby**: pretty effin rad.  I like it a lot.  Blends really nice
   dev-time hotswap experience with a powerful component model and an
   optimized static SSR build for production.
 
-  The docs are well written, and it has some, but there are not nearly
+  The docs are well written, and it has them, but there are not nearly
   enough.  As a result, they sometimes jump way too fast from "this is
   how you type codes into an editor" to "and then you use React
   components to..." The tutorials were frustrating at first because of
@@ -56,7 +56,7 @@ My initial impressions so far:
   everywhere, and they aren't all marked.
 
   That being said, it's extremely powerful, well thought-out, and fun
-  to use.  I believe this platform will mature _very_ nicely and more
+  to use.  I believe this platform will mature _very_ nicely as more
   docs and tutorials are added to fill in the blanks.
 
 - **Graphql**: confusing learning curve, still don't quite grok how
