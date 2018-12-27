@@ -7,14 +7,13 @@ export default ({ location }) => (
   <Layout>
     <div class="post">
       <h1>not found</h1>
-      <form action="https://formspree.io/i@izs.me" method="POST" netlify>
+      <form name="404 report" method="POST" action="https://formspree.io/i@izs.me">
         <div>
           <label>from:
             <input placeholder="me@domain.com" name="from" type="email" required />
           </label>
         </div>
         <div>
-          <input type="hidden" name="location" value={location.href} />
           <textarea name="message" rows="5" cols="50" required="true" style={{
             width:'100%',
             height:'300px',
@@ -22,6 +21,7 @@ export default ({ location }) => (
           {'missing page on your site: ' + location.href}
           </textarea>
         </div>
+        <input type="hidden" name="location" value={location.href} />
         <input type="submit" value="send it" />
       </form>
     </div>
