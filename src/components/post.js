@@ -34,7 +34,7 @@ export default ({ slug, front, html }) => (
           <span>{new Date(front.date).toISOString().slice(0,10)}</span>
         </Link>
         ) : ''}
-        <Twitter title={front.title} slug={front.slug} />
+        <Twitter title={front.title} slug={slug} />
       </p>
     </div>
   </div>
