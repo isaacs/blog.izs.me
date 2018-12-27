@@ -8,7 +8,7 @@ redirect_from:
 slug: merlin-bridesmaids-meet-megan-yeah-ill
 source:
   title: m.youtube.com
-  url: 'http://m.youtube.com/watch?v=6eTaP3vBUqg'
+  url: 'https://m.youtube.com/watch?v=6eTaP3vBUqg'
 tumblrid: 84034109019
 type: video
 via:
@@ -19,7 +19,7 @@ via:
 video:
   embed: >-
     <iframe width="500" height="281"
-    src="http://www.youtube.com/embed/6eTaP3vBUqg?feature=oembed"
+    src="https://www.youtube.com/embed/6eTaP3vBUqg?feature=oembed"
     frameborder="0" allowfullscreen></iframe>
   type: unknown
 ---

@@ -16,15 +16,15 @@ type: video
 video:
   embed: >-
     <object type="application/x-shockwave-flash" width="500" height="375"
-    data="http://www.flickr.com/apps/video/stewart.swf?v=71377"
+    data="https://www.flickr.com/apps/video/stewart.swf?v=71377"
     classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"> <param
     name="flashvars"
     value="intl_lang=en-us&photo_secret=300ac338a3&photo_id=3787936438&flickr_show_info_box=true"></param>
     <param name="movie"
-    value="http://www.flickr.com/apps/video/stewart.swf?v=71377"></param> <param
+    value="https://www.flickr.com/apps/video/stewart.swf?v=71377"></param> <param
     name="bgcolor" value="#000000"></param> <param name="allowFullScreen"
     value="true"></param><embed type="application/x-shockwave-flash"
-    src="http://www.flickr.com/apps/video/stewart.swf?v=71377" bgcolor="#000000"
+    src="https://www.flickr.com/apps/video/stewart.swf?v=71377" bgcolor="#000000"
     allowfullscreen="true"
     flashvars="intl_lang=en-us&photo_secret=300ac338a3&photo_id=3787936438&flickr_show_info_box=true"
     height="375" width="500"></embed></object>
