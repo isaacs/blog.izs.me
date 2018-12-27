@@ -17,9 +17,7 @@ export default ({ location }) => (
           <textarea name="message" rows="5" cols="50" required="true" style={{
             width:'100%',
             height:'300px',
-          }}>
-          {'missing page on your site: ' + location.href}
-          </textarea>
+          }}>{'missing page on your site: ' + location.href}</textarea>
         </div>
         <input type="hidden" name="location" value={location.href} />
         <input type="submit" value="send it" />
