@@ -8,7 +8,7 @@ redirect_from:
 slug: nodejs-and-empowering-n00bz
 tags:
   - javascript
-  - NodeJS
+  - nodejs
 title: NodeJS and Empowering n00bz
 tumblrid: 729604080
 type: text

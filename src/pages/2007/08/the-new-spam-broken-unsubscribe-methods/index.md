@@ -7,8 +7,8 @@ redirect_from:
   - /post/146671933
 slug: the-new-spam-broken-unsubscribe-methods
 tags:
-  - Broken
-  - The Business
+  - broken
+  - the business
 title: 'The New Spam: Broken Unsubscribe Methods'
 tumblrid: 146671933
 type: text

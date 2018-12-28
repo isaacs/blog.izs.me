@@ -7,8 +7,8 @@ redirect_from:
   - /post/146672347
 slug: adhd-and-web-development
 tags:
-  - Psychology of Programming
-  - Punditry
+  - psychology of programming
+  - punditry
 title: ADHD and Web Development
 tumblrid: 146672347
 type: text

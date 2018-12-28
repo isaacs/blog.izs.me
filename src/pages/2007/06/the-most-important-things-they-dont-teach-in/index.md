@@ -7,8 +7,8 @@ redirect_from:
   - /post/146671374
 slug: the-most-important-things-they-dont-teach-in
 tags:
-  - Code Beauty
-  - Code Ecosystems
+  - code beauty
+  - code ecosystems
 title: >-
   The Most Important Things They Don’t Teach in CompSci 101 (but should):
   Maintainability

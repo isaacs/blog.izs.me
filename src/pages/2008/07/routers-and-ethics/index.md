@@ -7,8 +7,8 @@ redirect_from:
   - /post/146672761
 slug: routers-and-ethics
 tags:
-  - Broken
-  - In the Minds of Users
+  - broken
+  - in the minds of users
 title: Routers and Ethics
 tumblrid: 146672761
 type: text

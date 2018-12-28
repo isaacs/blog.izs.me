@@ -7,8 +7,8 @@ redirect_from:
   - /post/146672022
 slug: blueprint-css-framework-vs-yui-grids
 tags:
-  - CSS
-  - Code Beauty
+  - css
+  - code beauty
 title: Blueprint CSS Framework vs YUI Grids
 tumblrid: 146672022
 type: text

@@ -7,8 +7,8 @@ redirect_from:
   - /post/146672649
 slug: steal-my-bash-profile
 tags:
-  - Freebie
-  - Tools of the Trade
+  - freebie
+  - tools of the trade
 title: Steal My Bash Profile
 tumblrid: 146672649
 type: text

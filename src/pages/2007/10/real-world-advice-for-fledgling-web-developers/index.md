@@ -7,7 +7,7 @@ redirect_from:
   - /post/146672308
 slug: real-world-advice-for-fledgling-web-developers
 tags:
-  - The Business
+  - the business
 title: Real World Advice for Fledgling Web Developers
 tumblrid: 146672308
 type: text

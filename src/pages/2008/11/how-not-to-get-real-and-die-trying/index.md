@@ -7,8 +7,8 @@ redirect_from:
   - /post/146672898
 slug: how-not-to-get-real-and-die-trying
 tags:
-  - Broken
-  - The Business
+  - broken
+  - the business
 title: How Not to Get Real (and die trying)
 tumblrid: 146672898
 type: text

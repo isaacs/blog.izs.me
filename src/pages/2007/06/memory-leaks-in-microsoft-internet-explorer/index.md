@@ -7,8 +7,8 @@ redirect_from:
   - /post/146671430
 slug: memory-leaks-in-microsoft-internet-explorer
 tags:
-  - Internet Exploder
-  - Javascript
+  - internet exploder
+  - javascript
 title: Memory Leaks in Microsoft Internet Explorer
 tumblrid: 146671430
 type: text

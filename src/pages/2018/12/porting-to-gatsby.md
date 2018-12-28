@@ -3,7 +3,7 @@ title: Porting to Gatsby
 slug: porting-to-gatsby
 date: 2018-12-27T00:06:04.146Z
 tags:
-  - Colophon
+  - colophon
   - about
   - react
   - webdevery

@@ -4,7 +4,7 @@ slug: discipline
 date: 2009-03-29T20:00:00.000Z
 tags:
   - snipsblog
-  - A statement on minimalism.
+  - a statement on minimalism.
 ---
 Find the minimum valuable creation.  
 Entities must not be multiplied beyond necessity.  

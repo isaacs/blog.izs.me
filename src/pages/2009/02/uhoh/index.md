@@ -4,7 +4,7 @@ slug: uhoh
 date: 2009-03-28T20:00:00.000Z
 tags:
   - snipsblog
-  - A slightly freaked out state of affairs.
+  - a slightly freaked out state of affairs.
 ---
 I *think* I *might* have just lost the whole archiving thing with `git rebase`.
 

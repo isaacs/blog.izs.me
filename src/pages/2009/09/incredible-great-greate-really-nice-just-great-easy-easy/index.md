@@ -8,10 +8,10 @@ redirect_from:
 slug: incredible-great-greate-really-nice-just-great-easy-easy
 tags:
   - adjectives
-  - APPL
-  - Steve Jobs
-  - Marketing
-  - Business
+  - appl
+  - steve jobs
+  - marketing
+  - business
 tumblrid: 189616865
 type: video
 video: >-

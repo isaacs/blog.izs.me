@@ -7,10 +7,10 @@ redirect_from:
   - /post/165476684
 slug: thomas-jefferson
 tags:
-  - TJ
+  - tj
   - politics
-  - Christian Nation
-  - American Secularity
+  - christian nation
+  - american secularity
 tumblrid: 165476684
 type: quote
 ---

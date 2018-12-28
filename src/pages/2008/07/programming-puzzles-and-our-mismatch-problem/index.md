@@ -7,9 +7,9 @@ redirect_from:
   - /post/146672737
 slug: programming-puzzles-and-our-mismatch-problem
 tags:
-  - 20/20 Hindsight
-  - Freebie
-  - The Business
+  - 20/20 hindsight
+  - freebie
+  - the business
 title: Programming Puzzles and Our Mismatch Problem
 tumblrid: 146672737
 type: text

@@ -7,9 +7,9 @@ redirect_from:
   - /post/146672674
 slug: the-internet-is-today-a-16-year-old-child
 tags:
-  - 20/20 Hindsight
-  - Bright Ideas Not Yet Realized
-  - Identity
+  - 20/20 hindsight
+  - bright ideas not yet realized
+  - identity
 title: The Internet is (today) a 16 year old child
 tumblrid: 146672674
 type: text

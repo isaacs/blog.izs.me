@@ -7,8 +7,8 @@ redirect_from:
   - /post/146671469
 slug: javascript-style-tip-use-in-and-delete
 tags:
-  - Code Beauty
-  - Javascript
+  - code beauty
+  - javascript
 title: 'Javascript Style Tip: Use "in" and "delete"'
 tumblrid: 146671469
 type: text

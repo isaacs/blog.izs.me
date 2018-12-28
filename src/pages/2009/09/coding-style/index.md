@@ -9,7 +9,7 @@ slug: coding-style
 tags:
   - richtaur
   - bromance
-  - Code Beauty
+  - code beauty
   - sistertrain
 title: Coding Style
 tumblrid: 178213849

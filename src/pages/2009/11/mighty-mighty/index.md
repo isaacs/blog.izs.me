@@ -8,7 +8,7 @@ redirect_from:
 slug: mighty-mighty
 tags:
   - mighty mighty mitochondria
-  - WTF!?
+  - wtf!?
   - biology
   - science
 title: Mighty Mighty

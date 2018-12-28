@@ -7,7 +7,7 @@ redirect_from:
   - /post/146671514
 slug: the-art-of-the-resume-why-you-probably-shouldnt
 tags:
-  - The Business
+  - the business
 title: 'The Art of the Resume: Why You Probably Shouldn''t Use MS Word '
 tumblrid: 146671514
 type: text

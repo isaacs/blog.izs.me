@@ -7,8 +7,8 @@ redirect_from:
   - /post/146672834
 slug: software-development-meme
 tags:
-  - 20/20 Hindsight
-  - Meme
+  - 20/20 hindsight
+  - meme
 title: Software Development Meme
 tumblrid: 146672834
 type: text

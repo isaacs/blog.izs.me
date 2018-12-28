@@ -4,7 +4,9 @@ slug: a-new-structure
 date: 2009-03-28T20:00:00.000Z
 tags:
   - snipsblog
-  - Move new structure to its proper place.  Fix new.sh so that it doesn't keep breaking.
+  - >-
+    move new structure to its proper place.  fix new.sh so that it doesn't keep
+    breaking.
 ---
 I updated the structure of my snips.
 

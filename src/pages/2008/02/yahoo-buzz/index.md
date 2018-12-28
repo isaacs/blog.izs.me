@@ -7,7 +7,7 @@ redirect_from:
   - /post/146672576
 slug: yahoo-buzz
 tags:
-  - Pushed Into the Wild
+  - pushed into the wild
 title: Yahoo! Buzz
 tumblrid: 146672576
 type: text

@@ -18,8 +18,8 @@ via:
     http://www.kungfugrippe.com/post/83942866578/bridesmaids-meet-megan-yeah-ill-say-it
 video: >-
   <iframe width="500" height="281"
-  src="https://www.youtube.com/embed/6eTaP3vBUqg?feature=oembed"
-  frameborder="0" allowfullscreen></iframe>
+  src="https://www.youtube.com/embed/6eTaP3vBUqg?feature=oembed" frameborder="0"
+  allowfullscreen></iframe>
 ---
 <p><a href="http://www.kungfugrippe.com/post/83942866578/bridesmaids-meet-megan-yeah-ill-say-it" class="tumblr_blog">merlin</a>:</p>
 

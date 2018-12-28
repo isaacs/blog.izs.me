@@ -7,8 +7,8 @@ redirect_from:
   - /post/146671880
 slug: yuis-module-pattern-vs-prototypes-class
 tags:
-  - Code Ecosystems
-  - Javascript
+  - code ecosystems
+  - javascript
 title: YUI's "Module Pattern" vs. Prototype's Class Function
 tumblrid: 146671880
 type: text

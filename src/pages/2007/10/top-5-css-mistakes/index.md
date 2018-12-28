@@ -7,9 +7,9 @@ redirect_from:
   - /post/146672329
 slug: top-5-css-mistakes
 tags:
-  - 20/20 Hindsight
-  - Broken
-  - CSS
+  - 20/20 hindsight
+  - broken
+  - css
 title: Top 5 CSS Mistakes
 tumblrid: 146672329
 type: text

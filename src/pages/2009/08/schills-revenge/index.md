@@ -16,8 +16,7 @@ type: video
 video: >-
   <object type="application/x-shockwave-flash" width="500" height="375"
   data="https://www.flickr.com/apps/video/stewart.swf?v=71377"
-  classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"> <param
-  name="flashvars"
+  classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"> <param name="flashvars"
   value="intl_lang=en-us&photo_secret=300ac338a3&photo_id=3787936438&flickr_show_info_box=true"></param>
   <param name="movie"
   value="https://www.flickr.com/apps/video/stewart.swf?v=71377"></param> <param

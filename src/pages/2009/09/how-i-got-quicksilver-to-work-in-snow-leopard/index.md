@@ -7,8 +7,8 @@ redirect_from:
   - /post/185543052
 slug: how-i-got-quicksilver-to-work-in-snow-leopard
 tags:
-  - Snow Leopard
-  - Quicksilver
+  - snow leopard
+  - quicksilver
   - how to
   - broken
 title: How I Got Quicksilver to Work in Snow Leopard

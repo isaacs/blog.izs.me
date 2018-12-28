@@ -7,9 +7,9 @@ redirect_from:
   - /post/146672781
 slug: why-im-not-working-on-my-startup-yet
 tags:
-  - Bright Ideas Not Yet Realized
-  - Psychology of Programming
-  - The Business
+  - bright ideas not yet realized
+  - psychology of programming
+  - the business
 title: Why I'm Not Working on My Startup (Yet)
 tumblrid: 146672781
 type: text

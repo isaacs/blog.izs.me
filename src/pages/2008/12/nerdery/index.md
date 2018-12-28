@@ -7,8 +7,8 @@ redirect_from:
   - /post/146672941
 slug: nerdery
 tags:
-  - Psychology of Programming
-  - Sustainability
+  - psychology of programming
+  - sustainability
 title: Nerdery
 tumblrid: 146672941
 type: text

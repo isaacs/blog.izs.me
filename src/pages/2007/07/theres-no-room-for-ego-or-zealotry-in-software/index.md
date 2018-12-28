@@ -7,8 +7,8 @@ redirect_from:
   - /post/146671584
 slug: theres-no-room-for-ego-or-zealotry-in-software
 tags:
-  - Code Ecosystems
-  - Sustainability
+  - code ecosystems
+  - sustainability
 title: There's no room for Ego or Zealotry in Software (especially on the web)
 tumblrid: 146671584
 type: text

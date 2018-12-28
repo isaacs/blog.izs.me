@@ -7,8 +7,8 @@ redirect_from:
   - /post/146672540
 slug: foo-hack-redesign-30
 tags:
-  - CSS
-  - Colophon
+  - css
+  - colophon
 title: Foo Hack Redesign 3.0
 tumblrid: 146672540
 type: text

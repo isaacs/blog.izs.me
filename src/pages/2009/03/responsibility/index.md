@@ -4,7 +4,7 @@ slug: responsibility
 date: 2009-04-09T20:00:00.000Z
 tags:
   - snipsblog
-  - Crazy realization that made me laugh.
+  - crazy realization that made me laugh.
 ---
 Sometimes I just can't believe how much Yahoo trusts me.  I'm basically rewriting the core javascript for a major project, and the justification is that I said we had to.
 

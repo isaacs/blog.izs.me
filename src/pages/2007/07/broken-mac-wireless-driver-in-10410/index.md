@@ -7,9 +7,9 @@ redirect_from:
   - /post/146671636
 slug: broken-mac-wireless-driver-in-10410
 tags:
-  - Broken
-  - Freebie
-  - Tools of the Trade
+  - broken
+  - freebie
+  - tools of the trade
 title: Broken Mac Wireless Driver in 10.4.10
 tumblrid: 146671636
 type: text

@@ -9,8 +9,8 @@ slug: emoticons
 tags:
   - emoji
   - emoticons
-  - Language
-  - Internet Culture
+  - language
+  - internet culture
 title: Emoticons
 tumblrid: 181447236
 type: text

@@ -7,8 +7,8 @@ redirect_from:
   - /post/146671732
 slug: marching-to-a-vertical-cadence
 tags:
-  - CSS
-  - Colophon
+  - css
+  - colophon
 title: Marching to a Vertical Cadence
 tumblrid: 146671732
 type: text

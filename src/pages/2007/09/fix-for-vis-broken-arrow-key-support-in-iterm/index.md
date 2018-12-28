@@ -7,8 +7,8 @@ redirect_from:
   - /post/146672251
 slug: fix-for-vis-broken-arrow-key-support-in-iterm
 tags:
-  - Broken
-  - Tools of the Trade
+  - broken
+  - tools of the trade
 title: Fix for Vi's broken arrow key support in iTerm
 tumblrid: 146672251
 type: text

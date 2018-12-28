@@ -7,9 +7,9 @@ redirect_from:
   - /post/146672279
 slug: applescript-for-iterm-and-a-request-for-help-with
 tags:
-  - Freebie
-  - Request
-  - Tools of the Trade
+  - freebie
+  - request
+  - tools of the trade
 title: Applescript for iTerm (and a request for help with it)
 tumblrid: 146672279
 type: text

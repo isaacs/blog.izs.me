@@ -7,9 +7,9 @@ redirect_from:
   - /post/146672596
 slug: needed-chpass-finger-and-pw-for-the-web
 tags:
-  - Bright Ideas Not Yet Realized
-  - Identity
-  - The Business
+  - bright ideas not yet realized
+  - identity
+  - the business
 title: 'Needed: chpass, finger, and pw for the web'
 tumblrid: 146672596
 type: text

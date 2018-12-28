@@ -7,7 +7,7 @@ redirect_from:
   - /post/146672879
 slug: my-letter-to-obama
 tags:
-  - Off Topic
+  - off topic
 title: My Letter to Obama
 tumblrid: 146672879
 type: text

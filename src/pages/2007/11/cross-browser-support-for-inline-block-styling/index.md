@@ -7,8 +7,8 @@ redirect_from:
   - /post/146672448
 slug: cross-browser-support-for-inline-block-styling
 tags:
-  - CSS
-  - Code Beauty
+  - css
+  - code beauty
 title: Cross Browser Support for inline-block Styling
 tumblrid: 146672448
 type: text

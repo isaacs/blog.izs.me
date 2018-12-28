@@ -7,10 +7,10 @@ redirect_from:
   - /post/146672962
 slug: css-vs-tables-youre-doing-it-wrong
 tags:
-  - CSS
-  - Code Beauty
-  - Code Ecosystems
-  - Sustainability
+  - css
+  - code beauty
+  - code ecosystems
+  - sustainability
 title: 'CSS vs Tables: You''re Doing It Wrong'
 tumblrid: 146672962
 type: text

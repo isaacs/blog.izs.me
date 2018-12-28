@@ -7,7 +7,7 @@ redirect_from:
   - /post/146672980
 slug: '1234567890'
 tags:
-  - Off Topic
+  - off topic
 title: '1234567890'
 tumblrid: 146672980
 type: text

@@ -7,9 +7,9 @@ redirect_from:
   - /post/146672206
 slug: whiting-out-ads-is-adblock-even-necessary
 tags:
-  - Broken
-  - In the Minds of Users
-  - The Business
+  - broken
+  - in the minds of users
+  - the business
 title: 'Whiting out ads: Is AdBlock even Necessary?'
 tumblrid: 146672206
 type: text

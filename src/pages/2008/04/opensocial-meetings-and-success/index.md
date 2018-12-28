@@ -7,8 +7,8 @@ redirect_from:
   - /post/146672608
 slug: opensocial-meetings-and-success
 tags:
-  - 20/20 Hindsight
-  - The Business
+  - 20/20 hindsight
+  - the business
 title: 'OpenSocial, Meetings, and Success'
 tumblrid: 146672608
 type: text

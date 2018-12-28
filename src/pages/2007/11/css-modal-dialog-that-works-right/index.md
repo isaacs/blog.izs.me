@@ -7,8 +7,8 @@ redirect_from:
   - /post/146672467
 slug: css-modal-dialog-that-works-right
 tags:
-  - CSS
-  - Freebie
+  - css
+  - freebie
 title: CSS Modal Dialog that Works Right
 tumblrid: 146672467
 type: text

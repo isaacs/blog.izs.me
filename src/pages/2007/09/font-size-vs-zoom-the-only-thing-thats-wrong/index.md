@@ -7,9 +7,9 @@ redirect_from:
   - /post/146672166
 slug: font-size-vs-zoom-the-only-thing-thats-wrong
 tags:
-  - Broken
-  - CSS
-  - In the Minds of Users
+  - broken
+  - css
+  - in the minds of users
 title: Font Size vs Zoom --- The only thing that's wrong with YUI's grids.css
 tumblrid: 146672166
 type: text

@@ -7,9 +7,9 @@ redirect_from:
   - /post/146672514
 slug: going-fast-frankenstein-and-refactoring
 tags:
-  - Broken
-  - Code Beauty
-  - Code Ecosystems
+  - broken
+  - code beauty
+  - code ecosystems
 title: 'Going Fast, Frankenstein, and Refactoring'
 tumblrid: 146672514
 type: text

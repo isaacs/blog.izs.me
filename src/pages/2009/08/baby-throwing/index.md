@@ -7,7 +7,7 @@ redirect_from:
   - /post/157047907
 slug: baby-throwing
 tags:
-  - WTF!?
+  - wtf!?
 tumblrid: 157047907
 type: video
 video: >-

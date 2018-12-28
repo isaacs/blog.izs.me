@@ -7,8 +7,8 @@ redirect_from:
   - /post/146672717
 slug: birthdays-10000-hours-and-the-myth-of-the-ding
 tags:
-  - 20/20 Hindsight
-  - Psychology of Programming
+  - 20/20 hindsight
+  - psychology of programming
 title: 'Birthdays, 10,000 Hours, and the Myth of the Ding'
 tumblrid: 146672717
 type: text

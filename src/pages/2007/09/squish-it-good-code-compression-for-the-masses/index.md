@@ -7,8 +7,8 @@ redirect_from:
   - /post/146672090
 slug: squish-it-good-code-compression-for-the-masses
 tags:
-  - Code Beauty
-  - Code Ecosystems
+  - code beauty
+  - code ecosystems
 title: Squish it good - Code compression for the masses
 tumblrid: 146672090
 type: text

@@ -7,8 +7,8 @@ redirect_from:
   - /post/146672492
 slug: surgical-team-or-motley-crew-of-adventurers
 tags:
-  - Code Ecosystems
-  - The Business
+  - code ecosystems
+  - the business
 title: Surgical Team or Motley Crew of Adventurers?
 tumblrid: 146672492
 type: text

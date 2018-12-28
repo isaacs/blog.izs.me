@@ -7,8 +7,8 @@ redirect_from:
   - /post/146671666
 slug: companies-dont-eat-your-brains
 tags:
-  - Sustainability
-  - The Business
+  - sustainability
+  - the business
 title: 'Companies, Don''t Eat Your Brains'
 tumblrid: 146671666
 type: text

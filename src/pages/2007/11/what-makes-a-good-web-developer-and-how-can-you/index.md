@@ -7,7 +7,7 @@ redirect_from:
   - /post/146672401
 slug: what-makes-a-good-web-developer-and-how-can-you
 tags:
-  - The Business
+  - the business
 title: 'What Makes a Good Web developer, and how can you tell?'
 tumblrid: 146672401
 type: text

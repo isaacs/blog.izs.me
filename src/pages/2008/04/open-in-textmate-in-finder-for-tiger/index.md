@@ -7,7 +7,7 @@ redirect_from:
   - /post/146672632
 slug: open-in-textmate-in-finder-for-tiger
 tags:
-  - Freebie
+  - freebie
 title: Open in TextMate in Finder for Tiger
 tumblrid: 146672632
 type: text

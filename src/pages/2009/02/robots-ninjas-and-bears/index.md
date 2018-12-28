@@ -1,10 +1,10 @@
 ---
-title: Robots, Ninjas, and Bears
+title: 'Robots, Ninjas, and Bears'
 slug: robots-ninjas-and-bears
 date: 2009-03-30T20:00:00.000Z
 tags:
   - snipsblog
-  - Three groups of things which one must never trust.
+  - three groups of things which one must never trust.
 ---
 ## Ninjas
 

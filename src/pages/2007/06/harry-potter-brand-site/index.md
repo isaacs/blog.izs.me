@@ -7,7 +7,7 @@ redirect_from:
   - /post/146671538
 slug: harry-potter-brand-site
 tags:
-  - Pushed Into the Wild
+  - pushed into the wild
 title: Harry Potter Brand Site
 tumblrid: 146671538
 type: text

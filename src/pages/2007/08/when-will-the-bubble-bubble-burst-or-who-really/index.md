@@ -7,8 +7,8 @@ redirect_from:
   - /post/146671830
 slug: when-will-the-bubble-bubble-burst-or-who-really
 tags:
-  - Punditry
-  - The Business
+  - punditry
+  - the business
 title: 'When will the Bubble Bubble burst? (Or: Who really listens to these pundits?)'
 tumblrid: 146671830
 type: text

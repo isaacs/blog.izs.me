@@ -7,9 +7,9 @@ redirect_from:
   - /post/146672859
 slug: the-haiku-ooo-email
 tags:
-  - Code Beauty
-  - Javascript
-  - Psychology of Programming
+  - code beauty
+  - javascript
+  - psychology of programming
 title: The Haiku OOO Email
 tumblrid: 146672859
 type: text

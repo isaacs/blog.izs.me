@@ -7,8 +7,8 @@ redirect_from:
   - /post/146671405
 slug: web-standards-nothing-succeeds-like-success
 tags:
-  - Code Ecosystems
-  - Sustainability
+  - code ecosystems
+  - sustainability
 title: 'Web Standards: Nothing Succeeds Like Success'
 tumblrid: 146671405
 type: text

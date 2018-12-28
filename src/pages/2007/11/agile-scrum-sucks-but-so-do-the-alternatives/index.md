@@ -7,8 +7,8 @@ redirect_from:
   - /post/146672429
 slug: agile-scrum-sucks-but-so-do-the-alternatives
 tags:
-  - Code Ecosystems
-  - The Business
+  - code ecosystems
+  - the business
 title: Agile Scrum Sucks (but so do the alternatives)
 tumblrid: 146672429
 type: text

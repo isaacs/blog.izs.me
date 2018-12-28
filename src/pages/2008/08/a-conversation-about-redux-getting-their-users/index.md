@@ -7,7 +7,7 @@ redirect_from:
   - /post/146672807
 slug: a-conversation-about-redux-getting-their-users
 tags:
-  - Beta Feedback
+  - beta feedback
 title: A Conversation about Redux Getting Their Users Laid
 tumblrid: 146672807
 type: text

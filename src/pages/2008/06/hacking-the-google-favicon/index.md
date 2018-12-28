@@ -7,8 +7,8 @@ redirect_from:
   - /post/146672691
 slug: hacking-the-google-favicon
 tags:
-  - Broken
-  - Freebie
+  - broken
+  - freebie
 title: Hacking the Google Favicon
 tumblrid: 146672691
 type: text
