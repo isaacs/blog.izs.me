@@ -4,6 +4,7 @@ slug: forgot
 date: 2010-07-28T20:00:00.000Z
 tags:
   - snipsblog
+  - forgetfully forgotten
 ---
 I totally forgot about this little blog.
 

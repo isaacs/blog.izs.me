@@ -4,6 +4,7 @@ slug: the-calm-of-exertion
 date: 2009-03-29T20:00:00.000Z
 tags:
   - snipsblog
+  - The calm of Exertion.
 ---
 Exerted and spent, and yet filled up and satisfied.  
 Like a cat in the sun.  
