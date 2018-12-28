@@ -99,15 +99,7 @@ const common = data => ({
 const audio = data => [
   {
     ...common(data),
-    audio: {
-      album_art: data.album_art,
-      source_url: data.audio_source_url,
-      type: data.audio_type,
-      url: data.audio_url,
-      embed: data.embed,
-      plays: data.plays,
-      track_name: data.track_name,
-    },
+    audio: data.embed,
   },
   data.caption
 ]
@@ -119,25 +111,15 @@ const video = data => {
   return [
     {
       ...common(data),
-      video: {
-        // the main thing that counts here is the embed code
-        // Tumblr does some fancy stuff with video embedding
-        // sometimes, but I don't think I'm going to actually
-        // write out that metadata, so screw it.  Just pick a
-        // size when writing the post, and go with that.
-        // Don't even really need the thumbnail bit.
-        type: data.video_type,
-        thumbnail: data.thumbnail_url ? {
-          height: data.thumbnail_height,
-          width: data.thumbnail_width,
-          url: data.thumbnail_url
-        } : undefined,
-        embed: data.player.sort((a, b) => {
-          return a.width - b.width
-        }).pop().embed_code,
-        permalink: data.permalink_url,
-        url: data.video_url,
-      },
+      // the main thing that counts here is the embed code
+      // Tumblr does some fancy stuff with video embedding
+      // sometimes, but I don't think I'm going to actually
+      // write out that metadata, so screw it.  Just pick a
+      // size when writing the post, and go with that.
+      // Don't even really need the thumbnail bit.
+      video: data.player.sort((a, b) => {
+        return a.width - b.width
+      }).pop().embed_code,
     },
     data.caption
   ]

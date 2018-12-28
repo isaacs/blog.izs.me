@@ -92,11 +92,13 @@ const photoSet = (set, width)  => {
     const rowHeightNum = row.map(p => p.scaleHeight).sort()[0]
     // scale each to that width, then take the smallest height
     const rowHeight = rowLen === 1 ? 'auto' : (rowHeightNum + 'px')
+    const widthCls = ('w-' + imgWidth).replace('.','-')
+    const heightCls = ('h-' + rowHeight).replace('.', '-')
 
-    const div = `<div class="photo w-${imgWidth} h-${rowHeight}">`
+    const div = `<div class="photo ${widthCls} ${heightCls}">`
     styles[`.photosettable .photo`] = `max-width:100%;overflow:hidden`
-    styles[`.photosettable .w-${imgWidth}`] = `width:${imgWidth}px`
-    styles[`.photosettable .h-${rowHeight}`] = `height:${rowHeight}`
+    styles[`.photosettable .${widthCls}`] = `width:${imgWidth}px`
+    styles[`.photosettable .${heightCls}`] = `height:${rowHeight}`
 
     // If an image's scaled height H is larger than the rowHeight R,
     // then make it pos:rel, top:R/2, margin-top:-(H/2)
@@ -216,8 +218,8 @@ module.exports = async ({ getNode, markdownNode, markdownAST }, pluginOptions) =
   const front = markdownNode.frontmatter
   const arg = { markdownNode, markdownAST, dir, width }
   const html = Array.isArray(front.photos) ? await photos(arg, front.photos)
-    : front.video && front.video.embed ? media(arg, front.video.embed)
-    : front.audio && front.audio.embed ? media(arg, front.audio.embed)
+    : front.video ? media(arg, front.video)
+    : front.audio ? media(arg, front.audio)
     : null
 
   if (html) {

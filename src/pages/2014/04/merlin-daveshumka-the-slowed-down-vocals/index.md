@@ -17,18 +17,11 @@ via:
   title: kung fu grippe
   url: >-
     http://www.kungfugrippe.com/post/82398447401/daveshumka-the-slowed-down-vocals-from-band-on
-video:
-  embed: >-
-    <iframe width="500" height="281"  id="youtube_iframe"
-    src="https://www.youtube.com/embed/SE49bsxGTFM?feature=oembed&amp;enablejsapi=1&amp;origin=https://safe.txmblr.com&amp;wmode=opaque"
-    frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope;
-    picture-in-picture" allowfullscreen></iframe>
-  permalink: 'https://www.youtube.com/watch?v=SE49bsxGTFM'
-  thumbnail:
-    height: 360
-    url: 'https://i.ytimg.com/vi/SE49bsxGTFM/hqdefault.jpg'
-    width: 480
-  type: youtube
+video: >-
+  <iframe width="500" height="281"  id="youtube_iframe"
+  src="https://www.youtube.com/embed/SE49bsxGTFM?feature=oembed&amp;enablejsapi=1&amp;origin=https://safe.txmblr.com&amp;wmode=opaque"
+  frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope;
+  picture-in-picture" allowfullscreen></iframe>
 ---
 <p><a href="http://www.kungfugrippe.com/post/82398447401/daveshumka-the-slowed-down-vocals-from-band-on" class="tumblr_blog">merlin</a>:</p>
 

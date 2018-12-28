@@ -16,11 +16,10 @@ via:
   title: Catbutt touchingmybutt
   url: >-
     http://pixiaq.tumblr.com/post/83851269167/adaytoromana-this-kinda-makes-me-uncomfortable
-video:
-  embed: >
-    <video controls width=500 height=500>
-      <source src="tumblr_n17q7q51i71qcecwv.mp4" type="video/mp4" />
-    </video>
+video: >-
+  <video controls width=500 height=500>
+    <source src="tumblr_n17q7q51i71qcecwv.mp4" type="video/mp4" />
+  </video>
 ---
 <p><a href="http://adaytoromana.tumblr.com/post/83780707755/this-kinda-makes-me-uncomfortable" class="tumblr_blog">adaytoromana</a>:</p>
 

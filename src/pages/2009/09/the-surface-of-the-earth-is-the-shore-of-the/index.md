@@ -8,18 +8,11 @@ redirect_from:
 slug: the-surface-of-the-earth-is-the-shore-of-the
 tumblrid: 196883049
 type: video
-video:
-  embed: >-
-    <iframe width="500" height="375"  id="youtube_iframe"
-    src="https://www.youtube.com/embed/zSgiXGELjbc?feature=oembed&amp;enablejsapi=1&amp;origin=https://safe.txmblr.com&amp;wmode=opaque"
-    frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope;
-    picture-in-picture" allowfullscreen></iframe>
-  permalink: 'https://www.youtube.com/watch?v=zSgiXGELjbc'
-  thumbnail:
-    height: 360
-    url: 'https://i.ytimg.com/vi/zSgiXGELjbc/hqdefault.jpg'
-    width: 480
-  type: youtube
+video: >-
+  <iframe width="500" height="375"  id="youtube_iframe"
+  src="https://www.youtube.com/embed/zSgiXGELjbc?feature=oembed&amp;enablejsapi=1&amp;origin=https://safe.txmblr.com&amp;wmode=opaque"
+  frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope;
+  picture-in-picture" allowfullscreen></iframe>
 ---
 <blockquote><p>The surface of the earth is the shore of the cosmic ocean.  Recently we&rsquo;ve waded in the waves, and the water seems inviting.</p></blockquote>
 

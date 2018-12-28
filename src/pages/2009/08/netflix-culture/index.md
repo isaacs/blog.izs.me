@@ -10,26 +10,24 @@ tags:
   - business
 tumblrid: 173999202
 type: video
-video:
-  embed: >-
-    <div style="width:425px;text-align:left" id="__ss_1798664"><a
-    style="font:14px Helvetica,Arial,Sans-serif;display:block;margin:12px 0 3px
-    0;text-decoration:underline;"
-    href="http://www.slideshare.net/reed2001/culture-1798664"
-    title="Culture">Culture</a><object style="margin:0px" width="500"
-    height="418"><param name="movie"
-    value="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=culture9-090801103430-phpapp02&stripped_title=culture-1798664"
-    /><param name="allowFullScreen" value="true"/><param
-    name="allowScriptAccess" value="always"/><embed
-    src="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=culture9-090801103430-phpapp02&stripped_title=culture-1798664"
-    type="application/x-shockwave-flash" allowscriptaccess="always"
-    allowfullscreen="true" width="500" height="418"></embed></object><div
-    style="font-size:11px;font-family:tahoma,arial;height:26px;padding-top:2px;">View
-    more <a style="text-decoration:underline;"
-    href="http://www.slideshare.net/">presentations</a> from <a
-    style="text-decoration:underline;"
-    href="http://www.slideshare.net/reed2001">Reed Hastings</a>.</div></div>
-  type: unknown
+video: >-
+  <div style="width:425px;text-align:left" id="__ss_1798664"><a
+  style="font:14px Helvetica,Arial,Sans-serif;display:block;margin:12px 0 3px
+  0;text-decoration:underline;"
+  href="http://www.slideshare.net/reed2001/culture-1798664"
+  title="Culture">Culture</a><object style="margin:0px" width="500"
+  height="418"><param name="movie"
+  value="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=culture9-090801103430-phpapp02&stripped_title=culture-1798664"
+  /><param name="allowFullScreen" value="true"/><param
+  name="allowScriptAccess" value="always"/><embed
+  src="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=culture9-090801103430-phpapp02&stripped_title=culture-1798664"
+  type="application/x-shockwave-flash" allowscriptaccess="always"
+  allowfullscreen="true" width="500" height="418"></embed></object><div
+  style="font-size:11px;font-family:tahoma,arial;height:26px;padding-top:2px;">View
+  more <a style="text-decoration:underline;"
+  href="http://www.slideshare.net/">presentations</a> from <a
+  style="text-decoration:underline;"
+  href="http://www.slideshare.net/reed2001">Reed Hastings</a>.</div></div>
 ---
 <p>Netflix is Doing It Right.</p>
 

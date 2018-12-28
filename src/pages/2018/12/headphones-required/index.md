@@ -10,17 +10,10 @@ tags:
   - 3d sound
 tumblrid: 181032433208
 type: video
-video:
-  embed: >-
-    <iframe width="500" height="281"  id="youtube_iframe"
-    src="https://www.youtube.com/embed/uFuZnlzbs_I?feature=oembed&amp;enablejsapi=1&amp;origin=https://safe.txmblr.com&amp;wmode=opaque"
-    frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope;
-    picture-in-picture" allowfullscreen></iframe>
-  permalink: 'https://www.youtube.com/watch?v=uFuZnlzbs_I'
-  thumbnail:
-    height: 360
-    url: 'https://i.ytimg.com/vi/uFuZnlzbs_I/hqdefault.jpg'
-    width: 480
-  type: youtube
+video: >-
+  <iframe width="500" height="281"  id="youtube_iframe"
+  src="https://www.youtube.com/embed/uFuZnlzbs_I?feature=oembed&amp;enablejsapi=1&amp;origin=https://safe.txmblr.com&amp;wmode=opaque"
+  frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope;
+  picture-in-picture" allowfullscreen></iframe>
 ---
 <p>Headphones required.</p>

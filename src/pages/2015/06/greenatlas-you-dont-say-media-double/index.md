@@ -13,11 +13,10 @@ via:
   title: everGreen
   url: >-
     https://greenatlas.tumblr.com/post/122119329555/you-dont-say-media-double-standards-about-black
-video:
-  embed: >
-    <video width=500 height=282 controls>
-        <source src="tumblr_nqbiy6GEU31ru2tm0.mp4" type="video/mp4">
-    </video>
+video: >-
+  <video width=500 height=282 controls>
+    <source src="tumblr_nqbiy6GEU31ru2tm0.mp4" type="video/mp4">
+  </video>
 ---
 <p><a href="http://greenatlas.tumblr.com/post/122119329555/you-dont-say-media-double-standards-about-black" class="tumblr_blog">greenatlas</a>:</p>
 

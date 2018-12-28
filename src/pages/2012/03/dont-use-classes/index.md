@@ -8,18 +8,11 @@ redirect_from:
 slug: dont-use-classes
 tumblrid: 19521376222
 type: video
-video:
-  embed: >-
-    <iframe width="500" height="375"  id="youtube_iframe"
-    src="https://www.youtube.com/embed/o9pEzgHorH0?feature=oembed&amp;enablejsapi=1&amp;origin=https://safe.txmblr.com&amp;wmode=opaque"
-    frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope;
-    picture-in-picture" allowfullscreen></iframe>
-  permalink: 'https://www.youtube.com/watch?v=o9pEzgHorH0'
-  thumbnail:
-    height: 360
-    url: 'https://i.ytimg.com/vi/o9pEzgHorH0/hqdefault.jpg'
-    width: 480
-  type: youtube
+video: >-
+  <iframe width="500" height="375"  id="youtube_iframe"
+  src="https://www.youtube.com/embed/o9pEzgHorH0?feature=oembed&amp;enablejsapi=1&amp;origin=https://safe.txmblr.com&amp;wmode=opaque"
+  frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope;
+  picture-in-picture" allowfullscreen></iframe>
 ---
 <p>Watch this video.  I really like a lot of what he has to say.  Two main comments:</p>
 

@@ -17,7 +17,7 @@ export default ({ headerText, older, newer, children }) => (
             headerLinks
           }
         }
-        sitePlugin (name:{eq:"gatsby-remark-photoset"}) {
+        sitePlugin (name:{eq:"gatsby-remark-tumble-media"}) {
           pluginOptions {
             maxWidth
           }

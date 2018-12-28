@@ -33,7 +33,7 @@ module.exports = {
       options: {
         plugins: [
           {
-            resolve:`gatsby-remark-photoset`,
+            resolve:`gatsby-remark-tumble-media`,
             options: {
               maxWidth: 700,
             }

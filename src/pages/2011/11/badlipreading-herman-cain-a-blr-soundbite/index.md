@@ -12,18 +12,11 @@ via:
   name: badlipreading
   title: Bad Lip Reading
   url: 'http://badlipreading.tumblr.com/post/12047299166'
-video:
-  embed: >-
-    <iframe width="500" height="281"  id="youtube_iframe"
-    src="https://www.youtube.com/embed/uE5xZKszXMQ?feature=oembed&amp;enablejsapi=1&amp;origin=https://safe.txmblr.com&amp;wmode=opaque"
-    frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope;
-    picture-in-picture" allowfullscreen></iframe>
-  permalink: 'https://www.youtube.com/watch?v=uE5xZKszXMQ'
-  thumbnail:
-    height: 360
-    url: 'https://i.ytimg.com/vi/uE5xZKszXMQ/hqdefault.jpg'
-    width: 480
-  type: youtube
+video: >-
+  <iframe width="500" height="281"  id="youtube_iframe"
+  src="https://www.youtube.com/embed/uE5xZKszXMQ?feature=oembed&amp;enablejsapi=1&amp;origin=https://safe.txmblr.com&amp;wmode=opaque"
+  frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope;
+  picture-in-picture" allowfullscreen></iframe>
 ---
 <p><a href="http://badlipreading.tumblr.com/post/12047299166" class="tumblr_blog">badlipreading</a>:</p>
 
