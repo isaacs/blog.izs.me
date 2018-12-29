@@ -2,8 +2,12 @@
 title: Will Happen, Happening, Happened - Rebecca Sugar
 slug: will-happen-happening-happened-rebecca-sugar
 date: 2018-12-28T23:40:47.435Z
-audio: |
-  <audio controls src="will-happen-happening-happened.mp3" />
+audio: <audio controls src="will-happen-happening-happened.mp3"></audio>
+tags:
+  - marceline
+  - adventure time
+  - time adventure
+  - right in the feels
 ---
     Time is an illusion that helps things make sense
     So we are always living in the present tense
