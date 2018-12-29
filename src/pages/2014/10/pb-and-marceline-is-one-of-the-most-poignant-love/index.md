@@ -19,6 +19,9 @@ redirect_from:
 slug: pb-and-marceline-is-one-of-the-most-poignant-love
 tags:
   - bubbline
+  - adventure time
+  - marceline
+  - bonnibel bubblegum
 tumblrid: 99517243813
 type: photo
 ---
