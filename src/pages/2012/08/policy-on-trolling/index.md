@@ -5,6 +5,8 @@ redirect_from:
   - /post/30036893703/
   - /post/30036893703/policy-on-trolling
   - /post/30036893703
+  - /post/30036893703/polic
+  - /post/30036893703/polic/
 slug: policy-on-trolling
 title: Policy on Trolling
 tumblrid: 30036893703
