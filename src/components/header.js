@@ -12,7 +12,7 @@ export default ({head, subhead, description, headerLinks}) => (<div id="head">
   <Link to={'/'} id="avatar" />
   <div id="header">
     <h1><Link to={'/'}>{head}</Link></h1>
-    <p class="description">{description}</p>
+    <p className="description">{description}</p>
     {headerLinks ? (
       <ul>
         {headerLinks.map(([url,name]) => (

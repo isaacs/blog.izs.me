@@ -6,10 +6,10 @@ export default ({older, newer}) => {
   if (older || newer) return (
     <div id="pagnav">
       { older ? (
-        <Link class="older" to={older}>Older</Link>
+        <Link className="older" to={older}>Older</Link>
       ) : '' }
       { newer ? (
-        <Link class="newer" to={newer}>Newer</Link>
+        <Link className="newer" to={newer}>Newer</Link>
       ) : '' }
     </div>
   )

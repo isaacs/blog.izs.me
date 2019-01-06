@@ -8,7 +8,7 @@ import './post.css'
 import Twitter from './twitter-link.js'
 
 export default ({ slug, front, html }) => (
-  <div class={`post ${front.type}`} id={front.slug}>
+  <div className={`post ${front.type}`} id={front.slug}>
     <Title
       title={front.title}
       slug={slug}
@@ -21,14 +21,14 @@ export default ({ slug, front, html }) => (
     }</pre>
     */}
 
-    <div class="postbody"
+    <div className="postbody"
       dangerouslySetInnerHTML={{ __html: html }} />
 
-    <div class="meta">
+    <div className="meta">
       <Via type="Via" {...front.via} />
       <Via type="Source" {...front.source} />
       <Taglist tags={front.tags} />
-      <p class="date">
+      <p className="date">
         {front.date ? (
         <Link to={slug}>
           <span>{new Date(front.date).toISOString().slice(0,10)}</span>

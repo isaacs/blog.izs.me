@@ -18,7 +18,7 @@ export default ({ title, slug, text, link }) => (
       }
     `}
     render={data => (
-      <span class="tweet"><a href={
+      <span className="tweet"><a href={
           'https://twitter.com/intent/tweet?' +
           querystring.encode({
             text: (text || `${
