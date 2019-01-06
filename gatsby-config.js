@@ -58,6 +58,9 @@ module.exports = {
               showLineNumbers: false,
             },
           },
+          {
+            resolve: `@weknow/gatsby-remark-twitter`,
+          },
         ],
       },
     },

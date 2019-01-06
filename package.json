@@ -3,6 +3,7 @@
   "version": "0.0.0",
   "description": "Writing and Stuff from Isaac Z. Schlueter",
   "dependencies": {
+    "@weknow/gatsby-remark-twitter": "github:isaacs/gatsby-remark-twitter#debug-opt-tests-better-embed-test",
     "gatsby": "^2.0.82",
     "gatsby-awesome-pagination": "^0.3.3",
     "gatsby-plugin-meta-redirect": "^1.1.1",
@@ -11,7 +12,7 @@
     "gatsby-remark-copy-linked-files": "^2.0.8",
     "gatsby-remark-images": "^3.0.1",
     "gatsby-remark-prismjs": "^3.2.0",
-    "gatsby-remark-tumble-media": "^1.0.3",
+    "gatsby-remark-tumble-media": "^1.0.4",
     "gatsby-source-filesystem": "^2.0.12",
     "gatsby-transformer-remark": "^2.1.19",
     "js-yaml": "^3.12.0",
