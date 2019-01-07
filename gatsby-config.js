@@ -5,7 +5,7 @@ module.exports = {
     name: `izs`,
     title: `blog.izs.me`,
     url: `https://blog.izs.me/`,
-    siteUrl: `https://blog.izs.me/`,
+    siteUrl: `https://blog.izs.me`,
     postsPerPage: 5,
     headerLinks: [
       ['https://twitter.com/izs', '@izs'],
