@@ -6,6 +6,7 @@
     "@weknow/gatsby-remark-twitter": "github:isaacs/gatsby-remark-twitter#debug-opt-tests-better-embed-test",
     "gatsby": "^2.0.82",
     "gatsby-awesome-pagination": "^0.3.3",
+    "gatsby-plugin-feed": "^2.0.11",
     "gatsby-plugin-meta-redirect": "^1.1.1",
     "gatsby-plugin-sharp": "^2.0.17",
     "gatsby-redirect-from": "^0.1.1",

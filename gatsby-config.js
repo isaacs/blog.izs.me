@@ -5,6 +5,7 @@ module.exports = {
     name: `izs`,
     title: `blog.izs.me`,
     url: `http://blog.izs.me/`,
+    siteUrl: `http://blog.izs.me/`,
     postsPerPage: 5,
     headerLinks: [
       ['https://twitter.com/izs', '@izs'],
@@ -21,6 +22,7 @@ module.exports = {
     }
   },
   plugins: [
+    `gatsby-plugin-feed`,
     {
       resolve: `gatsby-source-filesystem`,
       options: {
