@@ -4,8 +4,8 @@ module.exports = {
     description: `Writing and Stuff from Isaac Z. Schlueter`,
     name: `izs`,
     title: `blog.izs.me`,
-    url: `http://blog.izs.me/`,
-    siteUrl: `http://blog.izs.me/`,
+    url: `https://blog.izs.me/`,
+    siteUrl: `https://blog.izs.me/`,
     postsPerPage: 5,
     headerLinks: [
       ['https://twitter.com/izs', '@izs'],
