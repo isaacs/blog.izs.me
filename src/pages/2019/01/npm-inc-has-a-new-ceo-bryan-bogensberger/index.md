@@ -1,17 +1,19 @@
 ---
-type: link
 title: npm, Inc. has a new CEO, Bryan Bogensberger
 slug: npm-inc-has-a-new-ceo-bryan-bogensberger
 date: 2019-01-09T20:25:57.776Z
-link_url: https://blog.npmjs.org/post/181872197694/npm-inc-has-a-new-ceo-bryan-bogensberger
-link_publisher: npmjs.com
 tags:
   - npm, Inc.
   - leadership
   - startups
   - hiring
   - being a human founder
+via:
+  name: npmjs
+  url: https://blog.npmjs.org/post/181872197694/npm-inc-has-a-new-ceo-bryan-bogensberger
 ---
+[npmjs](https://blog.npmjs.org/post/181872197694/npm-inc-has-a-new-ceo-bryan-bogensberger)
+
 > Coming up as a software developer in Open Source, I’ve long believed
 > that the best path to success is to depend on the strengths of others.
 > One reason why I wrote a package manager in the first place was that I
