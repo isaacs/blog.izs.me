@@ -1,11 +1,11 @@
+const width = 700
 module.exports = {
   siteMetadata: {
     title: `blog.izs.me`,
     description: `Writing and Stuff from Isaac Z. Schlueter`,
     name: `izs`,
     title: `blog.izs.me`,
-    url: `https://blog.izs.me/`,
-    siteUrl: `https://blog.izs.me`,
+    url: `https://blog.izs.me`,
     postsPerPage: 5,
     headerLinks: [
       ['https://twitter.com/izs', '@izs'],
@@ -22,7 +22,10 @@ module.exports = {
     }
   },
   plugins: [
-    `gatsby-plugin-feed`,
+    {
+      resolve: `gatsby-plugin-feed`,
+      options: require('./rss-config.js'),
+    },
     {
       resolve: `gatsby-source-filesystem`,
       options: {
@@ -37,14 +40,14 @@ module.exports = {
           {
             resolve:`gatsby-remark-tumble-media`,
             options: {
-              maxWidth: 700,
+              maxWidth: width,
             }
           },
           `gatsby-remark-copy-linked-files`,
           {
             resolve: `gatsby-remark-images`,
             options: {
-              maxWidth: 700,
+              maxWidth: width,
               wrapperStyle: 'max-width:100% !important;'
             }
           },
