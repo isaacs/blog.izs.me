@@ -1,4 +1,5 @@
 ---
+type: link
 title: npm, Inc. has a new CEO, Bryan Bogensberger
 slug: npm-inc-has-a-new-ceo-bryan-bogensberger
 date: 2019-01-09T20:25:57.776Z
