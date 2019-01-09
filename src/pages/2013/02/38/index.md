@@ -15,6 +15,6 @@ type: chat
 | **David Fried** | 38" |
 | **Isaac Schlueter** | the circumference of a whale's penis |
 | **David Fried** | the amount of snow milford, ct got |
-| **Isaac Schlueter** | Also: http://en.wikipedia.org/wiki/Blue_whale_penis |
-|  | > 12 * Math.PI |
-|  | 37.69911184307752 |
+| **Isaac Schlueter** | Also: <http://en.wikipedia.org/wiki/Blue_whale_penis> |
+|  | `> 12 * Math.PI` |
+|  | `37.69911184307752` |

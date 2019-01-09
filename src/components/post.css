@@ -76,3 +76,15 @@ h1 + .postbody .media {
   margin: 0 0 0.5em;
   font-size: 2em;
 }
+
+.post.chat thead {
+  display:none;
+}
+
+.post.chat td strong {
+  padding-right:1.5em;
+}
+
+.post.chat tr:nth-child(odd) {
+   background-color: #f8f8f8;
+}
