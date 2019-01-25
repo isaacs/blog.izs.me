@@ -5,6 +5,8 @@ import PagNav from './pagnav.js'
 import './normalize.css'
 import './gibson/gibson.css'
 import './layout.css'
+import avatarImg from './avatar.jpg'
+import Helmet from 'react-helmet'
 
 export default ({ headerText, older, newer, children }) => (
   <StaticQuery
@@ -15,6 +17,7 @@ export default ({ headerText, older, newer, children }) => (
             title
             description
             headerLinks
+            twitter
           }
         }
         sitePlugin (name:{eq:"gatsby-remark-tumble-media"}) {
@@ -42,7 +45,12 @@ export default ({ headerText, older, newer, children }) => (
     }
     render={data => (
     <div id="wrapper">
-        <style>{/* all the properties depending on settings */`
+      <Helmet>
+        <meta property="og:image" content={avatarImg} />
+        <meta name="twitter:image" content={avatarImg} />
+        <meta name="twitter:site" content={'@' + data.site.siteMetadata.twitter} />
+      </Helmet>
+      <style>{/* all the properties depending on settings */`
 #content { width: ${data.sitePlugin.pluginOptions.maxWidth}px; }
 #pagnav { width:${data.sitePlugin.pluginOptions.maxWidth}px; }
 #header { max-width: ${data.sitePlugin.pluginOptions.maxWidth}px; }
