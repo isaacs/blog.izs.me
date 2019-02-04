@@ -5,6 +5,8 @@ redirect_from:
   - /post/48281998870/
   - /post/48281998870/unix-philosophy-and-nodejs
   - /post/48281998870
+  - /post/48281998870/unix-philosophy-and-node-js
+  - /post/48281998870/unix-philosophy-and-node-js/
 slug: unix-philosophy-and-nodejs
 title: Unix Philosophy and Node.js
 tumblrid: 48281998870
