@@ -5,7 +5,7 @@ date: 2019-04-30T16:00:00Z
 via:
   name: npmjs
   title: The npm Blog
-  url: https://blog.npmjs.org/post/184533216740/easy-automatic-npm-publishes
+  url: https://blog.npmjs.org/post/184553141742/easy-automatic-npm-publishes
 ---
 
 
