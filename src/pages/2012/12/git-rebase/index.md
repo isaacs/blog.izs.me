@@ -5,6 +5,8 @@ redirect_from:
   - /post/37650663670/
   - /post/37650663670/git-rebase
   - /post/37650663670
+  - /post/37650663670/git-rebase/embed
+  - /post/37650663670/git-rebase/embed/
 slug: git-rebase
 title: git-rebase
 tumblrid: 37650663670
