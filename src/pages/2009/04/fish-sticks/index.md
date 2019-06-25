@@ -5,6 +5,9 @@ date: 2009-04-17T20:00:00.000Z
 tags:
   - snipsblog
   - fish sticks
+redirect_from:
+  - /snips/2009-04-17/fish-sticks
+  - /snips/2009-04-17/fish-sticks/
 ---
 "I don't know why your fried potato story made me think of donuts."
 

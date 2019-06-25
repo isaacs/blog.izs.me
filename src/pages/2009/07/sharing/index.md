@@ -5,6 +5,9 @@ date: 2009-07-10T20:00:00.000Z
 tags:
   - snipsblog
   - archive
+redirect_from:
+  - /snips/2009-07-10/sharing
+  - /snips/2009-07-10/sharing/
 ---
 Sharing code is like sharing minds.  It is every bit as intimate as a relationship with a lover — moreso, perhaps.  
 

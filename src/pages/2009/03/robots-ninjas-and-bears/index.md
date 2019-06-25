@@ -5,6 +5,9 @@ date: 2009-03-30T20:00:00.000Z
 tags:
   - snipsblog
   - three groups of things which one must never trust.
+redirect_from:
+  - /snips/2009-03-30/robots-ninjas-and-bears/
+  - /snips/2009-03-30/robots-ninjas-and-bears
 ---
 ## Ninjas
 

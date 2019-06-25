@@ -7,6 +7,9 @@ tags:
   - >-
     move new structure to its proper place.  fix new.sh so that it doesn't keep
     breaking.
+redirect_from:
+  - /snips/2009-03-28/a-new-structure/
+  - /snips/2009-03-28/a-new-structure
 ---
 I updated the structure of my snips.
 

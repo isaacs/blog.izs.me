@@ -5,6 +5,9 @@ date: 2009-03-29T20:00:00.000Z
 tags:
   - snipsblog
   - the calm of exertion.
+redirect_from:
+  - /2009-03-29/the-calm-of-exertion
+  - /2009-03-29/the-calm-of-exertion/
 ---
 Exerted and spent, and yet filled up and satisfied.  
 Like a cat in the sun.  

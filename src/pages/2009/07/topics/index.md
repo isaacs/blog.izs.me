@@ -5,6 +5,9 @@ date: 2009-07-02T20:00:00.000Z
 tags:
   - snipsblog
   - archive
+redirect_from:
+  - /snips/2009-07-02/topics
+  - /snips/2009-07-02/topics/
 ---
 I keep coming back to one singular topic.  
 So I tell myself that I'm not going to write about that.  
