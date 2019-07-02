@@ -4,6 +4,7 @@ redirect_from:
   - /post/59142742143/designing-apis-for-asynchrony/
   - /post/59142742143/
   - /post/59142742143/designing-apis-for-asynchrony
+  - /post/59142742143/designing-apis-for-asynchrony.
   - /post/59142742143
 slug: designing-apis-for-asynchrony
 title: Designing APIs for Asynchrony
