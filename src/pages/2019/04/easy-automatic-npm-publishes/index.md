@@ -29,7 +29,7 @@ I am a huge fan of running tests with 100% test coverage.  It isn't a perfect
 guard against every problem out there, but it does keep me from doing stupid
 things, like assuming that I know what my program does.
 
-My go-to test library is [`tap`](https:/www.node-tap.org/), but you can do this
+My go-to test library is [`tap`](https://www.node-tap.org/), but you can do this
 with any testing library that supports code coverage.  If it doesn't support
 code coverage out of the box, you can use [`nyc`](https://istanbul.js.org/) to
 run any Node.js process with coverage tracking.
