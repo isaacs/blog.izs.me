@@ -5,6 +5,10 @@ redirect_from:
   - /post/88487057983/
   - /post/88487057983/lgt
   - /post/88487057983
+  - /post/88487057983/lg_t/
+  - /post/88487057983/lg_t
+  - /post/88487057983/lg-t/
+  - /post/88487057983/lg-t
 slug: lgt
 title: LG_T
 tumblrid: 88487057983
