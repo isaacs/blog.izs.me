@@ -11,7 +11,7 @@ and fronted by Cloudflare CDN.
 It was
 [imported](https://github.com/isaacs/blog.izs.me/tree/master/import)
 from in its previous home on Tumblr, and uses a
-[plugin](https://github.com/isaacs/blog.izs.me/tree/master/plugins/gatsby-remark-photoset)
+[plugin](https://github.com/isaacs/gatsby-remark-tumble-media/)
 that makes it possible to do a lot of tumblr-ish media things using
 markdown frontmatter yaml.
 
