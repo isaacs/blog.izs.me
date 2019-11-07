@@ -6,6 +6,8 @@ redirect_from:
   - /post/59142742143/designing-apis-for-asynchrony
   - /post/59142742143/designing-apis-for-asynchrony.
   - /post/59142742143
+  - /post/591427421%2043/designing-apis-for-asynchrony
+  - /post/591427421%2043/designing-apis-for-asynchrony/
 slug: designing-apis-for-asynchrony
 title: Designing APIs for Asynchrony
 tumblrid: 59142742143
