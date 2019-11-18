@@ -23,8 +23,8 @@ best, and unfortunately working at cross-purposes through no fault of
 their own.
 
 The names and places have been changed, but it is a true story.  I've
-heard this story a lot over the years in [my role at
-npm](https://blog.npmjs.org/post/181872197694/npm-inc-has-a-new-ceo-bryan-bogensberger).
+heard this story a lot over the years in my role at
+npm.
 
 ## Once Upon A Time...
 
