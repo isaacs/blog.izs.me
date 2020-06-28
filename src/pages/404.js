@@ -7,22 +7,9 @@ export default ({ location }) => (
   <Layout>
     <div class="post">
       <h1>not found</h1>
-      <form name="404-report" method="POST" netlify data-netlify="true" data-netlify-honeypot="bot-field">
-        <input type="hidden" name="form-name" value="404-report" />
-        <div>
-          <label>from:
-            <input placeholder="me@domain.com" name="from" type="email" required />
-          </label>
-        </div>
-        <div>
-          <textarea name="message" rows="5" cols="50" required="true" style={{
-            width:'100%',
-            height:'300px',
-          }}>{'missing page on your site: ' + location.href}</textarea>
-        </div>
-        <input type="hidden" name="location" value={location.href} />
-        <input type="submit" value="send it" />
-      </form>
+      <p>There used to be a form here to tell me about the missing page,
+        but it's being abused, so it's gone for now.</p>
+      <p>Sorry for the inconvenience.</p>
     </div>
   </Layout>
 )
