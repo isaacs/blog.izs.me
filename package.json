@@ -13,7 +13,7 @@
     "gatsby-remark-copy-linked-files": "^2.1.30",
     "gatsby-remark-images": "^3.1.32",
     "gatsby-remark-prismjs": "^3.3.23",
-    "gatsby-remark-tumble-media": "^1.2.0",
+    "gatsby-remark-tumble-media": "^1.2.3",
     "gatsby-source-filesystem": "^2.1.38",
     "gatsby-transformer-remark": "^2.6.37",
     "js-yaml": "^3.13.1",
@@ -26,6 +26,7 @@
   },
   "scripts": {
     "start": "gatsby develop",
+    "clean": "gatsby clean",
     "build": "gatsby build",
     "serve": "gatsby serve",
     "prod": "npm run build && npm run serve"

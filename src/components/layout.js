@@ -7,6 +7,7 @@ import './gibson/gibson.css'
 import './layout.css'
 import avatarImg from './avatar.jpg'
 import Helmet from 'react-helmet'
+import '../../static/photoset.css'
 
 export default ({ headerText, older, newer, children }) => (
   <StaticQuery

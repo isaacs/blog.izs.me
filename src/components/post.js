@@ -15,11 +15,20 @@ export default ({ slug, front, html }) => (
       link_url={front.link_url}
       link_publisher={front.link_publisher} />
 
-    {/*
+    {
+    /*
     <pre style={{ margin:0, overflow:"auto", width:"100%" }}>{
-      yaml.dump(front)
+      JSON.stringify(front)
     }</pre>
-    */}
+    */
+    }
+    {
+    /*
+    <pre style={{ margin:0, overflow:"auto", width:"100%" }}>{
+      html
+    }</pre>
+    */
+    }
 
     <div className="postbody"
       dangerouslySetInnerHTML={{ __html: html }} />

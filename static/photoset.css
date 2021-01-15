@@ -1,0 +1,75 @@
+.photosettable {
+  border-collapse: collapse;
+}
+.photosettable .rowcell, .photosettable .colcell {
+  border: solid #fff;
+}
+.photosettable .rowcell {
+  border-width: 10px 0;
+}
+.photosettable .colcell {
+  border-width: 0 10px;
+}
+.photosettable .photo {
+  max-width: 100%;
+  overflow: hidden;
+}
+.photosettable img {
+  width: 100%;
+  display: block;
+}
+.photosettable .h-506px{height:506px}
+.photosettable .h-180px{height:180px}
+.photosettable .h-123px{height:123px}
+.photosettable .h-495px{height:495px}
+.photosettable .h-226px{height:226px}
+.photosettable .c-506-511{position:relative;height:506px;top:253px;margin-top:-255px}
+.photosettable .h-335px{height:335px}
+.photosettable .h-295px{height:295px}
+.photosettable .c-180-183{position:relative;height:180px;top:90px;margin-top:-91px}
+.photosettable .c-222-224{position:relative;height:222px;top:111px;margin-top:-112px}
+.photosettable .h-205px{height:205px}
+.photosettable .h-188px{height:188px}
+.photosettable .w-335{width:335px}
+.photosettable .h-auto{height:auto}
+.photosettable .h-222px{height:222px}
+.photosettable .h-410px{height:410px}
+.photosettable .h-186px{height:186px}
+.photosettable .h-446px{height:446px}
+.photosettable .w-680{width:680px}
+.photosettable .c-188-210{position:relative;height:188px;top:94px;margin-top:-105px}
+.photosettable .h-258px{height:258px}
+.photosettable .w-220{width:220px}@media (max-width: 700px) {
+  .photosettable,
+  .photosettable tbody,
+  .photosettable tr,
+  .photosettable td,
+  .photosettable .photo,
+  .photosettable .ctr,
+  .photosettable img {
+    display: block!important;
+    width: 100%!important;
+    height: auto!important;
+    margin: 0!important;
+    box-sizing: border-box!important;
+    border: 0!important;
+  }
+  .photosettable,
+  .photosettable tbody,
+  .photosettable tr,
+  .photosettable td,
+  .photosettable .photo,
+  .photosettable .ctr {
+    position: static!important;
+  }
+  .photosettable td.colcell {
+    border: 10px solid #fff!important;
+    border-bottom: 0!important;
+  }
+  .photosettable {
+    border-bottom: 10px solid #fff!important;
+  }
+  .photosettable .photosettable {
+    border: 0!important;
+  }
+}

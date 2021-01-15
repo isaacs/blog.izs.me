@@ -15,8 +15,8 @@ export default ({head, subhead, description, headerLinks}) => (<div id="head">
     <p className="description">{description}</p>
     {headerLinks ? (
       <ul>
-        {headerLinks.map(([url,name]) => (
-          <li>{
+        {headerLinks.map(([url,name], id) => (
+          <li key={id}>{
             (/^https?:\/\//).test(url) ? (
               <a href={url}>{name}</a>
             ) : (<Link to={url}>{name}</Link>)
