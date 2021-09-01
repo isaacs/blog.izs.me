@@ -1,4 +1,4 @@
 _site/
 node_modules/
-/drafts/*
-!/drafts/.gitkeep
+src/drafts/*
+!src/drafts/.gitignore
