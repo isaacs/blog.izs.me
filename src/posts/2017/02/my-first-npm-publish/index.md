@@ -1,6 +1,10 @@
 ---
 layout: layouts/post.njk
 date: 2017-02-16T01:17:27.000Z
+tags:
+  - oss
+  - npm
+  - invention
 redirect_from:
   - /post/157295170418/my-first-npm-publish/
   - /post/157295170418/

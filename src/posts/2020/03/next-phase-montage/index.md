@@ -3,6 +3,8 @@ layout: layouts/post.njk
 title: Next Phase Montage
 tags:
   - startup life
+  - foundership
+  - the business
   - exiting
   - entering
   - phase shift

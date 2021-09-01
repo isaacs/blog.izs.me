@@ -12,7 +12,7 @@ tags:
   - appl
   - steve jobs
   - marketing
-  - business
+  - the business
 tumblrid: 189616865
 youtube: https://www.youtube.com/watch?v=Nx7v815bYUw
 ---

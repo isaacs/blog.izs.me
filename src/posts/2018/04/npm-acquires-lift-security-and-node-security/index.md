@@ -6,6 +6,10 @@ redirect_from:
   - /post/172797398293/
   - /post/172797398293/npm-acquires-lift-security-and-node-security
   - /post/172797398293
+tags:
+  - startup life
+  - the business
+  - foundership
 slug: npm-acquires-lift-security-and-node-security
 title: npm Acquires ^Lift Security and Node Security Platform
 tumblrid: 172797398293
