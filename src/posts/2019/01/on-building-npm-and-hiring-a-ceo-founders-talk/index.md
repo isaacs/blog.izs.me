@@ -2,8 +2,9 @@
 layout: layouts/post.njk
 title: On Building npm and Hiring a CEO - Founders Talk
 tags:
-  - business
+  - the business
   - foundership
+  - startup life
 slug: on-building-npm-and-hiring-a-ceo-founders-talk
 date: 2019-01-25T18:36:02.213Z
 type: audio

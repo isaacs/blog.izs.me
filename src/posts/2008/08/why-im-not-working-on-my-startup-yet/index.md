@@ -11,6 +11,8 @@ tags:
   - bright ideas not yet realized
   - psychology of programming
   - the business
+  - foundership
+  - startup life
 title: Why I'm Not Working on My Startup (Yet)
 tumblrid: 146672781
 type: text

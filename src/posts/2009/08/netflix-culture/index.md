@@ -8,7 +8,7 @@ redirect_from:
   - /post/173999202
 slug: netflix-culture
 tags:
-  - business
+  - the business
 tumblrid: 173999202
 type: video
 video: >-

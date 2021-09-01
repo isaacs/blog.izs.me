@@ -6,6 +6,8 @@ redirect_from:
   - /post/73420539709/
   - /post/73420539709/the-next-phase-of-nodejs
   - /post/73420539709
+tags:
+  - oss
 slug: the-next-phase-of-nodejs
 title: The Next Phase of Node.js
 tumblrid: 73420539709

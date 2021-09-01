@@ -9,7 +9,7 @@ redirect_from:
 slug: rob-gruhl-buying-a-new-car
 tags:
   - negotiation
-  - business
+  - the business
   - how to
 tumblrid: 156905341
 type: video

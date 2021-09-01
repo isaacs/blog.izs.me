@@ -1,6 +1,12 @@
 ---
 layout: layouts/post.njk
 date: 2015-09-16T20:09:48.000Z
+tags:
+  - startup life
+  - the business
+  - foundership
+  - apologies
+  - nvc
 redirect_from:
   - /post/129232935178/how-to-apologize/
   - /post/129232935178/

@@ -3,7 +3,7 @@ layout: layouts/post.njk
 title: OSS, Risk, and Compliance
 tags:
   - oss
-  - business
+  - the business
 date: 2019-01-16T19:32:23.550Z
 via:
   name: npmjs
