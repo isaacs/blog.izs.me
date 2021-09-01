@@ -15,6 +15,8 @@ type: text
 
 <p>This database is just what I&rsquo;ve been looking for!  It has all the features I need!  It&rsquo;s open source, actively maintained, and the documentation is so extensive!</p>
 
+<p>This is the most fun I've had since putting together that gokart as a kid!</p>
+
 <p>I can&rsquo;t wait to put it into production! &lt;3 &lt;3 &lt;3</p>
 
 <h3>Self Doubt</h3>
