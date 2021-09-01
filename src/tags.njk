@@ -13,7 +13,7 @@ pagination:
 layout: layouts/home.njk
 eleventyComputed:
   title: Tagged “{{ tag }}”
-permalink: /tags/{{ tag | slug }}/
+permalink: "{{ tag | tagPermalink }}/index.html"
 ---
 <h1>Tagged “{{ tag }}”</h1>
 
