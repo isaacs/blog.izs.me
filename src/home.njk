@@ -1,0 +1,36 @@
+---
+permalink: /
+layout: layouts/home.njk
+eleventyNavigation:
+  key: Home
+  order: 1
+---
+{% set maxPosts = collections.posts.length | min(8) %}
+
+<h2>Latest Posts</h2>
+
+{% set postslist = collections.posts | head(-8) %}
+{% set postslistCounter = collections.posts | length %}
+{% include "postslist.njk" %}
+
+<p>More can be found in <a href="{{ '/archive/' | url }}">the archive</a>.</p>
+
+<h2>More Stuff</h2>
+
+<p>I occasionally post things <a href="https://twitter.com/izs">on twitter</a>.
+I use automated blocking scripts with reckless abandon at times, usually for
+justifiable reasons.  If you find that I've blocked you, let me know, and I
+will typically unblock you swiftly.</p>
+
+<p>I am very active <a href="https://github.com/isaacs">on GitHub</a>, most
+often in the various projects related to <a
+href="https://www.npmjs.com/">npm</a> and <a
+href="https://node-tap.org/">tap</a>.</p>
+
+<p>GitHub is also my employer, but unless otherwise stated, and to the greatest
+extent possible, everything on this site reflects my opinions and thoughts, and
+not theirs.  More about my employment history can be found on <a
+href="https://izs.me">my resume</a>.</p>
+
+<p>If you would like to support this site, you may <a
+href="https://github.com/sponsors/isaacs">sponsor me</a>.</p>

@@ -1,0 +1,13 @@
+<table class="postlist"><tbody>
+{% for post in postslist | reverse %}
+  <tr class="postlist-item{% if post.url == url %} postlist-item-active{% endif %}">
+    <td><a href="{{ post.url | url }}" class="postlist-link"><time class="postlist-date" datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate }}</time></a></td>
+    <td><a href="{{ post.url | url }}" class="postlist-link">{% if post.data.title %}{{ post.data.title }}{% else %}{{ post.data.slug }}{% endif %}</span></a></td>
+    <!-- {% for tag in post.data.tags | filterTagList %}
+      {% set tagUrl %}/tags/{{ tag | slug }}/{% endset %}
+      <a href="{{ tagUrl | url }}" class="post-tag">{{ tag }}</a>
+    {% endfor %}
+    -->
+  </tr>
+{% endfor %}
+</tbody></table>

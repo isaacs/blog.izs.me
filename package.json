@@ -1,7 +1,8 @@
 {
-  "name": "eleventy-base-blog",
-  "version": "5.0.2",
-  "description": "A starter repository for a blog web site using the Eleventy static site generator.",
+  "name": "@isaacs/blog.izs.me",
+  "version": "2.0.0",
+  "description": "Writing and Stuff from Isaac Z. Schlueter",
+  "workspaces": [ "packages/*" ],
   "scripts": {
     "build": "eleventy",
     "watch": "eleventy --watch",
@@ -11,25 +12,21 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/11ty/eleventy-base-blog.git"
-  },
-  "author": {
-    "name": "Zach Leatherman",
-    "email": "zachleatherman@gmail.com",
-    "url": "https://zachleat.com/"
+    "url": "git://github.com/isaacs/blog.izs.me"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/11ty/eleventy-base-blog/issues"
+    "url": "https://github.com/isaacs/blog.izs.me/issues"
   },
-  "homepage": "https://github.com/11ty/eleventy-base-blog#readme",
-  "devDependencies": {
+  "homepage": "https://blog.izs.me/",
+  "dependencies": {
     "@11ty/eleventy": "^0.12.1",
     "@11ty/eleventy-navigation": "^0.3.2",
     "@11ty/eleventy-plugin-rss": "^1.1.1",
     "@11ty/eleventy-plugin-syntaxhighlight": "^3.1.2",
     "luxon": "^1.26.0",
     "markdown-it": "^12.1.0",
-    "markdown-it-anchor": "^8.1.2"
+    "markdown-it-anchor": "^8.1.2",
+    "cheerio": "^1.0.0-rc.10"
   }
 }

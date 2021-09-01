@@ -1,0 +1,11 @@
+{
+  "name": "@isaacs/njk-tumble",
+  "version": "0.0.0",
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.10",
+    "sharp": "^0.29.0"
+  }
+}
