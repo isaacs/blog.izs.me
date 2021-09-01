@@ -14,6 +14,10 @@ via:
   name: npmjs
   title: The npm Blog
   url: 'https://blog.npmjs.org/post/158718200065/announcing-free-orgs'
+tags:
+  - npm
+  - startup life
+  - the business
 ---
 <p><a href="http://blog.npmjs.org/post/158718200065/announcing-free-orgs" class="tumblr_blog">npmjs</a>:</p>
 
