@@ -11,6 +11,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPlugin(pluginRss);
   eleventyConfig.addPlugin(pluginSyntaxHighlight);
   eleventyConfig.addPlugin(pluginNavigation);
+  eleventyConfig.addPassthroughCopy('src/**/*.{jpg,png,gif,mp3,mp4,pdf,css}')
 
   // https://www.11ty.dev/docs/data-deep-merge/
   eleventyConfig.setDataDeepMerge(true);
@@ -18,8 +19,12 @@ module.exports = function(eleventyConfig) {
   // Alias `layout: post` to `layout: layouts/post.njk`
   eleventyConfig.addLayoutAlias("post", "layouts/post.njk");
 
+  eleventyConfig.addFilter('escapeHashes', s => {
+    return s.split('#').join(escape('#'))
+  })
+
   eleventyConfig.addFilter("readableDate", dateObj => {
-    return DateTime.fromJSDate(dateObj, {zone: 'utc'}).toFormat("dd LLL yyyy");
+    return DateTime.fromJSDate(dateObj, {zone: 'utc'}).toFormat("yyyy-LL-dd");
   });
 
   // https://html.spec.whatwg.org/multipage/common-microsyntaxes.html#valid-date-string
@@ -42,11 +47,39 @@ module.exports = function(eleventyConfig) {
   // Return the smallest number argument
   eleventyConfig.addFilter("min", (...numbers) => {
     return Math.min.apply(null, numbers);
-  });
+  })
 
   function filterTagList(tags) {
     return (tags || []).filter(tag => ["all", "nav", "post", "posts"].indexOf(tag) === -1);
   }
+
+  const cheerio = require('cheerio')
+  const { dirname, resolve } = require('path')
+  eleventyConfig.addNunjucksFilter("localImage", (content, page) => {
+    const $ = cheerio.load(content)
+    for (const img of $('img[src]')) {
+      const { src } = img.attribs
+      if (/^https?:/.test(src))
+        continue
+      img.attribs.src = resolve(dirname(page.filePathStem), img.attribs.src)
+    }
+    return $('body').html()
+  })
+
+  eleventyConfig.addNunjucksAsyncFilter("tumble", require('@isaacs/njk-tumble'))
+  eleventyConfig.addNunjucksFilter("postPermalink", (slug, page) => {
+    const { date, fileSlug } = page
+    if (!slug)
+      slug = fileSlug
+    const p = Date.parse(date)
+    if (!p)
+      return `/${slug}`
+    const d = new Date(p)
+    const pad = (n, s) => ('0'.repeat(s) + n.toString(10)).slice(-1 * s)
+    const y = pad(d.getUTCFullYear(), 4)
+    const m = pad(d.getUTCMonth() + 1, 2)
+    return `/${y}/${m}/${slug}`
+  })
 
   eleventyConfig.addFilter("filterTagList", filterTagList)
 
@@ -60,14 +93,10 @@ module.exports = function(eleventyConfig) {
     return filterTagList([...tagSet]);
   });
 
-  // Copy the `img` and `css` folders to the output
-  eleventyConfig.addPassthroughCopy("img");
-  eleventyConfig.addPassthroughCopy("css");
-
   // Customize Markdown library and settings:
   let markdownLibrary = markdownIt({
     html: true,
-    breaks: true,
+    breaks: false,
     linkify: true
   }).use(markdownItAnchor, {
     permalink: markdownItAnchor.permalink.ariaHidden({
@@ -77,7 +106,7 @@ module.exports = function(eleventyConfig) {
       level: [1,2,3,4],
     }),
     slugify: eleventyConfig.getFilter("slug")
-  });
+  })
   eleventyConfig.setLibrary("md", markdownLibrary);
 
   // Override Browsersync defaults (used only with --serve)
@@ -133,7 +162,7 @@ module.exports = function(eleventyConfig) {
 
     // These are all optional (defaults are shown):
     dir: {
-      input: ".",
+      input: "src",
       includes: "_includes",
       data: "_data",
       output: "_site"

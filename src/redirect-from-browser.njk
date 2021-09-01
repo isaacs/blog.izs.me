@@ -1,0 +1,42 @@
+---js
+{
+  pagination: {
+    data: "collections.all",
+    size: 1,
+    alias: "redirect",
+    before: data => {
+      const redirects = new Map()
+      for (const { url, data: { slug, redirect_from = [] }} of data) {
+        if (!Array.isArray(redirect_from) && typeof redirect_from !== 'string') {
+          console.error('invalid redirect_from', url, redirect_from)
+          continue
+        }
+        const redirFrom = Array.isArray(redirect_from) ? redirect_from
+          : [redirect_from]
+        redirFrom.push('/p/' + slug)
+        for (const f of redirFrom) {
+          const from = f.replace(/\/+$/, '')
+          redirects.set(from, { from, to: url })
+        }
+      }
+      return [...redirects.values()]
+    },
+    addAllPagesToCollections: false,
+  },
+  permalink: "{{ redirect.from }}/index.html",
+  eleventyExcludeFromCollections: true,
+}
+---
+<!DOCTYPE html>
+<html lang="en-US">
+  <meta charset="utf-8" />
+  <title>HTTP/1.1 301 Moved Permanently</title>
+  <link rel="canonical" href="{{ redirect.to | url }}" />
+  <script>
+    location = '{{ redirect.to | url }}';
+  </script>
+  <meta http-equiv="refresh" content="0; url={{ redirect.to | url }}" />
+  <meta name="robots" content="noindex" />
+  <h1>HTTP/1.1 301 Moved Permanently</h1>
+  <a href="{{ redirect.to | url }}">Location: {{ redirect.to }}</a>
+</html>

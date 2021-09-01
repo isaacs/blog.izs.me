@@ -1,0 +1,31 @@
+---js
+{
+  pagination: {
+    data: "collections.all",
+    size: Infinity,
+    alias: "redirect",
+    addAllPagesToCollections: false,
+  },
+  printRedirect: ({ data: { redirect_from = [], slug }, url }) => {
+    if (!Array.isArray(redirect_from) && typeof redirect_from !== 'string') {
+      console.error('invalid redirect_from', url, redirect_from)
+      return ''
+    }
+    const redirFrom = Array.isArray(redirect_from) ? redirect_from
+      : [redirect_from]
+    redirFrom.push('/p/' + slug)
+    const out = []
+    for (const from of redirFrom) {
+      out.push([from, url].join('\t'))
+    }
+    return out.join('\n') + '\n'
+  },
+  permalink: "/_redirects",
+  eleventyExcludeFromCollections: true,
+}
+---
+{%- for page in collections.all -%}
+  {%- if page.url and page.data.redirect_from -%}
+{{ printRedirect(page) }}
+  {%- endif -%}
+{%- endfor -%}

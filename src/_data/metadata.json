@@ -1,0 +1,20 @@
+{
+  "title": "blog.izs.me",
+  "url": "https://blog.izs.me/",
+  "language": "en",
+  "description": "Writing and Stuff from Isaac Z. Schlueter",
+  "feed": {
+    "subtitle": "Writing and Stuff from Isaac Z. Schlueter",
+    "filename": "feed.xml",
+    "path": "/feed/feed.xml",
+    "id": "https://blog.izs.me/"
+  },
+  "jsonfeed": {
+    "path": "/feed/feed.json",
+    "url": "https://blog.izs.me/feed/feed.json"
+  },
+  "author": {
+    "name": "Isaac Z. Schlueter",
+    "url": "https://izs.me/"
+  }
+}

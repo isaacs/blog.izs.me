@@ -1,0 +1,335 @@
+/* Colors */
+:root {
+  --lightgray: #e0e0e0;
+  --gray: #C0C0C0;
+  --darkgray: #333;
+  --navy: #17050F;
+  --blue: #082840;
+  --white: #fff;
+  --mono: Iosevka SS09, Iosevka, Consolas, Menlo, Monaco, "Andale Mono WT", "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Liberation Mono", "Nimbus Mono L", "Courier New", Courier, monospace;
+  --sans: -apple-system, system-ui, sans-serif;
+  --width: 700px;
+}
+
+@media (max-width: 700px) {
+  :root {
+    --width: 100%;
+  }
+  header div, main {
+    width: 90%!important;
+  }
+  header {
+    background-size: cover!important;
+  }
+  header div {
+    height: auto!important;
+    background-size:50px 50px!important;
+    background-position:top left!important;
+    padding-bottom: 15px!important;
+  }
+  header div a {
+    padding-left: 5px!important;
+  }
+  header div .home a {
+    padding-left: 55px!important;
+  }
+}
+
+
+/* Global stylesheet */
+html, body, div, p, h1, h2, h3, h4, h5, h6, pre, blockquote, table {
+  font-size: 16px;
+  box-sizing: border-box;
+}
+
+p {
+  margin: 1em 0;
+}
+
+small {
+  font-size: 80%!important;
+  opacity: 0.8;
+}
+
+h1, h2, h3 {
+  font-size: 200%;
+}
+h1, h2, h3, h4, h5, h6 {
+  margin: 1em 0;
+  font-weight: normal;
+}
+
+hr {
+  display:block;
+  padding: 0;
+  height: 4px;
+  border: none;
+  background: var(--lightgray);
+  width: 90%;
+  margin: 1em auto;
+}
+
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: var(--sans);
+  color: var(--darkgray);
+}
+header {
+  background: var(--white) url(/rainbow-rock.jpg) top center;
+  background-size: 100% 150px;
+  background-repeat: no-repeat;
+}
+header div, main {
+  width: var(--width);
+  margin: 0 auto;
+}
+p:last-child {
+  margin-bottom: 0;
+}
+p,
+.tmpl-post li,
+img {
+  max-width: var(--width);
+}
+p,
+.tmpl-post li {
+  line-height: 1.45;
+}
+a[href] {
+  color: var(--blue);
+}
+a[href]:visited {
+  color: var(--navy);
+}
+main {
+  padding: 1px 0 100px;
+  margin: -1px auto;
+  width: var(--width);
+}
+
+
+table {
+  margin: 1em 0;
+}
+table td,
+table th {
+  padding-right: 1em;
+}
+
+pre,
+code {
+  font-family: var(--mono);
+  line-height: 1.5;
+}
+pre {
+  font-size: 14px;
+  line-height: 1.375;
+  direction: ltr;
+  text-align: left;
+  white-space: pre;
+  word-spacing: normal;
+  word-break: normal;
+  -moz-tab-size: 2;
+  -o-tab-size: 2;
+  tab-size: 2;
+  -webkit-hyphens: none;
+  -moz-hyphens: none;
+  -ms-hyphens: none;
+  hyphens: none;
+  padding: 1em;
+  margin: .5em 0;
+  background-color: #f6f6f6;
+}
+code {
+  word-break: break-all;
+}
+.highlight-line {
+  display: block;
+  padding: 0.125em 1em;
+  text-decoration: none; /* override del, ins, mark defaults */
+  color: inherit; /* override del, ins, mark defaults */
+}
+
+/* allow highlighting empty lines */
+.highlight-line:empty:before {
+  content: " ";
+}
+/* avoid double line breaks when using display: block; */
+.highlight-line + br {
+  display: none;
+}
+
+.highlight-line-isdir {
+  color: #b0b0b0;
+  background-color: #222;
+}
+.highlight-line-active {
+  background-color: #444;
+  background-color: hsla(0, 0%, 27%, .8);
+}
+.highlight-line-add {
+  background-color: #45844b;
+}
+.highlight-line-remove {
+  background-color: #902f2f;
+}
+
+/* Header */
+header div ul, header div li,
+header div a {
+  text-decoration: none;
+  display: inline-block;
+  line-height: 50px;
+  height: 50px;
+  margin: 0;
+  padding: 0;
+}
+header .home {
+  font-weight:bold;
+  padding: 0;
+  display: inline-block;
+  font-size: 1em;
+  margin: 0;
+  padding: 0;
+}
+header div a {
+  padding: 0 0 0 1em;
+}
+header div .home a {
+  padding-left: 55px;
+}
+header div a:active, header div a:hover, header div a:focus { text-decoration: underline; }
+
+header div {
+    height: 50px;
+    margin: 0 auto;
+    border-radius: 25px;
+    background: #e0e0e0;
+    border: 2px solid magenta;
+
+    box-sizing: border-box;
+    width: var(--width);
+
+    display: block;
+    position: relative;
+    background: #e0e0e0 url(/headshot-50.jpg) left center;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+header {
+    padding: 50px 0;
+    box-sizing: border-box;
+}
+
+/* Nav */
+.nav {
+  padding: 0;
+  list-style: none;
+  display: inline-block;
+  margin: 0;
+}
+.nav-item {
+  display: inline-block;
+  margin: 0;
+}
+
+/* Posts list */
+.postlist {
+  border-collapse: collapse;
+  width: var(--width);
+}
+.postlist a {
+  text-decoration: none;
+}
+.postlist a:hover {
+  text-decoration: underline;
+}
+
+.post-date,
+.postlist-date {
+  white-space: pre;
+  text-decoration: none;
+  font-family: var(--mono);
+  padding-right: 10px;
+}
+.postlist tr:hover {
+  background: var(--lightgray);
+}
+.postlist tr {
+  border: solid #ccc;
+  border-width: 1px 0;
+}
+.postlist td {
+  padding: 0;
+}
+.postlist td a {
+  padding: 5px 0;
+  margin: 0;
+  display: block;
+}
+
+.post-footer * {
+  color: var(--gray);
+}
+.post-footer a {
+  text-decoration: none;
+  color: var(--gray);
+  color: inherit;
+}
+.post-footer a:visited {
+  color: inherit;
+}
+.post-footer a:hover,
+.post-footer a:active,
+.post-footer a:focus { text-decoration: underline }
+
+.post-tag {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 4px;
+  border: 2px solid #ccc;
+  font-size: 80%;
+  padding: 1px 4px;
+  margin: 2px;
+  text-decoration: none;
+}
+
+.post-tag:hover, .post-tag:active, .post-tag:focus {
+  background: #ccc;
+  text-decoration: underline;
+}
+
+blockquote {
+  margin: 1em 0;
+  padding: 0;
+  padding-left: 1em;
+  border-left: 4px solid var(--lightgray);
+}
+.tiktok-embed {
+  margin: 0;
+  padding: 0;
+  padding-left: 0;
+  border: none;
+}
+
+/* Direct Links / Markdown Headers */
+.direct-link {
+  font-family: var(--sans);
+  text-decoration: none;
+  font-style: normal;
+  margin-left: .1em;
+}
+a[href].direct-link,
+a[href].direct-link:visited {
+  color: transparent;
+}
+a[href].direct-link:focus,
+a[href].direct-link:focus:visited,
+:hover > a[href].direct-link,
+:hover > a[href].direct-link:visited {
+  color: #aaa;
+}
