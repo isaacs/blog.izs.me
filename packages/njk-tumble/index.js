@@ -89,17 +89,16 @@ const photoSet = async ({ page, dir, maxWidth, urlDir }, photos) => {
 const singlePhoto = (set, maxWidth) => {
   // just one photo, simple img tag will suffice
   const { url, alt, meta: { height, width }} = set[0][0]
-  const scaleWidth = maxWidth
-  const scaleHeight = scaleWidth / width * height
-  const style = `max-width:100%;width:${scaleWidth}px;height:${scaleHeight}px`
-  const imgTag = `
-  <img src="${url}"
-    alt="${alt}"
-    height="${scaleHeight}"
-    width="${scaleWidth}"
-    style="${style}">
-  `
-  return imgTag
+  const scaleHeight = round(maxWidth / width * height, 4)
+  const cls = `img-h${String(scaleHeight).replace(/\./g, '-')}`
+
+  const style = `<style type="text/css">
+img.${cls} {max-width:100%;width:${maxWidth}px;height:${scaleHeight}px;}
+@media (max-width: ${maxWidth}px) {
+  img.${cls} {max-width:100%!important;width:100%!important;height:auto!important;}
+}</style>`
+  const imgTag = `<img src="${url}" class="${cls}">`
+  return style + imgTag
 }
 
 const multiplePhotos = (set, maxWidth)  => {
@@ -122,9 +121,8 @@ const multiplePhotos = (set, maxWidth)  => {
     const imgWidth = (maxWidth - 10 - 10 * rowLen) / rowLen
     // get the scaled height of each photo
     row.forEach(photo => {
-      photo.scaleHeight = Math.floor(
-        photo.meta.height * imgWidth/photo.meta.width
-      )
+      const n = photo.meta.height * imgWidth/photo.meta.width
+      photo.scaleHeight = round(n, 2)
     })
     const rowHeightNum = row.map(p => p.scaleHeight).sort()[0]
     // scale each to that maxWidth, then take the smallest height
@@ -233,6 +231,8 @@ const audioWidth = (node, width) => {
   }
 }
 
+const round = (n, p) => Math.floor(n * Math.pow(10, p))/Math.pow(10,p)
+
 const mediaWidth = (node, width) => {
   if (!node || !node.length)
     return
@@ -240,7 +240,7 @@ const mediaWidth = (node, width) => {
   const startWidth = node.attr('width')
   const startHeight = node.attr('height')
 
-  const aspect = Math.floor(startHeight / startWidth * 10000) / 100
+  const aspect = round(startHeight / startWidth, 2) * 100
   if (isNaN(aspect)) {
     // don't know both height and width, so just set the width
     // to 100% and hope for the best!  Note that this is rare in
