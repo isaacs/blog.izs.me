@@ -81,6 +81,10 @@ module.exports = function(eleventyConfig) {
     return `/${y}/${m}/${slug}`
   })
 
+  const { kebabCase } = require('lodash')
+  eleventyConfig.addNunjucksFilter("tagPermalink", (tag) =>
+    `/tagged/${kebabCase(tag)}`)
+
   eleventyConfig.addFilter("filterTagList", filterTagList)
 
   // Create an array of all tags

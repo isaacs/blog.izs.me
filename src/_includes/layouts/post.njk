@@ -29,7 +29,7 @@ permalink: "{{ slug | postPermalink(page) }}/index.html"
 {%- set didFirstTag %}true{% endset -%}
 <p>
 {% endif -%}
-{%- set tagUrl %}/tags/{{ tag | slug }}/{% endset -%}
+{%- set tagUrl %}{{ tag | tagPermalink }}/{% endset -%}
 <a href="{{ tagUrl | url }}" class="post-tag">{{ tag }}</a>
 {%- endfor %}
 {%- if didFirstTag %}</p>{% endif -%}
