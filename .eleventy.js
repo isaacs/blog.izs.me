@@ -11,7 +11,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPlugin(pluginRss);
   eleventyConfig.addPlugin(pluginSyntaxHighlight);
   eleventyConfig.addPlugin(pluginNavigation);
-  eleventyConfig.addPassthroughCopy('src/**/*.{jpg,png,gif,mp3,mp4,pdf,css}')
+  eleventyConfig.addPassthroughCopy('src/**/*.{jpg,png,gif,mp3,mp4,pdf,css,ico}')
 
   // https://www.11ty.dev/docs/data-deep-merge/
   eleventyConfig.setDataDeepMerge(true);
