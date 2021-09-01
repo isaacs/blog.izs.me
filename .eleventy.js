@@ -67,6 +67,13 @@ module.exports = function(eleventyConfig) {
   })
 
   eleventyConfig.addNunjucksAsyncFilter("tumble", require('@isaacs/njk-tumble'))
+  eleventyConfig.addNunjucksFilter("draftPermalink", (slug, page) => {
+    const { date, fileSlug } = page
+    if (!slug)
+      slug = fileSlug
+    return `draft/${slug}`
+  })
+
   eleventyConfig.addNunjucksFilter("postPermalink", (slug, page) => {
     const { date, fileSlug } = page
     if (!slug)
