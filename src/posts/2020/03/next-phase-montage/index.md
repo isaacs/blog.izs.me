@@ -196,8 +196,8 @@ sign.</small>
 
 <small id="montagefn3" style="font-size: 0.8em"><a
 href="#montageref3">[3]</a>: Check out the date on the [post for that
-talk](https://yuiblog.com/blog/2009/09/29/video-github/).  Then note the
-date on [this
+talk](https://web.archive.org/web/20200406085446/https://yuiblog.com/blog/2009/09/29/video-github/).
+Then note the date on [this
 commit](https://github.com/npm/cli/commit/4626dfa73b7847e9c42c1f799935f8242794d020).
 It's like some kind of cryptic message from the past, and it's weirding me
 out, tbh.</small>
