@@ -15,9 +15,29 @@ try {
     throw e
 }
 
+const oembedAPI = {
+  youtube: 'https://www.youtube.com/oembed?url=',
+  vimeo: 'https://vimeo.com/api/oembed.json?url=',
+  tiktok: 'https://www.tiktok.com/oembed?url=',
+  soundcloud: 'https://soundcloud.com/oembed?format=json&url=',
+  twitter: 'https://publish.twitter.com/oembed?url=',
+}
+
 const tumble = async (page, data) => {
   const dir = dirname(page.inputPath)
-  const { photos, video, audio, youtube, vimeo, tiktok, soundcloud, videofile, maxWidth = 700 } = data
+  const {
+    photos,
+    video,
+    audio,
+    youtube,
+    vimeo,
+    tiktok,
+    twitter,
+    soundcloud,
+    videofile,
+    maxWidth = 700,
+  } = data
+
   const type = Array.isArray(photos) ? 'photoset'
     : tiktok ? 'tiktok'
     : youtube ? 'youtube'
@@ -26,15 +46,14 @@ const tumble = async (page, data) => {
     : video ? 'video'
     : audio ? 'audio'
     : videofile ? 'videofile'
+    : twitter ? 'twitter'
     : null
 
   const urlDir = dirname(page.filePathStem)
   const arg = { page, dir, urlDir, maxWidth }
+  const oembeds = Object.keys(oembedAPI)
   return type === 'photoset' ? await photoSet(arg, photos)
-    : type === 'youtube' ? await oembed(arg, 'youtube', youtube)
-    : type === 'vimeo' ? await oembed(arg, 'vimeo', vimeo)
-    : type === 'tiktok' ? await oembed(arg, 'tiktok', tiktok)
-    : type === 'soundcloud' ? await oembed(arg, 'soundcloud', soundcloud)
+    : oembeds.includes(type) ? await oembed(arg, type, data[type])
     : type === 'video' ? await media(arg, video)
     : type === 'audio' ? await audioFile(arg, audio)
     : type === 'videofile' ? await videoFile(arg, videofile)
@@ -177,40 +196,37 @@ const writeCss = (styles, maxWidth) => {
   }\n${overrides}\n</style>`
 }
 
-const oembedAPI = {
-  youtube: 'https://www.youtube.com/oembed?url=',
-  vimeo: 'https://vimeo.com/api/oembed.json?url=',
-  tiktok: 'https://www.tiktok.com/oembed?url=',
-  soundcloud: 'https://soundcloud.com/oembed?format=json&url=',
-}
+const oembed = (arg, api, url) => {
+  url = Array.isArray(url) ? url : [url]
+  return Promise.all(url.map(url => new Promise((done) => {
+    const oembedRoot = oembedAPI[api]
+    const oe = oembedRoot + encodeURIComponent(url)
+    const cacheFile = resolve(cache, hash(oe))
+    try {
+      done(readFileSync(cacheFile, 'utf8'))
+    } catch (e) {}
+    https.get(oe, res => {
+      if (res.statusCode !== 200)
+        return done('')
 
-const oembed = (arg, api, video) => new Promise((done) => {
-  const oembedRoot = oembedAPI[api]
-  const oe = oembedRoot + encodeURIComponent(video)
-  const cacheFile = resolve(cache, hash(oe))
-  try {
-    done(readFileSync(cacheFile, 'utf8'))
-  } catch (e) {}
-  https.get(oe, res => {
-    if (res.statusCode !== 200)
-      return done('')
-
-    const d = []
-    res.setEncoding('utf8')
-    res.on('data', c => d.push(c))
-    res.on('end', () => {
-      try {
-        const e = JSON.parse(d.join(''))
-        writeFileSync(cacheFile, e.html)
-        done(e.html)
-      } catch (er) {
-        console.error('failed doing oembed', arg, er)
-        /* istanbul ignore next */
-        done('')
-      }
+      const d = []
+      res.setEncoding('utf8')
+      res.on('data', c => d.push(c))
+      res.on('end', () => {
+        try {
+          const e = JSON.parse(d.join(''))
+          writeFileSync(cacheFile, e.html)
+          done(e.html)
+        } catch (er) {
+          console.error('failed doing oembed', arg, er)
+          /* istanbul ignore next */
+          done('')
+        }
+      })
     })
-  })
-}).then(data => media(arg, data))
+  }).then(data => media(arg, data))))
+    .then(content => content.join('\n'))
+}
 
 const media = ({ page, dir, urlDir, maxWidth }, embedHTML) => {
   const $ = cheerio.load(embedHTML)
