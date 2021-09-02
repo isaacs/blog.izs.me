@@ -2,7 +2,15 @@
 {% for post in postslist | reverse %}
   <tr class="postlist-item{% if post.url == url %} postlist-item-active{% endif %}">
     <td><a href="{{ post.url | url }}" class="postlist-link"><time class="postlist-date" datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate }}</time></a></td>
-    <td><a href="{{ post.url | url }}" class="postlist-link">{% if post.data.title %}{{ post.data.title }}{% else %}{{ post.data.slug }}{% endif %}</span></a></td>
+    <td><a href="{{ post.url | url }}" class="postlist-link">{%
+      if post.data.title
+        %}{{ post.data.title }}{%
+      elseif post.data.slug
+        %}{{ post.data.slug }}{%
+      else
+        %}{{ post.url }}{%
+      endif
+    %}</span></a></td>
   </tr>
 {% endfor %}
 </tbody></table>
