@@ -6,7 +6,7 @@ redirect_from:
   - /post/146671344/
   - /post/146671344/the-first-entry-in-the-foo-blog
   - /post/146671344
-slug: the-first-entry-in-the-foo-blog-asdfasdfasdf
+slug: the-first-entry-in-the-foo-blog
 tags:
   - foo
 title: The first entry in the Foo Blog
