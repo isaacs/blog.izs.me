@@ -22,7 +22,7 @@ A darkness that both thumbs its nose at surface-focused social progress, while n
 
 ### theme from flood
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/pJ9QQdH3IiQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{ page | tumble({ youtube: "https://www.youtube.com/watch?v=pJ9QQdH3IiQ" }) | safe }}
 
 <small>[736437158391603201](https://twitter.com/izs/status/736437158391603201)</small>
 Starting with the title and intro: "Why is the world in love again? Why are we marching hand in hand? Why are the ocean levels rising up?"
@@ -52,7 +52,7 @@ This is a flag planted in the ground of history, as if John and John wanted to b
 
 ### birdhouse
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/NhjSzjoU7OQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{ page | tumble({ youtube: "https://www.youtube.com/watch?v=NhjSzjoU7OQ" }) | safe }}
 
 <small>[736440751022739456](https://twitter.com/izs/status/736440751022739456)</small>
 As the majesty and grandeur of that final choral crescendo fades out, we meet the contradictory opening lines of Birdhouse in Your Soul:
@@ -145,7 +145,7 @@ It’s also interesting to note the lack of a fade-out. Birdhouse ends on its ow
 
 ### lucky ball and chain
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/z8au4eCVPis" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{ page | tumble({ youtube: "https://www.youtube.com/watch?v=z8au4eCVPis" }) | safe }}
 
 <small>[736797370017517568](https://twitter.com/izs/status/736797370017517568)</small>
 This is primarily a country western genre-piece, but fits nicely with Flood’s theme of being an upbeat telling of a sad story.
@@ -209,7 +209,7 @@ The next line introduces the first reference to "whistling" in the album. (More 
 <small>[736811234922663938](https://twitter.com/izs/status/736811234922663938)</small>
 It’s also an explicit melodic and lyrical call out to Darlene Love’s "Today I Met the Boy I’m Gonna Marry"
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/V4XbzYc4E7M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{ page | tumble({ youtube: "https://www.youtube.com/watch?v=V4XbzYc4E7M" }) | safe }}
 
 <small>[736812047866810368](https://twitter.com/izs/status/736812047866810368)</small>
 "He smiled at me and then the music started playing  
@@ -292,7 +292,7 @@ Up next: Istanbul (Not Constantinople)
 <small>[736823779385442304](https://twitter.com/izs/status/736823779385442304)</small>
 This is the only cover on the album. If you’re not familiar with it, check out the 4 Lads version:
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Wcze7EGorOk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{ page | tumble({ youtube: "https://www.youtube.com/watch?v=Wcze7EGorOk" }) | safe }}
 
 <small>[737151718450855936](https://twitter.com/izs/status/737151718450855936)</small>
 The 4 Lads version is a bouncy playful rounded barbershop swing song. It’s light. It’s cute.
@@ -331,7 +331,7 @@ Very few people today realize that this is even a cover.
 
 Also, remember this?
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/IqJXxHi6RwQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{ page | tumble({ youtube: "https://www.youtube.com/watch?v=IqJXxHi6RwQ" }) | safe }}
 
 <small>[737158510685736961](https://twitter.com/izs/status/737158510685736961)</small>
 I don’t have much to say about this song from a critical point of view, but if you ever see @tmbg live, pray that they play Istanbul.
@@ -366,7 +366,7 @@ IS TAN BULLL…
 
 ### dead
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/bPgXYPJC2uA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{ page | tumble({ youtube: "https://www.youtube.com/watch?v=bPgXYPJC2uA" }) | safe }}
 
 <small>[737162032537948161](https://twitter.com/izs/status/737162032537948161)</small>
 What follows is a plodding series of chords on the piano, in 4/4 time, the pace of walking up stairs carrying groceries in each arm.
@@ -478,7 +478,7 @@ Dead cares so little about even the most existential crisis possible, ending as 
 
 ### your racist friend
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/JFGQdvYIJ0M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{ page | tumble({ youtube: "https://www.youtube.com/watch?v=JFGQdvYIJ0M" }) | safe }}
 
 <small>[737175739775090689](https://twitter.com/izs/status/737175739775090689)</small>
 And we move on to Your Racist Friend, which is about caring too much to just sit by quietly and let things go.
@@ -512,7 +512,7 @@ Sorry for the out of order critical analysis. Twitter, amirite?
 <small>[738631720874868736](https://twitter.com/izs/status/738631720874868736)</small>
 According to John Linnell, TMBG didn’t realize that there was already a similar song by this title:
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/gqH_0LPVoho" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{ page | tumble({ youtube: "https://www.youtube.com/watch?v=gqH_0LPVoho" }) | safe }}
 
 <small>[738633068630528000](https://twitter.com/izs/status/738633068630528000)</small>
 While Racist Friend is a very well crafted song, a lot of Flood fans consider it by far the least interesting on the album.
@@ -562,7 +562,7 @@ From the extremely relatable situation of conflicting with one’s friends’ fr
 <small>[738640597859196928](https://twitter.com/izs/status/738640597859196928)</small>
 This was another song (along with Istanbul) that was put to a Tiny Toons video:
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/LsAiCs66l40" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{ page | tumble({ youtube: "https://www.youtube.com/watch?v=LsAiCs66l40" }) | safe }}
 
 <small>[1055968817942130688](https://twitter.com/izs/status/1055968817942130688)</small>
 Particle Man is such a weird song to try to unpack, and in fact, I'm marking myself as a TMBG nerd by even considering it. According to The Johns, it has no meaning at all. [It just is what it is.](http://tmbw.net/wiki/Particle_Man)
@@ -597,13 +597,13 @@ In the context of the album, Particle Man's cosmic nihilism sits right between t
 
 ### twisting
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/j0jNgo6Ar4Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{ page | tumble({ youtube: "https://www.youtube.com/watch?v=j0jNgo6Ar4Q" }) | safe }}
 
 <small>[1058866456929034240](https://twitter.com/izs/status/1058866456929034240)</small>
 "Twisting" is a deliciously tangled knot of cultural references, and in many ways, encapsulates the essence of Flood more than any other song on the album.  
 The opening bars are reminiscent of Twisting By The Pool by Dire Straits.
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/DsJ5aYK-S6Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{ page | tumble({ youtube: "https://www.youtube.com/watch?v=DsJ5aYK-S6Y" }) | safe }}
 
 <small>[1058867440807948290](https://twitter.com/izs/status/1058867440807948290)</small>
 The song is explicitly influenced by the two bands mentioned, the dB's and the Young Fresh Fellows. (Both worth checking out if you dig TMBG.) Flans told Rolling Stone "Amplifier" was "a more melodramatic iteration of the same idea." (CW suicide if you look up that song.)
@@ -611,7 +611,7 @@ The song is explicitly influenced by the two bands mentioned, the dB's and the Y
 <small>[1058868089335373824](https://twitter.com/izs/status/1058868089335373824)</small>
 For me, the dB's "Neverland" has more in common with this song in terms of feel and concept.
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/hfpli2VQtZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{ page | tumble({ youtube: "https://www.youtube.com/watch?v=hfpli2VQtZU" }) | safe }}
 
 As much as Intro's explicit reference to 1990, this song is rooted in the late-80s indie rock scene. Flood is, as mentioned above, of a specific time and place.
 
@@ -644,7 +644,7 @@ Musically, this is one of my favorite songs on the album. It's at first listen a
 
 ### we want a rock
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ZH34Fx9meSA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{ page | tumble({ youtube: "https://www.youtube.com/watch?v=ZH34Fx9meSA" }) | safe }}
 
 <small>[1058871977522323456](https://twitter.com/izs/status/1058871977522323456)</small>
 I've always felt like the first few bars of We Want A Rock feel like maybe Twisting just had a bit more to say. The one song flows right into the other, but apart from that transition, they really couldn't be more different. This is a very well sequenced album.
@@ -674,7 +674,7 @@ The idea that "everybody wants a rock to wind a piece of string around" is the c
 <small>[1058876867141263360](https://twitter.com/izs/status/1058876867141263360)</small>
 The line "If I were a carpenter" is a reference to the 1967 Tim Hardin song about staying with a lover of humble means. The reference contrasts with the breakup anthems, while calling back to Lucky Ball and Chain's railroad apartment (the "perfect place")
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/K6NcbHokih8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{ page | tumble({ youtube: "https://www.youtube.com/watch?v=K6NcbHokih8" }) | safe }}
 
 <small>[1058877354057945089](https://twitter.com/izs/status/1058877354057945089)</small>
 The song's chorus has several references to infancy. Crib doors, crawl inside, the play-house. And the nameless oppressors who "want to burn the playhouse down", to stop the people who want big prosthetic foreheads on their real heads.
@@ -700,7 +700,7 @@ The second side gets weirder, darker, and even more magnificent. Stay tuned.
 
 ### chair
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/5pud7rt4KhU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{ page | tumble({ youtube: "https://www.youtube.com/watch?v=5pud7rt4KhU" }) | safe }}
 
 <small>[1082131096337145859](https://twitter.com/izs/status/1082131096337145859)</small>
 Side 2 starts with a trilogy of songs about the modern workplace, which increase in intensity as they progress. ["Work is Hell" is kind of a thing for TMBG.](http://tmbw.net/wiki/Aversion_To_Work)
@@ -734,7 +734,7 @@ The song ends with a bang, with pretty much the same energy level that it starte
 
 ### hearing aid
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/wMF6Jpm5cvQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{ page | tumble({ youtube: "https://www.youtube.com/watch?v=wMF6Jpm5cvQ" }) | safe }}
 
 <small>[1082131689936019456](https://twitter.com/izs/status/1082131689936019456)</small>
 "Hearing Aid" dives more directly into the malaise and angst of working a soulless office job. Behind the opening chords, we hear unspecified machines cranking away. It goes a pretty long time before the lyrics start.
@@ -762,7 +762,7 @@ The narrator is turning off their fucks given. They sarcastically ask for more c
 <small>[1082132025157402624](https://twitter.com/izs/status/1082132025157402624)</small>
 Apparently by accident, TMBG release another song, Glean, 25 years later, with an alto sax line that closely mimics Hearing Aid's melody.
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/EapAXU441F8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{ page | tumble({ youtube: "https://www.youtube.com/watch?v=EapAXU441F8" }) | safe }}
 
 <small>[1082132066022506496](https://twitter.com/izs/status/1082132066022506496)</small>
 Compared with Chair's manic energy, Hearing Aid is morose and croony. I love this song so much. There are literally vacuum sounds in the middle. It doesn't "end" so much as just "give up".
@@ -777,7 +777,7 @@ As the noise winds down, it leads right into Minimum Wage, the third act in the 
 
 ### minimum wage
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/SRcRn_Xv7Ek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{ page | tumble({ youtube: "https://www.youtube.com/watch?v=SRcRn_Xv7Ek" }) | safe }}
 
 <small>[1082132790232080384](https://twitter.com/izs/status/1082132790232080384)</small>
 The lyrics could hardly be more minimal. "Minimum wage, HYAH!" *whipcrack*
@@ -792,7 +792,7 @@ Fun fact: no whips were used in the production of the whipcrack. The wind bit is
 
 ### letterbox
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/gkBTQX4VwqI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{ page | tumble({ youtube: "https://www.youtube.com/watch?v=gkBTQX4VwqI" }) | safe }}
 
 <small>[1082136493760569346](https://twitter.com/izs/status/1082136493760569346)</small>
 The next song, Letterbox, is a palate cleanser mood-wise, and can be interpreted a lot of ways. The simplest, and probably closest to its authors' intent, is essentially just an extended tongue-twister with some callbacks to various cliches and sayings.
@@ -840,7 +840,7 @@ Up next, as on the nose as can be, "Whistling in the Dark"
 
 ### whistling
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/pBN4sOQbYxk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{ page | tumble({ youtube: "https://www.youtube.com/watch?v=pBN4sOQbYxk" }) | safe }}
 
 <small>[1274246000136253440](https://twitter.com/izs/status/1274246000136253440)</small>
 Of course, the title "whistling in the dark" or "whistling past the graveyard" implies keeping one's spirits high, even though there is something scary. Sometimes that's the right thing to do, but it can also lead one astray if legitimate danger goes unnoticed.
@@ -880,7 +880,7 @@ In classic TMBG and Flood fashion, Whistling is a layer cake of darkness and fri
 
 ### hot cha
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/7RUR-k3O3TY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{ page | tumble({ youtube: "https://www.youtube.com/watch?v=7RUR-k3O3TY" }) | safe }}
 
 <small>[1274255344902893568](https://twitter.com/izs/status/1274255344902893568)</small>
 The third song in this sequence is Hot Cha, bringing us back onto the subject of wayward offspring.
@@ -960,7 +960,7 @@ After Hot Cha's decisive ending, we have another grand epic in Women And Men, si
 
 ### women and men
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/bwX2P0x9lu8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{ page | tumble({ youtube: "https://www.youtube.com/watch?v=bwX2P0x9lu8" }) | safe }}
 
 <small>[1274435456461975553](https://twitter.com/izs/status/1274435456461975553)</small>
 Women and Men can be seen as a celebration of the whole human expansion project. The ship runs out of ocean and runs aground. What's in the ship? Women and men, bringing with them messages of love, and everywhere they go, love will grow.
@@ -1001,7 +1001,7 @@ There is SO much to say about this song. If Birdhouse and Particle Man are the s
 <small>[1274441334724587520](https://twitter.com/izs/status/1274441334724587520)</small>
 The title is from this short weird piece by the same name, from the Mahavishnu Orchestra
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/CFVtZKC9RLA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{ page | tumble({ youtube: "https://www.youtube.com/watch?v=CFVtZKC9RLA" }) | safe }}
 
 <small>[1274441895884673025](https://twitter.com/izs/status/1274441895884673025)</small>
 "The Sapphire Bullets" is also the name of the best TMBG cover band.
@@ -1019,9 +1019,9 @@ TMBG have a version of this song that they play backwards, note for note and syl
 <small>(Addendum: after this twitter thread, they did perform this a few
 times, and it got posted online. Check it out!)</small>
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/lt1V5gD4GoE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{ page | tumble({ youtube: "https://www.youtube.com/watch?v=lt1V5gD4GoE" }) | safe }}
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/y03ABXQWQtE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{ page | tumble({ youtube: "https://www.youtube.com/watch?v=y03ABXQWQtE" }) | safe }}
 
 <small>[1274443500784738304](https://twitter.com/izs/status/1274443500784738304)</small>
 Anyway, enough gushing in-jokes.
@@ -1073,7 +1073,7 @@ Sapphire Bullets doesn't stipulate which one it is. It's just: "Here it is. Love
 
 ### they might be giants
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/e-cz03eTE54" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{ page | tumble({ youtube: "https://www.youtube.com/watch?v=e-cz03eTE54" }) | safe }}
 
 <small>[1274581173327388672](https://twitter.com/izs/status/1274581173327388672)</small>
 (left) "Hang on"  
@@ -1104,7 +1104,7 @@ After each of the first few sections, the parts drift out, leaving a lonely horn
 <small>[1274588245561503744](https://twitter.com/izs/status/1274588245561503744)</small>
 And this was done by two guys with a 4-track, using an off the shelf drum track and a vocal sample from "a kinda fake, budget version of a self-improvement program that was on a cassette we bought for, probably, 10 cents in some junk store."
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/75YZjb-H-sM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{ page | tumble({ youtube: "https://www.youtube.com/watch?v=75YZjb-H-sM" }) | safe }}
 
 <small>[1274590364268023809](https://twitter.com/izs/status/1274590364268023809)</small>
 The lyrics carry this further, listing a variety of things that "they" might be. The items are goofy and playful, but fit with the characteristic foreboding and anxiety that is present in the rest of Flood.
@@ -1114,7 +1114,7 @@ First, they might be rain, heat, or frying up a stalk of wheat.
 <small>[1274591533824540679](https://twitter.com/izs/status/1274591533824540679)</small>
 "Stalk of Wheat" is referenced again in the song by the same name on the album Spine, where the narrator went for a walk on a stalk of wheat, and ended up losing everything and being out of ideas.
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/eFxQdS0RdSw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{ page | tumble({ youtube: "https://www.youtube.com/watch?v=eFxQdS0RdSw" }) | safe }}
 
 <small>[1274591629601464320](https://twitter.com/izs/status/1274591629601464320)</small>
 (So out of ideas, in fact, that he plucked one from a song he wrote 28 years earlier.)
@@ -1167,7 +1167,7 @@ Despite the somewhat pessimistic (some might say, realistic) view of business an
 
 ### road movie
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/e-_Etalm7_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{ page | tumble({ youtube: "https://www.youtube.com/watch?v=e-_Etalm7_w" }) | safe }}
 
 <small>[1349480359478534144](https://twitter.com/izs/status/1349480359478534144)</small>
 But no. The main attraction finished, we get the most "old movie soundtrack" song on the album, and what is, to this day, my favorite TMBG song: Road Movie To Berlin.
