@@ -3,6 +3,8 @@ layout: layouts/base.njk
 templateClass: tmpl-post
 permalink: "{{ slug | postPermalink(page) }}/index.html"
 ---
+<article>
+
 <h1>{{ title }}</h1>
 
 <p><a class="post-date" href="{{ slug | postPermalink(page) | url }}"><time datetime="{{ page.date | htmlDateString }}">{{ page.date | readableDate }}</time></a></p>
@@ -50,34 +52,39 @@ permalink: "{{ slug | postPermalink(page) }}/index.html"
 
 </div>
 
+</article>
+
 {%- if collections.posts %}
 {%- set nextPost = collections.posts | getNextCollectionItem(page) %}
 {%- set previousPost = collections.posts | getPreviousCollectionItem(page) %}
 {%- if nextPost or previousPost %}
-<hr>
-<ul>
-  {%-
-    if nextPost
-  %}<li>Next: <a href="{{ nextPost.url | url }}">{%
-    if nextPost.data.title
-      %}{{ nextPost.data.title }}{%
-    elseif nextPost.data.slug
-      %}{{ nextPost.data.slug }}{%
-    else
-      %}{{ nextPost.url }}{%
-    endif
-  %}</a></li>{% endif %}
-  {%-
-    if previousPost
-  %}<li>Previous: <a href="{{ previousPost.url | url }}">{%
-    if previousPost.data.title
-      %}{{ previousPost.data.title }}{%
-    elseif previousPost.data.slug
-      %}{{ previousPost.data.slug }}{%
-    else
-      %}{{ previousPost.url }}{%
-    endif
+
+<nav>
+  <ul>
+    {%-
+      if nextpost
+    %}<li>next: <a href="{{ nextpost.url | url }}">{%
+      if nextpost.data.title
+        %}{{ nextpost.data.title }}{%
+      elseif nextpost.data.slug
+        %}{{ nextpost.data.slug }}{%
+      else
+        %}{{ nextpost.url }}{%
+      endif
     %}</a></li>{% endif %}
-</ul>
+    {%-
+      if previouspost
+    %}<li>previous: <a href="{{ previouspost.url | url }}">{%
+      if previouspost.data.title
+        %}{{ previouspost.data.title }}{%
+      elseif previouspost.data.slug
+        %}{{ previouspost.data.slug }}{%
+      else
+        %}{{ previouspost.url }}{%
+      endif
+      %}</a></li>{% endif %}
+  </ul>
+</nav>
+
 {%- endif %}
 {%- endif %}

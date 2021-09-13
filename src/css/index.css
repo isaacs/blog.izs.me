@@ -15,22 +15,22 @@
   :root {
     --width: 100%;
   }
-  header div, main {
+  header nav, main {
     width: 90%!important;
   }
   header {
     background-size: cover!important;
   }
-  header div {
+  header nav {
     height: auto!important;
     background-size:50px 50px!important;
     background-position:top left!important;
     padding-bottom: 15px!important;
   }
-  header div a {
+  header nav a {
     padding-left: 5px!important;
   }
-  header div .home a {
+  header nav .home a {
     padding-left: 55px!important;
   }
 }
@@ -81,7 +81,7 @@ header {
   background-size: 100% 150px;
   background-repeat: no-repeat;
 }
-header div, main {
+header nav, main {
   width: var(--width);
   margin: 0 auto;
 }
@@ -177,8 +177,8 @@ code {
 }
 
 /* Header */
-header div ul, header div li,
-header div a {
+header nav ul, header nav li,
+header nav a {
   text-decoration: none;
   display: inline-block;
   line-height: 50px;
@@ -194,15 +194,15 @@ header .home {
   margin: 0;
   padding: 0;
 }
-header div a {
+header nav a {
   padding: 0 0 0 1em;
 }
-header div .home a {
+header nav .home a {
   padding-left: 55px;
 }
-header div a:active, header div a:hover, header div a:focus { text-decoration: underline; }
+header nav a:active, header nav a:hover, header nav a:focus { text-decoration: underline; }
 
-header div {
+header nav {
     height: 50px;
     margin: 0 auto;
     border-radius: 25px;
@@ -225,13 +225,13 @@ header {
 }
 
 /* Nav */
-.nav {
+header nav ul {
   padding: 0;
   list-style: none;
   display: inline-block;
   margin: 0;
 }
-.nav-item {
+header nav ul li {
   display: inline-block;
   margin: 0;
 }
@@ -301,6 +301,19 @@ header {
 .post-tag:hover, .post-tag:active, .post-tag:focus {
   background: #ccc;
   text-decoration: underline;
+}
+
+main nav ul {
+  display: block;
+  list-style-type: disc;
+  margin: 0;
+  padding-inline-start: 40px;
+}
+
+main nav {
+  border-top: 4px solid var(--lightgray);
+  padding: 1em 0;
+  margin: 1em 0;
 }
 
 blockquote {
