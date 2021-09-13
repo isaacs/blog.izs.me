@@ -66,25 +66,25 @@
 <nav>
   <ul>
     {%-
-      if nextpost
-    %}<li>next: <a href="{{ nextpost.url | url }}">{%
-      if nextpost.data.title
-        %}{{ nextpost.data.title }}{%
-      elseif nextpost.data.slug
-        %}{{ nextpost.data.slug }}{%
+      if nextPost
+    %}<li>next: <a href="{{ nextPost.url | url }}">{%
+      if nextPost.data.title
+        %}{{ nextPost.data.title }}{%
+      elseif nextPost.data.slug
+        %}{{ nextPost.data.slug }}{%
       else
-        %}{{ nextpost.url }}{%
+        %}{{ nextPost.url }}{%
       endif
     %}</a></li>{% endif %}
     {%-
-      if previouspost
-    %}<li>previous: <a href="{{ previouspost.url | url }}">{%
-      if previouspost.data.title
-        %}{{ previouspost.data.title }}{%
-      elseif previouspost.data.slug
-        %}{{ previouspost.data.slug }}{%
+      if previousPost
+    %}<li>previous: <a href="{{ previousPost.url | url }}">{%
+      if previousPost.data.title
+        %}{{ previousPost.data.title }}{%
+      elseif previousPost.data.slug
+        %}{{ previousPost.data.slug }}{%
       else
-        %}{{ previouspost.url }}{%
+        %}{{ previousPost.url }}{%
       endif
       %}</a></li>{% endif %}
   </ul>
