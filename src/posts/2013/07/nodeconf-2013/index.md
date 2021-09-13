@@ -78,8 +78,7 @@ pull requests before.)</p>
 
 <p>Here are the slides:</p>
 
-<div><iframe src="https://www.slideshare.net/slideshow/embed_code/23878251" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid
-#CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen webkitallowfullscreen mozallowfullscreen> </iframe> </div>
+{{ page | tumble({ slideshare: "https://www.slideshare.net/slideshow/embed_code/23878251" }) | safe }}
 
 <p>The first thing we did was make sure that everyone had the Node.js
 source code checked out, and could build it.  Typically there were 3
