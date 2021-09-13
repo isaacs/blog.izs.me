@@ -21,6 +21,7 @@ const oembedAPI = {
   tiktok: 'https://www.tiktok.com/oembed?dnt=1&url=',
   soundcloud: 'https://soundcloud.com/oembed?dnt=1&format=json&url=',
   twitter: 'https://publish.twitter.com/oembed?dnt=1&url=',
+  slideshare: 'https://www.slideshare.net/api/oembed/2?dnt=1&format=json&url=',
 }
 
 const tumble = async (page, data) => {
@@ -35,6 +36,7 @@ const tumble = async (page, data) => {
     twitter,
     soundcloud,
     videofile,
+    slideshare,
     maxWidth = 700,
   } = data
 
@@ -47,6 +49,7 @@ const tumble = async (page, data) => {
     : audio ? 'audio'
     : videofile ? 'videofile'
     : twitter ? 'twitter'
+    : slideshare ? 'slideshare'
     : null
 
   const urlDir = dirname(page.filePathStem)
@@ -200,7 +203,7 @@ const oembed = (arg, api, url) => {
   url = Array.isArray(url) ? url : [url]
   return Promise.all(url.map(url => new Promise((done) => {
     const oembedRoot = oembedAPI[api]
-    const oe = oembedRoot + encodeURIComponent(url)
+    const oe = oembedRoot + encodeURIComponent(url) + '&maxwidth=' + arg.maxWidth
     const cacheFile = resolve(cache, hash(oe))
     try {
       done(readFileSync(cacheFile, 'utf8'))
