@@ -16,11 +16,11 @@ try {
 }
 
 const oembedAPI = {
-  youtube: 'https://www.youtube.com/oembed?url=',
-  vimeo: 'https://vimeo.com/api/oembed.json?url=',
-  tiktok: 'https://www.tiktok.com/oembed?url=',
-  soundcloud: 'https://soundcloud.com/oembed?format=json&url=',
-  twitter: 'https://publish.twitter.com/oembed?url=',
+  youtube: 'https://www.youtube.com/oembed?dnt=1&url=',
+  vimeo: 'https://vimeo.com/api/oembed.json?dnt=1&url=',
+  tiktok: 'https://www.tiktok.com/oembed?dnt=1&url=',
+  soundcloud: 'https://soundcloud.com/oembed?dnt=1&format=json&url=',
+  twitter: 'https://publish.twitter.com/oembed?dnt=1&url=',
 }
 
 const tumble = async (page, data) => {
