@@ -13,25 +13,23 @@
   </head>
   <body>
     <header>
-      <div>
+      <nav>
       <h1 class="home"><a href="{{ '/' | url }}">{{ metadata.title }}</a></h1>
-      <ul class="nav">
-        <li class="nav-item"><a href="https://twitter.com/izs">@izs</a></li>
-        <li class="nav-item"><a href="https://github.com/isaacs">gh</a></li>
-        <li class="nav-item"><a href="https://keybase.io/isaacs">kb</a></li>
-        <li class="nav-item"><a href="https://izs.me">resume</a></li>
-        <li class="nav-item"><a href="/archive/">archive</a></li>
-        <li class="nav-item"><a href="/tags/">tags</a></li>
-        <li class="nav-item"><a href="/about/">about</a></li>
+      <ul>
+        <li><a href="https://twitter.com/izs">@izs</a></li>
+        <li><a href="https://github.com/isaacs">gh</a></li>
+        <li><a href="https://keybase.io/isaacs">kb</a></li>
+        <li><a href="https://izs.me">resume</a></li>
+        <li><a href="/archive/">archive</a></li>
+        <li><a href="/tags/">tags</a></li>
+        <li><a href="/about/">about</a></li>
       </ul>
-      </div>
+      </nav>
     </header>
 
     <main{% if templateClass %} class="{{ templateClass }}"{% endif %}>
       {{ content | safe }}
     </main>
-
-    <footer></footer>
 
     <!-- Current page: {{ page.url | url }} -->
   </body>
