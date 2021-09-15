@@ -12,8 +12,9 @@ slug: unix-philosophy-and-nodejs
 title: Unix Philosophy and Node.js
 tumblrid: 48281998870
 type: text
+slideshare: https://www.slideshare.net/IsaacSchlueter/nodejs-patterns-and-opinions
 ---
-<p>At TxJS the other day, I gave a talk where I mentioned that the Unix Philosophy is a crucial part of the patterns, opinions, and culture of Node.js.  As usual, I made my <a href="http://j.mp/node-patterns-pdf">slides available online</a> well in advance of the talk video being available.</p>
+<p>At TxJS the other day, I gave a talk where I mentioned that the Unix Philosophy is a crucial part of the patterns, opinions, and culture of Node.js.  As usual, I made my <a href="https://www.slideshare.net/IsaacSchlueter/nodejs-patterns-and-opinions">slides available online</a> well in advance of the talk video being available.</p>
 
 <p>For some reason, this brief mention of &ldquo;Unix Philosophy&rdquo; set off a few peoples&rsquo; ire.  Since I had only 25 minutes, and every slide could probably be its own talk entirely, I was rather light on elaboration.  Chances are, the video won&rsquo;t add all that much context.  But the goal was to pique conversation, so maybe that&rsquo;s a success if it invites criticism.  After all, uninformed trolling is just an invitation for education, so I thought I&rsquo;d explain.</p>
 
