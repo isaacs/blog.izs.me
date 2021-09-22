@@ -2,5 +2,6 @@
 layout: layouts/base.njk
 templateClass: tmpl-post
 permalink: "{{ slug | postPermalink(page) }}/index.html"
+isPost: true
 ---
 {% include './postbody.njk' %}
