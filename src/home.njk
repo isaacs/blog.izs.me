@@ -5,11 +5,9 @@ eleventyNavigation:
   key: Home
   order: 1
 ---
-{% set maxPosts = collections.posts.length | min(8) %}
-
 <h2>Latest Posts</h2>
 
-{% set postslist = collections.posts | head(-8) %}
+{% set postslist = collections.posts | thisYear(8) %}
 {% set postslistCounter = collections.posts | length %}
 {% include "postslist.njk" %}
 

@@ -45,6 +45,12 @@ module.exports = function(eleventyConfig) {
     return array.slice(0, n);
   });
 
+  eleventyConfig.addFilter('thisYear', (posts, min) => {
+    const year = new Date(new Date() - 1000*60*60*24*365)
+    const thisYearPosts = posts.filter(p => p.date > year)
+    return thisYearPosts.length > min ? thisYearPosts : posts.slice(-1 * min)
+  })
+
   // Return the smallest number argument
   eleventyConfig.addFilter("min", (...numbers) => {
     return Math.min.apply(null, numbers);
