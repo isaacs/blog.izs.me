@@ -285,7 +285,7 @@ hardly any cases where you'd use `function(){}` in JavaScript when
 following MRP; almost always it's either a `class` method or an arrow
 function.)
 
-The other inteesting impact was that I found myself always thinking about
+The other interesting impact was that I found myself always thinking about
 how to make my code more limited, more precise, more aggressively factored.
 If you practice something enough, it starts to become second nature, and
 feel strange when you're _not_ doing it.  I found this led to clearer
