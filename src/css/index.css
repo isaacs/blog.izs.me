@@ -51,6 +51,10 @@ small {
   opacity: 0.8;
 }
 
+h1, h2, h3, h4, h5, h6 {
+  position: relative;
+}
+
 h1, h2, h3 {
   font-size: 200%;
 }
@@ -343,6 +347,9 @@ blockquote {
 }
 a[href].direct-link,
 a[href].direct-link:visited {
+  position: absolute;
+  top: 0;
+  right: 100%;
   color: transparent;
 }
 a[href].direct-link:focus,
