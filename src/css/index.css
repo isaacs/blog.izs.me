@@ -5,6 +5,7 @@
   --darkgray: #333;
   --navy: #17050F;
   --blue: #082840;
+  --lightblue: #68BBE3;
   --white: #fff;
   --mono: Iosevka SS09, Iosevka, Consolas, Menlo, Monaco, "Andale Mono WT", "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Liberation Mono", "Nimbus Mono L", "Courier New", Courier, monospace;
   --sans: -apple-system, system-ui, sans-serif;
@@ -257,13 +258,13 @@ header nav ul li {
   text-decoration: underline;
 }
 
-.post-date,
 .postlist-date {
   white-space: pre;
   text-decoration: none;
   font-family: var(--mono);
   padding-right: 10px;
 }
+
 .postlist tr:hover {
   background: var(--lightgray);
 }
@@ -305,6 +306,10 @@ header nav ul li {
   padding: 1px 4px;
   margin: 2px;
   text-decoration: none;
+}
+
+.post-date {
+  border-color: var(--lightblue);
 }
 
 .post-tag:hover, .post-tag:active, .post-tag:focus {

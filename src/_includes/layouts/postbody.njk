@@ -9,9 +9,7 @@
 
 <article>
 
-<h1>{{ title }}</h1>
-
-<p><a class="post-date" href="{{ postUrl }}"><time datetime="{{ page.date | htmlDateString }}">{{ page.date | readableDate }}</time></a></p>
+<h1>{{ title }} <a class="direct-link" href="{{ postUrl }}" aria-hidden="true">#</a></h1>
 
 {%- if link_url and link_publisher %}
 <p><a href="{{ link_url | url }}">{{ link_publisher }}</a></p>
@@ -32,15 +30,13 @@
 
 {{ content | localImage(page) | safe }}
 
-{%- for tag in tags | filterTagList -%}
-{%- if not didFirstTag %}
-{%- set didFirstTag %}true{% endset -%}
 <p>
-{% endif -%}
+<a href="{{ pageUrl }}" class="post-tag post-date"><time datetime="{{ page.date | htmlDateString }}">{{ page.date | readableDate }}</time></a>
+{%- for tag in tags | filterTagList -%}
 {%- set tagUrl %}{{ tag | tagPermalink }}/{% endset -%}
 <a href="{{ tagUrl | url }}" class="post-tag">{{ tag }}</a>
 {%- endfor %}
-{%- if didFirstTag %}</p>{% endif -%}
+</p>
 
 {%- if via or source %}
 <div class="post-footer">
