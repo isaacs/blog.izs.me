@@ -24,6 +24,7 @@
   eleventyExcludeFromCollections: true,
 }
 ---
+/) /
 {%- for page in collections.all -%}
   {%- if page.url and page.data.redirect_from -%}
 {{ printRedirect(page) }}
