@@ -1,35 +1,55 @@
 [build]
   publish = "_site"
   command = "npm install && eleventy"
+
+# everything by default, cache 1 week
 [[headers]]
   for = "/*"
   [headers.values]
     X-Frame-Options = "DENY"
     X-XSS-Protection = "1; mode=block"
-    # cache 1 week
     Cache-Control = "public, max-age=604800"
+
+# cache feeds 1 month
 [[headers]]
   for = "/feed/*"
   [headers.values]
-    # cache 1 month
     Cache-Control = "public, max-age=2592000"
+
+# almost never changes, cache 90 days
 [[headers]]
   for = "/robots.txt"
   [headers.values]
-    # cache 3 months
-    Cache-Control = "public, max-age=8100000"
-[[headers]]
-  for = "/snips/*"
-  [headers.values]
-    # cache 10 years
-    Cache-Control = "public, max-age=315360000"
-[[headers]]
-  for = "/snips/*"
-  [headers.values]
-    # cache 10 years
-    Cache-Control = "public, max-age=315360000"
+    Cache-Control = "public, max-age=7776000"
+
+# hasn't changed since 2005, cache forever
 [[headers]]
   for = "/favicon.ico"
   [headers.values]
-    # cache 10 years
     Cache-Control = "public, max-age=315360000"
+
+# old posts, cache forever
+[[headers]]
+  for = "/200*"
+  [headers.values]
+    Cache-Control = "public, max-age=315360000"
+[[headers]]
+  for = "/201*"
+  [headers.values]
+    Cache-Control = "public, max-age=315360000"
+
+# last few years posts, cache 90 days
+[[headers]]
+  for = "/2020"
+  [headers.values]
+    Cache-Control = "public, max-age=7776000"
+[[headers]]
+  for = "/2021"
+  [headers.values]
+    Cache-Control = "public, max-age=7776000"
+
+# recent posts, cache 1 day
+[[headers]]
+  for = "/2022"
+  [headers.values]
+    Cache-Control = "public, max-age=86400"
