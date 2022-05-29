@@ -1,11 +1,6 @@
 ---
 layout: layouts/post.njk
 date: 2009-07-28T20:23:08.000Z
-redirect_from:
-  - /post/151063628/wanna-know-why-newspapers-are-dying-because-they/
-  - /post/151063628/
-  - /post/151063628/wanna-know-why-newspapers-are-dying-because-they
-  - /post/151063628
 slug: wanna-know-why-newspapers-are-dying-because-they
 tumblrid: 151063628
 type: text

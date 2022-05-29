@@ -3,11 +3,6 @@ layout: layouts/post.njk
 date: 2012-09-07T18:21:43.000Z
 photos:
   - - ./tumblr_m9xr4ks2WK1raixk5o1_1280.jpg
-redirect_from:
-  - /post/31066306648/maxeatinginplaces-max-eating-smores-at-node/
-  - /post/31066306648/
-  - /post/31066306648/maxeatinginplaces-max-eating-smores-at-node
-  - /post/31066306648
 slug: maxeatinginplaces-max-eating-smores-at-node
 tumblrid: 31066306648
 type: photo

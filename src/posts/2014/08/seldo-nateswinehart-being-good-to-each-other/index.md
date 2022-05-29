@@ -12,11 +12,6 @@ photos:
   - - ./tumblr_nb0v26skQe1qbwp2bo8_500.jpg
   - - ./tumblr_nb0v26skQe1qbwp2bo9_500.jpg
   - - ./tumblr_nb0v26skQe1qbwp2bo10_500.jpg
-redirect_from:
-  - /post/96196076923/seldo-nateswinehart-being-good-to-each-other/
-  - /post/96196076923/
-  - /post/96196076923/seldo-nateswinehart-being-good-to-each-other
-  - /post/96196076923
 slug: seldo-nateswinehart-being-good-to-each-other
 source:
   title: nateswinehart

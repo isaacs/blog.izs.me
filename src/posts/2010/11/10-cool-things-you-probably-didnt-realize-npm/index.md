@@ -1,12 +1,6 @@
 ---
 layout: layouts/post.njk
 date: 2010-11-25T01:22:00.000Z
-redirect_from:
-  - /post/1675072029/10-cool-things-you-probably-didnt-realize-npm/
-  - /post/1675072029/
-  - /post/1675072029/10-cool-things-you-probably-didnt-realize-npm
-  - /post/1675072029
-  - /post/1675072029/10-cool-things-you-probably-didnt-realize-npm-could-do
 slug: 10-cool-things-you-probably-didnt-realize-npm
 title: 10 Cool Things You Probably Didn't Realize npm Could Do
 tumblrid: 1675072029

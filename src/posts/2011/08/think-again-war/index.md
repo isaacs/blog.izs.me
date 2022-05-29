@@ -3,11 +3,6 @@ layout: layouts/post.njk
 date: 2011-08-18T20:01:21.000Z
 link_publisher: foreignpolicy.com
 link_url: 'http://www.foreignpolicy.com/articles/2011/08/15/think_again_war?page=full'
-redirect_from:
-  - /post/9090421698/think-again-war/
-  - /post/9090421698/
-  - /post/9090421698/think-again-war
-  - /post/9090421698
 slug: think-again-war
 title: 'Think Again: War'
 tumblrid: 9090421698

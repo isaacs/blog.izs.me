@@ -1,11 +1,6 @@
 ---
 layout: layouts/post.njk
 date: 2008-02-04T18:00:41.000Z
-redirect_from:
-  - /post/146672540/foo-hack-redesign-30/
-  - /post/146672540/
-  - /post/146672540/foo-hack-redesign-30
-  - /post/146672540
 slug: foo-hack-redesign-30
 tags:
   - css

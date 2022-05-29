@@ -1,11 +1,6 @@
 ---
 layout: layouts/post.njk
 date: 2009-07-25T17:00:11.000Z
-redirect_from:
-  - /post/148963601/television/
-  - /post/148963601/
-  - /post/148963601/television
-  - /post/148963601
 slug: television
 title: Television
 tumblrid: 148963601

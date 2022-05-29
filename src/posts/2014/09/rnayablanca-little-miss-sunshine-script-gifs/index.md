@@ -19,11 +19,6 @@ photos:
       Sunshine. it's so incredibly good, it pretty much changed my life. if you
       haven't seen it and liked this gifset, you should definitely check it out
       :)
-redirect_from:
-  - /post/97488316028/rnayablanca-little-miss-sunshine-script-gifs/
-  - /post/97488316028/
-  - /post/97488316028/rnayablanca-little-miss-sunshine-script-gifs
-  - /post/97488316028
 slug: rnayablanca-little-miss-sunshine-script-gifs
 source:
   title: mayablanca

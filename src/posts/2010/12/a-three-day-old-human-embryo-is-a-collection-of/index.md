@@ -1,11 +1,6 @@
 ---
 layout: layouts/post.njk
 date: 2010-12-01T18:16:51.000Z
-redirect_from:
-  - /post/2061428668/a-three-day-old-human-embryo-is-a-collection-of/
-  - /post/2061428668/
-  - /post/2061428668/a-three-day-old-human-embryo-is-a-collection-of
-  - /post/2061428668
 slug: a-three-day-old-human-embryo-is-a-collection-of
 tumblrid: 2061428668
 type: quote

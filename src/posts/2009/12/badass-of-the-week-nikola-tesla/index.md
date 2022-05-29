@@ -3,11 +3,6 @@ layout: layouts/post.njk
 date: 2009-12-01T02:39:01.000Z
 link_publisher: badassoftheweek.com
 link_url: 'http://www.badassoftheweek.com/tesla.html'
-redirect_from:
-  - /post/264281498/badass-of-the-week-nikola-tesla/
-  - /post/264281498/
-  - /post/264281498/badass-of-the-week-nikola-tesla
-  - /post/264281498
 slug: badass-of-the-week-nikola-tesla
 title: 'Badass of the Week: Nikola Tesla'
 tumblrid: 264281498

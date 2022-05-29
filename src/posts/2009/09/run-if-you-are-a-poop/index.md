@@ -1,11 +1,6 @@
 ---
 layout: layouts/post.njk
 date: 2009-09-17T18:06:00.000Z
-redirect_from:
-  - /post/190346445/run-if-you-are-a-poop/
-  - /post/190346445/
-  - /post/190346445/run-if-you-are-a-poop
-  - /post/190346445
 slug: run-if-you-are-a-poop
 tags:
   - aardvark

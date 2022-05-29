@@ -4,11 +4,6 @@ date: 2009-11-09T19:56:09.000Z
 link_publisher: johnlawrenceaspden.blogspot.com
 link_url: >-
   http://johnlawrenceaspden.blogspot.com/2009/11/behold-in-its-full-glory-program-that-i.html
-redirect_from:
-  - /post/238327913/random-thoughts-why-has-this-got-so-much-harder/
-  - /post/238327913/
-  - /post/238327913/random-thoughts-why-has-this-got-so-much-harder
-  - /post/238327913
 slug: random-thoughts-why-has-this-got-so-much-harder
 title: 'Random Thoughts: Why has this got so much harder to do?'
 tumblrid: 238327913

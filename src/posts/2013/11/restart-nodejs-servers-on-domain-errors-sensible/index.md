@@ -1,11 +1,6 @@
 ---
 layout: layouts/post.njk
 date: 2013-11-01T19:22:00.000Z
-redirect_from:
-  - /post/65712662830/restart-nodejs-servers-on-domain-errors-sensible/
-  - /post/65712662830/
-  - /post/65712662830/restart-nodejs-servers-on-domain-errors-sensible
-  - /post/65712662830
 slug: restart-nodejs-servers-on-domain-errors-sensible
 title: 'Restart Node.js servers on domain errors: Sensible FUD'
 tumblrid: 65712662830

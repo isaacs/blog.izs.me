@@ -1,11 +1,6 @@
 ---
 layout: layouts/post.njk
 date: 2014-03-22T04:09:01.000Z
-redirect_from:
-  - /post/80327603251/shevathegun-callmekitto-seraphatonin-um/
-  - /post/80327603251/
-  - /post/80327603251/shevathegun-callmekitto-seraphatonin-um
-  - /post/80327603251
 slug: shevathegun-callmekitto-seraphatonin-um
 source:
   title: seraphatonin

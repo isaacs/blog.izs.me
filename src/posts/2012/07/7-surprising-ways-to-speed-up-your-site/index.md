@@ -1,11 +1,6 @@
 ---
 layout: layouts/post.njk
 date: 2012-07-11T18:10:00.000Z
-redirect_from:
-  - /post/26989258789/7-surprising-ways-to-speed-up-your-site/
-  - /post/26989258789/
-  - /post/26989258789/7-surprising-ways-to-speed-up-your-site
-  - /post/26989258789
 slug: 7-surprising-ways-to-speed-up-your-site
 title: 7 Surprising Ways to Speed Up Your Site!!!
 tumblrid: 26989258789

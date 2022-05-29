@@ -1,11 +1,6 @@
 ---
 layout: layouts/post.njk
 date: 2018-06-08T21:04:56.000Z
-redirect_from:
-  - /post/174702624188/bookends/
-  - /post/174702624188/
-  - /post/174702624188/bookends
-  - /post/174702624188
 slug: bookends
 title: Bookends
 tumblrid: 174702624188

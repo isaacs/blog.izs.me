@@ -1,11 +1,6 @@
 ---
 layout: layouts/post.njk
 date: 2014-01-11T17:47:26.000Z
-redirect_from:
-  - /post/72990767417/a-member-of-our-community-is-missing-help-find/
-  - /post/72990767417/
-  - /post/72990767417/a-member-of-our-community-is-missing-help-find
-  - /post/72990767417
 slug: a-member-of-our-community-is-missing-help-find
 title: 'A member of our community is missing, help find him'
 tumblrid: 72990767417

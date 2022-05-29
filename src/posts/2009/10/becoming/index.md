@@ -1,11 +1,6 @@
 ---
 layout: layouts/post.njk
 date: 2009-10-05T01:53:46.000Z
-redirect_from:
-  - /post/204676249/becoming/
-  - /post/204676249/
-  - /post/204676249/becoming
-  - /post/204676249
 slug: becoming
 tags:
   - poem

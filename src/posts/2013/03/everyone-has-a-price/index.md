@@ -1,11 +1,6 @@
 ---
 layout: layouts/post.njk
 date: 2013-03-12T17:06:00.000Z
-redirect_from:
-  - /post/45196990126/everyone-has-a-price/
-  - /post/45196990126/
-  - /post/45196990126/everyone-has-a-price
-  - /post/45196990126
 slug: everyone-has-a-price
 title: Everyone has a Price
 tumblrid: 45196990126

@@ -1,11 +1,6 @@
 ---
 layout: layouts/post.njk
 date: 2007-06-18T17:00:03.000Z
-redirect_from:
-  - /post/146671469/javascript-style-tip-use-in-and-delete/
-  - /post/146671469/
-  - /post/146671469/javascript-style-tip-use-in-and-delete
-  - /post/146671469
 slug: javascript-style-tip-use-in-and-delete
 tags:
   - code beauty

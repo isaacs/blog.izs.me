@@ -3,11 +3,6 @@ layout: layouts/post.njk
 date: 2009-12-20T22:36:11.000Z
 link_publisher: youtube.com
 link_url: 'http://www.youtube.com/watch?v=17jymDn0W6U'
-redirect_from:
-  - /post/292319358/youtube-the-known-universe-by-amnh/
-  - /post/292319358/
-  - /post/292319358/youtube-the-known-universe-by-amnh
-  - /post/292319358
 slug: youtube-the-known-universe-by-amnh
 title: YouTube - The Known Universe by AMNH
 tumblrid: 292319358

@@ -1,11 +1,6 @@
 ---
 layout: layouts/post.njk
 date: 2018-12-12T01:27:14.000Z
-redirect_from:
-  - /post/181032519898/via-understanding-your-partners-attachment/
-  - /post/181032519898/
-  - /post/181032519898/via-understanding-your-partners-attachment
-  - /post/181032519898
 slug: via-understanding-your-partners-attachment
 soundcloud: https://soundcloud.com/gottman-institute/understanding-your-partners-attachment-style-an-interview-with-stan-tatkin
 source:

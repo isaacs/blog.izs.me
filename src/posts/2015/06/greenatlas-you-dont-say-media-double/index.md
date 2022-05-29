@@ -1,11 +1,6 @@
 ---
 layout: layouts/post.njk
 date: 2015-06-25T16:04:06.000Z
-redirect_from:
-  - /post/122427352733/greenatlas-you-dont-say-media-double/
-  - /post/122427352733/
-  - /post/122427352733/greenatlas-you-dont-say-media-double
-  - /post/122427352733
 slug: greenatlas-you-dont-say-media-double
 tumblrid: 122427352733
 type: video

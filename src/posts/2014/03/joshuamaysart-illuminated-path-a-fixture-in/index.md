@@ -6,11 +6,6 @@ photos:
 tags:
   - startup life
   - foundership
-redirect_from:
-  - /post/79510511135/joshuamaysart-illuminated-path-a-fixture-in/
-  - /post/79510511135/
-  - /post/79510511135/joshuamaysart-illuminated-path-a-fixture-in
-  - /post/79510511135
 slug: joshuamaysart-illuminated-path-a-fixture-in
 tumblrid: 79510511135
 type: photo

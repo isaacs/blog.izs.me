@@ -1,11 +1,6 @@
 ---
 layout: layouts/post.njk
 date: 2007-11-19T18:06:33.000Z
-redirect_from:
-  - /post/146672448/cross-browser-support-for-inline-block-styling/
-  - /post/146672448/
-  - /post/146672448/cross-browser-support-for-inline-block-styling
-  - /post/146672448
 slug: cross-browser-support-for-inline-block-styling
 tags:
   - css

@@ -6,11 +6,6 @@ photos:
   - - ./tumblr_n4h7yjAYEt1rc7zl1o2_400.gif
   - - ./tumblr_n4h7yjAYEt1rc7zl1o3_400.gif
   - - ./tumblr_n4h7yjAYEt1rc7zl1o4_400.gif
-redirect_from:
-  - /post/84780402743/carry-on-my-wayward-butt-ch0rdate/
-  - /post/84780402743/
-  - /post/84780402743/carry-on-my-wayward-butt-ch0rdate
-  - /post/84780402743
 slug: carry-on-my-wayward-butt-ch0rdate
 source:
   title: sizvideos

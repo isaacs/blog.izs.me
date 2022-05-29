@@ -9,11 +9,6 @@ via:
 source:
   url: http://unpretty.tumblr.com/post/172609100568/i-love-cutthroat-kitchen-but-bingewatching-makes
   title: kitty unpretty
-redirect_from:
-  - /post/182070082093/strangesequitur-unpretty-paintmeahero/
-  - /post/182070082093/strangesequitur-unpretty-paintmeahero
-  - /post/182070082093/
-  - /post/182070082093
 tags:
   - ykiok
 type: photo

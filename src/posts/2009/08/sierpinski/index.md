@@ -1,11 +1,6 @@
 ---
 layout: layouts/post.njk
 date: 2009-08-05T22:02:00.000Z
-redirect_from:
-  - /post/156678086/sierpinski/
-  - /post/156678086/
-  - /post/156678086/sierpinski
-  - /post/156678086
 slug: sierpinski
 title: Sierpinski
 tumblrid: 156678086

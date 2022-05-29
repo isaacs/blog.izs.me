@@ -12,11 +12,6 @@ photos:
     - ./tumblr_nd5codIr5F1qzjzo9o10_r1_500.gif
   - - ./tumblr_nd5codIr5F1qzjzo9o9_500.gif
   - - ./tumblr_nd5codIr5F1qzjzo9o6_500.gif
-redirect_from:
-  - /post/99517243813/pb-and-marceline-is-one-of-the-most-poignant-love/
-  - /post/99517243813/
-  - /post/99517243813/pb-and-marceline-is-one-of-the-most-poignant-love
-  - /post/99517243813
 slug: pb-and-marceline-is-one-of-the-most-poignant-love
 tags:
   - bubbline

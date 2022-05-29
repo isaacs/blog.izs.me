@@ -1,11 +1,6 @@
 ---
 layout: layouts/post.njk
 date: 2010-12-18T00:50:00.000Z
-redirect_from:
-  - /post/2353458699/an-open-letter-to-javascript-leaders-regarding/
-  - /post/2353458699/
-  - /post/2353458699/an-open-letter-to-javascript-leaders-regarding
-  - /post/2353458699
 slug: an-open-letter-to-javascript-leaders-regarding
 title: An Open Letter to JavaScript Leaders Regarding Semicolons
 tumblrid: 2353458699
@@ -22,10 +17,10 @@ type: text
   have been reluctant to use it since most js resources expound a fear
   of js&rsquo;s automatic semicolon insertion wreaking havoc on your code if
   you don&rsquo;t end lines with something which implies a continuation.</p>
-  
+
   <p>Is this safe to place commas like this in browser code, or is it
   just node where this is possible?</p>
-  
+
   <p><ins>2011-12-20 updated link to file</ins></p>
 </blockquote>
 
@@ -36,7 +31,7 @@ response:</p>
   <p>Yes, it&rsquo;s quite safe, and perfectly valid JS that every browser
   understands.  Closure compiler, yuicompressor, packer, and jsmin all
   can properly minify it.  There is no performance impact anywhere.</p>
-  
+
   <p>I am sorry that, instead of educating you, the leaders in this
   language community have given you lies and fear.  That was shameful.
   I recommend learning how statements in JS are actually terminated

@@ -4,11 +4,6 @@ date: 2012-01-03T00:46:08.000Z
 link_url: 'http://tumblr.com/follow/samueloser'
 photos:
   - - ./tumblr_lx5brpApFT1qfb6qxo1_540.jpg
-redirect_from:
-  - /post/15212505704/aredridel-or-you-know-we-could-go-own-our-own/
-  - /post/15212505704/
-  - /post/15212505704/aredridel-or-you-know-we-could-go-own-our-own
-  - /post/15212505704
 slug: aredridel-or-you-know-we-could-go-own-our-own
 tumblrid: 15212505704
 type: photo

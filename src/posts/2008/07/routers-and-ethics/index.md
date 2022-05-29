@@ -1,11 +1,6 @@
 ---
 layout: layouts/post.njk
 date: 2008-07-25T17:35:46.000Z
-redirect_from:
-  - /post/146672761/routers-and-ethics/
-  - /post/146672761/
-  - /post/146672761/routers-and-ethics
-  - /post/146672761
 slug: routers-and-ethics
 tags:
   - broken

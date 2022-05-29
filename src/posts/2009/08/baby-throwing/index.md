@@ -1,11 +1,6 @@
 ---
 layout: layouts/post.njk
 date: 2009-08-06T08:40:00.000Z
-redirect_from:
-  - /post/157047907/baby-throwing/
-  - /post/157047907/
-  - /post/157047907/baby-throwing
-  - /post/157047907
 slug: baby-throwing
 tags:
   - wtf!?

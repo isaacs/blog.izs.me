@@ -12,11 +12,6 @@ photos:
   - - ./tumblr_om7491RyYv1r83d7lo8_500.gif
     - ./tumblr_om7491RyYv1r83d7lo9_500.gif
   - - ./tumblr_om7491RyYv1r83d7lo10_500.gif
-redirect_from:
-  - /post/157949402743/2jam4u-micdotcom-sportscaster-dale-hansen/
-  - /post/157949402743/
-  - /post/157949402743/2jam4u-micdotcom-sportscaster-dale-hansen
-  - /post/157949402743
 slug: 2jam4u-micdotcom-sportscaster-dale-hansen
 source:
   title: bit.ly

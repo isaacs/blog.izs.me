@@ -3,11 +3,6 @@ layout: layouts/post.njk
 date: 2012-07-25T16:28:19.000Z
 link_publisher: tjholowaychuk.com
 link_url: 'http://tjholowaychuk.com/post/27984551477/components'
-redirect_from:
-  - /post/27987129912/tj-holowaychuk-components/
-  - /post/27987129912/
-  - /post/27987129912/tj-holowaychuk-components
-  - /post/27987129912
 slug: tj-holowaychuk-components
 title: 'TJ Holowaychuk: Components'
 tumblrid: 27987129912

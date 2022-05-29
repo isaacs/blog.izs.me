@@ -7,11 +7,6 @@ photos:
   - - ./tumblr_oqy30pO0Wh1w4fo5oo3_r1_1280.jpg
   - - ./tumblr_oqy30pO0Wh1w4fo5oo4_r1_1280.jpg
   - - ./tumblr_oqy30pO0Wh1w4fo5oo5_r1_1280.jpg
-redirect_from:
-  - /post/181032414828/gadotsdiana-wonder-woman-2017-dir-patty/
-  - /post/181032414828/
-  - /post/181032414828/gadotsdiana-wonder-woman-2017-dir-patty
-  - /post/181032414828
 slug: gadotsdiana-wonder-woman-2017-dir-patty
 source:
   title: thomaholland

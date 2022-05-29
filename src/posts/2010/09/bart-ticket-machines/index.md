@@ -1,11 +1,6 @@
 ---
 layout: layouts/post.njk
 date: 2010-09-16T20:49:37.000Z
-redirect_from:
-  - /post/1133529825/bart-ticket-machines/
-  - /post/1133529825/
-  - /post/1133529825/bart-ticket-machines
-  - /post/1133529825
 slug: bart-ticket-machines
 title: Bart Ticket Machines
 tumblrid: 1133529825

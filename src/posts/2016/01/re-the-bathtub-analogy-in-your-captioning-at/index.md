@@ -1,11 +1,6 @@
 ---
 layout: layouts/post.njk
 date: 2016-01-17T18:32:01.000Z
-redirect_from:
-  - /post/137493172223/re-the-bathtub-analogy-in-your-captioning-at/
-  - /post/137493172223/
-  - /post/137493172223/re-the-bathtub-analogy-in-your-captioning-at
-  - /post/137493172223
 slug: re-the-bathtub-analogy-in-your-captioning-at
 tumblrid: 137493172223
 type: answer

@@ -1,11 +1,6 @@
 ---
 layout: layouts/post.njk
 date: 2013-04-01T17:47:17.000Z
-redirect_from:
-  - /post/46861552201/promises/
-  - /post/46861552201/
-  - /post/46861552201/promises
-  - /post/46861552201
 slug: promises
 title: Promises
 tumblrid: 46861552201

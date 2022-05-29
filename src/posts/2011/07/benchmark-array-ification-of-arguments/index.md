@@ -1,11 +1,6 @@
 ---
 layout: layouts/post.njk
 date: 2011-07-18T02:29:00.000Z
-redirect_from:
-  - /post/7746314700/benchmark-array-ification-of-arguments/
-  - /post/7746314700/
-  - /post/7746314700/benchmark-array-ification-of-arguments
-  - /post/7746314700
 slug: benchmark-array-ification-of-arguments
 title: 'Benchmark: Array-ification of arguments'
 tumblrid: 7746314700

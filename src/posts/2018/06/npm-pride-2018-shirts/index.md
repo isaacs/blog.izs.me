@@ -1,11 +1,6 @@
 ---
 layout: layouts/post.njk
 date: 2018-06-01T18:06:27.000Z
-redirect_from:
-  - /post/174472804688/npm-pride-2018-shirts/
-  - /post/174472804688/
-  - /post/174472804688/npm-pride-2018-shirts
-  - /post/174472804688
 slug: npm-pride-2018-shirts
 title: npm Pride 2018 Shirts
 tumblrid: 174472804688

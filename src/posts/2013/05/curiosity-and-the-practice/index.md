@@ -1,11 +1,6 @@
 ---
 layout: layouts/post.njk
 date: 2013-05-06T20:44:00.000Z
-redirect_from:
-  - /post/49797044559/curiosity-and-the-practice/
-  - /post/49797044559/
-  - /post/49797044559/curiosity-and-the-practice
-  - /post/49797044559
 slug: curiosity-and-the-practice
 title: Curiosity and The Practice
 tumblrid: 49797044559
@@ -16,10 +11,10 @@ type: text
 <blockquote>
   <p>I want to develop software.<br/>
   I want to be a software developer.</p>
-  
+
   <p>I want to write a novel.<br/>
   I want to be a novelist.</p>
-  
+
   <p>I want to do yoga.<br/>
   I want to be a yogi.</p>
 </blockquote>

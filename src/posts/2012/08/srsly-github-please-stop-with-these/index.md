@@ -3,11 +3,6 @@ layout: layouts/post.njk
 date: 2012-08-13T17:15:00.000Z
 photos:
   - - ./tumblr_m8pelgHEhh1qzjzo9o1_540.png
-redirect_from:
-  - /post/29344790548/srsly-github-please-stop-with-these/
-  - /post/29344790548/
-  - /post/29344790548/srsly-github-please-stop-with-these
-  - /post/29344790548
 slug: srsly-github-please-stop-with-these
 tumblrid: 29344790548
 type: photo

@@ -1,11 +1,6 @@
 ---
 layout: layouts/post.njk
 date: 2014-06-08T16:41:05.000Z
-redirect_from:
-  - /post/88184437643/grunt-gulp-broccoli/
-  - /post/88184437643/
-  - /post/88184437643/grunt-gulp-broccoli
-  - /post/88184437643
 slug: grunt-gulp-broccoli
 title: 'Grunt, Gulp, Broccoli'
 tumblrid: 88184437643

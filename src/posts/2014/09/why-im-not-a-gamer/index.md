@@ -3,11 +3,6 @@ layout: layouts/post.njk
 date: 2014-09-01T22:13:55.000Z
 link_publisher: pattheflip.tumblr.com
 link_url: 'http://pattheflip.tumblr.com/post/96390223113/why-im-not-a-gamer'
-redirect_from:
-  - /post/96396274158/why-im-not-a-gamer/
-  - /post/96396274158/
-  - /post/96396274158/why-im-not-a-gamer
-  - /post/96396274158
 slug: why-im-not-a-gamer
 title: Why I'm not a "gamer"
 tumblrid: 96396274158

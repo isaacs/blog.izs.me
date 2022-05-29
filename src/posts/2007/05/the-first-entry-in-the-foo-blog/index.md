@@ -1,9 +1,6 @@
 ---
 layout: layouts/post.njk
 date: 2007-05-23T01:16:15.000Z
-redirect_from:
-  - /post/146671344/the-first-entry-in-the-foo-blog
-  - /post/146671344
 slug: the-first-entry-in-the-foo-blog
 tags:
   - foo

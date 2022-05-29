@@ -3,11 +3,6 @@ layout: layouts/post.njk
 date: 2014-10-17T14:04:21.000Z
 photos:
   - - ./tumblr_ndkn7tO7Sh1txdy9oo1_640.png
-redirect_from:
-  - /post/100239636903/i-have-been-hit-three-of-these-ways-this-is-why/
-  - /post/100239636903/
-  - /post/100239636903/i-have-been-hit-three-of-these-ways-this-is-why
-  - /post/100239636903
 slug: i-have-been-hit-three-of-these-ways-this-is-why
 tumblrid: 100239636903
 type: photo

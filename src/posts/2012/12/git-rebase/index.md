@@ -1,13 +1,6 @@
 ---
 layout: layouts/post.njk
 date: 2012-12-10T19:05:00.000Z
-redirect_from:
-  - /post/37650663670/git-rebase/
-  - /post/37650663670/
-  - /post/37650663670/git-rebase
-  - /post/37650663670
-  - /post/37650663670/git-rebase/embed
-  - /post/37650663670/git-rebase/embed/
 slug: git-rebase
 title: git-rebase
 tumblrid: 37650663670
@@ -69,20 +62,20 @@ type: text
 
 <blockquote>
   <p>I ran out of milk.</p>
-  
+
   <p>I walked down Adams Street to Whole Foods so I could buy milk.</p>
-  
+
   <p>I mean, no, Whole Foods isn&rsquo;t on Adams, it&rsquo;s on Bay Place, so I
   walked down Bay Place to get to Whole Foods to buy milk.</p>
-  
+
   <p>Oh, but first, I had to walk down Grand Ave, then take a right on
   Bay Place, then parked my car&ndash;shit.</p>
-  
+
   <p>I got in my car, drove down Grand Ave, took a right on Bay Place,
   parked my car at Whole Foods, and needed my wallet, so&hellip; right, ok,
   so before I drove in my car, I got my wallet, drove to Whole Foods
   on Bay Place by going down Grand, and then bought some milk.</p>
-  
+
   <p>No, wait, I didn&rsquo;t to whole foods, that&rsquo;s right, because they&rsquo;re
   crazy expensive.  I went to the Grand Lake Safeway.</p>
 </blockquote>
@@ -91,7 +84,7 @@ type: text
 
 <blockquote>
   <p>I ran out of milk.</p>
-  
+
   <p>I drove to the Grand Lake Safeway and bought some milk.</p>
 </blockquote>
 

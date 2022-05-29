@@ -3,11 +3,6 @@ layout: layouts/post.njk
 date: 2016-02-20T22:27:06.000Z
 photos:
   - - ./tumblr_nui8zh5XhP1qhccbco1_500.gif
-redirect_from:
-  - /post/139684200003/probertson-inside-out/
-  - /post/139684200003/
-  - /post/139684200003/probertson-inside-out
-  - /post/139684200003
 slug: probertson-inside-out
 tumblrid: 139684200003
 type: photo

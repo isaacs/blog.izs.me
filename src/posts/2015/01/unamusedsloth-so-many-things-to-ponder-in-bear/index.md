@@ -12,11 +12,6 @@ photos:
   - - ./tumblr_n4pwdnlBsO1ta83ebo8_500.jpg
   - - ./tumblr_n4pwdnlBsO1ta83ebo10_500.png
   - - ./tumblr_n4pwdnlBsO1ta83ebo2_640.jpg
-redirect_from:
-  - /post/108901099753/unamusedsloth-so-many-things-to-ponder-in-bear/
-  - /post/108901099753/
-  - /post/108901099753/unamusedsloth-so-many-things-to-ponder-in-bear
-  - /post/108901099753
 slug: unamusedsloth-so-many-things-to-ponder-in-bear
 tumblrid: 108901099753
 type: photo

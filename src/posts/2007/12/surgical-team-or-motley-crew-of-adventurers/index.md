@@ -1,11 +1,6 @@
 ---
 layout: layouts/post.njk
 date: 2007-12-03T20:10:17.000Z
-redirect_from:
-  - /post/146672492/surgical-team-or-motley-crew-of-adventurers/
-  - /post/146672492/
-  - /post/146672492/surgical-team-or-motley-crew-of-adventurers
-  - /post/146672492
 slug: surgical-team-or-motley-crew-of-adventurers
 tags:
   - code ecosystems

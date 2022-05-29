@@ -1,11 +1,6 @@
 ---
 layout: layouts/post.njk
 date: 2016-07-15T16:20:57.000Z
-redirect_from:
-  - /post/147451253818/among-the-many-hardest-problems-in-computer/
-  - /post/147451253818/
-  - /post/147451253818/among-the-many-hardest-problems-in-computer
-  - /post/147451253818
 slug: among-the-many-hardest-problems-in-computer
 title: Among the Many Hardest Problems in Computer Science Are Such Things As...
 tumblrid: 147451253818

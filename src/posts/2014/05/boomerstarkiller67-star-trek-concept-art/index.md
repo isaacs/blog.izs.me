@@ -10,11 +10,6 @@ photos:
   - - ./tumblr_n4ib7pyfwJ1sqf5tdo6_640.jpg
   - - ./tumblr_n4ib7pyfwJ1sqf5tdo7_1280.jpg
   - - ./tumblr_n4ib7pyfwJ1sqf5tdo8_400.jpg
-redirect_from:
-  - /post/86062727258/boomerstarkiller67-star-trek-concept-art/
-  - /post/86062727258/
-  - /post/86062727258/boomerstarkiller67-star-trek-concept-art
-  - /post/86062727258
 slug: boomerstarkiller67-star-trek-concept-art
 source:
   title: atomic-chronoscaph

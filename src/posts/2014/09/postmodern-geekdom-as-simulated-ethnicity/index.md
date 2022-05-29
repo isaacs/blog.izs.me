@@ -3,11 +3,6 @@ layout: layouts/post.njk
 date: 2014-09-14T06:30:00.000Z
 link_publisher: ejumpcut.org
 link_url: 'http://www.ejumpcut.org/archive/jc54.2012/SolesKunyoGeedom/index.html'
-redirect_from:
-  - /post/97452517893/postmodern-geekdom-as-simulated-ethnicity/
-  - /post/97452517893/
-  - /post/97452517893/postmodern-geekdom-as-simulated-ethnicity
-  - /post/97452517893
 slug: postmodern-geekdom-as-simulated-ethnicity
 tags:
   - patriarchy

@@ -1,11 +1,6 @@
 ---
 layout: layouts/post.njk
 date: 2010-08-20T19:04:09.000Z
-redirect_from:
-  - /post/983542653/rider/
-  - /post/983542653/
-  - /post/983542653/rider
-  - /post/983542653
 slug: rider
 tags:
   - moving

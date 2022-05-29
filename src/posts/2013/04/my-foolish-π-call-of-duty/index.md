@@ -1,11 +1,6 @@
 ---
 layout: layouts/post.njk
 date: 2013-04-04T17:05:00.000Z
-redirect_from:
-  - /post/47116770274/my-foolish-π-call-of-duty/
-  - /post/47116770274/
-  - /post/47116770274/my-foolish-π-call-of-duty
-  - /post/47116770274
 slug: my-foolish-π-call-of-duty
 title: My Foolish π Call of Duty
 tumblrid: 47116770274

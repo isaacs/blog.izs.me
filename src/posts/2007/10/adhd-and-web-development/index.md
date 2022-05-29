@@ -1,11 +1,6 @@
 ---
 layout: layouts/post.njk
 date: 2007-10-22T20:02:43.000Z
-redirect_from:
-  - /post/146672347/adhd-and-web-development/
-  - /post/146672347/
-  - /post/146672347/adhd-and-web-development
-  - /post/146672347
 slug: adhd-and-web-development
 tags:
   - psychology of programming

@@ -1,11 +1,6 @@
 ---
 layout: layouts/post.njk
 date: 2010-01-05T23:59:00.000Z
-redirect_from:
-  - /post/318794386/transition/
-  - /post/318794386/
-  - /post/318794386/transition
-  - /post/318794386
 slug: transition
 tags:
   - the business

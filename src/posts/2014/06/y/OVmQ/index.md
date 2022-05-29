@@ -10,11 +10,6 @@ photos:
   - - ./tumblr_n7anz1FMKw1s4pi7to4_1280.png
   - - ./tumblr_n7anz1FMKw1s4pi7to6_1280.png
   - - ./tumblr_n7anz1FMKw1s4pi7to7_1280.png
-redirect_from:
-  - /post/89321084313/
-  - /post/89321084313
-slug: y-OVmQ
-tumblrid: 89321084313
 type: photo
 via:
   name: ventai-deactivated20150703

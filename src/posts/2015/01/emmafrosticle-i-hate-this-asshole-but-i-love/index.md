@@ -12,11 +12,6 @@ photos:
   - - ./tumblr_nh6l0btbJQ1r86ysgo8_1280.jpg
   - - ./tumblr_nh6l0btbJQ1r86ysgo4_1280.jpg
   - - ./tumblr_nh6l0btbJQ1r86ysgo5_1280.jpg
-redirect_from:
-  - /post/108058001293/emmafrosticle-i-hate-this-asshole-but-i-love/
-  - /post/108058001293/
-  - /post/108058001293/emmafrosticle-i-hate-this-asshole-but-i-love
-  - /post/108058001293
 slug: emmafrosticle-i-hate-this-asshole-but-i-love
 source:
   title: alayne-stonecoldfox

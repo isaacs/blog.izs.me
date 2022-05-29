@@ -8,11 +8,6 @@ photos:
     - ./tumblr_m3amawYJr21rsjqu1o8_r1_250.gif
   - - ./tumblr_m3amawYJr21rsjqu1o7_r1_250.gif
     - ./tumblr_m3amawYJr21rsjqu1o10_r1_250.gif
-redirect_from:
-  - /post/95424717983/deansdamnation-thespyandthesoldier/
-  - /post/95424717983/
-  - /post/95424717983/deansdamnation-thespyandthesoldier
-  - /post/95424717983
 slug: deansdamnation-thespyandthesoldier
 source:
   title: gameofsnow

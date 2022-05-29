@@ -8,11 +8,6 @@ date: 2019-01-16T19:32:23.550Z
 via:
   name: npmjs
   url: https://blog.npmjs.org/post/182064135060/oss-risk-and-compliance
-redirect_from:
-  - /post/182064154983/oss-risk-and-compliance/
-  - /post/182064154983/oss-risk-and-compliance
-  - /post/182064154983/
-  - /post/182064154983
 ---
 
 [npmjs](https://blog.npmjs.org/post/182064135060/oss-risk-and-compliance)

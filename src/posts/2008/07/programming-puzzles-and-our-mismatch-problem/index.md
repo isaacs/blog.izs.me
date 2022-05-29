@@ -1,11 +1,6 @@
 ---
 layout: layouts/post.njk
 date: 2008-07-07T17:00:46.000Z
-redirect_from:
-  - /post/146672737/programming-puzzles-and-our-mismatch-problem/
-  - /post/146672737/
-  - /post/146672737/programming-puzzles-and-our-mismatch-problem
-  - /post/146672737
 slug: programming-puzzles-and-our-mismatch-problem
 tags:
   - 20/20 hindsight

@@ -1,11 +1,6 @@
 ---
 layout: layouts/post.njk
 date: 2009-07-23T21:54:23.000Z
-redirect_from:
-  - /post/147798112/2616/
-  - /post/147798112/
-  - /post/147798112/2616
-  - /post/147798112
 slug: '2616'
 title: '2616'
 tumblrid: 147798112

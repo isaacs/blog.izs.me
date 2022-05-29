@@ -8,11 +8,6 @@ photos:
   - - ./tumblr_nr38j215It1qzjzo9o4_500.gif
   - - ./tumblr_nr38j215It1qzjzo9o5_500.gif
   - - ./tumblr_nr38j215It1qzjzo9o6_500.gif
-redirect_from:
-  - /post/123407175228//
-  - /post/123407175228/
-  - /post/123407175228/
-  - /post/123407175228
 slug: u6QOPA
 tags:
   - sense8

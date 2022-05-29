@@ -1,11 +1,6 @@
 ---
 layout: layouts/post.njk
 date: 2013-03-12T18:57:00.000Z
-redirect_from:
-  - /post/45203330061/complex-system-knowledge-is-not-transferrable/
-  - /post/45203330061/
-  - /post/45203330061/complex-system-knowledge-is-not-transferrable
-  - /post/45203330061
 slug: complex-system-knowledge-is-not-transferrable
 title: Complex System Knowledge is Not Transferrable
 tumblrid: 45203330061

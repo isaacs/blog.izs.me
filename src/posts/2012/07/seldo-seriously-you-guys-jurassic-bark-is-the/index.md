@@ -3,11 +3,6 @@ layout: layouts/post.njk
 date: 2012-07-13T16:40:49.000Z
 photos:
   - - ./tumblr_m70y03Si8g1qzvoypo1_640.jpg
-redirect_from:
-  - /post/27130219758/seldo-seriously-you-guys-jurassic-bark-is-the/
-  - /post/27130219758/
-  - /post/27130219758/seldo-seriously-you-guys-jurassic-bark-is-the
-  - /post/27130219758
 slug: seldo-seriously-you-guys-jurassic-bark-is-the
 source:
   title: atsween

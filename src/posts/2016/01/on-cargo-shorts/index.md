@@ -1,11 +1,6 @@
 ---
 layout: layouts/post.njk
 date: 2016-01-20T07:59:07.000Z
-redirect_from:
-  - /post/137674634563/on-cargo-shorts/
-  - /post/137674634563/
-  - /post/137674634563/on-cargo-shorts
-  - /post/137674634563
 slug: on-cargo-shorts
 title: on cargo shorts
 tumblrid: 137674634563

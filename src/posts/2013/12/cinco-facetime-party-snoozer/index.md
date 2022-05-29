@@ -1,11 +1,6 @@
 ---
 layout: layouts/post.njk
 date: 2013-12-02T18:13:00.000Z
-redirect_from:
-  - /post/68794154899/cinco-facetime-party-snoozer/
-  - /post/68794154899/
-  - /post/68794154899/cinco-facetime-party-snoozer
-  - /post/68794154899
 slug: cinco-facetime-party-snoozer
 title: Cinco Facetime Party Snoozer
 tumblrid: 68794154899

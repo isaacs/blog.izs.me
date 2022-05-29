@@ -4,11 +4,6 @@ date: 2009-08-06T07:39:00.000Z
 link_publisher: timesonline.co.uk
 link_url: >-
   http://www.timesonline.co.uk/tol/news/article1084093.ece?print=yes&randnum=1246357554256
-redirect_from:
-  - /post/157021901/if-you-want-to-be-rich-first-stop-being-so/
-  - /post/157021901/
-  - /post/157021901/if-you-want-to-be-rich-first-stop-being-so
-  - /post/157021901
 slug: if-you-want-to-be-rich-first-stop-being-so
 title: 'If you want to be rich, first stop being so frightened'
 tumblrid: 157021901

@@ -4,11 +4,6 @@ date: 2009-12-07T18:21:00.000Z
 link_url: 'http://www.flickr.com/photos/isaacschlueter/4165952794/'
 photos:
   - - ./tumblr_kuaoby3qWC1qzjzo9o1_r1_1280.png
-redirect_from:
-  - /post/273432179/minzms-in-the-photo-booth-im-not-referring-to/
-  - /post/273432179/
-  - /post/273432179/minzms-in-the-photo-booth-im-not-referring-to
-  - /post/273432179
 slug: minzms-in-the-photo-booth-im-not-referring-to
 tumblrid: 273432179
 type: photo

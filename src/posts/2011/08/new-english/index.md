@@ -1,11 +1,6 @@
 ---
 layout: layouts/post.njk
 date: 2011-08-12T05:38:00.000Z
-redirect_from:
-  - /post/8811997887/new-english/
-  - /post/8811997887/
-  - /post/8811997887/new-english
-  - /post/8811997887
 slug: new-english
 title: New English
 tumblrid: 8811997887

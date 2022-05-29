@@ -1,11 +1,6 @@
 ---
 layout: layouts/post.njk
 date: 2014-04-27T18:15:48.000Z
-redirect_from:
-  - /post/84040358303/void/
-  - /post/84040358303/
-  - /post/84040358303/void
-  - /post/84040358303
 slug: void
 title: Void
 tumblrid: 84040358303

@@ -4,11 +4,6 @@ date: 2012-02-06T22:02:22.000Z
 link_publisher: blog.fetchnotes.com
 link_url: >-
   http://blog.fetchnotes.com/post/17155558880/what-happens-when-you-swear-at-your-users
-redirect_from:
-  - /post/17171534031/software-personality/
-  - /post/17171534031/
-  - /post/17171534031/software-personality
-  - /post/17171534031
 slug: software-personality
 title: Software Personality
 tumblrid: 17171534031

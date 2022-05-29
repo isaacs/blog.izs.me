@@ -3,11 +3,6 @@ layout: layouts/post.njk
 date: 2009-08-18T21:15:50.000Z
 link_publisher: slate.com
 link_url: 'http://www.slate.com/id/2225223/pagenum/all/#p2'
-redirect_from:
-  - /post/165966535/time-traveling-for-dummies/
-  - /post/165966535/
-  - /post/165966535/time-traveling-for-dummies
-  - /post/165966535
 slug: time-traveling-for-dummies
 title: Time-Traveling for Dummies
 tumblrid: 165966535

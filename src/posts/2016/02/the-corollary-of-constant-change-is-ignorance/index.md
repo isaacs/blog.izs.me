@@ -1,11 +1,6 @@
 ---
 layout: layouts/post.njk
 date: 2016-02-03T10:24:32.000Z
-redirect_from:
-  - /post/138599220888/the-corollary-of-constant-change-is-ignorance/
-  - /post/138599220888/
-  - /post/138599220888/the-corollary-of-constant-change-is-ignorance
-  - /post/138599220888
 slug: the-corollary-of-constant-change-is-ignorance
 tumblrid: 138599220888
 type: quote

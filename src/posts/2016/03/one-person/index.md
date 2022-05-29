@@ -11,11 +11,6 @@ photos:
   - - ./tumblr_o44abzEHrc1qzjzo9o7_1280.jpg
     - ./tumblr_o44abzEHrc1qzjzo9o8_1280.jpg
   - - ./tumblr_o44abzEHrc1qzjzo9o9_1280.jpg
-redirect_from:
-  - /post/141131995198/one-person/
-  - /post/141131995198/
-  - /post/141131995198/one-person
-  - /post/141131995198
 slug: one-person
 tumblrid: 141131995198
 type: photo

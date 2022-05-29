@@ -1,11 +1,6 @@
 ---
 layout: layouts/post.njk
 date: 2015-10-11T15:18:51.000Z
-redirect_from:
-  - /post/130951414298/national-coming-out-day/
-  - /post/130951414298/
-  - /post/130951414298/national-coming-out-day
-  - /post/130951414298
 slug: national-coming-out-day
 title: National Coming Out Day
 tumblrid: 130951414298

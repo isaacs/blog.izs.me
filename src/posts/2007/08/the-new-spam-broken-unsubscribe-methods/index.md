@@ -1,11 +1,6 @@
 ---
 layout: layouts/post.njk
 date: 2007-08-20T18:39:00.000Z
-redirect_from:
-  - /post/146671933/the-new-spam-broken-unsubscribe-methods/
-  - /post/146671933/
-  - /post/146671933/the-new-spam-broken-unsubscribe-methods
-  - /post/146671933
 slug: the-new-spam-broken-unsubscribe-methods
 tags:
   - broken

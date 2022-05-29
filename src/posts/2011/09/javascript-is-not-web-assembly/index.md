@@ -1,11 +1,6 @@
 ---
 layout: layouts/post.njk
 date: 2011-09-14T21:21:00.000Z
-redirect_from:
-  - /post/10213512387/javascript-is-not-web-assembly/
-  - /post/10213512387/
-  - /post/10213512387/javascript-is-not-web-assembly
-  - /post/10213512387
 slug: javascript-is-not-web-assembly
 title: 'JavaScript is Not Web Assembly  '
 tumblrid: 10213512387

@@ -1,11 +1,6 @@
 ---
 layout: layouts/post.njk
 date: 2012-10-15T01:22:00.000Z
-redirect_from:
-  - /post/33610827882/on-sexism-in-tech/
-  - /post/33610827882/
-  - /post/33610827882/on-sexism-in-tech
-  - /post/33610827882
 slug: on-sexism-in-tech
 title: On Sexism in Tech
 tumblrid: 33610827882
@@ -19,11 +14,11 @@ type: text
 <li><a href="http://www.nytimes.com/2012/09/30/opinion/sunday/the-myth-of-male-decline.html?pagewanted=2&amp;_r=1&amp;pagewanted=all">Research</a>
 <a href="http://cornellsun.com/section/news/content/2008/03/31/report-women-excluded-exec-positions">has</a>
 <a href="http://www.timeshighereducation.co.uk/story.asp?storycode=401046">shown</a>
-<a href="http://kar.kent.ac.uk/4384/">that</a> 
-<a href="http://www.mendeley.com/research/sexism-beautyism-personnel-consultant-decision-making/">humans</a> 
-<a href="http://www.highbeam.com/doc/1G1-172777358.html">are</a> 
+<a href="http://kar.kent.ac.uk/4384/">that</a>
+<a href="http://www.mendeley.com/research/sexism-beautyism-personnel-consultant-decision-making/">humans</a>
+<a href="http://www.highbeam.com/doc/1G1-172777358.html">are</a>
 <a href="http://antimisandry.com/discrimination-sexist-double-standards/my-gender-bending-resume-experiment-39580.html#axzz29K6sER2Z">capable</a>
-<a href="http://link.springer.com/article/10.1007/s11199-009-9640-6">of being</a> 
+<a href="http://link.springer.com/article/10.1007/s11199-009-9640-6">of being</a>
 <a href="http://www.wellesleynewsonline.com/yale-study-shows-pervasive-sexism-in-hiring-practices-among-professors-1.2918203#.UHtaFmlQy9E">sexist</a>
 <a href="http://ideas.time.com/2012/10/04/womens-inhumanity-to-women/?goback=.gde_1774877_member_172689183">without</a>
 <a href="http://www.thefreelibrary.com/Implicit+gender+bias+in+the+legal+profession%3a+an+empirical+study.-a0253626406">noticing</a>.</li>

@@ -1,11 +1,6 @@
 ---
 layout: layouts/post.njk
 date: 2010-04-29T04:43:24.000Z
-redirect_from:
-  - /post/557621772/email-confidentiality-footers/
-  - /post/557621772/
-  - /post/557621772/email-confidentiality-footers
-  - /post/557621772
 slug: email-confidentiality-footers
 tags:
   - rant
@@ -13,11 +8,11 @@ title: Email Confidentiality Footers
 tumblrid: 557621772
 type: text
 ---
-<blockquote><p style="white-space:pre">&gt; This email message is for the sole use of the intended  
-&gt; recipient(s) and may contain confidential and privileged  
-&gt; information.  Any unauthorized review, use, disclosure or  
-&gt; distribution is prohibited.  If you are not the intended  
-&gt; recipient, please contact the sender by reply email and destroy  
+<blockquote><p style="white-space:pre">&gt; This email message is for the sole use of the intended
+&gt; recipient(s) and may contain confidential and privileged
+&gt; information.  Any unauthorized review, use, disclosure or
+&gt; distribution is prohibited.  If you are not the intended
+&gt; recipient, please contact the sender by reply email and destroy
 &gt; all copies of the original message.</p></blockquote>
 
 <p>Ah, where to begin&hellip;</p>

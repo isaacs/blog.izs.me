@@ -1,11 +1,6 @@
 ---
 layout: layouts/post.njk
 date: 2012-08-04T01:47:01.000Z
-redirect_from:
-  - /post/28668181340/hoarders/
-  - /post/28668181340/
-  - /post/28668181340/hoarders
-  - /post/28668181340
 slug: hoarders
 title: Hoarders
 tumblrid: 28668181340

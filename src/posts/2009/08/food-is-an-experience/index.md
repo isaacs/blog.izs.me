@@ -1,11 +1,6 @@
 ---
 layout: layouts/post.njk
 date: 2009-08-16T17:00:30.000Z
-redirect_from:
-  - /post/164242145/food-is-an-experience/
-  - /post/164242145/
-  - /post/164242145/food-is-an-experience
-  - /post/164242145
 slug: food-is-an-experience
 title: Never has a conversation gone wronger faster
 tumblrid: 164242145

@@ -1,11 +1,6 @@
 ---
 layout: layouts/post.njk
 date: 2009-07-30T19:13:03.000Z
-redirect_from:
-  - /post/152423311/once-is-an-accident/
-  - /post/152423311/
-  - /post/152423311/once-is-an-accident
-  - /post/152423311
 slug: once-is-an-accident
 title: Once is an accident
 tumblrid: 152423311

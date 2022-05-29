@@ -1,11 +1,6 @@
 ---
 layout: layouts/post.njk
 date: 2014-04-27T17:12:20.000Z
-redirect_from:
-  - /post/84034333846/adaytoromana-this-kinda-makes-me-uncomfortable/
-  - /post/84034333846/
-  - /post/84034333846/adaytoromana-this-kinda-makes-me-uncomfortable
-  - /post/84034333846
 slug: adaytoromana-this-kinda-makes-me-uncomfortable
 source:
   title: fuks

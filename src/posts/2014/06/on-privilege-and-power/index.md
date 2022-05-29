@@ -1,11 +1,6 @@
 ---
 layout: layouts/post.njk
 date: 2014-06-24T17:13:26.000Z
-redirect_from:
-  - /post/89771698318/on-privilege-and-power/
-  - /post/89771698318/
-  - /post/89771698318/on-privilege-and-power
-  - /post/89771698318
 slug: on-privilege-and-power
 title: On privilege and power
 tumblrid: 89771698318

@@ -1,11 +1,6 @@
 ---
 layout: layouts/post.njk
 date: 2013-02-11T01:06:32.000Z
-redirect_from:
-  - /post/42801410428/38/
-  - /post/42801410428/
-  - /post/42801410428/38
-  - /post/42801410428
 slug: '38'
 title: 38"
 tumblrid: 42801410428

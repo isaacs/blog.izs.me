@@ -1,11 +1,6 @@
 ---
 layout: layouts/post.njk
 date: 2012-03-13T23:15:00.000Z
-redirect_from:
-  - /post/19258486115/how-i-would-do-it/
-  - /post/19258486115/
-  - /post/19258486115/how-i-would-do-it
-  - /post/19258486115
 slug: how-i-would-do-it
 title: How I Would Do It
 tumblrid: 19258486115

@@ -1,11 +1,6 @@
 ---
 layout: layouts/post.njk
 date: 2009-12-28T23:17:22.000Z
-redirect_from:
-  - /post/305092153/torrents/
-  - /post/305092153/
-  - /post/305092153/torrents
-  - /post/305092153
 slug: torrents
 tags:
   - torrents

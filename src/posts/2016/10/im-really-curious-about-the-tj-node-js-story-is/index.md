@@ -1,11 +1,6 @@
 ---
 layout: layouts/post.njk
 date: 2016-10-11T07:58:29.000Z
-redirect_from:
-  - /post/151651108308/im-really-curious-about-the-tj-node-js-story-is/
-  - /post/151651108308/
-  - /post/151651108308/im-really-curious-about-the-tj-node-js-story-is
-  - /post/151651108308
 slug: im-really-curious-about-the-tj-node-js-story-is
 tumblrid: 151651108308
 type: answer

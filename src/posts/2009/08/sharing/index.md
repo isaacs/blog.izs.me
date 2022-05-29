@@ -1,11 +1,6 @@
 ---
 layout: layouts/post.njk
 date: 2009-08-02T18:29:58.000Z
-redirect_from:
-  - /post/154357980/sharing/
-  - /post/154357980/
-  - /post/154357980/sharing
-  - /post/154357980
 slug: sharing
 title: Sharing
 tumblrid: 154357980

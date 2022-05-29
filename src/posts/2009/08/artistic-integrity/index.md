@@ -1,11 +1,6 @@
 ---
 layout: layouts/post.njk
 date: 2009-08-18T17:36:23.000Z
-redirect_from:
-  - /post/165820987/artistic-integrity/
-  - /post/165820987/
-  - /post/165820987/artistic-integrity
-  - /post/165820987
 slug: artistic-integrity
 title: Artistic Integrity
 tumblrid: 165820987

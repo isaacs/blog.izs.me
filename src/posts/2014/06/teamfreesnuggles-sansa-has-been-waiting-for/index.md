@@ -5,11 +5,6 @@ photos:
   - - ./tumblr_n6irbkXA7f1qidrsso1_500.png
   - - ./tumblr_n6irbkXA7f1qidrsso2_500.png
   - - ./tumblr_n6irbkXA7f1qidrsso3_500.png
-redirect_from:
-  - /post/88454095488/teamfreesnuggles-sansa-has-been-waiting-for/
-  - /post/88454095488/
-  - /post/88454095488/teamfreesnuggles-sansa-has-been-waiting-for
-  - /post/88454095488
 slug: teamfreesnuggles-sansa-has-been-waiting-for
 tumblrid: 88454095488
 type: photo

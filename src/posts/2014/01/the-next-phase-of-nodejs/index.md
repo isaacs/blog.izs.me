@@ -1,11 +1,6 @@
 ---
 layout: layouts/post.njk
 date: 2014-01-15T17:13:09.000Z
-redirect_from:
-  - /post/73420539709/the-next-phase-of-nodejs/
-  - /post/73420539709/
-  - /post/73420539709/the-next-phase-of-nodejs
-  - /post/73420539709
 tags:
   - oss
 slug: the-next-phase-of-nodejs

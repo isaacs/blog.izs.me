@@ -1,11 +1,6 @@
 ---
 layout: layouts/post.njk
 date: 2007-07-27T00:37:54.000Z
-redirect_from:
-  - /post/146671636/broken-mac-wireless-driver-in-10410/
-  - /post/146671636/
-  - /post/146671636/broken-mac-wireless-driver-in-10410
-  - /post/146671636
 slug: broken-mac-wireless-driver-in-10410
 tags:
   - broken

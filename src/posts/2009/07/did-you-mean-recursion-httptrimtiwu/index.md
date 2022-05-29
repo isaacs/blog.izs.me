@@ -1,11 +1,6 @@
 ---
 layout: layouts/post.njk
 date: 2009-07-23T17:46:37.000Z
-redirect_from:
-  - /post/147661982/did-you-mean-recursion-httptrimtiwu/
-  - /post/147661982/
-  - /post/147661982/did-you-mean-recursion-httptrimtiwu
-  - /post/147661982
 slug: did-you-mean-recursion-httptrimtiwu
 tumblrid: 147661982
 type: text

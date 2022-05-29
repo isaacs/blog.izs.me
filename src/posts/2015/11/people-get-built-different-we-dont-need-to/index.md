@@ -3,11 +3,6 @@ layout: layouts/post.njk
 date: 2015-11-22T02:38:01.000Z
 photos:
   - - ./tumblr_ny73bdlN3p1qzjzo9o1_500.gif
-redirect_from:
-  - /post/133695914868/people-get-built-different-we-dont-need-to/
-  - /post/133695914868/
-  - /post/133695914868/people-get-built-different-we-dont-need-to
-  - /post/133695914868
 slug: people-get-built-different-we-dont-need-to
 tags:
   - adventure time

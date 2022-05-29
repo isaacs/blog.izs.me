@@ -1,11 +1,6 @@
 ---
 layout: layouts/post.njk
 date: 2011-02-20T01:54:00.000Z
-redirect_from:
-  - /post/3393190720/how-this-works/
-  - /post/3393190720/
-  - /post/3393190720/how-this-works
-  - /post/3393190720
 slug: how-this-works
 title: How this works...
 tumblrid: 3393190720

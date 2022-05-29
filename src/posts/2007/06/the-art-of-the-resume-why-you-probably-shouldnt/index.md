@@ -1,11 +1,6 @@
 ---
 layout: layouts/post.njk
 date: 2007-06-20T17:00:05.000Z
-redirect_from:
-  - /post/146671514/the-art-of-the-resume-why-you-probably-shouldnt/
-  - /post/146671514/
-  - /post/146671514/the-art-of-the-resume-why-you-probably-shouldnt
-  - /post/146671514
 slug: the-art-of-the-resume-why-you-probably-shouldnt
 tags:
   - the business

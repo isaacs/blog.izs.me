@@ -12,11 +12,6 @@ photos:
     - ./tumblr_mri97c8Cpy1qc8jh0o8_250.gif
   - - ./tumblr_mri97c8Cpy1qc8jh0o9_250.gif
     - ./tumblr_mri97c8Cpy1qc8jh0o10_250.gif
-redirect_from:
-  - /post/58333991967/neil-gaiman-wordsthatfit-sandandglass/
-  - /post/58333991967/
-  - /post/58333991967/neil-gaiman-wordsthatfit-sandandglass
-  - /post/58333991967
 slug: neil-gaiman-wordsthatfit-sandandglass
 source:
   title: sandandglass

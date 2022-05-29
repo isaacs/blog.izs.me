@@ -1,11 +1,6 @@
 ---
 layout: layouts/post.njk
 date: 2007-09-10T17:00:54.000Z
-redirect_from:
-  - /post/146672166/font-size-vs-zoom-the-only-thing-thats-wrong/
-  - /post/146672166/
-  - /post/146672166/font-size-vs-zoom-the-only-thing-thats-wrong
-  - /post/146672166
 slug: font-size-vs-zoom-the-only-thing-thats-wrong
 tags:
   - broken

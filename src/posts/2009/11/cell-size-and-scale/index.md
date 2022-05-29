@@ -3,11 +3,6 @@ layout: layouts/post.njk
 date: 2009-11-03T00:08:22.000Z
 link_publisher: learn.genetics.utah.edu
 link_url: 'http://learn.genetics.utah.edu/content/begin/cells/scale/'
-redirect_from:
-  - /post/231248693/cell-size-and-scale/
-  - /post/231248693/
-  - /post/231248693/cell-size-and-scale
-  - /post/231248693
 slug: cell-size-and-scale
 title: Cell Size and Scale
 tumblrid: 231248693

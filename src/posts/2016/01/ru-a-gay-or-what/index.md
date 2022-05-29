@@ -1,11 +1,6 @@
 ---
 layout: layouts/post.njk
 date: 2016-01-17T18:58:19.000Z
-redirect_from:
-  - /post/137494768883/ru-a-gay-or-what/
-  - /post/137494768883/
-  - /post/137494768883/ru-a-gay-or-what
-  - /post/137494768883
 slug: ru-a-gay-or-what
 title: ru a gay or what
 tumblrid: 137494768883

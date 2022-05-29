@@ -1,11 +1,6 @@
 ---
 layout: layouts/post.njk
 date: 2014-04-04T00:57:32.000Z
-redirect_from:
-  - /post/81634971400/on-eich/
-  - /post/81634971400/
-  - /post/81634971400/on-eich
-  - /post/81634971400
 slug: on-eich
 title: On Eich.
 tumblrid: 81634971400

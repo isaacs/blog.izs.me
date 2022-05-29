@@ -1,11 +1,6 @@
 ---
 layout: layouts/post.njk
 date: 2015-07-17T17:43:53.000Z
-redirect_from:
-  - /post/124339476323/the-phonetic-troll-alphabet/
-  - /post/124339476323/
-  - /post/124339476323/the-phonetic-troll-alphabet
-  - /post/124339476323
 slug: the-phonetic-troll-alphabet
 title: The Phonetic Troll Alphabet
 tumblrid: 124339476323

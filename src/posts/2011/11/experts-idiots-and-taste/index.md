@@ -1,11 +1,6 @@
 ---
 layout: layouts/post.njk
 date: 2011-11-10T18:15:00.000Z
-redirect_from:
-  - /post/12604303054/experts-idiots-and-taste/
-  - /post/12604303054/
-  - /post/12604303054/experts-idiots-and-taste
-  - /post/12604303054
 slug: experts-idiots-and-taste
 title: 'Experts, Idiots, and Taste'
 tumblrid: 12604303054

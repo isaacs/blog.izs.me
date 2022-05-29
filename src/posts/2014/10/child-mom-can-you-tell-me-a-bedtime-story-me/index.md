@@ -1,11 +1,6 @@
 ---
 layout: layouts/post.njk
 date: 2014-10-26T17:22:18.000Z
-redirect_from:
-  - /post/101007816088/child-mom-can-you-tell-me-a-bedtime-story-me/
-  - /post/101007816088/
-  - /post/101007816088/child-mom-can-you-tell-me-a-bedtime-story-me
-  - /post/101007816088
 slug: child-mom-can-you-tell-me-a-bedtime-story-me
 tumblrid: 101007816088
 type: chat

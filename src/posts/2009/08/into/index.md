@@ -1,11 +1,6 @@
 ---
 layout: layouts/post.njk
 date: 2009-08-22T17:01:00.000Z
-redirect_from:
-  - /post/169035298/into/
-  - /post/169035298/
-  - /post/169035298/into
-  - /post/169035298
 slug: into
 title: Into
 tumblrid: 169035298

@@ -1,11 +1,6 @@
 ---
 layout: layouts/post.njk
 date: 2009-07-29T08:00:17.000Z
-redirect_from:
-  - /post/151451980/ca-has-moved-from-whether-to-how-in-the-legal/
-  - /post/151451980/
-  - /post/151451980/ca-has-moved-from-whether-to-how-in-the-legal
-  - /post/151451980
 slug: ca-has-moved-from-whether-to-how-in-the-legal
 tumblrid: 151451980
 type: text

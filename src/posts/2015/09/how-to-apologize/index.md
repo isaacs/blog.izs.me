@@ -7,11 +7,6 @@ tags:
   - foundership
   - apologies
   - nvc
-redirect_from:
-  - /post/129232935178/how-to-apologize/
-  - /post/129232935178/
-  - /post/129232935178/how-to-apologize
-  - /post/129232935178
 slug: how-to-apologize
 title: how to apologize
 tumblrid: 129232935178

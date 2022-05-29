@@ -1,11 +1,6 @@
 ---
 layout: layouts/post.njk
 date: 2013-04-10T18:09:21.000Z
-redirect_from:
-  - /post/47632399651/on-chasing-the-right-zero/
-  - /post/47632399651/
-  - /post/47632399651/on-chasing-the-right-zero
-  - /post/47632399651
 slug: on-chasing-the-right-zero
 title: On Chasing the Right "Zero"
 tumblrid: 47632399651

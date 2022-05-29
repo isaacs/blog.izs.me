@@ -1,11 +1,6 @@
 ---
 layout: layouts/post.njk
 date: 2011-07-14T00:25:08.000Z
-redirect_from:
-  - /post/7593162547/nunos/
-  - /post/7593162547/
-  - /post/7593162547/nunos
-  - /post/7593162547
 slug: nunos
 title: Nuno's
 tumblrid: 7593162547

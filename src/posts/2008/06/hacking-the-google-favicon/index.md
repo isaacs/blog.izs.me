@@ -1,11 +1,6 @@
 ---
 layout: layouts/post.njk
 date: 2008-06-07T01:36:37.000Z
-redirect_from:
-  - /post/146672691/hacking-the-google-favicon/
-  - /post/146672691/
-  - /post/146672691/hacking-the-google-favicon
-  - /post/146672691
 slug: hacking-the-google-favicon
 tags:
   - broken

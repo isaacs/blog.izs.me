@@ -1,11 +1,6 @@
 ---
 layout: layouts/post.njk
 date: 2009-11-18T23:20:00.000Z
-redirect_from:
-  - /post/248918500/mighty-mighty/
-  - /post/248918500/
-  - /post/248918500/mighty-mighty
-  - /post/248918500
 slug: mighty-mighty
 tags:
   - mighty mighty mitochondria

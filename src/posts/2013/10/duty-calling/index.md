@@ -1,11 +1,6 @@
 ---
 layout: layouts/post.njk
 date: 2013-10-17T17:18:59.000Z
-redirect_from:
-  - /post/64308141069/duty-calling/
-  - /post/64308141069/
-  - /post/64308141069/duty-calling
-  - /post/64308141069
 slug: duty-calling
 title: Duty Calling
 tumblrid: 64308141069

@@ -1,11 +1,6 @@
 ---
 layout: layouts/post.njk
 date: 2007-08-06T17:00:06.000Z
-redirect_from:
-  - /post/146671830/when-will-the-bubble-bubble-burst-or-who-really/
-  - /post/146671830/
-  - /post/146671830/when-will-the-bubble-bubble-burst-or-who-really
-  - /post/146671830
 slug: when-will-the-bubble-bubble-burst-or-who-really
 tags:
   - punditry

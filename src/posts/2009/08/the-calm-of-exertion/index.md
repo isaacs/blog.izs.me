@@ -1,11 +1,6 @@
 ---
 layout: layouts/post.njk
 date: 2009-08-14T17:00:33.000Z
-redirect_from:
-  - /post/162908217/the-calm-of-exertion/
-  - /post/162908217/
-  - /post/162908217/the-calm-of-exertion
-  - /post/162908217
 slug: the-calm-of-exertion
 title: The Calm of Exertion
 tumblrid: 162908217

@@ -4,11 +4,6 @@ date: 2009-11-03T01:32:00.000Z
 link_publisher: trueslant.com
 link_url: >-
   http://trueslant.com/hivemind/2009/11/01/the-luck-of-the-sapiens-the-weird-fortuitousness-of-global-warming/
-redirect_from:
-  - /post/231325684/hive-mind-hive-mind-the-luck-of-the-sapiens/
-  - /post/231325684/
-  - /post/231325684/hive-mind-hive-mind-the-luck-of-the-sapiens
-  - /post/231325684
 slug: hive-mind-hive-mind-the-luck-of-the-sapiens
 title: >-
   Hive Mind - Hive Mind – The luck of the Sapiens: the weird fortuitousness of

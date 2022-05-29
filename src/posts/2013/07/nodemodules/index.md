@@ -1,11 +1,6 @@
 ---
 layout: layouts/post.njk
 date: 2013-07-29T23:49:09.000Z
-redirect_from:
-  - /post/56825769839/nodemodules/
-  - /post/56825769839/
-  - /post/56825769839/nodemodules
-  - /post/56825769839
 slug: nodemodules
 title: node_modules
 tumblrid: 56825769839

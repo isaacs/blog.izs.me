@@ -1,13 +1,6 @@
 ---
 layout: layouts/post.njk
 date: 2013-04-18T15:45:00.000Z
-redirect_from:
-  - /post/48281998870/unix-philosophy-and-nodejs/
-  - /post/48281998870/
-  - /post/48281998870/unix-philosophy-and-nodejs
-  - /post/48281998870
-  - /post/48281998870/unix-philosophy-and-node-js
-  - /post/48281998870/unix-philosophy-and-node-js/
 slug: unix-philosophy-and-nodejs
 title: Unix Philosophy and Node.js
 tumblrid: 48281998870
@@ -22,11 +15,11 @@ slideshare: https://www.slideshare.net/IsaacSchlueter/nodejs-patterns-and-opinio
 
 <blockquote>
   <p>This is the Unix philosophy:</p>
-  
+
   <p>Write programs that do one thing and do it well.</p>
-  
+
   <p>Write programs to work together.</p>
-  
+
   <p>Write programs to handle text streams, because that is a universal interface.</p>
 </blockquote>
 
@@ -34,11 +27,11 @@ slideshare: https://www.slideshare.net/IsaacSchlueter/nodejs-patterns-and-opinio
 
 <blockquote>
   <p>(i) Make each program do one thing well. To do a new job, build afresh rather than complicate old programs by adding new features.</p>
-  
+
   <p>(ii) Expect the output of every program to become the input to another, as yet unknown, program. Don&rsquo;t clutter output with extraneous information. Avoid stringently columnar or binary input formats. Don&rsquo;t insist on interactive input.</p>
-  
+
   <p>(iii) Design and build software, even operating systems, to be tried early, ideally within weeks. Don&rsquo;t hesitate to throw away the clumsy parts and rebuild them.</p>
-  
+
   <p>(iv) Use tools in preference to unskilled help to lighten a programming task, even if you have to detour to build the tools and expect to throw some of them out after you&rsquo;ve finished using them.</p>
 </blockquote>
 
@@ -68,27 +61,27 @@ slideshare: https://www.slideshare.net/IsaacSchlueter/nodejs-patterns-and-opinio
 
 <blockquote>
   <p>Write modules that do one thing well.  Write a new module rather than complicate an old one.</p>
-  
+
   <p>Write modules that encourage composition rather than extension.</p>
-  
+
   <p>Write modules that handle data Streams, because that is the universal interface.</p>
-  
+
   <p>Write modules that are agnostic about the source of their input or the destination of their output.</p>
-  
+
   <p>Write modules that solve a problem you know, so you can learn about the ones you don&rsquo;t.</p>
-  
+
   <p>Write modules that are small.  Iterate quickly.  Refactor ruthlessly.  Rewrite bravely.</p>
-  
+
   <p>Write modules quickly, to meet your needs, with just a few tests for compliance.  Avoid extensive specifications.  Add a test for each bug you fix.</p>
-  
+
   <p>Write modules for publication, even if you only use them privately.  You will appreciate documentation in the future.</p>
-  
+
   <hr><p>Working is better than perfect.</p>
-  
+
   <p>Focus is better than features.</p>
-  
+
   <p>Compatibility is better than purity.</p>
-  
+
   <p>Simplicity is better than anything.</p>
 </blockquote>
 

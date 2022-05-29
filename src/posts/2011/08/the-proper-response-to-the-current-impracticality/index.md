@@ -1,11 +1,6 @@
 ---
 layout: layouts/post.njk
 date: 2011-08-29T18:34:34.000Z
-redirect_from:
-  - /post/9552484379/the-proper-response-to-the-current-impracticality/
-  - /post/9552484379/
-  - /post/9552484379/the-proper-response-to-the-current-impracticality
-  - /post/9552484379
 slug: the-proper-response-to-the-current-impracticality
 tumblrid: 9552484379
 type: quote

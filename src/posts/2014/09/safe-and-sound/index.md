@@ -1,11 +1,6 @@
 ---
 layout: layouts/post.njk
 date: 2014-09-16T00:38:00.000Z
-redirect_from:
-  - /post/97608305028/safe-and-sound/
-  - /post/97608305028/
-  - /post/97608305028/safe-and-sound
-  - /post/97608305028
 slug: safe-and-sound
 source:
   title: youtube.com

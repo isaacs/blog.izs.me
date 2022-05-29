@@ -1,11 +1,6 @@
 ---
 layout: layouts/post.njk
 date: 2010-04-11T05:20:12.000Z
-redirect_from:
-  - /post/512345617/explode/
-  - /post/512345617/
-  - /post/512345617/explode
-  - /post/512345617
 slug: explode
 tags:
   - poem

@@ -1,11 +1,6 @@
 ---
 layout: layouts/post.njk
 date: 2007-08-27T17:00:11.000Z
-redirect_from:
-  - /post/146672022/blueprint-css-framework-vs-yui-grids/
-  - /post/146672022/
-  - /post/146672022/blueprint-css-framework-vs-yui-grids
-  - /post/146672022
 slug: blueprint-css-framework-vs-yui-grids
 tags:
   - css

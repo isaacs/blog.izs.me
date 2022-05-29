@@ -1,11 +1,6 @@
 ---
 layout: layouts/post.njk
 date: 2010-09-07T23:06:17.000Z
-redirect_from:
-  - /post/1083343526/code-samples-in-web-pages-how-to-not-be-doing-it/
-  - /post/1083343526/
-  - /post/1083343526/code-samples-in-web-pages-how-to-not-be-doing-it
-  - /post/1083343526
 slug: code-samples-in-web-pages-how-to-not-be-doing-it
 title: 'Code Samples in Web Pages: How to Not be Doing It Wrong.'
 tumblrid: 1083343526

@@ -1,11 +1,6 @@
 ---
 layout: layouts/post.njk
 date: 2009-08-04T18:30:18.000Z
-redirect_from:
-  - /post/155787976/if-you-always-put-limits-on-everything-you-do/
-  - /post/155787976/
-  - /post/155787976/if-you-always-put-limits-on-everything-you-do
-  - /post/155787976
 slug: if-you-always-put-limits-on-everything-you-do
 tumblrid: 155787976
 type: quote

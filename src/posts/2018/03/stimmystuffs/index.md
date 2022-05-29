@@ -1,11 +1,6 @@
 ---
 layout: layouts/post.njk
 date: 2018-03-28T19:17:16.000Z
-redirect_from:
-  - /post/172351458918/stimmystuffs/
-  - /post/172351458918/
-  - /post/172351458918/stimmystuffs
-  - /post/172351458918
 slug: stimmystuffs
 tumblrid: 172351458918
 type: video

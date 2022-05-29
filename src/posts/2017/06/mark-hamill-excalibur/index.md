@@ -8,11 +8,6 @@ photos:
     - ./tumblr_o5cobwTtSi1u7wttko4_400.gif
   - - ./tumblr_o5cobwTtSi1u7wttko5_500.gif
 redirect_from:
-  - /post/161563230603//
-  - /post/161563230603/
-  - /post/161563230603/
-  - /post/161563230603
-  - /2017/06/netBiw
   - /2017/06/netBiw/
 slug: mark-hamill-excalibur
 source:

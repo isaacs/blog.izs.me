@@ -1,11 +1,6 @@
 ---
 layout: layouts/post.njk
 date: 2018-10-04T20:16:51.000Z
-redirect_from:
-  - /post/178736939028/node-js-foundation/
-  - /post/178736939028/
-  - /post/178736939028/node-js-foundation
-  - /post/178736939028
 slug: node-js-foundation
 title: Node + JS Foundation
 tumblrid: 178736939028

@@ -1,11 +1,6 @@
 ---
 layout: layouts/post.njk
 date: 2010-05-12T00:40:00.000Z
-redirect_from:
-  - /post/590923550/scoble/
-  - /post/590923550/
-  - /post/590923550/scoble
-  - /post/590923550
 slug: scoble
 tags:
   - seldo

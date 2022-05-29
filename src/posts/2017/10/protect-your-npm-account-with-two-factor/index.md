@@ -1,11 +1,6 @@
 ---
 layout: layouts/post.njk
 date: 2017-10-05T18:40:27.000Z
-redirect_from:
-  - /post/166082482693/protect-your-npm-account-with-two-factor/
-  - /post/166082482693/
-  - /post/166082482693/protect-your-npm-account-with-two-factor
-  - /post/166082482693
 slug: protect-your-npm-account-with-two-factor
 title: Protect your npm account with two-factor authentication and read-only tokens
 tumblrid: 166082482693

@@ -1,11 +1,6 @@
 ---
 layout: layouts/post.njk
 date: 2013-03-11T04:56:55.000Z
-redirect_from:
-  - /post/45090961790/user-feedback/
-  - /post/45090961790/
-  - /post/45090961790/user-feedback
-  - /post/45090961790
 slug: user-feedback
 title: User Feedback
 tumblrid: 45090961790

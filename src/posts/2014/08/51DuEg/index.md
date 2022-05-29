@@ -10,11 +10,6 @@ photos:
     - ./tumblr_mqoq64QdX51sydk9zo6_250.gif
   - - ./tumblr_mqoq64QdX51sydk9zo7_250.gif
     - ./tumblr_mqoq64QdX51sydk9zo8_250.gif
-redirect_from:
-  - /post/94075153938//
-  - /post/94075153938/
-  - /post/94075153938/
-  - /post/94075153938
 slug: 51DuEg
 source:
   title: masterfulsarcasm

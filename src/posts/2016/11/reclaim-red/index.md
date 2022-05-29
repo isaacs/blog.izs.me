@@ -1,11 +1,6 @@
 ---
 layout: layouts/post.njk
 date: 2016-11-13T00:25:21.000Z
-redirect_from:
-  - /post/153102510178/reclaim-red/
-  - /post/153102510178/
-  - /post/153102510178/reclaim-red
-  - /post/153102510178
 slug: reclaim-red
 title: Reclaim Red
 tumblrid: 153102510178

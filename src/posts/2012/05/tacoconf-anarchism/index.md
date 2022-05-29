@@ -1,11 +1,6 @@
 ---
 layout: layouts/post.njk
 date: 2012-05-14T18:51:00.000Z
-redirect_from:
-  - /post/23048895912/tacoconf-anarchism/
-  - /post/23048895912/
-  - /post/23048895912/tacoconf-anarchism
-  - /post/23048895912
 slug: tacoconf-anarchism
 tumblrid: 23048895912
 type: text

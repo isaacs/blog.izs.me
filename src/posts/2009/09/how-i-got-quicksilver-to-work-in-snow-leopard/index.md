@@ -1,11 +1,6 @@
 ---
 layout: layouts/post.njk
 date: 2009-09-11T20:29:00.000Z
-redirect_from:
-  - /post/185543052/how-i-got-quicksilver-to-work-in-snow-leopard/
-  - /post/185543052/
-  - /post/185543052/how-i-got-quicksilver-to-work-in-snow-leopard
-  - /post/185543052
 slug: how-i-got-quicksilver-to-work-in-snow-leopard
 tags:
   - snow leopard

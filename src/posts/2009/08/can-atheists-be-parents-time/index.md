@@ -3,11 +3,6 @@ layout: layouts/post.njk
 date: 2009-08-27T19:05:22.000Z
 link_publisher: time.com
 link_url: 'http://www.time.com/time/magazine/article/0,9171,877155,00.html'
-redirect_from:
-  - /post/173168104/can-atheists-be-parents-time/
-  - /post/173168104/
-  - /post/173168104/can-atheists-be-parents-time
-  - /post/173168104
 slug: can-atheists-be-parents-time
 title: Can Atheists Be Parents? - TIME
 tumblrid: 173168104

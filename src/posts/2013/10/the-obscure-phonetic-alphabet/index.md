@@ -1,11 +1,6 @@
 ---
 layout: layouts/post.njk
 date: 2013-10-10T19:00:31.000Z
-redirect_from:
-  - /post/63662167488/the-obscure-phonetic-alphabet/
-  - /post/63662167488/
-  - /post/63662167488/the-obscure-phonetic-alphabet
-  - /post/63662167488
 slug: the-obscure-phonetic-alphabet
 title: The Obscure Phonetic Alphabet
 tumblrid: 63662167488

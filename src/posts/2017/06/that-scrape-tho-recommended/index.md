@@ -1,11 +1,6 @@
 ---
 layout: layouts/post.njk
 date: 2017-06-21T20:54:31.000Z
-redirect_from:
-  - /post/162097141938/that-scrape-tho-recommended/
-  - /post/162097141938/
-  - /post/162097141938/that-scrape-tho-recommended
-  - /post/162097141938
 slug: that-scrape-tho-recommended
 tumblrid: 162097141938
 type: video

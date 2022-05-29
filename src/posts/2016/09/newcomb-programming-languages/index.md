@@ -1,11 +1,6 @@
 ---
 layout: layouts/post.njk
 date: 2016-09-08T18:06:57.000Z
-redirect_from:
-  - /post/150129331398/newcomb-programming-languages/
-  - /post/150129331398/
-  - /post/150129331398/newcomb-programming-languages
-  - /post/150129331398
 slug: newcomb-programming-languages
 title: Newcomb Programming Languages
 tumblrid: 150129331398

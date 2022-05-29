@@ -1,11 +1,6 @@
 ---
 layout: layouts/post.njk
 date: 2010-05-06T04:57:43.000Z
-redirect_from:
-  - /post/575363657/a-public-service/
-  - /post/575363657/
-  - /post/575363657/a-public-service
-  - /post/575363657
 slug: a-public-service
 tags:
   - grammar
@@ -22,7 +17,7 @@ Use a comma.</p>
 <dt>He pushed the button that was red.</dt>
 <dd>
 <p>There were buttons. <br/>
-One of those buttons was red. <br/> 
+One of those buttons was red. <br/>
 He pushed the red one. <br/>
 No comma.</p>
 </dd>

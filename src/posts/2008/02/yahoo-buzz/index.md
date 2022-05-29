@@ -1,11 +1,6 @@
 ---
 layout: layouts/post.njk
 date: 2008-02-28T04:19:01.000Z
-redirect_from:
-  - /post/146672576/yahoo-buzz/
-  - /post/146672576/
-  - /post/146672576/yahoo-buzz
-  - /post/146672576
 slug: yahoo-buzz
 tags:
   - pushed into the wild

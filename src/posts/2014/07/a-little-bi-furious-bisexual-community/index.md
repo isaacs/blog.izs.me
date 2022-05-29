@@ -8,11 +8,6 @@ photos:
     - ./tumblr_mquhrlDC7F1qlxhw8o4_250.gif
   - - ./tumblr_mquhrlDC7F1qlxhw8o5_250.gif
     - ./tumblr_mquhrlDC7F1qlxhw8o6_250.gif
-redirect_from:
-  - /post/93410651713/a-little-bi-furious-bisexual-community/
-  - /post/93410651713/
-  - /post/93410651713/a-little-bi-furious-bisexual-community
-  - /post/93410651713
 slug: a-little-bi-furious-bisexual-community
 source:
   title: katielittlekinrit

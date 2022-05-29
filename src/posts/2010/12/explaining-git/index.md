@@ -1,11 +1,6 @@
 ---
 layout: layouts/post.njk
 date: 2010-12-16T20:23:12.000Z
-redirect_from:
-  - /post/2339296924/explaining-git/
-  - /post/2339296924/
-  - /post/2339296924/explaining-git
-  - /post/2339296924
 slug: explaining-git
 title: explaining git
 tumblrid: 2339296924

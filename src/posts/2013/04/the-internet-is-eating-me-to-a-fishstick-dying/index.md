@@ -3,11 +3,6 @@ layout: layouts/post.njk
 date: 2013-04-11T19:55:46.000Z
 link_publisher: jimmymarks.tumblr.com
 link_url: 'http://jimmymarks.tumblr.com/post/47709399840/to-a-fishstick-dying-young'
-redirect_from:
-  - /post/47720012568/the-internet-is-eating-me-to-a-fishstick-dying/
-  - /post/47720012568/
-  - /post/47720012568/the-internet-is-eating-me-to-a-fishstick-dying
-  - /post/47720012568
 slug: the-internet-is-eating-me-to-a-fishstick-dying
 title: 'The Internet is Eating Me: To A Fishstick Dying Young'
 tumblrid: 47720012568

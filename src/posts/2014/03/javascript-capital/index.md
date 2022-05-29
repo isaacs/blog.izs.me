@@ -1,11 +1,6 @@
 ---
 layout: layouts/post.njk
 date: 2014-03-07T20:35:00.000Z
-redirect_from:
-  - /post/78874116865/javascript-capital/
-  - /post/78874116865/
-  - /post/78874116865/javascript-capital
-  - /post/78874116865
 slug: javascript-capital
 title: JavaScript Capital
 tumblrid: 78874116865

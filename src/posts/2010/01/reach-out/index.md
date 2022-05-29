@@ -1,11 +1,6 @@
 ---
 layout: layouts/post.njk
 date: 2010-01-07T23:52:16.000Z
-redirect_from:
-  - /post/322284718/reach-out/
-  - /post/322284718/
-  - /post/322284718/reach-out
-  - /post/322284718
 slug: reach-out
 tags:
   - recruiter

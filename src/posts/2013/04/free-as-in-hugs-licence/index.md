@@ -1,11 +1,6 @@
 ---
 layout: layouts/post.njk
 date: 2013-04-18T15:25:40.000Z
-redirect_from:
-  - /post/48281002063/free-as-in-hugs-licence/
-  - /post/48281002063/
-  - /post/48281002063/free-as-in-hugs-licence
-  - /post/48281002063
 slug: free-as-in-hugs-licence
 title: Free as in Hugs Licence
 tumblrid: 48281002063

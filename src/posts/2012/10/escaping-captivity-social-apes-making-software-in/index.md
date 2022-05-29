@@ -1,11 +1,6 @@
 ---
 layout: layouts/post.njk
 date: 2012-10-18T10:15:55.000Z
-redirect_from:
-  - /post/33829864983/escaping-captivity-social-apes-making-software-in/
-  - /post/33829864983/
-  - /post/33829864983/escaping-captivity-social-apes-making-software-in
-  - /post/33829864983
 slug: escaping-captivity-social-apes-making-software-in
 title: 'Escaping Captivity: Social Apes making Software in the Wild'
 tumblrid: 33829864983

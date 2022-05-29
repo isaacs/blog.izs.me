@@ -1,11 +1,6 @@
 ---
 layout: layouts/post.njk
 date: 2015-07-13T05:54:48.000Z
-redirect_from:
-  - /post/123957916668/inclusiveness-vs-safety-in-online-spaces/
-  - /post/123957916668/
-  - /post/123957916668/inclusiveness-vs-safety-in-online-spaces
-  - /post/123957916668
 slug: inclusiveness-vs-safety-in-online-spaces
 title: Inclusiveness vs. safety in online spaces
 tumblrid: 123957916668

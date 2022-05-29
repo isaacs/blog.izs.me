@@ -1,11 +1,6 @@
 ---
 layout: layouts/post.njk
 date: 2009-08-21T17:01:18.000Z
-redirect_from:
-  - /post/168266833/holidays/
-  - /post/168266833/
-  - /post/168266833/holidays
-  - /post/168266833
 slug: holidays
 tags:
   - my religion

@@ -1,11 +1,6 @@
 ---
 layout: layouts/post.njk
 date: 2007-06-07T17:00:49.000Z
-redirect_from:
-  - /post/146671405/web-standards-nothing-succeeds-like-success/
-  - /post/146671405/
-  - /post/146671405/web-standards-nothing-succeeds-like-success
-  - /post/146671405
 slug: web-standards-nothing-succeeds-like-success
 tags:
   - code ecosystems

@@ -1,11 +1,6 @@
 ---
 layout: layouts/post.njk
 date: 2016-08-07T06:24:47.000Z
-redirect_from:
-  - /post/148578332063/plop-the-frog/
-  - /post/148578332063/
-  - /post/148578332063/plop-the-frog
-  - /post/148578332063
 slug: plop-the-frog
 title: Plop the Frog
 tumblrid: 148578332063

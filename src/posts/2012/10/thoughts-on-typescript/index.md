@@ -1,11 +1,6 @@
 ---
 layout: layouts/post.njk
 date: 2012-10-01T23:18:00.000Z
-redirect_from:
-  - /post/32697104162/thoughts-on-typescript/
-  - /post/32697104162/
-  - /post/32697104162/thoughts-on-typescript
-  - /post/32697104162
 slug: thoughts-on-typescript
 title: Thoughts on TypeScript
 tumblrid: 32697104162

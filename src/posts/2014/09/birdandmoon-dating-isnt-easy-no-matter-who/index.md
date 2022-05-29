@@ -3,11 +3,6 @@ layout: layouts/post.njk
 date: 2014-09-14T19:59:16.000Z
 photos:
   - - ./tumblr_nb4duxdpou1rtlspxo1_500.jpg
-redirect_from:
-  - /post/97500333583/birdandmoon-dating-isnt-easy-no-matter-who/
-  - /post/97500333583/
-  - /post/97500333583/birdandmoon-dating-isnt-easy-no-matter-who
-  - /post/97500333583
 slug: birdandmoon-dating-isnt-easy-no-matter-who
 source:
   title: birdandmoon

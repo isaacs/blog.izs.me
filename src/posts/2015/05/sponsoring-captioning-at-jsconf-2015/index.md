@@ -6,11 +6,6 @@ tags:
   - the business
   - foundership
   - access
-redirect_from:
-  - /post/120192965998/sponsoring-captioning-at-jsconf-2015/
-  - /post/120192965998/
-  - /post/120192965998/sponsoring-captioning-at-jsconf-2015
-  - /post/120192965998
 slug: sponsoring-captioning-at-jsconf-2015
 title: Sponsoring Captioning at JSConf 2015
 tumblrid: 120192965998
@@ -69,7 +64,7 @@ via the command line!
 
 npm i -g jsconf-2015-stream
 
-jsconf-2015-stream a 
+jsconf-2015-stream a
 or
 jsconf-2015-stream b</p>— Sam Saccone (@samccone) <a href="https://twitter.com/samccone/status/603615639870304256">May 27, 2015</a></blockquote>
 

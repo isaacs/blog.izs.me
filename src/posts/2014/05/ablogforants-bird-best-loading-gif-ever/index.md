@@ -3,11 +3,6 @@ layout: layouts/post.njk
 date: 2014-05-28T07:39:15.000Z
 photos:
   - - ./tumblr_n5stgrcGIB1qzs2sko1_500.gif
-redirect_from:
-  - /post/87084288903/ablogforants-bird-best-loading-gif-ever/
-  - /post/87084288903/
-  - /post/87084288903/ablogforants-bird-best-loading-gif-ever
-  - /post/87084288903
 slug: ablogforants-bird-best-loading-gif-ever
 source:
   title: ablogforants

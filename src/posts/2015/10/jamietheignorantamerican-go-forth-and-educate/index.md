@@ -12,11 +12,6 @@ photos:
   - - ./tumblr_myuv88qhMw1rqscijo9_1280.png
   - - ./tumblr_myuv88qhMw1rqscijo1_r2_1280.png
   - - ./tumblr_myuv88qhMw1rqscijo10_r2_1280.png
-redirect_from:
-  - /post/132050942648/jamietheignorantamerican-go-forth-and-educate/
-  - /post/132050942648/
-  - /post/132050942648/jamietheignorantamerican-go-forth-and-educate
-  - /post/132050942648
 slug: jamietheignorantamerican-go-forth-and-educate
 tumblrid: 132050942648
 type: photo

@@ -1,11 +1,6 @@
 ---
 layout: layouts/post.njk
 date: 2012-09-15T16:15:25.000Z
-redirect_from:
-  - /post/31592591638/to-all-futurama-fans/
-  - /post/31592591638/
-  - /post/31592591638/to-all-futurama-fans
-  - /post/31592591638
 slug: to-all-futurama-fans
 title: To all Futurama fans.
 tumblrid: 31592591638

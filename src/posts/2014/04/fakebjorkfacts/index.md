@@ -4,11 +4,6 @@ date: 2014-04-27T17:19:38.000Z
 photos:
   - - ./tumblr_n3s7rlmyX11r28je1o1_1280.jpg
     - ./tumblr_n3s7rlmyX11r28je1o2_500.jpg
-redirect_from:
-  - /post/84035013732/fakebjorkfacts/
-  - /post/84035013732/
-  - /post/84035013732/fakebjorkfacts
-  - /post/84035013732
 slug: fakebjorkfacts
 tumblrid: 84035013732
 type: photo

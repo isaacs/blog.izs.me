@@ -1,11 +1,6 @@
 ---
 layout: layouts/post.njk
 date: 2009-08-11T20:06:05.000Z
-redirect_from:
-  - /post/160734545/schills-revenge/
-  - /post/160734545/
-  - /post/160734545/schills-revenge
-  - /post/160734545
 slug: schills-revenge
 tags:
   - schill

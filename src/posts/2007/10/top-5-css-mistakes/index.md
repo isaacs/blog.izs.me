@@ -1,11 +1,6 @@
 ---
 layout: layouts/post.njk
 date: 2007-10-15T17:00:08.000Z
-redirect_from:
-  - /post/146672329/top-5-css-mistakes/
-  - /post/146672329/
-  - /post/146672329/top-5-css-mistakes
-  - /post/146672329
 slug: top-5-css-mistakes
 tags:
   - 20/20 hindsight

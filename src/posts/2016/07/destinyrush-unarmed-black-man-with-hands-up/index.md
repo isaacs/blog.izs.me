@@ -11,11 +11,6 @@ photos:
   - - ./tumblr_oanlevrNfz1ubeokqo6_640.png
   - - ./tumblr_oanlevrNfz1ubeokqo9_640.png
   - - ./tumblr_oanlevrNfz1ubeokqo8_640.png
-redirect_from:
-  - /post/147771202278/destinyrush-unarmed-black-man-with-hands-up/
-  - /post/147771202278/
-  - /post/147771202278/destinyrush-unarmed-black-man-with-hands-up
-  - /post/147771202278
 slug: destinyrush-unarmed-black-man-with-hands-up
 tumblrid: 147771202278
 type: photo

@@ -1,11 +1,6 @@
 ---
 layout: layouts/post.njk
 date: 2015-10-15T17:36:20.000Z
-redirect_from:
-  - /post/131229814393/phases-of-database-love/
-  - /post/131229814393/
-  - /post/131229814393/phases-of-database-love
-  - /post/131229814393
 slug: phases-of-database-love
 title: Phases of Database Love
 tumblrid: 131229814393

@@ -1,11 +1,6 @@
 ---
 layout: layouts/post.njk
 date: 2016-01-17T18:46:01.000Z
-redirect_from:
-  - /post/137494028408/nvc-and-oss/
-  - /post/137494028408/
-  - /post/137494028408/nvc-and-oss
-  - /post/137494028408
 slug: nvc-and-oss
 title: NVC and OSS
 tumblrid: 137494028408

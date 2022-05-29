@@ -10,11 +10,6 @@ photos:
     - ./tumblr_mmg16nhqRU1rvnnvyo6_250.gif
   - - ./tumblr_mmg16nhqRU1rvnnvyo1_250.gif
     - ./tumblr_mmg16nhqRU1rvnnvyo7_250.gif
-redirect_from:
-  - /post/156721319493/its-arrested-development-you-know-our/
-  - /post/156721319493/
-  - /post/156721319493/its-arrested-development-you-know-our
-  - /post/156721319493
 slug: its-arrested-development-you-know-our
 source:
   title: its-arrested-development

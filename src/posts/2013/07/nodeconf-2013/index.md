@@ -1,11 +1,6 @@
 ---
 layout: layouts/post.njk
 date: 2013-07-06T18:19:55.000Z
-redirect_from:
-  - /post/54766250297/nodeconf-2013/
-  - /post/54766250297/
-  - /post/54766250297/nodeconf-2013
-  - /post/54766250297
 slug: nodeconf-2013
 title: NodeConf 2013
 tumblrid: 54766250297

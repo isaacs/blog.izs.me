@@ -1,11 +1,6 @@
 ---
 layout: layouts/post.njk
 date: 2013-02-27T17:41:00.000Z
-redirect_from:
-  - /post/44149270867/why-no-directorieslib-in-node-the-less-snarky/
-  - /post/44149270867/
-  - /post/44149270867/why-no-directorieslib-in-node-the-less-snarky
-  - /post/44149270867
 slug: why-no-directorieslib-in-node-the-less-snarky
 title: 'Why No directories.lib in Node (the less snarky, too-long-for-twitter version)'
 tumblrid: 44149270867

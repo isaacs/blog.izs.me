@@ -4,11 +4,6 @@ date: 2009-07-29T03:48:26.000Z
 link_url: 'http://skitch.com/isaacschlueter/b3mwf/why-i-use-facebook'
 photos:
   - - ./U3GjlGEojqh2ac3ouxRuaSBmo1_500.png
-redirect_from:
-  - /post/151318283/why-i-use-facebook/
-  - /post/151318283/
-  - /post/151318283/why-i-use-facebook
-  - /post/151318283
 slug: why-i-use-facebook
 tumblrid: 151318283
 type: photo

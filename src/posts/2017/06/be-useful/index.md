@@ -1,11 +1,6 @@
 ---
 layout: layouts/post.njk
 date: 2017-06-05T18:28:53.000Z
-redirect_from:
-  - /post/161474536103/be-useful/
-  - /post/161474536103/
-  - /post/161474536103/be-useful
-  - /post/161474536103
 slug: be-useful
 title: Be useful
 tumblrid: 161474536103

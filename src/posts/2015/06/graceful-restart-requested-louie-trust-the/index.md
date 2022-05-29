@@ -4,11 +4,6 @@ date: 2015-06-17T05:52:52.000Z
 photos:
   - - ./tumblr_nnipvsZPX31tvh0f2o1_250.gif
   - - ./tumblr_nnipvsZPX31tvh0f2o2_250.gif
-redirect_from:
-  - /post/121735764388/graceful-restart-requested-louie-trust-the/
-  - /post/121735764388/
-  - /post/121735764388/graceful-restart-requested-louie-trust-the
-  - /post/121735764388
 slug: graceful-restart-requested-louie-trust-the
 tumblrid: 121735764388
 type: photo

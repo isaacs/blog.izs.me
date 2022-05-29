@@ -1,11 +1,6 @@
 ---
 layout: layouts/post.njk
 date: 2008-07-01T17:00:41.000Z
-redirect_from:
-  - /post/146672717/birthdays-10000-hours-and-the-myth-of-the-ding/
-  - /post/146672717/
-  - /post/146672717/birthdays-10000-hours-and-the-myth-of-the-ding
-  - /post/146672717
 slug: birthdays-10000-hours-and-the-myth-of-the-ding
 tags:
   - 20/20 hindsight

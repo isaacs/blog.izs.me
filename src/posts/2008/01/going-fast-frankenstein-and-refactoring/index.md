@@ -1,11 +1,6 @@
 ---
 layout: layouts/post.njk
 date: 2008-01-21T18:00:48.000Z
-redirect_from:
-  - /post/146672514/going-fast-frankenstein-and-refactoring/
-  - /post/146672514/
-  - /post/146672514/going-fast-frankenstein-and-refactoring
-  - /post/146672514
 slug: going-fast-frankenstein-and-refactoring
 tags:
   - broken

@@ -1,11 +1,6 @@
 ---
 layout: layouts/post.njk
 date: 2011-04-18T23:28:00.000Z
-redirect_from:
-  - /post/4731036392/evolution-of-a-prototypal-language-user/
-  - /post/4731036392/
-  - /post/4731036392/evolution-of-a-prototypal-language-user
-  - /post/4731036392
 slug: evolution-of-a-prototypal-language-user
 title: Evolution of a Prototypal Language User
 tumblrid: 4731036392

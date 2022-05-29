@@ -1,11 +1,6 @@
 ---
 layout: layouts/post.njk
 date: 2012-08-09T05:52:00.000Z
-redirect_from:
-  - /post/29037233542/beliefs/
-  - /post/29037233542/
-  - /post/29037233542/beliefs
-  - /post/29037233542
 slug: beliefs
 title: Beliefs
 tumblrid: 29037233542

@@ -1,11 +1,6 @@
 ---
 layout: layouts/post.njk
 date: 2011-06-28T17:59:00.000Z
-redirect_from:
-  - /post/7015774984/re-brown-coffee-cos-correcting-the-record/
-  - /post/7015774984/
-  - /post/7015774984/re-brown-coffee-cos-correcting-the-record
-  - /post/7015774984
 slug: re-brown-coffee-cos-correcting-the-record
 title: 'Re: Brown Coffee Co''s "Correcting the Record"'
 tumblrid: 7015774984

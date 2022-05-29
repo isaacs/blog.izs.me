@@ -1,11 +1,6 @@
 ---
 layout: layouts/post.njk
 date: 2011-12-30T02:45:00.000Z
-redirect_from:
-  - /post/15003058533/xmas-traditions/
-  - /post/15003058533/
-  - /post/15003058533/xmas-traditions
-  - /post/15003058533
 slug: xmas-traditions
 title: Xmas Traditions
 tumblrid: 15003058533

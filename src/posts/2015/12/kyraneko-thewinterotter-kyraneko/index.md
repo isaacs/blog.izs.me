@@ -3,11 +3,6 @@ layout: layouts/post.njk
 date: 2015-12-19T20:28:46.000Z
 photos:
   - - ./tumblr_nf1v3tJgR51tm6fj3o1_640.jpg
-redirect_from:
-  - /post/135523945198/kyraneko-thewinterotter-kyraneko/
-  - /post/135523945198/
-  - /post/135523945198/kyraneko-thewinterotter-kyraneko
-  - /post/135523945198
 slug: kyraneko-thewinterotter-kyraneko
 tumblrid: 135523945198
 type: photo

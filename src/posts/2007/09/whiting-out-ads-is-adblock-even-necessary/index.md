@@ -1,11 +1,6 @@
 ---
 layout: layouts/post.njk
 date: 2007-09-17T17:01:49.000Z
-redirect_from:
-  - /post/146672206/whiting-out-ads-is-adblock-even-necessary/
-  - /post/146672206/
-  - /post/146672206/whiting-out-ads-is-adblock-even-necessary
-  - /post/146672206
 slug: whiting-out-ads-is-adblock-even-necessary
 tags:
   - broken

@@ -1,11 +1,6 @@
 ---
 layout: layouts/post.njk
 date: 2016-07-08T17:26:31.000Z
-redirect_from:
-  - /post/147100332473/an-aspirational-meditation-in-12-stanzas/
-  - /post/147100332473/
-  - /post/147100332473/an-aspirational-meditation-in-12-stanzas
-  - /post/147100332473
 slug: an-aspirational-meditation-in-12-stanzas
 title: An Aspirational Meditation in 12 Stanzas
 tumblrid: 147100332473

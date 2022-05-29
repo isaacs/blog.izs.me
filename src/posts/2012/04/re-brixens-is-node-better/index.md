@@ -1,11 +1,6 @@
 ---
 layout: layouts/post.njk
 date: 2012-04-09T17:27:00.000Z
-redirect_from:
-  - /post/20786279320/re-brixens-is-node-better/
-  - /post/20786279320/
-  - /post/20786279320/re-brixens-is-node-better
-  - /post/20786279320
 slug: re-brixens-is-node-better
 title: 'Re: @brixen’s "Is Node Better"'
 tumblrid: 20786279320

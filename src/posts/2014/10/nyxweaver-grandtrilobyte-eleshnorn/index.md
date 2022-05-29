@@ -1,11 +1,6 @@
 ---
 layout: layouts/post.njk
 date: 2014-10-01T18:52:13.000Z
-redirect_from:
-  - /post/98906344018/nyxweaver-grandtrilobyte-eleshnorn/
-  - /post/98906344018/
-  - /post/98906344018/nyxweaver-grandtrilobyte-eleshnorn
-  - /post/98906344018
 slug: nyxweaver-grandtrilobyte-eleshnorn
 tumblrid: 98906344018
 type: text

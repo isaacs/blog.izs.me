@@ -1,11 +1,6 @@
 ---
 layout: layouts/post.njk
 date: 2007-09-24T17:00:03.000Z
-redirect_from:
-  - /post/146672251/fix-for-vis-broken-arrow-key-support-in-iterm/
-  - /post/146672251/
-  - /post/146672251/fix-for-vis-broken-arrow-key-support-in-iterm
-  - /post/146672251
 slug: fix-for-vis-broken-arrow-key-support-in-iterm
 tags:
   - broken

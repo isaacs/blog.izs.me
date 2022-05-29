@@ -1,11 +1,6 @@
 ---
 layout: layouts/post.njk
 date: 2015-07-15T20:53:15.000Z
-redirect_from:
-  - /post/124181902153/npm-v3s-approach-to-nodemodules/
-  - /post/124181902153/
-  - /post/124181902153/npm-v3s-approach-to-nodemodules
-  - /post/124181902153
 slug: npm-v3s-approach-to-nodemodules
 title: npm v3′s approach to node_modules
 tumblrid: 124181902153

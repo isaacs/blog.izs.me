@@ -1,11 +1,6 @@
 ---
 layout: layouts/post.njk
 date: 2007-10-01T17:00:45.000Z
-redirect_from:
-  - /post/146672279/applescript-for-iterm-and-a-request-for-help-with/
-  - /post/146672279/
-  - /post/146672279/applescript-for-iterm-and-a-request-for-help-with
-  - /post/146672279
 slug: applescript-for-iterm-and-a-request-for-help-with
 tags:
   - freebie

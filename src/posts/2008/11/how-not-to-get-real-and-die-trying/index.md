@@ -1,11 +1,6 @@
 ---
 layout: layouts/post.njk
 date: 2008-11-11T22:36:17.000Z
-redirect_from:
-  - /post/146672898/how-not-to-get-real-and-die-trying/
-  - /post/146672898/
-  - /post/146672898/how-not-to-get-real-and-die-trying
-  - /post/146672898
 slug: how-not-to-get-real-and-die-trying
 tags:
   - broken

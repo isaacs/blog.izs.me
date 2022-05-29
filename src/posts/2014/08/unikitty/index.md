@@ -1,11 +1,6 @@
 ---
 layout: layouts/post.njk
 date: 2014-08-07T02:30:53.000Z
-redirect_from:
-  - /post/94026519138/unikitty/
-  - /post/94026519138/
-  - /post/94026519138/unikitty
-  - /post/94026519138
 slug: unikitty
 title: Unikitty
 tumblrid: 94026519138

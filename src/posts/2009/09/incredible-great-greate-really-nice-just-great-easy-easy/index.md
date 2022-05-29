@@ -1,11 +1,6 @@
 ---
 layout: layouts/post.njk
 date: 2009-09-16T20:49:18.000Z
-redirect_from:
-  - /post/189616865/incredible-great-greate-really-nice-just-great-easy-easy/
-  - /post/189616865/
-  - /post/189616865/incredible-great-greate-really-nice-just-great-easy-easy
-  - /post/189616865
 slug: incredible-great-greate-really-nice-just-great-easy-easy
 tags:
   - adjectives

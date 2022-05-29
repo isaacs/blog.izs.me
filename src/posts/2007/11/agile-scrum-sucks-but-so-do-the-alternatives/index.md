@@ -1,11 +1,6 @@
 ---
 layout: layouts/post.njk
 date: 2007-11-12T18:00:38.000Z
-redirect_from:
-  - /post/146672429/agile-scrum-sucks-but-so-do-the-alternatives/
-  - /post/146672429/
-  - /post/146672429/agile-scrum-sucks-but-so-do-the-alternatives
-  - /post/146672429
 slug: agile-scrum-sucks-but-so-do-the-alternatives
 tags:
   - code ecosystems

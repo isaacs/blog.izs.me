@@ -1,11 +1,6 @@
 ---
 layout: layouts/post.njk
 date: 2007-07-16T17:34:31.000Z
-redirect_from:
-  - /post/146671584/theres-no-room-for-ego-or-zealotry-in-software/
-  - /post/146671584/
-  - /post/146671584/theres-no-room-for-ego-or-zealotry-in-software
-  - /post/146671584
 slug: theres-no-room-for-ego-or-zealotry-in-software
 tags:
   - code ecosystems

@@ -1,11 +1,6 @@
 ---
 layout: layouts/post.njk
 date: 2011-11-29T17:46:00.000Z
-redirect_from:
-  - /post/13505112016/browser-operating-system/
-  - /post/13505112016/
-  - /post/13505112016/browser-operating-system
-  - /post/13505112016
 slug: browser-operating-system
 title: 'Browser : Operating System'
 tumblrid: 13505112016

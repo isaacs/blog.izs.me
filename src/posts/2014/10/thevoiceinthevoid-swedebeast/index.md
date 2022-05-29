@@ -10,11 +10,6 @@ photos:
   - - ./tumblr_mlq9bmlrds1s1kou9o6_540.png
   - - ./tumblr_mlq9bmlrds1s1kou9o7_540.png
   - - ./tumblr_mlq9bmlrds1s1kou9o8_540.png
-redirect_from:
-  - /post/101176529413/thevoiceinthevoid-swedebeast/
-  - /post/101176529413/
-  - /post/101176529413/thevoiceinthevoid-swedebeast
-  - /post/101176529413
 slug: thevoiceinthevoid-swedebeast
 source:
   title: drrestless

@@ -1,11 +1,6 @@
 ---
 layout: layouts/post.njk
 date: 2011-07-20T21:18:30.000Z
-redirect_from:
-  - /post/7857355317/obvious-answers-to-simple-questions/
-  - /post/7857355317/
-  - /post/7857355317/obvious-answers-to-simple-questions
-  - /post/7857355317
 slug: obvious-answers-to-simple-questions
 title: Obvious Answers to Simple Questions
 tumblrid: 7857355317

@@ -1,11 +1,6 @@
 ---
 layout: layouts/post.njk
 date: 2018-04-10T16:55:49.000Z
-redirect_from:
-  - /post/172797398293/npm-acquires-lift-security-and-node-security/
-  - /post/172797398293/
-  - /post/172797398293/npm-acquires-lift-security-and-node-security
-  - /post/172797398293
 tags:
   - startup life
   - the business

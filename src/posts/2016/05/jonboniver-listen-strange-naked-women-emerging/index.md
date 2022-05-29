@@ -1,11 +1,6 @@
 ---
 layout: layouts/post.njk
 date: 2016-05-18T06:39:52.000Z
-redirect_from:
-  - /post/144542823298/jonboniver-listen-strange-naked-women-emerging/
-  - /post/144542823298/
-  - /post/144542823298/jonboniver-listen-strange-naked-women-emerging
-  - /post/144542823298
 slug: jonboniver-listen-strange-naked-women-emerging
 source:
   title: jonboniver

@@ -9,11 +9,6 @@ photos:
   - - ./tumblr_n7fyooobXP1tco6epo6_1280.jpg
   - - ./tumblr_n7fyooobXP1tco6epo4_1280.jpg
   - - ./tumblr_n7fyooobXP1tco6epo7_1280.jpg
-redirect_from:
-  - /post/89323088718/chryswatchesgot-chrys-watches-got-x/
-  - /post/89323088718/
-  - /post/89323088718/chryswatchesgot-chrys-watches-got-x
-  - /post/89323088718
 slug: chryswatchesgot-chrys-watches-got-x
 tumblrid: 89323088718
 type: photo

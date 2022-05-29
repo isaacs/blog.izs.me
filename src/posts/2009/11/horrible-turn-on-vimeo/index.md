@@ -3,11 +3,6 @@ layout: layouts/post.njk
 date: 2009-11-20T18:48:11.000Z
 link_publisher: vimeo.com
 link_url: 'http://vimeo.com/7537771?hd=1'
-redirect_from:
-  - /post/251020688/horrible-turn-on-vimeo/
-  - /post/251020688/
-  - /post/251020688/horrible-turn-on-vimeo
-  - /post/251020688
 slug: horrible-turn-on-vimeo
 title: Horrible Turn on Vimeo
 tumblrid: 251020688

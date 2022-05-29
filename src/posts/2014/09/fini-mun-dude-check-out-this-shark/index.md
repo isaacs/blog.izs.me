@@ -3,11 +3,6 @@ layout: layouts/post.njk
 date: 2014-09-19T15:17:55.000Z
 photos:
   - - ./tumblr_nbm3xrBWNw1ris0jwo1_1280.jpg
-redirect_from:
-  - /post/97891545073/fini-mun-dude-check-out-this-shark/
-  - /post/97891545073/
-  - /post/97891545073/fini-mun-dude-check-out-this-shark
-  - /post/97891545073
 slug: fini-mun-dude-check-out-this-shark
 source:
   title: shalamakingfaces

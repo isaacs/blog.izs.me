@@ -1,11 +1,6 @@
 ---
 layout: layouts/post.njk
 date: 2016-02-02T21:26:01.000Z
-redirect_from:
-  - /post/138563331483/promises-vs-eventual-values/
-  - /post/138563331483/
-  - /post/138563331483/promises-vs-eventual-values
-  - /post/138563331483
 slug: promises-vs-eventual-values
 title: Promises vs Eventual Values
 tumblrid: 138563331483

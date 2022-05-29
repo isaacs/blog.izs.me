@@ -1,11 +1,6 @@
 ---
 layout: layouts/post.njk
 date: 2014-08-04T06:20:16.000Z
-redirect_from:
-  - /post/93755939888/politicallyincorrectwalrus-i-love-the-term/
-  - /post/93755939888/
-  - /post/93755939888/politicallyincorrectwalrus-i-love-the-term
-  - /post/93755939888
 slug: politicallyincorrectwalrus-i-love-the-term
 source:
   title: politicallyincorrectwalrus

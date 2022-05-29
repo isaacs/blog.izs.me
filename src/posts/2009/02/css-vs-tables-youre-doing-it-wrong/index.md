@@ -1,11 +1,6 @@
 ---
 layout: layouts/post.njk
 date: 2009-02-03T07:40:22.000Z
-redirect_from:
-  - /post/146672962/css-vs-tables-youre-doing-it-wrong/
-  - /post/146672962/
-  - /post/146672962/css-vs-tables-youre-doing-it-wrong
-  - /post/146672962
 slug: css-vs-tables-youre-doing-it-wrong
 tags:
   - css

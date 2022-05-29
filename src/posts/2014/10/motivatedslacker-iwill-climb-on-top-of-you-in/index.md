@@ -3,11 +3,6 @@ layout: layouts/post.njk
 date: 2014-10-07T18:52:00.000Z
 photos:
   - - ./tumblr_mjvvy69rQK1qg2ql3o1_1280.jpg
-redirect_from:
-  - /post/99419225613/motivatedslacker-iwill-climb-on-top-of-you-in/
-  - /post/99419225613/
-  - /post/99419225613/motivatedslacker-iwill-climb-on-top-of-you-in
-  - /post/99419225613
 slug: motivatedslacker-iwill-climb-on-top-of-you-in
 tumblrid: 99419225613
 type: photo

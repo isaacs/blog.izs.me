@@ -4,11 +4,6 @@ date: 2014-06-20T03:12:24.000Z
 link_publisher: bugchat.tumblr.com
 link_url: >-
   http://bugchat.tumblr.com/post/89304367585/for-roeat40-all-of-my-favorite-pro-choice-resources
-redirect_from:
-  - /post/89323651263/for-roeat40-all-of-my-favorite-pro-choice/
-  - /post/89323651263/
-  - /post/89323651263/for-roeat40-all-of-my-favorite-pro-choice
-  - /post/89323651263
 slug: for-roeat40-all-of-my-favorite-pro-choice
 source:
   title: stfuconservatives

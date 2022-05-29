@@ -1,11 +1,6 @@
 ---
 layout: layouts/post.njk
 date: 2013-07-08T20:44:28.000Z
-redirect_from:
-  - /post/54940170796/raccoons/
-  - /post/54940170796/
-  - /post/54940170796/raccoons
-  - /post/54940170796
 slug: raccoons
 title: Raccoons
 tumblrid: 54940170796

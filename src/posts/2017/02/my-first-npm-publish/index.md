@@ -5,11 +5,6 @@ tags:
   - oss
   - npm
   - invention
-redirect_from:
-  - /post/157295170418/my-first-npm-publish/
-  - /post/157295170418/
-  - /post/157295170418/my-first-npm-publish
-  - /post/157295170418
 slug: my-first-npm-publish
 title: My First npm Publish
 tumblrid: 157295170418

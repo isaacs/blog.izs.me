@@ -12,11 +12,6 @@ photos:
   - - ./tumblr_nh7mmc54vB1szhpk3o3_1280.jpg
   - - ./tumblr_nh7mmc54vB1szhpk3o2_1280.jpg
   - - ./tumblr_nh7mmc54vB1szhpk3o1_1280.jpg
-redirect_from:
-  - /post/122009507983/and-we-all-grew-socialjusticeprincesses-get/
-  - /post/122009507983/
-  - /post/122009507983/and-we-all-grew-socialjusticeprincesses-get
-  - /post/122009507983
 slug: and-we-all-grew-socialjusticeprincesses-get
 source:
   title: hoovesandheartbeats

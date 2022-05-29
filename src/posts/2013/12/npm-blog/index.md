@@ -1,11 +1,6 @@
 ---
 layout: layouts/post.njk
 date: 2013-12-27T02:09:41.000Z
-redirect_from:
-  - /post/71260208958/npm-blog/
-  - /post/71260208958/
-  - /post/71260208958/npm-blog
-  - /post/71260208958
 slug: npm-blog
 title: npm Blog!
 tumblrid: 71260208958

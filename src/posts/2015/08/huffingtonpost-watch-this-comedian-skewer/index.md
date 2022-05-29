@@ -7,11 +7,6 @@ photos:
   - - ./tumblr_nsqa719UDp1qb6v6ro3_500.gif
   - - ./tumblr_nsqa719UDp1qb6v6ro4_500.gif
   - - ./tumblr_nsqa719UDp1qb6v6ro5_500.gif
-redirect_from:
-  - /post/126138357748/huffingtonpost-watch-this-comedian-skewer/
-  - /post/126138357748/
-  - /post/126138357748/huffingtonpost-watch-this-comedian-skewer
-  - /post/126138357748
 slug: huffingtonpost-watch-this-comedian-skewer
 tumblrid: 126138357748
 type: photo

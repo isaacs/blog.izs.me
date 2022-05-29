@@ -1,11 +1,6 @@
 ---
 layout: layouts/post.njk
 date: 2014-07-30T00:34:16.000Z
-redirect_from:
-  - /post/93258660738//
-  - /post/93258660738/
-  - /post/93258660738/
-  - /post/93258660738
 slug: tqY7gg
 title: '#'
 tumblrid: 93258660738

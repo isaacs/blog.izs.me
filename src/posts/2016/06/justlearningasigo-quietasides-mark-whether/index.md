@@ -9,11 +9,6 @@ photos:
   - - ./tumblr_o8oygwcAG21tpi2auo3_540.gif
   - - ./tumblr_o8oygwcAG21tpi2auo7_540.gif
   - - ./tumblr_o8oygwcAG21tpi2auo4_540.gif
-redirect_from:
-  - /post/145878352723/justlearningasigo-quietasides-mark-whether/
-  - /post/145878352723/
-  - /post/145878352723/justlearningasigo-quietasides-mark-whether
-  - /post/145878352723
 slug: justlearningasigo-quietasides-mark-whether
 source:
   title: quietasides

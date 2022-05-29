@@ -1,11 +1,6 @@
 ---
 layout: layouts/post.njk
 date: 2008-04-09T09:03:49.000Z
-redirect_from:
-  - /post/146672632/open-in-textmate-in-finder-for-tiger/
-  - /post/146672632/
-  - /post/146672632/open-in-textmate-in-finder-for-tiger
-  - /post/146672632
 slug: open-in-textmate-in-finder-for-tiger
 tags:
   - freebie

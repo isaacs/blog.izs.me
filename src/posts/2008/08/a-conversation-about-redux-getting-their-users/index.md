@@ -1,11 +1,6 @@
 ---
 layout: layouts/post.njk
 date: 2008-08-17T21:03:41.000Z
-redirect_from:
-  - /post/146672807/a-conversation-about-redux-getting-their-users/
-  - /post/146672807/
-  - /post/146672807/a-conversation-about-redux-getting-their-users
-  - /post/146672807
 slug: a-conversation-about-redux-getting-their-users
 tags:
   - beta feedback
