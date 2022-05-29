@@ -6,7 +6,7 @@
     alias: "redirect",
     addAllPagesToCollections: false,
   },
-  printRedirect: ({ data: { redirect_from = [], slug }, url }) => {
+  printRedirect: ({ data: { tumblrid, redirect_from = [], slug }, url }) => {
     if (!Array.isArray(redirect_from) && typeof redirect_from !== 'string') {
       redirect_from = null
     }
@@ -36,6 +36,10 @@
       if (from) {
         out.push([from + ')', url].join('\t'))
       }
+    }
+    if (tumblrid) {
+      out.push(['/post/' + tumblrid, url].join('\t'))
+      out.push(['/post/' + tumblrid + '/*', url].join('\t'))
     }
     return out.join('\n') + '\n'
   },
