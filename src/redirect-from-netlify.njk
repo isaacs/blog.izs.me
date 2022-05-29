@@ -8,15 +8,34 @@
   },
   printRedirect: ({ data: { redirect_from = [], slug }, url }) => {
     if (!Array.isArray(redirect_from) && typeof redirect_from !== 'string') {
-      console.error('invalid redirect_from', url, redirect_from)
-      return ''
+      redirect_from = null
     }
-    const redirFrom = Array.isArray(redirect_from) ? redirect_from
-      : [redirect_from]
-    redirFrom.push('/p/' + slug)
+    const redirFrom = new Set(
+      Array.isArray(redirect_from) ? redirect_from
+        : redirect_from ? [redirect_from]
+        : []
+    )
+    redirFrom.add(url)
+    if (!slug) {
+      const slugmatch = url.match(/^\/[0-9]{4}\/[0-9]{2}\/([^\/]+)/) || []
+      slug = slugmatch[1]
+    }
+    if (slug) {
+      redirFrom.add('/p/' + slug)
+    }
     const out = []
     for (const from of redirFrom) {
-      out.push([from, url].join('\t'))
+      if (from.slice(-1) !== '/') {
+        redirFrom.add(from + '/')
+      } else {
+        redirFrom.add(from.replace(/\/+$/, ''))
+      }
+      if (from !== url && from !== url.replace(/\/+$/, '')) {
+        out.push([from, url].join('\t'))
+      }
+      if (from) {
+        out.push([from + ')', url].join('\t'))
+      }
     }
     return out.join('\n') + '\n'
   },
@@ -24,9 +43,8 @@
   eleventyExcludeFromCollections: true,
 }
 ---
-/) /
 {%- for page in collections.all -%}
-  {%- if page.url and page.data.redirect_from -%}
+  {%- if page.url -%}
 {{ printRedirect(page) }}
   {%- endif -%}
 {%- endfor -%}

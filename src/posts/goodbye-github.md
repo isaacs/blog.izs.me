@@ -1,5 +1,6 @@
 ---
 title: Goodbye, GitHub!
+slug: goodbye-github
 date: 2021-11-19T22:29:46.692Z
 tags:
   - the business
