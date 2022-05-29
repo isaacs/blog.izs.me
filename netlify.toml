@@ -1,3 +1,35 @@
 [build]
   publish = "_site"
   command = "npm install && eleventy"
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Frame-Options = "DENY"
+    X-XSS-Protection = "1; mode=block"
+    # cache 1 week
+    Cache-Control = "public, max-age=604800"
+[[headers]]
+  for = "/feed/*"
+  [headers.values]
+    # cache 1 month
+    Cache-Control = "public, max-age=2592000"
+[[headers]]
+  for = "/robots.txt"
+  [headers.values]
+    # cache 3 months
+    Cache-Control = "public, max-age=8100000"
+[[headers]]
+  for = "/snips/*"
+  [headers.values]
+    # cache 10 years
+    Cache-Control = "public, max-age=315360000"
+[[headers]]
+  for = "/snips/*"
+  [headers.values]
+    # cache 10 years
+    Cache-Control = "public, max-age=315360000"
+[[headers]]
+  for = "/favicon.ico"
+  [headers.values]
+    # cache 10 years
+    Cache-Control = "public, max-age=315360000"
