@@ -155,7 +155,7 @@ pre {
   margin: .5em 0;
   background-color: #f6f6f6;
 }
-code {
+p > code, li > code {
   padding:1px 2px;
   background:#efefef;
   border-radius:4px;
