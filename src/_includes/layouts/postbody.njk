@@ -7,8 +7,6 @@
 {%- set postUrl %}{{ slug | postPermalink(page) | url }}{% endset -%}
 {%- endif %}
 
-<article>
-
 <h1>{{ title }} <a class="direct-link" href="{{ postUrl }}" aria-hidden="true">#</a></h1>
 
 {%- if link_url and link_publisher %}
@@ -52,8 +50,6 @@
 {%- endif %}
 
 </div>
-
-</article>
 
 {%- if collections.posts %}
 {%- set nextPost = collections.posts | getNextCollectionItem(page) %}

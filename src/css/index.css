@@ -9,6 +9,7 @@
   --white: #fff;
   --mono: Iosevka SS09, Iosevka, Consolas, Menlo, Monaco, "Andale Mono WT", "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Liberation Mono", "Nimbus Mono L", "Courier New", Courier, monospace;
   --sans: -apple-system, system-ui, sans-serif;
+  --serif: Palatino, Palatino Linotype, Palatino LT STD, Book Antiqua, Georgia ,serif;
   --width: 700px;
 }
 
@@ -39,8 +40,12 @@
 
 /* Global stylesheet */
 html, body, div, p, h1, h2, h3, h4, h5, h6, pre, blockquote, table {
-  font-size: 16px;
+  font-size: 20px;
   box-sizing: border-box;
+  margin-block-start: 0;
+  margin-block-end: 0;
+  margin-inline-start: 0;
+  margin-inline-end: 0;
 }
 
 p {
@@ -53,6 +58,7 @@ small {
 }
 
 h1, h2, h3, h4, h5, h6 {
+  font-family: var(--sans);
   position: relative;
 }
 
@@ -78,10 +84,11 @@ html,
 body {
   padding: 0;
   margin: 0;
-  font-family: var(--sans);
+  font-family: var(--serif);
   color: var(--darkgray);
 }
 header {
+  font-family: var(--sans);
   background: var(--white) url(/rainbow-rock.jpg) top center;
   background-size: 100% 150px;
   background-repeat: no-repeat;
@@ -126,6 +133,7 @@ table th {
 pre,
 code {
   font-family: var(--mono);
+  font-size: 16px;
   line-height: 1.5;
 }
 pre {
@@ -148,7 +156,10 @@ pre {
   background-color: #f6f6f6;
 }
 code {
-  word-break: break-all;
+  padding:1px 2px;
+  background:#efefef;
+  border-radius:4px;
+  color:#500;
 }
 .highlight-line {
   display: block;
@@ -184,6 +195,7 @@ code {
 /* Header */
 header nav ul, header nav li,
 header nav a {
+  font-size: 16px;
   text-decoration: none;
   display: inline-block;
   line-height: 46px;
@@ -262,6 +274,7 @@ header nav ul li {
   white-space: pre;
   text-decoration: none;
   font-family: var(--mono);
+  font-size: 16px;
   padding-right: 10px;
 }
 
@@ -302,7 +315,8 @@ header nav ul li {
   justify-content: center;
   border-radius: 4px;
   border: 2px solid #ccc;
-  font-size: 80%;
+  font-size: 12px;
+  font-family: var(--sans);
   padding: 1px 4px;
   margin: 2px;
   text-decoration: none;
