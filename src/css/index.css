@@ -270,6 +270,12 @@ header nav ul li {
   text-decoration: underline;
 }
 
+.postlist td:first-child {
+  width: 12ex;
+  font-family: var(--mono);
+  font-size: 16px;
+}
+
 .postlist-date {
   white-space: pre;
   text-decoration: none;
