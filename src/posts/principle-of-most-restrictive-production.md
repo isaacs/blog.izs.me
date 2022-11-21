@@ -68,8 +68,8 @@ Note also that `(x) => someValue` is ever so slightly less restrictive
 than `x => someValue`, because the `()` admit the presence of additional
 parameters.
 
-Similarly, ternary conditionals often suggested by MRP when setting values.
-Instead of this:
+Similarly, ternary conditionals are often suggested by MRP when
+setting values. Instead of this:
 
 ```js
 // foo sticks around, could be used for anything
@@ -197,7 +197,7 @@ point of the MRP rule.
 
 ## Why Do This?
 
-As we all know, code is read much more often that it is written.  The times
+As we all know, code is read much more often than it is written.  The times
 when a developer starts from a blank slate are few and far between,
 compared to the time spent refactoring, bugfixing, integrating, and so on.
 

@@ -73,7 +73,7 @@ when not clearly chosen or wisely managed.
 stuff" over "invest in elegance/maintainability".
 
 In software development, elegance and maintainability are not
-free! They have cost, that's why you have to _invest_ in them.
+free! They have costs, that's why you have to _invest_ in them.
 Time and attention are valuable limited resources. If you're not
 sure what you should be building in the first place, why pay
 extra for it?
@@ -179,7 +179,7 @@ investments in maintainability early on, because they are
 counterintuitively cheaper to build up front than do without.
 (For example, writing tests.)
 
-## The Shape of a Solutions
+## The Shape of a Solution
 
 This "no such thing as code quality" idea can be really
 eye-opening. Instead of asking "is this good code?" we should be
@@ -201,12 +201,12 @@ away. When interfacing with the business, we can clearly
 indicate which features have been hardened, which were slapped
 together to test a hunch, and so on.
 
-We can start to ask questions of Product about which things we
-should throw away, and which we should invest in hardening. We
-can even preemptively set timelines on when these decisions will
-be made and what data will drive them. Any product manager
-worth their spreadsheets who would be thrilled to get this kind
-of visibility and feedback.
+We can start to ask product managers about which things we should
+throw away, and which we should invest in hardening. We can even
+preemptively set timelines on when these decisions will be made
+and what data will drive them. Any product manager worth their
+spreadsheets who would be thrilled to get this kind of visibility
+and feedback.
 
 Instead of kvetching about how "The Business" doesn't understand
 or appreciate the salt of the earth software engineers toiling
