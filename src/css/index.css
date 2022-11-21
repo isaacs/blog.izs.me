@@ -1,15 +1,19 @@
 /* Colors */
 :root {
   --lightgray: #e0e0e0;
-  --gray: #C0C0C0;
+  --gray: #c0c0c0;
   --darkgray: #333;
-  --navy: #17050F;
+  --navy: #17050f;
   --blue: #082840;
-  --lightblue: #68BBE3;
+  --lightblue: #68bbe3;
   --white: #fff;
-  --mono: Iosevka SS09, Iosevka, Consolas, Menlo, Monaco, "Andale Mono WT", "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Liberation Mono", "Nimbus Mono L", "Courier New", Courier, monospace;
+  --mono: Iosevka SS09, Iosevka, Consolas, Menlo, Monaco, "Andale Mono WT",
+    "Andale Mono", "Lucida Console", "Lucida Sans Typewriter",
+    "DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Liberation Mono",
+    "Nimbus Mono L", "Courier New", Courier, monospace;
   --sans: -apple-system, system-ui, sans-serif;
-  --serif: Palatino, Palatino Linotype, Palatino LT STD, Book Antiqua, Georgia ,serif;
+  --serif: Palatino, Palatino Linotype, Palatino LT STD, Book Antiqua, Georgia,
+    serif;
   --width: 700px;
 }
 
@@ -17,29 +21,41 @@
   :root {
     --width: 100%;
   }
-  header nav, main {
-    width: 90%!important;
+  header nav,
+  main {
+    width: 90% !important;
   }
   header {
-    background-size: cover!important;
+    background-size: cover !important;
   }
   header nav {
-    height: auto!important;
-    background-size:50px 50px!important;
-    background-position:top left!important;
-    padding-bottom: 15px!important;
+    height: auto !important;
+    background-size: 50px 50px !important;
+    background-position: top left !important;
+    padding-bottom: 15px !important;
   }
   header nav a {
-    padding: 0 0 0 5px!important;
+    padding: 0 0 0 5px !important;
   }
   header nav .home a {
-    padding-left: 55px!important;
+    padding-left: 55px !important;
   }
 }
 
-
 /* Global stylesheet */
-html, body, div, p, h1, h2, h3, h4, h5, h6, pre, blockquote, table {
+html,
+body,
+div,
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+pre,
+blockquote,
+table {
   font-size: 20px;
   box-sizing: border-box;
   margin-block-start: 0;
@@ -53,25 +69,37 @@ p {
 }
 
 small {
-  font-size: 80%!important;
+  font-size: 80% !important;
   opacity: 0.8;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
   font-family: var(--sans);
   position: relative;
 }
 
-h1, h2, h3 {
+h1,
+h2,
+h3 {
   font-size: 200%;
 }
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
   margin: 1em 0;
   font-weight: normal;
 }
 
 hr {
-  display:block;
+  display: block;
   padding: 0;
   height: 4px;
   border: none;
@@ -93,7 +121,8 @@ header {
   background-size: 100% 150px;
   background-repeat: no-repeat;
 }
-header nav, main {
+header nav,
+main {
   width: var(--width);
   margin: 0 auto;
 }
@@ -120,7 +149,6 @@ main {
   margin: -1px auto;
   width: var(--width);
 }
-
 
 table {
   margin: 1em 0;
@@ -152,14 +180,15 @@ pre {
   -ms-hyphens: none;
   hyphens: none;
   padding: 1em;
-  margin: .5em 0;
+  margin: 0.5em 0;
   background-color: #f6f6f6;
 }
-p > code, li > code {
-  padding:1px 2px;
-  background:#efefef;
-  border-radius:4px;
-  color:#500;
+p > code,
+li > code {
+  padding: 1px 2px;
+  background: #efefef;
+  border-radius: 4px;
+  color: #500;
 }
 .highlight-line {
   display: block;
@@ -183,7 +212,7 @@ p > code, li > code {
 }
 .highlight-line-active {
   background-color: #444;
-  background-color: hsla(0, 0%, 27%, .8);
+  background-color: hsla(0, 0%, 27%, 0.8);
 }
 .highlight-line-add {
   background-color: #45844b;
@@ -193,7 +222,8 @@ p > code, li > code {
 }
 
 /* Header */
-header nav ul, header nav li,
+header nav ul,
+header nav li,
 header nav a {
   font-size: 16px;
   text-decoration: none;
@@ -207,7 +237,7 @@ header nav li {
   padding: 0 0.5em;
 }
 header .home {
-  font-weight:bold;
+  font-weight: bold;
   padding: 0;
   display: inline-block;
   font-size: 1em;
@@ -220,30 +250,32 @@ header nav a {
 header nav .home a {
   padding: 0 0 0 55px;
 }
-header nav a:active, header nav a:hover, header nav a:focus {
+header nav a:active,
+header nav a:hover,
+header nav a:focus {
   text-decoration: underline;
 }
 
 header nav {
-    height: 50px;
-    margin: 0 auto;
-    border-radius: 25px;
-    background: #e0e0e0;
-    border: 2px solid magenta;
+  height: 50px;
+  margin: 0 auto;
+  border-radius: 25px;
+  background: #e0e0e0;
+  border: 2px solid magenta;
 
-    box-sizing: border-box;
-    width: var(--width);
+  box-sizing: border-box;
+  width: var(--width);
 
-    display: block;
-    position: relative;
-    background: #e0e0e0 url(/headshot-50.jpg) left center;
-    background-size: contain;
-    background-repeat: no-repeat;
+  display: block;
+  position: relative;
+  background: #e0e0e0 url(/headshot-50.jpg) left center;
+  background-size: contain;
+  background-repeat: no-repeat;
 }
 
 header {
-    padding: 50px 0;
-    box-sizing: border-box;
+  padding: 50px 0;
+  box-sizing: border-box;
 }
 
 /* Nav */
@@ -313,7 +345,9 @@ header nav ul li {
 }
 .post-footer a:hover,
 .post-footer a:active,
-.post-footer a:focus { text-decoration: underline }
+.post-footer a:focus {
+  text-decoration: underline;
+}
 
 .post-tag {
   display: inline-flex;
@@ -332,7 +366,9 @@ header nav ul li {
   border-color: var(--lightblue);
 }
 
-.post-tag:hover, .post-tag:active, .post-tag:focus {
+.post-tag:hover,
+.post-tag:active,
+.post-tag:focus {
   background: #ccc;
   text-decoration: underline;
 }
@@ -354,7 +390,10 @@ blockquote {
   margin: 1em 0;
   padding: 0;
   padding-left: 1em;
-  border-left: 4px solid var(--lightgray);
+  border-width: 0 0 0 4px;
+  border-style: solid;
+  border-color: var(--lightgray);
+  border-radius: 5px;
 }
 .tiktok-embed {
   margin: 0;
@@ -368,7 +407,7 @@ blockquote {
   font-family: var(--sans);
   text-decoration: none;
   font-style: normal;
-  margin-left: .1em;
+  margin-left: 0.1em;
 }
 a[href].direct-link,
 a[href].direct-link:visited {
@@ -382,4 +421,38 @@ a[href].direct-link:focus:visited,
 :hover > a[href].direct-link,
 :hover > a[href].direct-link:visited {
   color: #aaa;
+}
+
+.pullquote {
+  font-style: italic;
+  font-size: 1.5em !important;
+  font-family: var(--serif);
+  margin: 1em -1em;
+  background: #eee;
+  border-radius: 5px;
+  padding: 0 1em;
+}
+.pullquote p {
+  padding: 0;
+  margin: 0;
+  font-size: inherit !important;
+}
+.pullquote p em {
+  font-weight: bold;
+}
+@media (min-width: 950px) {
+  .pullquote.right,
+  .pullquote.left {
+    float: right;
+    margin: 0 -4em 0 1em;
+    padding: 0 1ex;
+    width: 50%;
+    text-align: right;
+  }
+  .pullquote.left {
+    float: left;
+    margin: 0 1em 0 -4em;
+    text-align: left;
+    border-width: 0 4px 0 0;
+  }
 }
