@@ -29,5 +29,14 @@ and ideas.  However, you may not clone the design or content
 without written permission.  Please get in touch if you have any
 questions.
 
-[Twitter](https://twitter.com/izs) is the best way to reach me,
-unless you know my phone number, in which case text me.
+If you want to reach me, I can be found in various places around
+the internet:
+
+- [@isaacs@fosstodon.org](https://fosstodon.org/@isaacs)
+- [isaacs_ on Reddit](https://www.reddit.com/user/isaacs_)
+- [IsaacSchlueter on the angry orange
+  site](https://news.ycombinator.com/user?id=IsaacSchlueter)
+- [isaacs on keybase](https://keybase.io/isaacs)
+- or you can use the email address on my
+  [resume](https://izs.me), but good chance it'll get lost in the
+  sea of spam.

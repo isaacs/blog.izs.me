@@ -5,6 +5,7 @@ eleventyNavigation:
   key: Home
   order: 1
 ---
+
 <h2>Latest Posts</h2>
 
 {% set postslist = collections.posts | thisYear(8) %}
@@ -15,19 +16,24 @@ eleventyNavigation:
 
 <h2>More Stuff</h2>
 
-<p>I occasionally post things <a href="https://twitter.com/izs">on twitter</a>.
-I use automated blocking scripts with reckless abandon at times, usually for
-justifiable reasons.  If you find that I've blocked you, let me know, and I
-will typically unblock you swiftly.</p>
+<p>
+  I occasionally post things <a href="{{ '/about/' | url }}">other places</a>.
+</p>
 
-<p>I am very active <a href="https://github.com/isaacs">on GitHub</a>, often in
-the various projects related to <a href="https://www.npmjs.com/">npm</a> and <a
-href="https://node-tap.org/">tap</a>.</p>
+<p>
+  I am very active <a href="https://github.com/isaacs">on GitHub</a>, often in
+  the various projects related to <a href="https://www.npmjs.com/">npm</a> and
+  <a href="https://node-tap.org/">tap</a>.
+</p>
 
-<p>Unless otherwise stated, and to the greatest extent possible, everything on
-this site reflects my opinions and thoughts, and not any current or former
-employers, colleagues, friends, or others.  Don't hold anyone accountable for
-my bad takes.</p>
+<p>
+  Unless otherwise stated, and to the greatest extent possible, everything on
+  this site reflects my opinions and thoughts, and not any current or former
+  employers, colleagues, friends, or others. Don't hold anyone accountable for
+  my bad takes.
+</p>
 
-<p>If you would like to support this site, you may <a
-href="https://github.com/sponsors/isaacs">sponsor me</a>.</p>
+<p>
+  If you would like to support this site, you may
+  <a href="https://github.com/sponsors/isaacs">sponsor me on GitHub</a>.
+</p>
