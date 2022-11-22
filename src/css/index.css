@@ -440,6 +440,13 @@ a[href].direct-link:focus:visited,
 .pullquote p em {
   font-weight: bold;
 }
+@media (max-width: 800px) {
+  .pullquote {
+    margin: 1em 0;
+    padding: 0 0.5em;
+    width: 100%;
+  }
+}
 @media (min-width: 950px) {
   .pullquote.right,
   .pullquote.left {
