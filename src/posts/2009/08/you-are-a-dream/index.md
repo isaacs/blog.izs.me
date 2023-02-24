@@ -5,24 +5,27 @@ slug: you-are-a-dream
 tags:
   - poem
 tumblrid: 153284018
+title: you are a dream
 type: text
 ---
-<p>Joy overwhelms<br/>
-alters and exposes everything</p>
+<pre class="poem">
+Joy overwhelms
+alters and exposes everything
 
-<p>Smell you on my lips<br/>
-  taste your scent<br/>
-Brains buzz<br/>
-  intoxicated by you</p>
+Smell you on my lips
+  taste your scent
+Brains buzz
+  intoxicated by you
 
-<p>Wrap me in your soul<br/>
-  arms and legs<br/>
-    pull me in<br/>
-Float downstream<br/>
-  warm oceans sunlit beaches<br/>
-    bask in your glow</p>
+Wrap me in your soul
+  arms and legs
+    pull me in
+Float downstream
+  warm oceans sunlit beaches
+    bask in your glow
 
-<p>You are a dream.</p>
+You are a dream.
 
-<p>Come true to me<br/>
-  when I kiss you.</p>
+Come true to me
+  when I kiss you.
+</pre>

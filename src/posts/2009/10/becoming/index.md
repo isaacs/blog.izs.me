@@ -8,6 +8,6 @@ title: becoming
 tumblrid: 204676249
 type: text
 ---
-<p>snatch a rainbow with the bottom of your shoe<br/>
-turn into something beautiful<br/>
-become yourself becoming you</p>
+<pre class="poem">snatch a rainbow with the bottom of your shoe
+turn into something beautiful
+become yourself becoming you</pre>

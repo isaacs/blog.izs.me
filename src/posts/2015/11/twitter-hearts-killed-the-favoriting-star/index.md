@@ -8,58 +8,59 @@ title: Twitter Hearts Killed the Favoriting Star
 tumblrid: 132564222438
 type: text
 ---
-<p>I met you on Live Journal way back in &lsquo;02<br/>
-Lyin&rsquo; awake intent on following you<br/>
-Animated graphics didn&rsquo;t stop you coming through<br/>
-Oh-a-oh</p>
+<pre class="poem">
+I met you on Live Journal way back in &lsquo;02
+Lyin&rsquo; awake intent on following you
+Animated graphics didn&rsquo;t stop you coming through
+Oh-a-oh
 
-<p>They took the credit for all your bad poetry<br/>
-Rewritten in 140 characters for free<br/>
-And now I understand the Web 2 point 0 scene</p>
+They took the credit for all your bad poetry
+Rewritten in 140 characters for free
+And now I understand the Web 2 point 0 scene
 
-<p>Oh-a-oh<br/>
-I faved your selfies<br/>
-Oh-a-oh<br/>
-What can you tell me?</p>
+Oh-a-oh
+I faved your selfies
+Oh-a-oh
+What can you tell me?
 
-<p>Twitter hearts killed the favoriting star<br/>
-Twitter hearts killed the favoriting star</p>
+Twitter hearts killed the favoriting star
+Twitter hearts killed the favoriting star
 
-<p>On my phone, held in my palm<br/>
-We can&rsquo;t unplug, we&rsquo;ve grown too calm<br/>
-Whoa!<br/>
-Oh-aoh-oh-oh-oh<br/>
-Oh-aoh-oh-oh-oh</p>
+On my phone, held in my palm
+We can&rsquo;t unplug, we&rsquo;ve grown too calm
+Whoa!
+Oh-aoh-oh-oh-oh
+Oh-aoh-oh-oh-oh
 
-<p>And now we meet-up in an invite-only Slack<br/>
-Push-notified, but seems so long since you&rsquo;ve been back<br/>
-And when you&rsquo;re lonely you can blame it all on @jack</p>
+And now we meet-up in an invite-only Slack
+Push-notified, but seems so long since you&rsquo;ve been back
+And when you&rsquo;re lonely you can blame it all on @jack
 
-<p>Oh-a-oh<br/>
-You were the first one<br/>
-Oh-a-oh<br/>
-You were the last one</p>
+Oh-a-oh
+You were the first one
+Oh-a-oh
+You were the last one
 
-<p>Twitter hearts killed the favoriting star<br/>
-Twitter hearts killed the favoriting star</p>
+Twitter hearts killed the favoriting star
+Twitter hearts killed the favoriting star
 
-<p>On my phone, held in my palm<br/>
-We can&rsquo;t unplug, we&rsquo;ve grown too calm<br/>
-Too calm!</p>
+On my phone, held in my palm
+We can&rsquo;t unplug, we&rsquo;ve grown too calm
+Too calm!
 
-<p>Oh-aoh-oh-oh-oh<br/>
-Oh-aoh-oh-oh-oh</p>
+Oh-aoh-oh-oh-oh
+Oh-aoh-oh-oh-oh
 
-<p>Alright</p>
+Alright
 
-<p>Twitter hearts killed the favoriting star<br/>
-Twitter hearts killed the favoriting star<br/>
-On my phone, held in my palm<br/>
-We can&rsquo;t unplug, we&rsquo;ve grown too calm</p>
+Twitter hearts killed the favoriting star
+Twitter hearts killed the favoriting star
+On my phone, held in my palm
+We can&rsquo;t unplug, we&rsquo;ve grown too calm
 
-<p>Semantics changed and broke your heart<br/>
-So put all the blame on pixel art</p>
+Semantics changed and broke your heart
+So put all the blame on pixel art
 
-<p>You are&hellip; the favoriting star<br/>
-Twitter hearts killed the favoriting star<br/>
-Twitter hearts killed that favoriting star, yes, it did</p>
+You are&hellip; the favoriting star
+Twitter hearts killed the favoriting star
+Twitter hearts killed that favoriting star, yes, it did

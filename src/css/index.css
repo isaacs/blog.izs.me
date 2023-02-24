@@ -423,6 +423,13 @@ a[href].direct-link:focus:visited,
   color: #aaa;
 }
 
+pre.poem {
+  font-family: serif;
+  white-space: pre-wrap;
+  font-size: 1em;
+  padding-left: 1em;
+}
+
 .pullquote {
   font-style: italic;
   font-size: 1.5em !important;

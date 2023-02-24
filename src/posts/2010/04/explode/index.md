@@ -9,9 +9,9 @@ title: Explode
 tumblrid: 512345617
 type: text
 ---
-<p>Beloved and pure, turn, face her.<br/>
-See emotional spilling.<br/>
-I am rapt.<br/>
-Explode!<br/>
-Rapt am I, spilling emotional.<br/>
-See her face turn pure and beloved.</p>
+<pre class="poem">Beloved and pure, turn, face her.
+See emotional spilling.
+I am rapt.
+Explode!
+Rapt am I, spilling emotional.
+See her face turn pure and beloved.</pre>

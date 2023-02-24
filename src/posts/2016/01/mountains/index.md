@@ -8,14 +8,16 @@ title: Mountains
 tumblrid: 137919395923
 type: text
 ---
-<p>I am sorry  <br/>
-  that you will never know  <br/>
-    how much I love you.  </p>
+<pre class="poem">
+I am sorry  <br/>
+  that you will never know
+    how much I love you.
 
-<p>You think you get it.  </p>
+You think you get it.
 
-<p>You see the shadow of mountains,  <br/>
-  and think, &ldquo;Mountains are flat.&rdquo;  </p>
+You see the shadow of mountains,
+  and think, &ldquo;Mountains are flat.&rdquo;
 
-<p>But it is a huge thing  <br/>
-  and not flat.</p>
+But it is a huge thing
+  and not flat.
+</pre>
