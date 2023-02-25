@@ -14,7 +14,7 @@ tags:
 ---
 
 <pre class="poem">We saw this coming. You saw,
-  and [commented on](/2023/02/jim-schlueter-1954-03-06-2023-02-18/),
+  and <a href="/2023/02/jim-schlueter-1954-03-06-2023-02-18/">commented on</a>
 the emptiness
   that your departure would create,
 the space for future lives to fill.
