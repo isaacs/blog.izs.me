@@ -5,8 +5,10 @@ slug: an-aspirational-meditation-in-12-stanzas
 title: An Aspirational Meditation in 12 Stanzas
 tumblrid: 147100332473
 type: text
+tags:
+  - poem
 ---
-<pre>Open Mind
+<pre class="poem">Open Mind
 Clear Vision
 True Speech
 Warm Heart

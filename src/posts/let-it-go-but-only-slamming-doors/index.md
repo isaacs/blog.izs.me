@@ -3,9 +3,10 @@ title: Let It Go, but only slamming doors
 date: 2021-09-27T17:05:24.066Z
 tags:
   - turn away and slam the door
+  - poem
 ---
 
-```
+<pre class="poem">
 The door slams loud on the mountain tonight
 Not a slammed door to be seen
 A kingdom of slamming doors
@@ -46,6 +47,6 @@ That perfect door is slammed
 I slam doors in the light of day
 Let the door slam on
 The door never slammed on me anyway
-```
+</pre>
 
 <small>Credit: JNSM</small>
