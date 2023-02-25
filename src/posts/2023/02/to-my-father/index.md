@@ -14,7 +14,7 @@ tags:
 ---
 
 <pre class="poem">We saw this coming. You saw,
-  and commented on,
+  and [commented on](/2023/02/jim-schlueter-1954-03-06-2023-02-18/),
 the emptiness
   that your departure would create,
 the space for future lives to fill.
@@ -48,8 +48,8 @@ your offered help
   though it bruised my pride
 
 I laugh sometimes at how many of your mistakes
-I repeat, along the scripted path that takes
-us by the hand, along the steps laid out from birth.
+I repeat, along the scripted plan that takes
+us by the hand, along the path laid out from birth.
   (The bonds of fate around me always chafe.)
 And at how so much of what I try to be,
 better than you, a better parent, better lover, better me,
@@ -61,16 +61,16 @@ As an adult, I came in time to respect
 In place of rage and fire, you gave cold neglect,
   and let me be fucked up in my own way
 
-Healing reduces complication.
-Forgiveness given can be recuperation,
-We got some 20 odd years as father and son.
-Grandfather and father,
+Healing can uncomplicate.
+Forgiveness given can recuperate,
+And so we got some 20 odd years as father and son.
+Grandpa and dad,
   you gave my child the love I craved
     when I was at their age,
 and I was genuinely glad.
 
 I recall the last time we hugged, an embrace
-awkward as always, like dancers out of practice,
+awkward as always, like dancers out of place,
 But love and pride still unmistakeable and clear.
 
 I was prepared for this a year ago,
