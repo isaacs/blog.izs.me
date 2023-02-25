@@ -25,7 +25,7 @@ the space for future lives to fill.
 that the end is just the end
 
 Now you're gone, not to a better place,
-  not "to" at all, but out time and space,
+  not "to" at all, but out of time and space,
   and those parts of you that death cannot erase
     fall short.
 You're gone.
