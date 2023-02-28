@@ -106,7 +106,7 @@ business, and thus where their contributions should be deployed.
 So it's on us to act as technical advisors.
 
 And if your employer has a problem with you improving your skills
-by participating in the oss community that benefit them, and
+by participating in the oss communities that benefit them, and
 improving the state of the craft that their business depends on,
 well... find another employer, because that's really a misguided
 and short-sighted point of view.
