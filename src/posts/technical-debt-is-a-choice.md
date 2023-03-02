@@ -15,7 +15,7 @@ Original context:
 > > - bad or little to no testing leading to bugs
 > > - spaghetti code due to rapid feature bloat
 > >
-> > What CEOs hear: person making 6 figures failing to due their
+> > What CEOs hear: person making 6 figures failing to do their
 > > job yet demanding even more resources
 >
 > [@ElleArmageddon](https://twitter.com/ElleArmageddon/status/1592885383477723137)
