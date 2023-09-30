@@ -164,6 +164,9 @@ code {
   font-size: 16px;
   line-height: 1.5;
 }
+h1 code, h2 code, h3 code, h4 code, h5 code, h6 code {
+  font-size: inherit;
+}
 pre {
   font-size: 14px;
   line-height: 1.375;
