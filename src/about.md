@@ -32,6 +32,7 @@ questions.
 If you want to reach me, I can be found in various places around
 the internet:
 
+- [@izs@twitter.com](https://twitter.com/@izs)
 - [@isaacs@fosstodon.org](https://fosstodon.org/@isaacs)
 - [isaacs_ on Reddit](https://www.reddit.com/user/isaacs_)
 - [IsaacSchlueter on the angry orange
