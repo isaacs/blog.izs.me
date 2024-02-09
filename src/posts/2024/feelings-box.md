@@ -1,6 +1,10 @@
 ---
 title: A Labeled Box of Feels
 date: 2024-02-09T22:51:13.448Z
+tags:
+  - emotional hygiene
+  - psychology
+  - humaning
 ---
 
 I am about 80% sure I did not initially come up with this
