@@ -129,3 +129,14 @@ Consider how this concept is at play in the concepts of:
 
 In these cases, what might be in the box? How does the label
 prevent us from seeing and addressing that?
+
+## Twitter Threads On This Subject
+
+- ["Happiness", much like "jealousy" is not an emotion per se,
+  but an emotion-constellation, or emotion container. A box
+  containing emotions, taped up, with a label on
+  it.](https://x.com/izs/status/1744854738997567586?s=20)
+- ["Happy" is like "jealous". It is not one feeling. It is a box
+  that we put feelings in, and then label so that we don't have
+  to do the hard work of examining
+  them.](https://x.com/izs/status/1755767477085278236?s=20)
