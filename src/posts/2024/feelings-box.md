@@ -32,9 +32,9 @@ feelings into a box, put a label on the box, and seal it up
 tight. From then on, we only interface with the label, not the
 contents.
 
-In the case of jealousy, the label reads: "YOUR FAULT". Then you
+In the case of jealousy, the label reads: `YOUR FAULT`. Then you
 huck the box at the person who did the bad thing that made you
-jealous, and now it their problem. You are now entitled to demand
+jealous, and now it's their problem. You are now entitled to demand
 that they change their behavior, whatever it was that caused you
 to have this box of feelings, rather than unpack the box and
 figure out what's really going on.
@@ -75,11 +75,11 @@ As long as we interface with the _label_ rather than the feelings
 contained in that box, no healing can happen, and any processing
 will likely make things worse.
 
-## Happiness is a Feelings Box [<sup>1</sup>](https://twitter.com/izs/status/1744854738997567586)
+## Happiness is a Feelings Box
 
 Similar to jealousy, "happiness" is a labeled feelings box as
 well. But in this case, instead of the label ultimately meaning
-"YOUR FAULT", the label says "GOOD".
+`YOUR FAULT`, the label says `GOOD`.
 
 Consider these statements:
 
@@ -88,7 +88,7 @@ Consider these statements:
 - I'm happy that we had a chance to go to that party together.
 
 3 extremely different emotions! But once _labeled_ with that
-"GOOD" tag, we stop looking at it.
+`GOOD` tag, we stop looking at it.
 
 "Happiness" might contain satisfaction, bliss, mania, pride,
 ecstasy, excitement, or even some less "pleasant" emotions, like
