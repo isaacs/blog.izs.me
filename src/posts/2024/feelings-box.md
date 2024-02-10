@@ -91,8 +91,8 @@ Consider these statements:
 `GOOD` tag, we stop looking at it.
 
 "Happiness" might contain satisfaction, bliss, mania, pride,
-ecstasy, excitement, or even some less "pleasant" emotions, like
-longing or anticipation. In the way that "hope" and "fear"
+ecstasy, excitement, or even some less "comfortable" emotions,
+like longing or anticipation. In the way that "hope" and "fear"
 are two sides of a coin, and work together to take you out of
 mindful presence, "happiness" can be just as much an obstacle to
 introspective englightenment and connection as jealousy is!
