@@ -41,3 +41,7 @@ the internet:
 - or you can use the email address on my
   [resume](https://izs.me), but good chance it'll get lost in the
   sea of spam.
+
+This is what I look like, kind of.
+
+<img src="/headshot.jpg" width="100%" alt="a picture of me">
