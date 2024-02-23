@@ -18,17 +18,17 @@ the neurotypical/allistic world as an autistic person. Whether it
 is "true" or "valid" or has strong predictive power is less
 important.
 
-Content warnings, this post mentions (in the abstract)
+Content warnings, this post mentions (in the abstract) grief and
 pet-related tragedy, and links to a few websites that contain a
 mix of very good and _exceptionally_ terrible ideas. And it is
 possible that merely being aware of this tool may change your
 brain and cause you to think in new ways, in case that is
 something you'd like to avoid.
 
-## Construal Level Theory and Near vs Far Modes of Thinking
+## CLT and Modal Thinking
 
-[Construal level theory of psychological
-distance](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3152826/pdf/nihms314649.pdf)
+[Construal level
+theory](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3152826/pdf/nihms314649.pdf)
 is a model of psychological distance, the mental leaps that we
 make in order to reason about and experience that which does not
 affect the self directly.
@@ -188,6 +188,25 @@ My favorite example of absurd corporate distance-priming is the
 airport scene in Fight Club. ["Of course, it's company policy
 never to imply ownership. We have to use the indefinite
 article."](https://www.youtube.com/watch?v=ZR_1J8VIyKI&t=80s)
+
+When you've lost a loved one, one of the most brutally close and
+painful experiences humans have, and find yourself surrounded by
+friends and relations at a funeral, think about the things that
+they typically say. "She's in a better place." "At least he
+doesn't have to suffer any more." "They'll live on in our
+hearts." These are all attempts to move your thinking into far
+mode.
+
+In fact, the entire experience of grief, with its stages and
+emotional rollercoasters, whether due to death or just a simple
+breakup, can be seen as a mind struggling to move a near-mode
+emotional experience into a far-mode memory, letting them become
+[somebody that you used to
+know](https://www.youtube.com/watch?v=8UVNT4wvIGY). Even after
+rage and depression subside, the casual thought that you should
+give them a call or the expectation to see them around the
+corner, coming from a habit of near-mode consideration, can show
+up and open the wounds all over again.
 
 Near/far priming doesn't only need to be linguistic. We consider
 things like "warmth" to be near-mode, and "coldness" to be
