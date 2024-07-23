@@ -2,6 +2,7 @@
 title: the you in me
 tags:
   - poem
+  - my love language is compatible hardware
 date: 2024-07-22T22:46:24.930Z
 ---
 
