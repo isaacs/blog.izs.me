@@ -6,12 +6,8 @@ tags:
 date: 2024-07-22T22:46:24.930Z
 ---
 
-<pre class="poem">Let's not control or colonize
-  that's way too much work
-    and no one thus attained is worth the cost
-
-Run my software on your brain
-  let me live rent-free inside your mind
+<pre class="poem">Run my software on your brain
+  and I'll live rent-free inside your mind
     where we can run together through your dreams
 
 Keep that faithful replica
@@ -20,10 +16,10 @@ Keep that faithful replica
 
 Let my homunculous run wild
   in the light of your attention
-    and let me satisfy the need that he creates
+    and I will satisfy the need that he creates
 
-I don't need grand gestures <i>(anyone can do that)</i>
-  give me little signs that take no effort
+Don't give me grand gestures <i>(anyone can do that)</i>
+  I want the little signs that take no effort
     and which are impossible to fake
 
 Subtle twitch of eyes and cheeks
