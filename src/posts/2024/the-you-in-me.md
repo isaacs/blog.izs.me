@@ -29,3 +29,5 @@ Subtle twitch of eyes and cheeks
 When he looks out your eyes and into mine
   and sees the copy of you in my mind
     Let the me in you fall in love with the you in me</pre>
+
+_[iambic pentameter version](/2024/07/the-you-in-me-but-iambic-pentameter/)_
