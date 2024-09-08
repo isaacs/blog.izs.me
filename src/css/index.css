@@ -68,8 +68,8 @@ p {
   margin: 1em 0;
 }
 
-small {
-  font-size: 80% !important;
+small, small p {
+  font-size: 16px !important;
   opacity: 0.8;
 }
 

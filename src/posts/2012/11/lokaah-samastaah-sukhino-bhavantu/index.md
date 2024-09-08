@@ -5,6 +5,9 @@ slug: lokaah-samastaah-sukhino-bhavantu
 title: Lokaah Samastaah Sukhino Bhavantu
 tumblrid: 35367673340
 type: text
+tags:
+  - the practice
+  - my religion
 ---
 <p>There&rsquo;s a thing that my yoga teacher says after each class.</p>
 

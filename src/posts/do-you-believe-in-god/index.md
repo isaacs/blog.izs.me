@@ -3,7 +3,7 @@ title: Do You Believe in God?
 date: 2021-09-22T23:11:44.332Z
 tags:
   - philosophy
-  - religion
+  - my religion
   - atheism
   - optimistic nihilism
 ---
