@@ -7,6 +7,8 @@ tumblrid: 147100332473
 type: text
 tags:
   - poem
+  - my religion
+  - the practice
 ---
 <pre class="poem">Open Mind
 Clear Vision
