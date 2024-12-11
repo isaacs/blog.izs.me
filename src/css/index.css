@@ -426,11 +426,13 @@ a[href].direct-link:focus:visited,
   color: #aaa;
 }
 
-pre.poem {
+.tag-poem pre code, .tag-poem pre, pre.poem {
   font-family: serif;
+  font-size: 1em!important;
+}
+.tag-poem pre, pre.poem {
   white-space: pre-wrap;
-  font-size: 1em;
-  padding-left: 1em;
+  padding-left: 1em!important;
 }
 
 .pullquote {
