@@ -18,9 +18,9 @@ sun invades with welcome warmth
   unwelcome wakefulness
     resisted, burrowing
 
-hands with no expression ignore
-  the beating heart beneath
-    rest on smooth expanse of flesh
+hands with no expression
+  rest on smooth expanse of flesh
+    ignore the beating heart beneath
 
 languorous left-over libido, last night's lust
   lactic lipids left lovely lounging lingual
