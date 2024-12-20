@@ -60,9 +60,9 @@ incorrect *self* diagnosis has never harmed anyone.
 Doctors are less invested in our health than we are, less
 motivated to educate themselves about the most recent findings in
 the research, and they don't actually suffer the consequences of
-getting it wrong. Self diagnosis isn't just "also valid", it's in
+getting it wrong. **Self diagnosis isn't just "also valid", it's in
 many cases and for many purposes far *more* valid than an
-official screening.
+official screening.**
 
 No one's self diagnosis is "stealing resources" or causing autism
 to be taken less seriously. Autism *isn't* taken seriously, never
