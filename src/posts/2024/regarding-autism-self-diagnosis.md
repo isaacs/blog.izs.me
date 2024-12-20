@@ -24,9 +24,9 @@ How to get an autism diagnosis <sup><a id="re-self-dx-1" name="re-self-dx-1" hre
 - Continue studying for 5 more years. Still not 100% sure, but
   seems likely.
 - Learn that <abbr title="hypermobile Ehlers Danlos
-  Syndrome">hEDS<abbr> and autism are highly comorbid, explains
+  Syndrome">hEDS</abbr> and autism are highly comorbid, explains
   the hypermobility, soft stretchy skin, and <abbr
-  title="Positional Orthostatic Tachycardia Syndrome">POTS<abbr>.
+  title="Positional Orthostatic Tachycardia Syndrome">POTS</abbr>.
 - Learn that GI and skin issues are highly comorbid with autism,
   explains the psoriasis and the butt stuff.
 - Almost sure now.
