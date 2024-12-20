@@ -80,9 +80,9 @@ special to be autistic. In fact, I felt a lot *more* "special"
 when I thought all my stereotypically autistic traits were
 entirely unique to me! Autism has shown me that I'm an extremely
 average example of a pretty big community. There are other people
-just like me! That's fun. That's very special. It's allowing me
+just like me! That's fun. That's very special. It's allowed me
 to find community and acceptance. It allowed me to be *less*
-special, to be *normal*.
+special, to be *normal*. Which, honestly, is really nice.
 
 Everyone who decides to get an official autism screening with a
 mental health professional must have at some point come to the
