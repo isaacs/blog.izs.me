@@ -72,8 +72,8 @@ order to qualify for any treatment or other serious
 accommodations. But doing the work of self diagnosis *ahead of*
 an official screening by a psychotherapist or psychiatrist is
 unfortunately a critical step if you want to avoid being
-harmfully misdiagnosed and potentially subjected to drugs and
-treatment that are unhelpful or even profoundly harmful.
+misdiagnosed and potentially subjected to drugs and treatment
+that are unhelpful or even profoundly harmful.
 
 Self diagnosis never once made me "feel special". I don't feel
 special to be autistic. In fact, I felt a lot *more* "special"
