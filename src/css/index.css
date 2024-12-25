@@ -236,8 +236,17 @@ header nav a {
   margin: 0;
   padding: 0;
 }
+header nav a:active, header nav a:hover, header nav a:focus {
+  background: #fff;
+}
+header nav .home a:hover, header nav .home a:focus {
+  background: none;
+}
+header nav a svg {
+  vertical-align:middle;
+}
 header nav li {
-  padding: 0 0.5em;
+  padding: 0 0.1em;
 }
 header .home {
   font-weight: bold;
