@@ -944,7 +944,8 @@ The contents of their Letterbox is their own business, not ours. This song is an
 <small>[1274431702782246912](https://twitter.com/izs/status/1274431702782246912)</small>
 The third act expresses the longing for the sibling's return most directly, but with a barb of filial resentment. If that honey would come back, we would throw such a party. Drink and cook the prodigal son.
 
-<small>[1274432077270708225](https://twitter.com/izs/status/1274432077270708225)</small> The sibling who stays knows that, even though narrator was the good one, if Cha returns he'll be [showered with welcome and celebration](https://en.wikipedia.org/wiki/Parable_of_the_Prodigal_Son).
+<small>[1274432077270708225](https://twitter.com/izs/status/1274432077270708225)</small>
+The sibling who stays knows that, even though narrator was the good one, if Cha returns he'll be [showered with welcome and celebration](https://en.wikipedia.org/wiki/Parable_of_the_Prodigal_Son).
 
 <small>[1274432857948094464](https://twitter.com/izs/status/1274432857948094464)</small>
 Like so much of Flood, the complicated emotions are presented obliquely, shown but not told. Of course I miss my brother, of course I can't stop thinking about him and wondering what adventures he's having. But also, fuck that guy, where's MY parade?
