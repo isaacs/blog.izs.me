@@ -122,4 +122,4 @@ a similar sort of "self-medicating with less harmful suffering"
 kind of behavior. I'm not actually training to fight this time.
 I'm in my 40s, I'm just there to peacefully exercise. It is fun
 to kick the bags sometimes and let my legs pretend they can still
-break stuff, though. <a href="hedonistat-ref2">back</a></small>
+break stuff, though. <a href="#hedonistat-ref2">back</a></small>
