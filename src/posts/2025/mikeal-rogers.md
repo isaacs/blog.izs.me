@@ -141,8 +141,7 @@ conversations stretched over the years and 5 continents. Our kids
 grew together and played together. We made time to visit in
 between everything else going on, talking each other's ears off
 about whatever special interest had our attention at the moment.
-From the moment we started hanging out, it felt obvious that we'd
-be friends.
+From the day we met, it was obvious we'd be friends.
 
 I visited Mikeal on Sunday afternoon, the day before he passed.
 
