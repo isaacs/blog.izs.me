@@ -36,6 +36,8 @@ the internet, roughly order of effectiveness:
 - [isaacs\_ on Reddit](https://www.reddit.com/user/isaacs_)
 - [isaacs on GitHub](https://github.com/isaacs)
 - [@izs@twitter.com](https://twitter.com/@izs)
+- [isaacschlueter on
+  Spotify](https://open.spotify.com/user/isaacschlueter)
 - [@isaacs@fosstodon.org](https://fosstodon.org/@isaacs)
 - [IsaacSchlueter on
   HackerNews](https://news.ycombinator.com/user?id=IsaacSchlueter)

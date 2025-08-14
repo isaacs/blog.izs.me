@@ -229,7 +229,7 @@ header nav ul,
 header nav li,
 header nav a {
   font-size: 16px;
-  text-decoration: none;
+  text-decoration: none!important;
   display: inline-block;
   line-height: 46px;
   height: 46px;
@@ -241,6 +241,7 @@ header nav a:active, header nav a:hover, header nav a:focus {
 }
 header nav .home a:hover, header nav .home a:focus {
   background: none;
+  text-decoration: none;
 }
 header nav a svg {
   vertical-align:middle;
