@@ -35,8 +35,8 @@ I'm getting it tattooed on my shoulder in a few weeks.
 
 I've made the image available as an SVG, in HTML and CSS, as well
 as in PNG formats for the original 2x1 ratio, 19x6, 3x2, square,
-and golden ratio. The font on the ∞ symbol is Old Standard
-Regular.
+and golden ratio. The font on the ∞ symbol is [Old Standard
+Regular](https://fonts.google.com/specimen/Old+Standard+TT).
 
 - [spectrum-pride.svg](https://izs.me/spectrum-pride/spectrum-pride.svg)
 - [spectrum-pride.png](https://izs.me/spectrum-pride/spectrum-pride.png)
