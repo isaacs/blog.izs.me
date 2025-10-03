@@ -5,7 +5,7 @@ slug: torrents
 tags:
   - torrents
   - bittorrent
-  - howto
+  - how to
 title: Torrents
 tumblrid: 305092153
 type: text
