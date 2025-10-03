@@ -25,7 +25,11 @@ tags:
 
 [This](https://izs.me/spectrum-pride/) is an autism spectrum
 pride flag that I designed and am offering to the community for
-anyone else to use in any way they desire.
+anyone to use in any way they desire. If you use it somewhere
+online, credit and/or a link back to this post would be lovely,
+if that makes sense, but is not required. That is, it's released
+under a [CC0
+license](https://creativecommons.org/public-domain/cc0/).
 
 I'm getting it tattooed on my shoulder in a few weeks.
 
