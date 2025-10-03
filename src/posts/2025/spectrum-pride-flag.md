@@ -46,6 +46,7 @@ Regular.
 - [spectrum-pride-square.png](https://izs.me/spectrum-pride/spectrum-pride-square.png)
 - [spectrum-pride.html](https://izs.me/spectrum-pride/spectrum-pride.html)
 - [OldStandard-Regular.otf](https://izs.me/spectrum-pride/OldStandard-Regular.otf)
+- [LICENSE.html](https://izs.me/spectrum-pride/LICENSE.html)
 
 ### Why Yet Another Autism Pride Flag?
 
