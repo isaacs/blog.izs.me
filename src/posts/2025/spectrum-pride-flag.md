@@ -34,14 +34,16 @@ license](https://creativecommons.org/public-domain/cc0/).
 I'm getting it tattooed on my shoulder in a few weeks.
 
 I've made the image available as an SVG, in HTML and CSS, as well
-as in PNG formats for the original 2x1 ratio, 19x6, 3x2, square,
-and golden ratio. The font on the ∞ symbol is [Old Standard
+as in PNG formats for the original 2x1 ratio, 19x6, 3x2, 4x1,
+square, and golden ratio. The font on the ∞ symbol is [Old
+Standard
 Regular](https://fonts.google.com/specimen/Old+Standard+TT).
 
 - [spectrum-pride.svg](https://izs.me/spectrum-pride/spectrum-pride.svg)
 - [spectrum-pride.png](https://izs.me/spectrum-pride/spectrum-pride.png)
 - [spectrum-pride-16x9.png](https://izs.me/spectrum-pride/spectrum-pride-16x9.png)
 - [spectrum-pride-3x2.png](https://izs.me/spectrum-pride/spectrum-pride-3x2.png)
+- [spectrum-pride-4x1.png](https://izs.me/spectrum-pride/spectrum-pride-4x1.png)
 - [spectrum-pride-golden.png](https://izs.me/spectrum-pride/spectrum-pride-golden.png)
 - [spectrum-pride-square.png](https://izs.me/spectrum-pride/spectrum-pride-square.png)
 - [spectrum-pride.html](https://izs.me/spectrum-pride/spectrum-pride.html)
