@@ -404,6 +404,11 @@ seriously.
 
 Yes.
 
+#### Is this a sex cult?
+
+[Depends who's
+asking.](https://bsky.app/profile/isaacs.bsky.social/post/3lxftcylsqd2z)
+
 #### What are the moral tenets of this religion?
 
 These will become apparent to you as you practice. Or they won't.
