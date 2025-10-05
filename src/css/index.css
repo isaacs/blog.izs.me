@@ -21,7 +21,6 @@
   :root {
     --width: 100%;
   }
-  header nav,
   main {
     width: 90% !important;
   }
@@ -29,13 +28,17 @@
     background-size: cover !important;
   }
   header nav {
-    height: auto !important;
     background-size: 50px 50px !important;
     background-position: top left !important;
-    padding-bottom: 15px !important;
+    width: fit-content !important;
+    max-width: 90%;
   }
+  header nav ul {
+    padding-right: 25px!important;
+  }
+
   header nav a {
-    padding: 0 0 0 5px !important;
+    padding: 0 2.5px 0 2.5px !important;
   }
   header nav .home a {
     padding-left: 55px !important;
@@ -236,8 +239,10 @@ header nav a {
   margin: 0;
   padding: 0;
 }
-header nav a:active, header nav a:hover, header nav a:focus {
-  background: #fff;
+header nav ul li:last-child a {
+  padding-right: 22px;
+  margin-right: -22px;
+  border-radius: 0 25px 25px 0;
 }
 header nav .home a:hover, header nav .home a:focus {
   background: none;
@@ -258,7 +263,7 @@ header .home {
   padding: 0;
 }
 header nav a {
-  padding: 0 0.5em;
+  padding: 0 1.5ex;
 }
 header nav .home a {
   padding: 0 0 0 55px;
@@ -270,7 +275,7 @@ header nav a:focus {
 }
 
 header nav {
-  height: 50px;
+  height: fit-content;
   margin: 0 auto;
   border-radius: 25px;
   background: #e0e0e0;
