@@ -31,17 +31,32 @@
     background-size: 50px 50px !important;
     background-position: top left !important;
     width: fit-content !important;
-    max-width: 90%;
+    padding-right: 0!important;
+    flex-wrap: nowrap;
   }
-  header nav ul {
-    padding-right: 25px!important;
+  header nav ul.textlinks {
+    margin: 0 auto;
+    text-align: center;
+    flex-wrap: nowrap;
+    display: flex;
   }
-
   header nav a {
-    padding: 0 2.5px 0 2.5px !important;
+    padding: 0 5px 0 5px !important;
   }
   header nav .home a {
     padding-left: 55px !important;
+  }
+}
+
+@media (max-width: 520px) {
+  header nav {
+    width: min-content !important;
+    justify-content: center !important;
+  }
+  header nav ul {
+    margin: 0 auto;
+    display: block;
+    text-align: center;
   }
 }
 
@@ -238,11 +253,7 @@ header nav a {
   height: 46px;
   margin: 0;
   padding: 0;
-}
-header nav ul li:last-child a {
-  padding-right: 22px;
-  margin-right: -22px;
-  border-radius: 0 25px 25px 0;
+  text-align: center;
 }
 header nav .home a:hover, header nav .home a:focus {
   background: none;
@@ -284,11 +295,16 @@ header nav {
   box-sizing: border-box;
   width: var(--width);
 
-  display: block;
+  display: flex;
   position: relative;
   background: #e0e0e0 url(/headshot-50.jpg) left center;
   background-size: contain;
   background-repeat: no-repeat;
+  flex-direction: row;
+  align-content: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  padding-right: 20px;
 }
 
 header {
@@ -300,7 +316,6 @@ header {
 header nav ul {
   padding: 0;
   list-style: none;
-  display: inline-block;
   margin: 0;
 }
 header nav ul li {
