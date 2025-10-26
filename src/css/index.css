@@ -1,4 +1,3 @@
-/* Colors */
 :root {
   --lightgray: #e0e0e0;
   --gray: #c0c0c0;
@@ -7,13 +6,16 @@
   --blue: #082840;
   --lightblue: #68bbe3;
   --white: #fff;
+
   --mono: Iosevka SS09, Iosevka, Consolas, Menlo, Monaco, "Andale Mono WT",
     "Andale Mono", "Lucida Console", "Lucida Sans Typewriter",
     "DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Liberation Mono",
     "Nimbus Mono L", "Courier New", Courier, monospace;
-  --sans: -apple-system, system-ui, sans-serif;
+  --sans: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, sans-serif;
   --serif: Palatino, Palatino Linotype, Palatino LT STD, Book Antiqua, Georgia,
     serif;
+
   --width: 700px;
 }
 
