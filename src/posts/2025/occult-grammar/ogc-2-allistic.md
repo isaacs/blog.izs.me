@@ -17,6 +17,7 @@ Part of a series on the Occult Grammar of Communication
 
 - [Part 1: What is Occult Grammar?](/p/ogc-1-what-is-occult-grammar)
 - Part 2: Allistic Communication
+- [Part 3: Autistic Communication](/p/ogc-3-autistic)
 
 </div>
 
@@ -217,5 +218,6 @@ real world.
 ## Coming Next
 
 In the next posts in this series, I will discuss the occult
-grammar rules that govern _autistic_ communication, and some of
-the conflicts that arise from the translation challenges.
+[grammar rules that govern _autistic_
+communication](/p/ogc-3-autistic), and some of the conflicts that
+arise from the translation challenges.

@@ -19,6 +19,7 @@ Part of a series on the Occult Grammar of Communication
 
 - Part 1: What is Occult Grammar?
 - [Part 2: Allistic Communication](/p/ogc-2-allistic)
+- [Part 3: Autistic Communication](/p/ogc-3-autistic)
 
 </div>
 
@@ -258,8 +259,9 @@ and collaboration.
 
 In the next posts in this series, I will discuss some of the
 specific rules of the occult grammars of
-[allistic](/p/ogc-2-allistic) and autistic communication, and the
-conflicts that arise from their differences.
+[allistic](/p/ogc-2-allistic) and [autistic](/p/ogc-3-autistic)
+communication, and the conflicts that arise from their
+differences.
 
 ----
 
