@@ -17,6 +17,9 @@ tags:
 
 Part of a series on the Occult Grammar of Communication
 
+- Part 1: What is Occult Grammar?
+- [Part 2: Allistic Communication](/p/ogc-2-allistic)
+
 </div>
 
 All communication, in order to _be_ communication, is governed by
@@ -254,9 +257,9 @@ leveraged powerfully in service of mutual empathy, understanding,
 and collaboration.
 
 In the next posts in this series, I will discuss some of the
-specific rules of the occult grammars of allistic and autistic
-communication, and the conflicts that arise from their
-differences.
+specific rules of the occult grammars of
+[allistic](/p/ogc-2-allistic) and autistic communication, and the
+conflicts that arise from their differences.
 
 ----
 
