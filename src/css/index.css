@@ -467,6 +467,23 @@ a[href].direct-link:focus:visited,
   padding-left: 1em!important;
 }
 
+.series {
+  font-style: italic;
+  font-family: var(--serif);
+  margin: 1em -1em;
+  background: #eee;
+  border-radius: 5px;
+  padding: 0 1em;
+  line-height: 1.4;
+  border-width: 0 0 0 4px;
+  border-style: solid;
+  border-color: var(--lightgray);
+  border-radius: 5px;
+}
+.series p {
+  margin: 0.2em 0 0;
+}
+
 .pullquote {
   font-style: italic;
   font-size: 1.5em !important;
@@ -492,12 +509,15 @@ a[href].direct-link:focus:visited,
   }
 }
 @media (min-width: 950px) {
+  .series,
   .pullquote.right,
   .pullquote.left {
     float: right;
     margin: 0 -4em 0 1em;
     padding: 0 1ex;
     width: 50%;
+  }
+  .pullquote.right {
     text-align: right;
   }
   .pullquote.left {
