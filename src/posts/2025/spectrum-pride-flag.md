@@ -12,7 +12,7 @@ tags:
 <svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" viewBox="0,0,1400,700" style="enable-background:new 0 0 1400 700;" version="1.1">
 <defs/>
 <g id="layer0">
-<path d="M0,0L1400,0L1400,100L0,100L,0L0,0Z" fill="color(display-p3 1 0 0)"/>
+<path d="M0,0L1400,0L1400,100L0,100L0,0Z"             fill="color(display-p3 1 0 0)"/>
 <path d="M0,100L1400,100L1400,200L0,200L0,100L0,100Z" fill="color(rec2020 1 0.5 0)"/>
 <path d="M0,200L1400,200L1400,300L0,300L0,200L0,200Z" fill="color(rec2020 1 1 0)"/>
 <path d="M0,300L1400,300L1400,400L0,400L0,300L0,300Z" fill="color(rec2020 0 0.5 0)"/>
