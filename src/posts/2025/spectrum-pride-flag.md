@@ -15,7 +15,7 @@ tags:
 <path d="M0,0L1400,0L1400,100L0,100L,0L0,0Z" fill="color(display-p3 1 0 0)"/>
 <path d="M0,100L1400,100L1400,200L0,200L0,100L0,100Z" fill="color(rec2020 1 0.5 0)"/>
 <path d="M0,200L1400,200L1400,300L0,300L0,200L0,200Z" fill="color(rec2020 1 1 0)"/>
-<path d="M0,300L1400,300L1400,400L0,400L0,300L0,300Z" fill="color(rec2020 1 0.5 0)"/>
+<path d="M0,300L1400,300L1400,400L0,400L0,300L0,300Z" fill="color(rec2020 0 0.5 0)"/>
 <path d="M0,400L1400,400L1400,500L0,500L0,400L0,400Z" fill="color(rec2020 0 1 1)"/>
 <path d="M0,500L1400,500L1400,600L0,600L0,500L0,500Z" fill="color(rec2020 0 0 1)"/>
 <path d="M0,600L1400,600L1400,700L0,700L0,600L0,600Z" fill="color(rec2020 0.5 0 1)"/>
