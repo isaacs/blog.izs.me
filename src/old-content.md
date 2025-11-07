@@ -37,10 +37,12 @@ change.
 I am not proud of everything written on this website. In fact,
 some of it, I find extremely embarrassing and would never write
 today. But I keep it around, because I believe that if you truly
-have [no ragrets](/no-ragrets.jpg), if you agree with everything
-you've ever said or done and can find no fault in your own past,
-then you have not changed, and that is certainly nothing to be
-proud of.
+have no regrets, if you agree with everything you've ever said or
+done and can find no fault in your own past, then you have not
+changed, and that is certainly nothing to be proud of.
 
 May we all grow so much in character that we come to regret the
 things we say today.
+
+<img src="/no-ragrets.jpg" alt="Scotty P. from We're The Millers,
+showing a tattoo that reads 'NO RAGRETS'">
