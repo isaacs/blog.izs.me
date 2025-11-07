@@ -21,11 +21,13 @@
     <script
       src="https://js-de.sentry-cdn.com/987019cf4258b55b4c8e704b3951625f.min.js"
       crossorigin="anonymous"
+      data-lazy="no"
     ></script>
     <script>
       Sentry.init({
   dsn: "https://987019cf4258b55b4c8e704b3951625f@o4507154197774336.ingest.de.sentry.io/4510320409509969",
-  integrations: [Sentry.browserTracingIntegration()],
+        release: "2.0.0",
+  //integrations: [Sentry.browserTracingIntegration()],
 
   // Set tracesSampleRate to 1.0 to capture 100%
   // of transactions for performance monitoring.
