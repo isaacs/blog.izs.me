@@ -1,7 +1,8 @@
 <table class="postlist"><tbody>
 {% for post in postslist | reverse %}
   <tr class="postlist-item{% if post.url == url %} postlist-item-active{% endif %}">
-    <td><a href="{{ post.url | url }}" class="postlist-link"><time class="postlist-date" datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate }}</time></a></td>
+    <td><a href="{{ post.url | url }}" class="postlist-link"><time
+    class="postlist-date" datetime="{{ post.date | htmlDateString }}">{%- if post.data.type != "static" %}{{ post.date | readableDate }}{%- else %}{%- endif %}</time></a></td>
     <td><a href="{{ post.url | url }}" class="postlist-link">{%
       if post.data.title
         %}{{ post.data.title }}{%

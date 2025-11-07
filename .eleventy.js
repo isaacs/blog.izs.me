@@ -5,6 +5,7 @@ const pluginSyntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
 const pluginNavigation = require("@11ty/eleventy-navigation");
 const markdownIt = require("markdown-it");
 const markdownItAnchor = require("markdown-it-anchor");
+const { inspect } = require("node:util")
 
 module.exports = function (eleventyConfig) {
   eleventyConfig.setQuietMode(true)
@@ -35,6 +36,20 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addFilter("htmlDateString", (dateObj) => {
     return DateTime.fromJSDate(dateObj, { zone: "utc" }).toFormat("yyyy-LL-dd");
   });
+
+  const old = new Date(new Date() - 1000 * 60 * 60 * 24 * 365 * 10)
+  eleventyConfig.addFilter("oldPost", (dateObj) => {
+    if (dateObj > old) return ""
+    //const rel = DateTime.fromJSDate(dateObj, { zone: "utc" })
+    //  .toRelative({ base: Date.now() });
+    return `
+<blockquote class="warning">
+<p>Note: this content is very old (${ dateObj.toISOString().substring(0, 10)}).</p>
+<p>Please read <a href="/old-content">this disclaimer</a>.</p>
+</blockquote>`
+  });
+
+  eleventyConfig.addFilter("debug", x => inspect(x))
 
   // Get the first `n` elements of a collection.
   eleventyConfig.addFilter("head", (array, n) => {

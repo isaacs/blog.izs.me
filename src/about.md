@@ -2,13 +2,9 @@
 layout: layouts/post.njk
 title: About
 permalink: /about/
-templateClass: tmpl-post
-date: 2021-09-01
+type: static
 tags:
   - colophon
-eleventyNavigation:
-  key: About
-  order: 3
 ---
 
 This is the blog of [Isaac Z. Schlueter](https://izs.me).

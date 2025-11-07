@@ -6,6 +6,7 @@
   --blue: #082840;
   --lightblue: #68bbe3;
   --white: #fff;
+  --red: #f00;
 
   --mono: Iosevka SS09, Iosevka, Consolas, Menlo, Monaco, "Andale Mono WT",
     "Andale Mono", "Lucida Console", "Lucida Sans Typewriter",
@@ -430,6 +431,20 @@ blockquote {
   border-color: var(--lightgray);
   border-radius: 5px;
 }
+blockquote.note, blockquote.warning {
+  font-style: italic;
+  background: var(--lightgray);
+  overflow: auto;
+  padding-bottom: 1em;
+}
+blockquote.note {
+  border-color: var(--lightblue);
+}
+blockquote.warning {
+  border-color: var(--red);
+}
+
+
 .tiktok-embed {
   margin: 0;
   padding: 0;

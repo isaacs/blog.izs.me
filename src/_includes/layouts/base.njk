@@ -18,6 +18,7 @@
     {%- if page and page.date and isPost %}
     <meta name="DC.date.issued" content="{{ page.date | htmlDateString }}">
     {% endif -%}
+
     <script
       src="https://js-de.sentry-cdn.com/987019cf4258b55b4c8e704b3951625f.min.js"
       crossorigin="anonymous"
@@ -27,19 +28,16 @@
       Sentry.init({
   dsn: "https://987019cf4258b55b4c8e704b3951625f@o4507154197774336.ingest.de.sentry.io/4510320409509969",
         release: "2.0.0",
-  //integrations: [Sentry.browserTracingIntegration()],
-
-  // Set tracesSampleRate to 1.0 to capture 100%
-  // of transactions for performance monitoring.
-  // We recommend adjusting this value in production
   tracesSampleRate: 1.0,
-  // Set `tracePropagationTargets` to control for which URLs distributed tracing should be enabled
-  tracePropagationTargets: ["localhost", /^https:\/\/blog\.izs\.me\//],
+  tracePropagationTargets: [
+    new RegExp('^https://blog\\.izs\\.me/'),
+  ],
   // Setting this option to true will send default PII data to Sentry.
   // For example, automatic IP address collection on events
   sendDefaultPii: true,
 })
     </script>
+
   </head>
   <body>
     <header>
