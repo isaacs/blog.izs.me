@@ -22,4 +22,4 @@ type: text
 <dd class="even">i really love Oakland</dd>
 <dt class="odd person1">Mikeal:</dt>
 <dd class="odd">the food is amazing</dd>
-</dl><p>Today, indeed, <a href="http://oaklandwiki.org/JavaScript">it is</a>.</p>
+</dl><p>Today, indeed, <a href="https://localwiki.org/oakland/javascript">it is</a>.</p>
