@@ -50,6 +50,6 @@
 
 # recent posts, cache 1 day
 [[headers]]
-  for = "/2022"
+  for = "/202*"
   [headers.values]
     Cache-Control = "public, max-age=86400"

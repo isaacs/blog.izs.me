@@ -22,15 +22,17 @@
   },
   "homepage": "https://blog.izs.me/",
   "dependencies": {
-    "@11ty/eleventy": "^0.12.1",
-    "@11ty/eleventy-navigation": "^0.3.2",
-    "@11ty/eleventy-plugin-rss": "^1.1.1",
-    "@11ty/eleventy-plugin-syntaxhighlight": "^3.1.2",
-    "cheerio": "^1.0.0-rc.10",
+    "@11ty/eleventy": "^3.1.2",
+    "@11ty/eleventy-navigation": "^1.0.4",
+    "@11ty/eleventy-plugin-rss": "^2.0.4",
+    "@11ty/eleventy-plugin-syntaxhighlight": "^5.0.2",
+    "cheerio": "^1.1.2",
+    "eleventy": "^1.0.7",
     "lodash": "^4.17.21",
-    "luxon": "^1.26.0",
-    "markdown-it": "^12.1.0",
-    "markdown-it-anchor": "^8.1.2",
-    "prettier": "^2.7.1"
+    "luxon": "^3.7.2",
+    "markdown-it": "^14.1.0",
+    "markdown-it-anchor": "^9.2.0",
+    "prettier": "^3.6.2",
+    "sharp": "^0.34.5"
   }
 }
