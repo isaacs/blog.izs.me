@@ -474,7 +474,7 @@ a[href].direct-link:focus:visited,
 }
 
 .tag-poem pre code, .tag-poem pre, pre.poem {
-  font-family: serif;
+  font-family: var(--serif);
   font-size: 1em!important;
 }
 .tag-poem pre, pre.poem {
