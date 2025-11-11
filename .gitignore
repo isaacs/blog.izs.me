@@ -2,3 +2,6 @@ _site/
 node_modules/
 src/drafts/*
 !src/drafts/.gitignore
+
+# Local Netlify folder
+.netlify
