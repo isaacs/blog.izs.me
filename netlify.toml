@@ -10,6 +10,12 @@
     X-XSS-Protection = "1; mode=block"
     Cache-Control = "public, max-age=604800"
 
+# root, only cache for 1 hour
+[[headers]]
+  for = "/"
+  [headers.values]
+    Cache-Control = "public, max-age=3600"
+
 # cache feeds 1 month
 [[headers]]
   for = "/feed/*"
