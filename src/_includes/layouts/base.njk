@@ -19,32 +19,42 @@
     <meta name="DC.date.issued" content="{{ page.date | htmlDateString }}">
     {% endif -%}
 
+{%- if build.env == "dev" %}
 <script
-  src="https://js.sentry-cdn.com/987019cf4258b55b4c8e704b3951625f.min.js"
+  src="https://browser.sentry-cdn.com/10.25.0/bundle.tracing.replay.feedback.js"
   crossorigin="anonymous"
 ></script>
+{%- else %}
+<script
+  src="https://browser.sentry-cdn.com/10.25.0/bundle.tracing.replay.feedback.min.js"
+  integrity="sha384-j5ZoDKLMjibl3sq5j3bv5voBtSa01ag/xWbvql05M6E0kWfyqXFkwjiEwUVR9w8L"
+  crossorigin="anonymous"
+></script>
+{%- endif %}
+
 <script>
-window.sentryOnLoad = function () {
-  Sentry.init({
-    dsn: "https://987019cf4258b55b4c8e704b3951625f@o4507154197774336.ingest.de.sentry.io/4510320409509969",
-    sendDefaultPii: true,
-    release: "blog.izs.me@2.0.0",
-    integrations: [
-      Sentry.browserTracingIntegration(),
-      Sentry.replayIntegration(),
-      Sentry.feedbackIntegration({
-        colorScheme: "system",
-      }),
-    ],
-    enableLogs: true,
-    tracesSampleRate: 1.0,
-    tracePropagationTargets: [
-      new RegExp('^https://blog\\.izs\\.me/'),
-    ],
-    replaysSessionSampleRate: 1.0,
-    replaysOnErrorSampleRate: 1.0,
-  })
-}
+Sentry.init({
+  {%- if build.env == "dev" %}
+  debug: true,
+  {%- endif %}
+  dsn: "https://987019cf4258b55b4c8e704b3951625f@o4507154197774336.ingest.de.sentry.io/4510320409509969",
+  sendDefaultPii: true,
+  release: "blog.izs.me@2.0.0",
+  integrations: [
+    Sentry.browserTracingIntegration(),
+    Sentry.replayIntegration(),
+    Sentry.feedbackIntegration({
+      colorScheme: "system",
+    }),
+  ],
+  enableLogs: true,
+  tracesSampleRate: 1.0,
+  tracePropagationTargets: [
+    new RegExp('^https://blog\\.izs\\.me/'),
+  ],
+  replaysSessionSampleRate: 1.0,
+  replaysOnErrorSampleRate: 1.0,
+})
 </script>
 
   </head>
