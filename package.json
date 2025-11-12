@@ -10,7 +10,8 @@
     "watch": "eleventy --watch",
     "serve": "eleventy --serve",
     "start": "eleventy --serve",
-    "debug": "DEBUG=* eleventy"
+    "debug": "DEBUG=* eleventy",
+    "deploy": "bash deploy.sh"
   },
   "repository": {
     "type": "git",
@@ -34,5 +35,8 @@
     "markdown-it-anchor": "^9.2.0",
     "prettier": "^3.6.2",
     "sharp": "^0.34.5"
+  },
+  "devDependencies": {
+    "netlify-cli": "^23.10.0"
   }
 }
