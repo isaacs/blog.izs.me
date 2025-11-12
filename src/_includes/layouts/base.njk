@@ -45,6 +45,9 @@ Sentry.init({
     Sentry.replayIntegration(),
     Sentry.feedbackIntegration({
       colorScheme: "system",
+      isNameRequired: true,
+      isEmailRequired: true,
+    }),
     }),
   ],
   enableLogs: true,
