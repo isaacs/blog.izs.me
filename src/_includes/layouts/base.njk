@@ -42,6 +42,7 @@ Sentry.init({
   release: "{{ build.release }}",
   integrations: [
     Sentry.browserTracingIntegration(),
+    Sentry.browserProfilingIntegration()
     Sentry.replayIntegration(),
     Sentry.feedbackIntegration({
       colorScheme: "system",
@@ -57,6 +58,7 @@ Sentry.init({
   ],
   replaysSessionSampleRate: 1.0,
   replaysOnErrorSampleRate: 1.0,
+  profilesSampleRate: 1.0,
 })
 </script>
 
