@@ -208,24 +208,19 @@ const oembed = (arg, api, url) => {
     try {
       done(readFileSync(cacheFile, 'utf8'))
     } catch (e) {}
-    https.get(oe, res => {
-      if (res.statusCode !== 200)
+    fetch(oe).then(async res => {
+      if (res.status !== 200)
         return done('')
 
-      const d = []
-      res.setEncoding('utf8')
-      res.on('data', c => d.push(c))
-      res.on('end', () => {
-        try {
-          const e = JSON.parse(d.join(''))
-          writeFileSync(cacheFile, e.html)
-          done(e.html)
-        } catch (er) {
-          console.error('failed doing oembed', arg, er)
-          /* istanbul ignore next */
-          done('')
-        }
-      })
+      try {
+        const e = await res.json()
+        writeFileSync(cacheFile, e.html)
+        done(e.html)
+      } catch (er) {
+        console.error('failed doing oembed', arg, er)
+        /* istanbul ignore next */
+        done('')
+      }
     })
   }).then(data => media(arg, data))))
     .then(content => content.join('\n'))
