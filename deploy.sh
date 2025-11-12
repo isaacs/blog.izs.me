@@ -13,8 +13,6 @@ if ! [ "$(git branch | grep \*)" = "* main" ]; then
   exit 0
 fi
 
-eleventy
-
 netlify deploy --prod
 
 git push origin main
