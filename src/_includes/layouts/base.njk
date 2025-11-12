@@ -39,7 +39,7 @@ Sentry.init({
   {%- endif %}
   dsn: "https://987019cf4258b55b4c8e704b3951625f@o4507154197774336.ingest.de.sentry.io/4510320409509969",
   sendDefaultPii: true,
-  release: "blog.izs.me@2.0.0",
+  release: "{{ build.release }}",
   integrations: [
     Sentry.browserTracingIntegration(),
     Sentry.replayIntegration(),
