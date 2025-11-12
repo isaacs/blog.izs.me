@@ -7,6 +7,7 @@
 [[headers]]
   for = "/*"
   [headers.values]
+    Document-Policy = "js-profiling"
     X-Frame-Options = "DENY"
     X-XSS-Protection = "1; mode=block"
     Cache-Control = "public, max-age=604800"
