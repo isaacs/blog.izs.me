@@ -28,7 +28,7 @@ something you'd like to avoid.
 ## CLT and Modal Thinking
 
 [Construal level
-theory](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3152826/pdf/nihms314649.pdf)
+theory](/posts/2024/near-mode-far-mode-autism/construal-level-theory-nihms314649.pdf)
 is a model of psychological distance, the mental leaps that we
 make in order to reason about and experience that which does not
 affect the self directly.
