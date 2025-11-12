@@ -1,6 +1,7 @@
 [build]
   publish = "_site"
   command = "npm install && eleventy"
+  ignore = "bash ./ignore-main.sh"
 
 # everything by default, cache 1 week
 [[headers]]
