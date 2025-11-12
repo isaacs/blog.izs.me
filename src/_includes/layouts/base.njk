@@ -19,24 +19,33 @@
     <meta name="DC.date.issued" content="{{ page.date | htmlDateString }}">
     {% endif -%}
 
-    <script
-      src="https://js-de.sentry-cdn.com/987019cf4258b55b4c8e704b3951625f.min.js"
-      crossorigin="anonymous"
-      data-lazy="no"
-    ></script>
-    <script>
-      Sentry.init({
-        dsn: "https://987019cf4258b55b4c8e704b3951625f@o4507154197774336.ingest.de.sentry.io/4510320409509969",
-        release: "2.0.0",
-        tracesSampleRate: 1.0,
-        tracePropagationTargets: [
-          new RegExp('^https://blog\\.izs\\.me/'),
-        ],
-        // Setting this option to true will send default PII data to Sentry.
-        // For example, automatic IP address collection on events
-        sendDefaultPii: true,
-      })
-    </script>
+<script
+  src="https://js.sentry-cdn.com/987019cf4258b55b4c8e704b3951625f.min.js"
+  crossorigin="anonymous"
+></script>
+<script>
+window.sentryOnLoad = function () {
+  Sentry.init({
+    dsn: "https://987019cf4258b55b4c8e704b3951625f@o4507154197774336.ingest.de.sentry.io/4510320409509969",
+    sendDefaultPii: true,
+    release: "blog.izs.me@2.0.0",
+    integrations: [
+      Sentry.browserTracingIntegration(),
+      Sentry.replayIntegration(),
+      Sentry.feedbackIntegration({
+        colorScheme: "system",
+      }),
+    ],
+    enableLogs: true,
+    tracesSampleRate: 1.0,
+    tracePropagationTargets: [
+      new RegExp('^https://blog\\.izs\\.me/'),
+    ],
+    replaysSessionSampleRate: 1.0,
+    replaysOnErrorSampleRate: 1.0,
+  })
+}
+</script>
 
   </head>
   <body>
