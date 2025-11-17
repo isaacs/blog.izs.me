@@ -1,5 +1,5 @@
 ---
-date: 2025-11-18T20:53:03.812Z
+date: 2025-11-17T16:50:44.612Z
 slug: ogc-3-autistic
 title: Autistic Communication
 tags:
