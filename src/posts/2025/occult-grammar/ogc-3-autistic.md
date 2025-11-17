@@ -18,6 +18,7 @@ Part of a series on the Occult Grammar of Communication
 - [Part 1: What is Occult Grammar?](/p/ogc-1-what-is-occult-grammar)
 - [Part 2: Allistic Communication](/p/ogc-2-allistic)
 - Part 3: Autistic Communication
+- [Part 4: Conflict Between Neurotypes](/p/ogc-4-conflict)
 
 </div>
 
@@ -190,8 +191,8 @@ another.
 
 ## Coming Next
 
-In the final part of this series, I will discuss how the [Double
-Empathy
+In the [final part of this series](/p/ogc-4-conflict), I will
+discuss how the [Double Empathy
 Problem](https://www.autism.org.uk/advice-and-guidance/professional-practice/double-empathy)
 arises from these differences in culture, and ways that these
 occult rules of message creation and interpretation can be
