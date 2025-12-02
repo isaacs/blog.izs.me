@@ -42,7 +42,7 @@ Sentry.init({
   release: "{{ build.release }}",
   integrations: [
     Sentry.browserTracingIntegration(),
-    Sentry.browserProfilingIntegration()
+    Sentry.browserProfilingIntegration(),
     Sentry.replayIntegration(),
     Sentry.feedbackIntegration({
       colorScheme: "system",
