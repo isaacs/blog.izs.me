@@ -14,7 +14,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPlugin(pluginRss);
   eleventyConfig.addPlugin(pluginSyntaxHighlight);
   eleventyConfig.addPassthroughCopy(
-    "src/**/*.{jpg,png,gif,mp3,mp4,pdf,css,ico}"
+    "src/**/*.{jpg,png,gif,mp3,mp4,pdf,css,ico,woff2}"
   );
 
   // Alias `layout: post` to `layout: layouts/post.njk`
