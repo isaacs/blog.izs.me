@@ -409,7 +409,12 @@ Yes.
 [Depends who's
 asking.](https://bsky.app/profile/isaacs.bsky.social/post/3lxftcylsqd2z)
 
-#### What are the moral tenets of this religion?
+#### What are the moral [tenants](https://en.wikipedia.org/wiki/David_Tennant) of this religion?
+
+I think you mean
+[tenets](https://www.merriam-webster.com/grammar/tenant-vs-tenet-difference-usage).
+
+#### Ok, what are the moral *tenets* of this religion?
 
 These will become apparent to you as you practice. Or they won't.
 I don't know, I'm not the boss of you.
