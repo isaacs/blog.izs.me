@@ -19,20 +19,13 @@
     <meta name="DC.date.issued" content="{{ page.date | htmlDateString }}">
     {% endif -%}
 
+<script type="module">
 {%- if build.env == "dev" %}
-<script
-  src="https://browser.sentry-cdn.com/10.25.0/bundle.tracing.replay.feedback.js"
-  crossorigin="anonymous"
-></script>
+import * as Sentry from "https://unpkg.com/@sentry/browser@10.30.0/build/npm/esm/dev/index.js?module"
 {%- else %}
-<script
-  src="https://browser.sentry-cdn.com/10.25.0/bundle.tracing.replay.feedback.min.js"
-  integrity="sha384-j5ZoDKLMjibl3sq5j3bv5voBtSa01ag/xWbvql05M6E0kWfyqXFkwjiEwUVR9w8L"
-  crossorigin="anonymous"
-></script>
+import * as Sentry from "https://unpkg.com/@sentry/browser@10.30.0/build/npm/esm/prod/index.js?module"
 {%- endif %}
 
-<script>
 Sentry.init({
   {%- if build.env == "dev" %}
   debug: true,
