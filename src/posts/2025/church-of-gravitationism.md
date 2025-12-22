@@ -400,6 +400,11 @@ No. I mean, yes, but only insofar as everything is.
 Take it seriously, but do not take the taking seriously
 seriously.
 
+#### Is this a fictional world-building fantasy type thing?
+
+No, this is a real religion practiced by real people in the real
+world. I am one such person.
+
 #### Is this atheism, polytheism, nihilism, or...?
 
 Yes.
