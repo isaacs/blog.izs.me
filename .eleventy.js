@@ -103,10 +103,8 @@ module.exports = function (eleventyConfig) {
     const p = Date.parse(date);
     if (!p) return `/${slug}`;
     const d = new Date(p);
-    const pad = (n, s) => ("0".repeat(s) + n.toString(10)).slice(-1 * s);
-    const y = pad(d.getUTCFullYear(), 4);
-    const m = pad(d.getUTCMonth() + 1, 2);
-    return `/${y}/${m}/${slug}`;
+    const m = String(d.getUTCMonth() + 1).padStart(2, '0');
+    return `/${d.getUTCFullYear()}/${m}/${slug}`;
   });
 
   const { kebabCase } = require("lodash");
