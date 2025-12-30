@@ -19,41 +19,6 @@
     <meta name="DC.date.issued" content="{{ page.date | htmlDateString }}">
     {% endif -%}
 
-<script type="module">
-{%- if build.env == "dev" %}
-import * as Sentry from "https://unpkg.com/@sentry/browser@10.30.0/build/npm/esm/dev/index.js?module"
-{%- else %}
-import * as Sentry from "https://unpkg.com/@sentry/browser@10.30.0/build/npm/esm/prod/index.js?module"
-{%- endif %}
-
-Sentry.init({
-  {%- if build.env == "dev" %}
-  debug: true,
-  {%- endif %}
-  dsn: "https://987019cf4258b55b4c8e704b3951625f@o4507154197774336.ingest.de.sentry.io/4510320409509969",
-  sendDefaultPii: true,
-  release: "{{ build.release }}",
-  integrations: [
-    Sentry.browserTracingIntegration(),
-    Sentry.browserProfilingIntegration(),
-    Sentry.replayIntegration(),
-    Sentry.feedbackIntegration({
-      colorScheme: "system",
-      isNameRequired: true,
-      isEmailRequired: true,
-    }),
-  ],
-  enableLogs: true,
-  tracesSampleRate: 1.0,
-  tracePropagationTargets: [
-    new RegExp('^https://blog\\.izs\\.me/'),
-  ],
-  replaysSessionSampleRate: 1.0,
-  replaysOnErrorSampleRate: 1.0,
-  profilesSampleRate: 1.0,
-})
-</script>
-
   </head>
   <body>
     <header>
