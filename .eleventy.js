@@ -2,7 +2,6 @@ const { DateTime } = require("luxon");
 const fs = require("fs");
 const pluginRss = require("@11ty/eleventy-plugin-rss");
 const pluginSyntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
-const pluginNavigation = require("@11ty/eleventy-navigation");
 const markdownIt = require("markdown-it");
 const markdownItAnchor = require("markdown-it-anchor");
 const { inspect } = require("node:util")
@@ -21,7 +20,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addLayoutAlias("post", "layouts/post.njk");
 
   eleventyConfig.addFilter("escapeHashes", (s) => {
-    return s.split("#").join(escape("#"));
+    return s.split("#").join("%23");
   });
 
   eleventyConfig.addFilter("readableDate", (dateObj) => {
@@ -93,7 +92,7 @@ module.exports = function (eleventyConfig) {
     require("@isaacs/njk-tumble")
   );
   eleventyConfig.addNunjucksFilter("draftPermalink", (slug, page) => {
-    const { date, fileSlug } = page;
+    const { fileSlug } = page;
     if (!slug) slug = fileSlug;
     return `draft/${slug}`;
   });
@@ -148,9 +147,10 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.setBrowserSyncConfig({
     callbacks: {
       ready: function (err, browserSync) {
+        if (err) throw err
         const content_404 = fs.readFileSync("_site/404.html");
 
-        browserSync.addMiddleware("*", (req, res) => {
+        browserSync.addMiddleware("*", (_req, res) => {
           // Provides the 404 content without redirect.
           res.writeHead(404, { "Content-Type": "text/html; charset=UTF-8" });
           res.write(content_404);
