@@ -37,10 +37,10 @@ speakers and listeners use to formulate and interpret speech
 acts, body language, actions, and all other "moves" in the
 [language
 game](https://en.wikipedia.org/wiki/Language_game_philosophy), in
-ways that are both _overt_ and _occult_ to those participating in
-the conversation. Using this framework, I will discuss various
-ways that the divergence between grammars can create
-conversational obstacles between speakers of allistic and
+ways that may be to varying degrees _overt_ or _occult_ to those
+participating in the communication. Using this framework, I will
+discuss various ways that the divergence between grammars can
+create conversational obstacles between speakers of allistic and
 autistic neurotypes, and approaches for overcoming said
 obstacles.
 
