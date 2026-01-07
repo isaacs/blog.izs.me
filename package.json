@@ -11,7 +11,8 @@
     "serve": "eleventy --serve",
     "start": "eleventy --serve",
     "debug": "DEBUG=* eleventy",
-    "deploy": "bash deploy.sh"
+    "deploy": "bash deploy.sh",
+    "postversion": "npm run deploy"
   },
   "repository": {
     "type": "git",
