@@ -1,6 +1,6 @@
 {
   "name": "@isaacs/blog.izs.me",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Writing and Stuff from Isaac Z. Schlueter",
   "workspaces": [
     "packages/*"
