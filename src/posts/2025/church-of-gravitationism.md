@@ -100,13 +100,13 @@ recognition of the eight seasons, each marked by a holy day and a
 moment of orbital significance:
 
 1. Winter (and [Xmas](/2009/08/holidays/))
-2. Imbolc
+2. <ruby>Imbolc <rt><b>'ɪm</b>bɑlk</rt></ruby>
 3. Spring
 4. Beltane (and [4/20](/2009/08/holidays/))
 5. Summer (and [Birthday](/2009/08/holidays/))
-6. Lughnasadh
+6. <ruby>Lughnasadh <rt><b>'luː</b>nəsə</rt></ruby>
 7. Autumn
-8. Samhain (and [Thanksgiving](/2009/08/holidays/))
+8. <ruby>Samhain <rt><b>'sa</b>ʊwən</rt></ruby> (and [Thanksgiving](/2009/08/holidays/))
 
 Each solstice, equinox, and cross-quarter day involves a
 different set of practices and meditations to bring our awareness

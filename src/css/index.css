@@ -178,10 +178,14 @@ table th {
 }
 
 pre,
-code {
+code, ruby rt {
   font-family: var(--mono);
   font-size: 16px;
   line-height: 1.5;
+}
+ruby rt {
+  display: inline;
+  position: static;
 }
 h1 code, h2 code, h3 code, h4 code, h5 code, h6 code {
   font-size: inherit;
@@ -205,6 +209,7 @@ pre {
   margin: 0.5em 0;
   background-color: #f6f6f6;
 }
+ruby > rt,
 p > code,
 li > code {
   padding: 1px 2px;
