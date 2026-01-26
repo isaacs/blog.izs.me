@@ -106,7 +106,8 @@ moment of orbital significance:
 5. Summer (and [Birthday](/2009/08/holidays/))
 6. <ruby>Lughnasadh <rt><b>'luː</b>nəsə</rt></ruby>
 7. Autumn
-8. <ruby>Samhain <rt><b>'sa</b>ʊwən</rt></ruby> (and [Thanksgiving](/2009/08/holidays/))
+8. <ruby>Samhain <rt><b>'sa</b>ʊwən</rt></ruby> (and
+   [Thanksgiving](/2009/08/holidays/))
 
 Each solstice, equinox, and cross-quarter day involves a
 different set of practices and meditations to bring our awareness
