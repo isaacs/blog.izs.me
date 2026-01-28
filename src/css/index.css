@@ -448,6 +448,9 @@ blockquote.warning {
   border-color: var(--red);
 }
 
+small a:target {
+  outline: 1px solid #f0f;
+}
 
 .tiktok-embed {
   margin: 0;

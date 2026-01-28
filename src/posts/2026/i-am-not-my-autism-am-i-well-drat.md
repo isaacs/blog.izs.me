@@ -154,7 +154,7 @@ about how to view the "weird" mathematical objects of modern
 physics, which accurately and reliably predict observations, and
 which we can thus very confidently _describe_ to a high degree of
 accuracy, but which cannot be (must not be!) "real" in the sense
-that "my dog" or "this cup of coffee" is "real".
+that "my dog<sup id="i-am-fn-1-back">[1](#i-am-fn-1)</sup>" or "this cup of coffee" is "real".
 
 But what does it mean for _those_ things to be "real"? Isn't
 "this cup of coffee" itself just a conceptual model that reliably
@@ -211,3 +211,12 @@ forward.
 Anyway, that's probably already way too much for reddit. Have a
 nice day, enjoy your meat tube (that can get a little dirty, it's
 ok).
+
+---
+
+<small>
+
+<a name="i-am-fn-1" id="i-am-fn-1">[1]</a>: Plot twist, I don't
+have a dog, so it's _not_ real. [back](#i-am-fn-1-back)
+
+</small>
