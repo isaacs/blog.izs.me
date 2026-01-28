@@ -5,6 +5,7 @@ slug: i-am-not-my-autism-am-i-well-drat
 tags:
   - philosophy
   - the human condition
+  - my religion
 ---
 
 From
