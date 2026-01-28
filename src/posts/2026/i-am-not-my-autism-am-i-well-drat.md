@@ -73,13 +73,13 @@ Just getting the shit talk out of the way early, this is a common
 misconception. Poop is mostly water (about 75% by volume) and the
 majority of the dry weight is a mix of living and dead bacteria,
 only a tiny amount of undigested food. The food you eat is almost
-entirely turned into either energy, turned into more you, and
-used to feed the bacteria living snuggled up in the lower part of
-the wet center of the meat torus. Those bacteria smell real bad,
-and mix with the undigestible bits of the banana (mostly fiber),
-to make the foul smelling paste we call poop. It's actually still
-got quite a lot of calories in it, and the bacteria in it keeps
-on feasting after it leaves you. The main reason we think it's
+entirely turned into energy, turned into more you, and used to
+feed the bacteria living snuggled up in the lower part of the wet
+center of the meat torus. Those bacteria smell real bad, and mix
+with the undigestible bits of the banana (mostly fiber), to make
+the foul smelling paste we call poop. It's actually still got
+quite a lot of calories in it, and the bacteria in it keeps on
+feasting after it leaves you. The main reason we think it's
 stinky is because it's real bad for us to get it in other parts
 of our meat machines, so evolution tuned us to try to avoid and
 dispose of it. (E. coli and Stroptococcus bacteria anywhere else,
