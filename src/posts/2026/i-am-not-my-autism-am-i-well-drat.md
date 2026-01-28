@@ -9,7 +9,7 @@ tags:
 ---
 
 From
-[r/evilautism](https://www.reddit.com/r/AutisticAdults/comments/1qp76u7/i_am_not_my_autism_am_i_well_drat/),
+[r/AutisticAdults](https://www.reddit.com/r/AutisticAdults/comments/1qp76u7/i_am_not_my_autism_am_i_well_drat/),
 my reply got too long and reddit's server kept not wanting to let
 me post it, so I'm writing it here.
 
@@ -163,8 +163,9 @@ and accurately predicts observations I end up experiencing, which
 are presumably in some way causally triggered by various
 impingements upon my senses by....... whatever the fuck is
 actually "real"? But if nothing is "really _really_ real!" like
-Arthur Fine's concept of "foot-stamping REAL", then how can we
-say _anything_ about _anything_??
+[Arthur Fine's concept of "foot-stamping
+REAL"](https://mechanism.ucsd.edu/bill/teaching/philsci/fine.realism.pdf),
+then how can we say _anything_ about _anything_??
 
 So, I always come down on the side of more or less naive realism
 (ie, there is a real world, we're in it, and we can describe it
