@@ -205,9 +205,9 @@ If we went into the computer and changed the program so that it's
 no longer accurately described/predicted by the conceptual
 construct of "autism", then is it a different program? Sure. But
 this is a self-modifying program that changes from moment to
-moment anyway. That'd be a pretty big break discontinuity, way
-more than sleeping and waking up, so maybe it'd be accurate to
-say it's a "different program (person) entirely" from that point
+moment anyway. That'd be a pretty big discontinuity, way more
+than sleeping and waking up, so maybe it'd be accurate to say
+it's a "different program (person) entirely" from that point
 forward.
 
 Anyway, that's probably already way too much for reddit. Have a
