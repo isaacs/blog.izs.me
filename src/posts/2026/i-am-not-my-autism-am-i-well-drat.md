@@ -145,7 +145,7 @@ about the "hard" things. What _is_ an electron, really? Is it a
 real "thing"? Is it just a pattern of concentrated energy that
 exhibits a sort of probabilistic location, mass, and charge in a
 way that's mathematically convenient to model as a "thing"? What
-even if "thingness", and what would it mean for an electron to be
+even is "thingness", and what would it mean for an electron to be
 or not be that, or have or lack that property of "thingness"?
 
 There's an ongoing (for the last 50 years or so, at least) open
