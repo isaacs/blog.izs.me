@@ -102,7 +102,7 @@ work, not the destination.</p>
 <h2>Takeaways</h2>
 
 <p>The results were very encouraging.  A lot of people mentioned that
-they&rsquo;d alwasy felt like Node Core is this really intimidating thing,
+they&rsquo;d always felt like Node Core is this really intimidating thing,
 and never even bothered to look under the hood to see how it was all
 wired together.  They were genuinely surprised to find out that Node&rsquo;s
 internal modules are very much like a plain old Node program, with

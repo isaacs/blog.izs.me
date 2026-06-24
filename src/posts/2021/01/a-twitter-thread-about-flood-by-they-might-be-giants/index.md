@@ -31,8 +31,8 @@ Starting with the title and intro: "Why is the world in love again? Why are we m
 As if to say, presciently: "No, love is not all you need. Humanity will die in the flood it has doomed itself to in its short-sightedness."
 
 <small>[736438083046932483](https://twitter.com/izs/status/736438083046932483)</small>
-"Theme from Flood" also sets the standard for the rest of the album musically.  
-This will not be a jingle over 3 chords.  
+"Theme from Flood" also sets the standard for the rest of the album musically.
+This will not be a jingle over 3 chords.
 This is orchestral.
 
 <small>[736438292103630849](https://twitter.com/izs/status/736438292103630849)</small>
@@ -61,7 +61,7 @@ As the majesty and grandeur of that final choral crescendo fades out, we meet th
 "I’m your only friend, I’m not your only friend, but I’m a little glowing friend, but really, I’m not actually your friend, but I am"
 
 <small>[736441344718045184](https://twitter.com/izs/status/736441344718045184)</small>
-The self-contradiction is characteristicly cute wordsmithery, but also, it balances Theme’s crescendo with the deep insecurity of parenthood
+The self-contradiction is characteristically cute wordsmithery, but also, it balances Theme’s crescendo with the deep insecurity of parenthood
 
 <small>[736441587194986496](https://twitter.com/izs/status/736441587194986496)</small>
 After the overwhelming chorus’s exit, John’s voice seems especially unsure of itself, tiptoeing into the song both musically and lyrically.
@@ -412,7 +412,7 @@ There’s two ways to read this:
 Literally, the narrator is either dead and thus unable to fulfill his yet-unmet desires, or is now groceries, which do not have desires.
 
 <small>[737167081704038402](https://twitter.com/izs/status/737167081704038402)</small>
-But figuratively, this "damed if you do" construction inches close to being reminiscent of Hamlet’s "slings and arrows" soliloquy
+But figuratively, this "damned if you do" construction inches close to being reminiscent of Hamlet’s "slings and arrows" soliloquy
 
 <small>[737167245294469120](https://twitter.com/izs/status/737167245294469120)</small>
 Either I die leaving stuff undone, or I stay alive, and don’t really want to do anything.

@@ -142,7 +142,7 @@ way to handle transitive dependencies except via unfinished objects.</p>
 <p>Clearly, the problems with the current state of JavaScript modules
 cannot be solved with zero changes to the language.  Some cannot be
 changed without adding syntax.  However, every change carries with it a
-cost.  Therefor, it seems like the ideal approach is to try to find the
+cost.  Therefore, it seems like the ideal approach is to try to find the
 minimum possible change that will address the issues &ndash; and, we ought to
 be ruthless on which bits of functionality don&rsquo;t make the cut to be
 worth the risk.  If we can get away with a much smaller fix by refusing

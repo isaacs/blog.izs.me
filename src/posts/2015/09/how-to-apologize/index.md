@@ -81,7 +81,7 @@ extent of what we’re doing about it.)</li>
 apologize, but if not, then we don’t.  (For example, &ldquo;we apologize
 <em>if</em> this caused you <em>any</em> inconvenience&rdquo; vs &ldquo;we apologize for the
 inconvenience&rdquo;.)</li>
-<li>HOW AWEFUL ARE WE!  WOE, WOE UNTO US UNWORTHY SOULS WHO HAVE
+<li>HOW AWFUL ARE WE!  WOE, WOE UNTO US UNWORTHY SOULS WHO HAVE
 BESMIRCHED THE GOOD GRACES AND LEGACY OF YOUR TRUST AND GOODWILL!
 I HEAP DIRT UPON MYSELF, YOUR GRACE! SHAME! SHAME! I KISS THE HEMS
 OF YOUR GARMENTS, KNOWING THAT I AM UNWORTHY OF ANY &ndash; well, you

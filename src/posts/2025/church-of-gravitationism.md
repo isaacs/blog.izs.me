@@ -57,7 +57,7 @@ Our Lady Gravity is quite different from all of these. Her effect
 is much gentler; it can be temporarily overcome merely by the
 legs of a child who jumps into the air. But, that effect is
 always strictly in one direction. She never pushes; She _only_
-pulls. And Her reach is inifinte. She binds the entire universe
+pulls. And Her reach is infinite. She binds the entire universe
 together in the gossamer filaments of Her mysterious will.
 
 She is responsible for the shape and motion of the largest

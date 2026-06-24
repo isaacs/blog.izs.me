@@ -28,7 +28,7 @@ via:
 19:08 isaacs: If you look into this for next JSConf, npm will sponsor it.
 19:10 isaacs: we'll probably sponsor anyway, of course :)  but i mean, having CARTs
               in the talks is something that I'd personally want to try to help make
-              happen, so if there's anythign I can do to help with that specifically,
+              happen, so if there's anything I can do to help with that specifically,
               i'd love to chat about it
 19:10 isaacs: no rush, no reply necessary.  just keep in mind for next year :)
               thanks again for helping us be a part of it.</pre>

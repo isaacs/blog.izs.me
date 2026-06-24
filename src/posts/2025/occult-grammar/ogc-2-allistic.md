@@ -5,7 +5,7 @@ title: Allistic Communication
 tags:
   - autism
   - allism
-  - communciation
+  - communication
   - occult grammar
   - the quiet part out loud
   - philosophy

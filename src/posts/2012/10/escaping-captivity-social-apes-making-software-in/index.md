@@ -88,7 +88,7 @@ type: text
 
 <p>And, since you had a surplus of food, you could trade it with other groups.  Trade meant that we needed a way to write stuff down, which led to writing down our stories that were previously only oral traditions, and this in general led to an explosion in the amount of technology, since each generation could more effectively build on what the previous generation had done.  However</p>
 
-<p><a href="#ec-slide-014"><img width="100%" alt="Agriculture Negs: More calories, but less nutrition  Population density → disease (zoological pathogens! yum!)  Inheritance → Heirarchical Ruling Class" title="Agriculture Negs: More calories, but less nutrition  Population density → disease (zoological pathogens! yum!)  Inheritance → Heirarchical Ruling Class" src="./escaping-captivity.013.png" id="ec-slide-013"/></a></p>
+<p><a href="#ec-slide-014"><img width="100%" alt="Agriculture Negs: More calories, but less nutrition  Population density → disease (zoological pathogens! yum!)  Inheritance → Hierarchical Ruling Class" title="Agriculture Negs: More calories, but less nutrition  Population density → disease (zoological pathogens! yum!)  Inheritance → Hierarchical Ruling Class" src="./escaping-captivity.013.png" id="ec-slide-013"/></a></p>
 
 <p>However, not all was wonderful in early farming societies, and in fact, there were a lot of problems.</p>
 

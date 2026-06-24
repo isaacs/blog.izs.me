@@ -26,7 +26,7 @@ date: 2024-02-21T17:52:40.320Z
 * set in their ways
 * lazy
 * a workaholic
-* not a fan of florescent lighting
+* not a fan of flourescent lighting
 * bothered by polyester
 * a picky eater
 * a nerd

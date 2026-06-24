@@ -20,7 +20,7 @@ type: text
 
 <p>Enjoy using wireless on battery power, <abbr title="MacBook Pro">MBP</abbr> lovers!</p>
 
-<p><strong>Like it says in the script:</strong> I make <strong>NO</strong> gaurantees about the quality or reliability of this code.  It worked for me, but it might make your machine explode.  <strong class="warning">Use at your own risk!</strong></p>
+<p><strong>Like it says in the script:</strong> I make <strong>NO</strong> guarantees about the quality or reliability of this code.  It worked for me, but it might make your machine explode.  <strong class="warning">Use at your own risk!</strong></p>
 
 <h3>Edit</h3>
 

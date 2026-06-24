@@ -238,7 +238,7 @@ justification must be misguided.</li>
 </ol><p>If you have some vegan friends, and some friends on the paleo diet, and
 feel like watching some fireworks, ask them in each others company why
 they eat the way that they do.  No matter how polite they try to be,
-each will <em>subconsiously</em> perceive the statements of the other as an
+each will <em>subconsciously</em> perceive the statements of the other as an
 attack, and feel the need to defend their position.  If they are wise
 enough to retreat from needing to <em>convince</em> the other, they&rsquo;ll most
 likely at least make a big show about &ldquo;agreeing to disagree&rdquo;.

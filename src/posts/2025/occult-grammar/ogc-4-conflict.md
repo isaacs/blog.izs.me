@@ -5,7 +5,7 @@ title: Conflict Between Neurotypes
 tags:
   - autism
   - allism
-  - communciation
+  - communication
   - occult grammar
   - the quiet part out loud
   - philosophy
@@ -180,7 +180,7 @@ status-neutral act of care and consideration.
 
 In autistic communication, symbols carry the meaning that they
 are assigned, either for use within a specific context (for
-example, jargon or techical terms) or more broadly, using a
+example, jargon or technical terms) or more broadly, using a
 conventional definition. These meanings can be negated, flipped
 around, or assembled, according to fairly well defined
 grammatical rules that make up the language.

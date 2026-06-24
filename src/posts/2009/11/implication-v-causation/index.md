@@ -16,7 +16,7 @@ type: chat
 | **isaaczschlueter** | let D = "gets a divorce" |
 | **isaaczschlueter** | all D is M |
 | **isaaczschlueter** | not all M is D |
-| **isaaczschlueter** | therefor D → M |
+| **isaaczschlueter** | therefore D → M |
 | **isaaczschlueter** | divorce is the leading cause of marriage! |
 | **replicantkitty** | implication ≠ causation |
 | **isaaczschlueter** | that's the joke. |

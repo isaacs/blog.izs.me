@@ -50,9 +50,9 @@ community. JavaScript being what it is, of course, we do
 everything in every _possible_ way, with several different
 implementations of each.
 
-The most common complaint about JavaScript is the embarassment of
-riches in open source tooling options, that it moves too fast and
-there are too many choices. For a language that is both
+The most common complaint about JavaScript is the embarrassment
+of riches in open source tooling options, that it moves too fast
+and there are too many choices. For a language that is both
 functional and object oriented, running on such a wide array of
 environments, with the more developers than any other language by
 a wide margin, this should be no surprise.

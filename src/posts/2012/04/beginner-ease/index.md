@@ -14,7 +14,7 @@ type: text
 
 <p>In my experience, most people spend a short time being a beginner, and then a long time being experts. By the nature of the time spent in each state, there will tend to be more experts than beginners, just as there are typically more adults than children. You certainly wouldn&rsquo;t suggest that cars should be illegal simply because it takes so many years for a child to learn to drive responsibly!</p>
 
-<p>Therefor, for me at least, it seems better to optimize to minimize the mistakes that experts continue to make, and use patterns that will be the most convenient for experts to maintain.</p>
+<p>Therefore, for me at least, it seems better to optimize to minimize the mistakes that experts continue to make, and use patterns that will be the most convenient for experts to maintain.</p>
 
 <p>And becoming an expert is not so hard, really. It just takes a thousand hours or so of JavaScript use (assuming that the person already is a decent programmer in some other language). It&rsquo;s a lot easier than becoming a competent dentist or hairdresser or lawyer, and there are plenty of dentists and hairdressers and lawyers.</p>
 

@@ -5,7 +5,7 @@ slug: ogc-1-what-is-occult-grammar
 tags:
   - autism
   - allism
-  - communciation
+  - communication
   - occult grammar
   - the quiet part out loud
   - philosophy
@@ -239,13 +239,13 @@ Cluster A and B Personality Disorders, which involve
 social/emotional divergence from the societal norm.
 
 However, the divergence between autistic and allistic norms are
-so significant that they appear to comprise a signficant majority
-of the "social deficits" associated with ASD. We simply do not
-interpret or formulate utterances according to the same rules as
-the allistic majority. And when asked, the allistic people in our
-life genuinely cannot explain what those rules even are. Both
-sides are left waving their hands in exasperation at the other's
-obstinate inscrutability.
+so significant that they appear to comprise a significant
+majority of the "social deficits" associated with ASD. We simply
+do not interpret or formulate utterances according to the same
+rules as the allistic majority. And when asked, the allistic
+people in our life genuinely cannot explain what those rules even
+are. Both sides are left waving their hands in exasperation at
+the other's obstinate inscrutability.
 
 It is clear upon investigation that the divergence between
 allistic occult grammar and autistic occult grammar are at least

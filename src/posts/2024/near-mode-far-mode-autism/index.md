@@ -429,7 +429,7 @@ more effectively.
    it, and they were hurt and angry, called you uncaring. Is it
    possible that you were acting from a far mode thinking style,
    while they were bringing you a near mode concern? What would
-   it have been like to be in near mode in that sitation?
+   it have been like to be in near mode in that situation?
 
    On the flip side, identify those situations which are a Very
    Big Deal, and no one around you seems to care as much as they
