@@ -15,10 +15,10 @@ Then a few hours where it sits on the counter.
 
 Then like 5-10 minutes of actual cooking.
 
-## Ingredients:
+## Ingredients
 
 - A very thick extremely marbled ribeye. This technique can be
-  adapted to other highly-marbled / medium-toughness cuts of
+  adapted to other highly-marbled/medium-toughness cuts of
   meat, such as certain porkchops, but if it's not very marbled
   (like filet mignon), high-toughness (like flank steak or chuck)
   then it will be a Bad Time. The thing to look for is lots of
@@ -46,17 +46,17 @@ it with oil or butter before the air dry phase.
   between plating and eating, not optional)
 - A good pan (ie, not cast iron)
 
-The ideal pan is high conductivity (vertically and laterally) and
-high heat retention. Contrary to popular belief, cast iron is
-*not* best for searing, in fact, it's one of the worst, because
-its lateral heat conductivity is absolute shit. Delusional cast
-iron stans will insist that it "holds a lot of heat" and that's
-why it takes a long time to preheat; in fact, it's just very hard
-to get plain old iron atoms excited (compared with basically
-_any_ other metal frying pans are made of, including extremely
-cheap flimsy stainless steel) and iron is so conductive that it
-loses heat almost immediately. So you get like 15 seconds of
-intense searing, and then it's lukewarm.
+The ideal pan is high conductivity (vertically and laterally).
+Contrary to popular belief, cast iron is *not* best for searing,
+in fact, it's one of the worst, because its lateral heat
+conductivity is absolute shit. Delusional cast iron stans will
+insist that it "holds a lot of heat" and that's why it takes a
+long time to preheat; in fact, it's just very hard to get plain
+old iron atoms excited (compared with basically _any_ other metal
+frying pans are made of, including extremely cheap flimsy
+stainless steel) and iron is so conductive that it loses heat
+almost immediately. So you get like 15 seconds of intense
+searing, and then it's lukewarm.
 
 The best pan is either a thin carbon steel pan, or an aluminum
 core stainless steel or anodized pan. (Or if you want to spend
