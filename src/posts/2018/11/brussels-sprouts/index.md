@@ -5,6 +5,7 @@ slug: brussels-sprouts
 tags:
   - brussels sprouts
   - correct recipes
+  - recipe
   - please stop drowning your sprouts
   - no bacon no cream no seriously
   - i am not joking brussels sprouts actually taste good just stop abusing them
