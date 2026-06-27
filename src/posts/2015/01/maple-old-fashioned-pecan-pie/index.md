@@ -5,6 +5,8 @@ slug: maple-old-fashioned-pecan-pie
 title: Maple Old Fashioned Pecan Pie
 tumblrid: 106836187798
 type: text
+tags:
+  - recipe
 ---
 <p><img src="https://pbs.twimg.com/media/B6TFsJvCIAAsKEn.jpg:large" alt="pecan pie" width="100%"/></p>
 
