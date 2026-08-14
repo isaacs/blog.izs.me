@@ -173,16 +173,16 @@ freedom, independence, and clarity, also known as ["negative
 face"](https://en.wikipedia.org/wiki/Politeness_theory). While
 gifts may be given, it's understood that a gift might miss the
 mark. Thus, gifts confer little to no obligation on the part of
-the receiver, and it's often better to assume someone doesn't
-want help if they haven't asked for it. You ask for what you
-want, you might get a "no", and that's fine. If someone hasn't
-asked, it's safe to assume they don't want something. If someone
+the receiver. You ask for what you want, you might get a "no",
+and that's fine. If someone hasn't asked, it's safe to assume
+they don't want something (or at least, haven't thought of it,
+and might either accept or turn it down if offered). If someone
 asks for something you don't want to give, you can say "no" and
 neither has lost any social capital.
 
 Within a "guess" culture, on the other hand, "positive face" is
-given higher importance, and denying a request is seen as
-a personal rejection. Therefore, it's very important to try to
+given higher importance, and denying a request is seen as a
+personal rejection. Therefore, it's very important to try to
 _avoid_ situations that might result in someone having to turn
 down a request, as they are unlikely to do so, even if meeting
 the request breeds resentment. Guess cultures place a high
@@ -195,8 +195,8 @@ turn down the request, which could cause conflict.
 Even though both parties might be native English speakers, a
 person from an ask culture person and another from a guess
 culture will approach social interactions with a different occult
-grammar of communication. The ask culture adherent will seem pushy
-and demanding, whereas the guess culture adherent will seem
+grammar of communication. The ask culture native will seem pushy
+and demanding, whereas the guess culture native will seem
 passive-aggressive and inscrutable. When they attempt to explain
 themselves to one another, the confusion will only tend to
 deepen, because though they are using the same words, their
