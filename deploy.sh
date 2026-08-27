@@ -13,6 +13,13 @@ if ! [ "$(git branch | grep \*)" = "* main" ]; then
   exit 0
 fi
 
+# move drafts out of the way so they don't get published
+rm -rf .drafts
+mv src/drafts ./.drafts
+
+npm run build
 netlify deploy --prod
+
+mv .drafts src/drafts
 
 git push origin main
