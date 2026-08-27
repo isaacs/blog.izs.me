@@ -17,6 +17,7 @@ fi
 rm -rf .drafts
 mv src/drafts ./.drafts
 
+rm -rf _site
 npm run build
 netlify deploy --prod
 
