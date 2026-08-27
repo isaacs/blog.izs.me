@@ -6,9 +6,9 @@ tags:
   - humaning
 ---
 
-_This was originally part of the npm, Inc. handbook, a set of
-documents defining how we ran the company. I often want to refer
-to it, but it apparently exists nowhere else online, so I'm
+_I originally wrote this as part of the npm, Inc. handbook, a set
+of documents defining how we ran the company. I often want to
+refer to it, but it apparently exists nowhere else online, so I'm
 publishing it here._
 
 ---
