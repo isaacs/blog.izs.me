@@ -11,9 +11,10 @@ of documents defining how we ran the company. I often want to
 refer to it, but it apparently exists nowhere else online, so I'm
 publishing it here._
 
----
+_It probably should've been called "The 5-Point Plan", but idk,
+for some reason "request" stuck._
 
-# The 5-Point Request
+---
 
 There are 5 elements to a project or request.  Without these 5
 elements, the chance of successfully meeting the request is much
