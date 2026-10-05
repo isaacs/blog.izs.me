@@ -40,5 +40,12 @@
   },
   "devDependencies": {
     "netlify-cli": "^23.13.5"
+  },
+  "allowScripts": {
+    "netlify-cli@23.13.5": true,
+    "sharp": true,
+    "unix-dgram": true,
+    "@parcel/watcher": true,
+    "esbuild": true
   }
 }
