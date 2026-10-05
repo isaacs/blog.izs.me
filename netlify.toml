@@ -55,6 +55,18 @@
   for = "/2021"
   [headers.values]
     Cache-Control = "public, max-age=7776000"
+[[headers]]
+  for = "/2022"
+  [headers.values]
+    Cache-Control = "public, max-age=7776000"
+[[headers]]
+  for = "/2023"
+  [headers.values]
+    Cache-Control = "public, max-age=7776000"
+[[headers]]
+  for = "/2024"
+  [headers.values]
+    Cache-Control = "public, max-age=7776000"
 
 # recent posts, cache 1 day
 [[headers]]
