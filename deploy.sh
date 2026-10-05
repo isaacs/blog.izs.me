@@ -24,7 +24,7 @@ mv src/drafts ./.drafts
 
 rm -rf _site
 npm run build
-netlify deploy --prod
+netlify deploy --prod --no-build
 
 mv .drafts src/drafts
 
