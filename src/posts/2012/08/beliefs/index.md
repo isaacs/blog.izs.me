@@ -17,3 +17,5 @@ type: text
 <p><strong>Don&rsquo;t believe everything you say.</strong> This is the hardest of all.  Our past selves hold our integrity hostage.  Do not negotiate with terrorists.  Shoot the hostage.</p>
 
 <p>Every belief must pay rent, constantly, or be evicted.</p>
+
+<p><strong>Don&rsquo;t believe everything you believe.</strong></p>
